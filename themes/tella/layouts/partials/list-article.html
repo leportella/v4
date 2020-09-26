@@ -1,0 +1,12 @@
+<article class="card mb-4">
+    <header class="card-header">
+        <div class="card-meta">
+            <a href="#"><time class="timeago" datetime="2019-10-26 20:00">{{ dateFormat "02 January 2006" .Date }}</time></a> in <a href="page-category.html">Journey</a>
+        </div>
+        <a href="{{ .RelPermalink }}"><h4 class="card-title">{{ .Title }}</h4></a>
+    </header>
+    <a href="{{ .RelPermalink }}"><img class="card-img" src="/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg" alt="" /></a>
+    <div class="card-body">
+        <p class="card-text">{{ .Summary }}</p>
+    </div>
+</article>

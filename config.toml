@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "tella"
+
+[permalinks]
+posts = "/:slug/"
+
+[markup]
+[markup.tableOfContents]
+endLevel = 2
+ordered = true
+startLevel = 2

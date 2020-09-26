@@ -1,0 +1,22 @@
+@import "app";
+
+h2 {
+    margin: 1.5em 0 1em 0;
+}
+h3 {
+    margin: 1em 0;
+}
+
+.page-title {
+    margin-bottom: 1.3em; 
+}
+
+#TableOfContents ol {
+    list-style-position: inside;
+    padding: 0;
+}
+
+#TableOfContents ol li {
+    margin-bottom: 0.5em;
+    color: #0087ff;
+}
