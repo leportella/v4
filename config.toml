@@ -21,3 +21,21 @@ startLevel = 2
     title = "Meu blog"
     weight = 2
     contentDir = "content/pt-br"
+
+[menu]
+[[menu.left]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.left]]
+identifier = "blog"
+name = "🇧🇷 Em Português"
+url = "/pt-br/"
+weight = 2
+
+[[menu.right]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 1
