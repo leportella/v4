@@ -17,10 +17,18 @@ startLevel = 2
     title = "My blog"
     weight = 1
     contentDir = "content/en"
+    languageName = "English"
+    [languages.en.params]
+        readin = "Read in"
+        flag = "🇮🇪"
   [languages.pt-br]
     title = "Meu blog"
     weight = 2
     contentDir = "content/pt-br"
+    languageName = "Português"
+        [languages.pt-br.params]
+        readin = "Leia em"
+        flag = "🇧🇷"
 
 [menu]
 [[menu.left]]

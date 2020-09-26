@@ -20,3 +20,16 @@ h3 {
     margin-bottom: 0.5em;
     color: #0087ff;
 }
+
+.language-separator {
+    margin: 0 1em;
+}
+
+@media (max-width: 575.98px) {
+    .language-separator {
+        display: block;
+    }
+    .page-date {
+        margin-bottom: 1em;
+    }
+}
