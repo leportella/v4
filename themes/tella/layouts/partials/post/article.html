@@ -1,8 +1,14 @@
 <article class="card mb-4">
   <header class="card-header text-center">
-    <div class="card-meta">
-      <a href="#"><time class="timeago" datetime="2019-10-26 20:00">26 october 2019</time></a> in <a
-        href="page-category.html">Journey</a>
+    <div class="card-meta page-date">
+      <a href="#"><time class="timeago" datetime="2019-10-26 20:00">26 october 2019</time></a> in
+      <a href="page-category.html">Journey</a>
+      {{ if .Translations }}
+        <span class="language-separator">●</span>
+        {{ range first 1 .Translations }}
+          <a hreflang="{{ .Language.Lang }}" href="{{ .RelPermalink }}">{{ .Param "flag" }} {{ .Param "readin" }} {{ .Language.LanguageName }}</a>
+        {{ end }}
+      {{ end }}
     </div>
     <h1 class="card-title page-title">{{ .Title }}</h1>
   </header>
