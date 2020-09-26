@@ -40,8 +40,8 @@ tags:
 featured-img: idea
 permalink: matlab-para-python.html
 redirect_from: /pt-br/2017/05/06/10-dicas-matlab-para-python.html
-date: 2017-03-09T14:25:52-05:00
-translation: /matlab-to-python.html
+date: 2017-05-06T14:25:52-05:00
+translationKey: matlab-to-python
 ---
 
 Eu comecei estudar lógica de programação quando me deparei com problemas que me exigiam conhecimento em Matlab. Depois de um tempo estudando Matlab me sugeriram trocar para o Python pela sua facilidade, simplicidade e por poder ser aplicado a inúmeras áreas (além de ser gratuito).

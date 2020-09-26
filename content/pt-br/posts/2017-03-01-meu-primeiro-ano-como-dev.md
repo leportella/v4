@@ -36,8 +36,8 @@ tags:
 featured-img: django_girls
 permalink: primeiro-ano-dev.html
 redirect_from: /pt-br/2017/03/01/meu-primeiro-ano-como-dev.html
-date: 2017-03-09T14:25:52-05:00
-translation: /first-year-as-dev.html 
+date: 2017-03-01T14:25:52-05:00
+translationKey: first-year-as-dev 
 ---
 
 Há um ano eu começava meu novo emprego como desenvolvedora backend em Python. 

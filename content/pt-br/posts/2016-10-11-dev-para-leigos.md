@@ -38,8 +38,8 @@ tags:
 featured-img: apple
 permalink: dev-para-leigos.html
 redirect_from: /pt-br/2016/10/11/dev-para-leigos.html
-translation: /dev-for-dummies.html
-date: 2017-03-09T14:25:52-05:00
+translationKey: dev-for-dummies
+date: 2016-10-11T14:25:52-05:00
 ---
 
 Há uns meses atrás, decidi largar minha carreira em oceanografia e virar backend em python como eu contei [aqui](http://leportella.com/community/2016/03/13/de-oceanografa-para-programadora.html). 

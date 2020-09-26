@@ -51,7 +51,7 @@ featured-img: bookcase
 permalink: sqlalchemy-tutorial.html
 redirect_from: /english/2019/01/10/sqlalchemy-basics-tutorial.html
 date: 2019-01-10T21:55:52-05:00
-translation: /tutorial-basico-sqlalchemy.html
+translationKey: sqlalchemy-tutorial
 ---
 
 [I've been working with Project Jupyter since December of last year]({{base}}/outreachy-I.html) and it has been a wonderful experience. The last couple of days I struggled with the SQLAlchemy library that [JupyterHub](https://github.com/jupyterhub/jupyterhub) works on its internals. Since I studied this library and had to scratch some [Stack Overflow](http://stackoverflow.com/) questions to find some answers, I created this post to help digesting some of my doubts and findings.

@@ -38,7 +38,7 @@ tags:
 featured-img: women-tech
 permalink: generos-e-prioridades.html
 redirect_from: /pt-br/2018/03/15/mulheres-ti-carreira-prioridades.html
-date: 2017-03-09T14:25:52-05:00
+date: 2018-03-15T14:25:52-05:00
 ---
 
 Já está disponível a pesquisa versão 2018 de desenvolvedores do [Stack Overflow](https://stackoverflow.com/), nosso site amado de dúvidas <3. Todo ano, o Stack Overflow faz uma pesquisa

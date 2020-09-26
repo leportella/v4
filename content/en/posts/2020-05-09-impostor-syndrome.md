@@ -53,7 +53,7 @@ tags:
 featured-img: alone
 has_tweet: true
 permalink: impostor-syndrome.html
-translation: sindrome-impostora.html
+translationKey: impostor-syndrome
 date: 2020-05-09T18:25:52-05:00
 ---
 

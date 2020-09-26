@@ -39,9 +39,9 @@ tags:
   - computer science
 featured-img: open
 permalink: open-source-without-code.html
-translation: open-source-sem-codigo.html
+translationKey: open-source-without-code
 redirect_from: /english/2018/03/20/how-to-contribute-to-open-source.html
-date: 2017-03-09T14:25:52-05:00
+date: 2018-03-20T14:25:52-05:00
 ---
 
 **Disclaimer: In an old post, I talked about how frustrating it was writing documentation for 3 whole months. 

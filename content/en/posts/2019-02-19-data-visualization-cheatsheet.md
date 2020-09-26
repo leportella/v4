@@ -48,7 +48,7 @@ tags:
 featured-img: dataviz
 permalink: cheatsheet-data-visualization.html
 redirect_from: /cheatlist/2019/02/19/data-visualization-cheatsheet.html
-date: 2019-02-18T14:25:52-05:00
+date: 2019-02-19T14:25:52-05:00
 ---
 
 

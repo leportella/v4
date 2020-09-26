@@ -55,8 +55,8 @@ tags:
 featured-img: woman-tech
 permalink: ambicious-women.html
 redirect_from: /english/2017/04/19/ambicious-women.html
-date: 2017-03-09T14:25:52-05:00
-translation: /mulheres-ambiciosas.html
+date: 2017-04-19T14:25:52-05:00
+translationKey: ambicious-women
 ---
 
 The lovely Pyladies-Salvador asked for a text to debut their blog and told me that they would publish it on Women’s Day. I reflected a lot on what to write, what I could somehow add to that day that has so much meaning, and decided that I would like to talk to you about **ambition**. **How ambitious do you consider yourself**?

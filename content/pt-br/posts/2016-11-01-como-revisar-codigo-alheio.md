@@ -36,8 +36,8 @@ tags:
 featured-img: feedback
 permalink: revisar-codigo.html
 redirect_from: /pt-br/2016/11/01/como-revisar-codigo-alheio.html
-date: 2017-03-09T14:25:52-05:00
-translation: /review-code.html
+date: 2016-11-01T14:25:52-05:00
+translationKey: review-code
 ---
 
 Revisar código é uma tarefa complicada e pode se tornar bastante desesperadora, especialmente quando você não tem ideia de como fazer isso. Entretanto, a revisão de código pode ser uma ferramenta poderosa para aumentar a qualidade do seu código e garantir deploys “saudáveis”.

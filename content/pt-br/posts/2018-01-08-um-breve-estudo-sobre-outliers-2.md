@@ -36,7 +36,7 @@ tags:
   - no cs degree
   - cs
   - computer science
-date: 2018-08-01T13:25:52-05:00
+date: 2018-01-08T13:25:52-05:00
 featured-img: outlier
 permalink: outliers-II.html
 redirect_from: /pt-br/2018/01/08/um-breve-estudo-sobre-outliers-2.html

@@ -57,7 +57,7 @@ featured-img: stripe
 permalink: new-eng-stripe.html
 redirect_from: /english/2019/12/06/new-eng-stripe.html
 date: 2019-12-06T18:25:52-05:00
-translation: /nova-eng-stripe.html
+translationKey: new-eng-stripe
 ---
 
 Being a software engineer at a new company—anywhere—is hard. The codebase is completely new, you have to adapt to new patterns (for both code and culture) and most likely the problem space is completely new to you too. 

@@ -38,7 +38,7 @@ tags:
 featured-img: mountain
 permalink: conto-da-montanha.html
 redirect_from: /pt-br/2017/10/28/um-conto-da-montanha.html
-date: 2017-03-09T14:25:52-05:00
+date: 2017-03-28T14:25:52-05:00
 ---
 
 Existem pessoas que conseguem tocar piano maravilhosamente bem enquanto outras não conseguem nem bater palmas no ritmo (eu). Existem pessoas que conseguem se expressar bem e pessoas que não conseguem lidar com os inúmeros pensamentos que fluem pelo cérebro. Existem inteligências múltiplas.

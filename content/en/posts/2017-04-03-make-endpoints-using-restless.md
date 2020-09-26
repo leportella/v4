@@ -34,7 +34,7 @@ tags:
 featured-img: rest
 permalink: restless.html
 redirect_from: /english/2017/04/03/make-endpoints-using-restless.html
-date: 2017-03-09T14:25:52-05:00
+date: 2017-04-03T14:25:52-05:00
 ---
 
 Most of all Django tutorials teach us how to return HTML as response to a request. Sometimes, it is useful to make it a little more RESTful. 

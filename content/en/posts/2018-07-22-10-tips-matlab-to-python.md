@@ -40,8 +40,8 @@ tags:
 featured-img: idea
 permalink: matlab-to-python.html
 redirect_from: /english/2018/07/22/10-tips-matlab-to-python.html
-date: 2018-07-27T14:25:52-05:00
-translation: /matlab-para-python.html
+date: 2018-07-22T14:25:52-05:00
+translationKey: matlab-to-python
 ---
 
 I started to study programming logic when I came across problems that required knowledge in Matlab. 

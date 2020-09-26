@@ -38,7 +38,7 @@ tags:
 featured-img: chimp
 permalink: wrong-career-advises.html
 redirect_from: /english/2016/05/11/are-we-getting0the-wrong-career-advises.html
-date: 2017-03-09T14:25:52-05:00
+date: 2016-05-11T14:25:52-05:00
 ---
 
 I just watched an [awesome lecture](https://www.youtube.com/watch?v=ybVkNRdb6hE&feature=youtu.be) about how to have a five-digit salary in Brazil by Bruno Ticami (Python Brazil 2013). Here are some questions and advises that he talked about:

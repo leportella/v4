@@ -39,7 +39,7 @@ tags:
 featured-img: outlier
 permalink: outliers-I.html
 redirect_from: /pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html
-date: 2018-08-01T13:25:52-05:00
+date: 2018-01-08T13:25:52-05:00
 ---
 
 Nas últimas semanas tenho me dedicado a estudar e entender melhor sobre dados anômalos ou *outliers* em séries de dados. 

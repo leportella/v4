@@ -57,7 +57,7 @@ featured-img: blog
 permalink: minha-experiencia-com-blogs.html
 redirect_from: /pt-br/2019/02/09/minha-experiencia-com-blogs.html
 date: 2019-02-09T14:25:52-05:00
-translation: /my-experience-with-blogs.html
+translationKey: my-experience-with-blogs
 ---
 
 Escrever é uma boa maneira de se desenvolver na carreira. Você consegue se aprofundar em conteúdos que está estudando, consegue gerar material para pessoas que podem estar precisando e é uma boa maneira de gerar visibilidade (pensando em empregos futuros). Uma vez que você decidiu começar um blog novo, vem uma dúvida: aonde postar esse conteúdo?

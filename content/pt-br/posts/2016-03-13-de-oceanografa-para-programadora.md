@@ -35,8 +35,8 @@ tags:
 featured-img: oceanographer
 permalink: de-oceanografa-para-programadora.html
 redirect_from: /pt-br/2016/03/13/de-oceanografa-para-programadora.html
-date: 2017-03-09T14:25:52-05:00
-translation: /from-oceanographer-to-programmer.html
+date: 2016-03-13T14:25:52-05:00
+translationKey: from-oceanographer-to-programmer
 ---
 
 Nesta semana me pediram pra contar um pouco sobre como eu virei programadora (ou pelo menos estou no processo). Eu escrevi esse texto para contar um pouco mais sobre essa história.

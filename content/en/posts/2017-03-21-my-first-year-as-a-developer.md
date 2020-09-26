@@ -32,11 +32,11 @@ tags:
   - desenvolvimento
   - auto-ensino
   - self-taught engineer
-date: 2017-03-09T14:25:52-05:00
+date: 2017-03-21T14:25:52-05:00
 permalink: first-year-as-dev.html 
 redirect_from: /english/2017/03/21/my-first-year-as-a-developer.html
 featured-img: django_girls
-translation: /primeiro-ano-dev.html
+translationKey: first-year-as-dev
 ---
 
 One year ago I started my new job as a Backend Python Developer. I have dropped a career, a profession and I almost drop my master degree. When everything happened, I think I didn’t understand the proportions that decision would have in my life. Now, one year later, I want to tell you a little bit about what happened this year.

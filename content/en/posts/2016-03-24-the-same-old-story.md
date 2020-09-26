@@ -39,7 +39,7 @@ tags:
 featured-img: board
 permalink: learning-code.html
 redirect_from: /english/2016/03/24/the-same-old-story.html
-date: 2017-03-09T14:25:52-05:00
+date: 2016-03-24T14:25:52-05:00
 ---
 
 Hello, everybody! :D

@@ -60,7 +60,7 @@ featured-img: stripe
 permalink: nova-eng-stripe.html
 redirect_from: /pt-br/2020/02/09/nova-eng-stripe.html
 date: 2020-02-09T18:25:52-05:00
-translation: /new-eng-stripe.html
+translationKey: new-eng-stripe
 ---
 
 Ser engenheira de software em uma nova empresa - em qualquer nova empresa - é sempre difícil. A base de código é completamente nova, você precisa se adaptar a novos padrões (tanto de código quanto culturais) e, provavelmente, o tipo de problema que você vai resolver também é completamente novo para você.

@@ -58,8 +58,8 @@ tags:
 featured-img: woman-tech
 permalink: mulheres-ambiciosas.html
 redirect_from: /pt-br/2017/04/08/mulheres-ambiciosas.html
-date: 2017-03-09T14:25:52-05:00
-translation: /ambicious-women.html
+date: 2017-04-08T14:25:52-05:00
+translationKey: ambicious-women
 ---
 
 As fofíssimas Pyladies Salvador pediram um texto para estrear o blog delas e me falaram que iam publicar esse texto no dia da mulher. 

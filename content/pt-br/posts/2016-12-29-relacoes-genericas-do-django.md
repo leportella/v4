@@ -42,8 +42,9 @@ tags:
 featured-img: comments
 permalink: relacoes-genericas-django.html
 redirect_from: /pt-br/2016/12/29/relacoes-genericas-do-django.html
-date: 2017-03-09T14:25:52-05:00
-translation: /generic-relations-django.html
+date: 2016-12-29T14:25:52-05:00
+last_modified: 2017-03-09T14:25:52-05:00
+translationKey: generic-relations-django
 ---
 
 

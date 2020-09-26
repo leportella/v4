@@ -42,7 +42,8 @@ tags:
 featured-img: panda
 permalink: cheatsheet-pandas.html
 redirect_from: /cheatlist/2017/11/22/pandas-cheat-list.html
-date: 2018-05-01T14:25:52-05:00
+date: 2017-11-22T14:25:52-05:00
+last_modified: 2018-05-01T14:25:52-05:00
 ---
 
 

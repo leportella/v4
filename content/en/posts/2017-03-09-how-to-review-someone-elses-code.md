@@ -48,7 +48,7 @@ featured-img: feedback
 permalink: review-code.html
 redirect_from: /english/2017/03/09/how-to-review-someone-elses-code.html
 date: 2017-03-09T14:25:52-05:00
-translation: /revisar-codigo.html
+translationKey: review-code
 ---
 
 Code review is a complicated task and can become overwhelming, specially when you have no idea how to do it.

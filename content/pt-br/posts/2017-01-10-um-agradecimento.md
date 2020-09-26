@@ -38,7 +38,7 @@ tags:
 featured-img: free
 permalink: agradecimento.html
 redirect_from: /pt-br/2017/01/10/um-agradecimento.html
-date: 2017-03-09T14:25:52-05:00
+date: 2017-01-10T14:25:52-05:00
 ---
 
 Escrevi esse texto há 3 anos atrás, quando falei para uma turma de formandas. Encontrei ele agora perdido nas minhas anotações e ele nunca me pareceu tão real quanto agora. Resolvi compartilhá-lo, pois tem um signficado especial pra mim s2.

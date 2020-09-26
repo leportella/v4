@@ -38,7 +38,7 @@ tags:
 featured-img: too-many-books
 permalink: too-much-info.html
 redirect_from: /english/2016/05/05/too-much-information.html
-date: 2017-03-09T14:25:52-05:00
+date: 2016-05-05 T14:25:52-05:00
 ---
 
 Hey!

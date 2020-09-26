@@ -39,8 +39,8 @@ tags:
 featured-img: apple
 permalink: dev-for-dummies.html
 redirect_from: /english/2016/12/29/dev-for-dummies.html
-translation: /dev-para-leigos.html
-date: 2017-03-09T14:25:52-05:00
+translationKey: dev-for-dummies
+date: 2016-12-29T14:25:52-05:00
 ---
 
 Few months ago I decided to drop my career as an oceanographer and decided to become a backend developer with Python, as I told some of you here. After my blog post circulates on the internet, 

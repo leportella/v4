@@ -55,8 +55,8 @@ tags:
 featured-img: alone
 has_tweet: true
 permalink: sindrome-impostora.html
-translation: impostor-syndrome.html
-date: 2020-05-09T18:25:52-05:00
+translationKey: impostor-syndrome
+date: 2020-06-19T18:25:52-05:00
 ---
 
 Com o passar dos anos eu desenvolvi uma metodologia para lidar com a minha síndrome de impostor nas diferentes escalas de tempo em que ela ocorre. Essa metodologia não é algo super complexo ou com uma profunda base teórica, mas funcionou para mim e me ajudou muito no último ano.

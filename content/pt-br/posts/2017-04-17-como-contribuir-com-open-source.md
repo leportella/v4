@@ -40,8 +40,8 @@ tags:
 featured-img: open
 permalink: open-source-sem-codigo.html
 redirect_from: /pt-br/2017/04/17/como-contribuir-com-open-source.html
-translation: open-source-without-code.html
-date: 2017-03-09T14:25:52-05:00
+translationKey: open-source-without-code
+date: 2017-04-17T14:25:52-05:00
 ---
 
 **Disclaimer: Em um post antigo, eu frizei como foi decepcionante escrever 3 meses de documentação. Entretanto, existem um ponto que deve ser abordado aqui: existem momentos para se escrever código e momentos para escrever documentação. Me frustrei ao só fazer isso o tempo todo durante um trabalho como programadora. Isso me gerou muito desconforto em escrever documentação durante um tempo. Eu consegui perceber eventualmente que uma boa documentação de código pode poupar tempo, trabalho e frustrações ao se desenvolver o projeto.**

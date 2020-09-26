@@ -62,7 +62,7 @@ featured-img: where-women
 permalink: mediocre-women.html
 redirect_from: /english/2020/02/14/mediocre-women.html
 date: 2020-02-14T18:25:52-05:00
-translation: /mulheres-mediocres.html
+translationKey: mediocre-women
 ---
 
 

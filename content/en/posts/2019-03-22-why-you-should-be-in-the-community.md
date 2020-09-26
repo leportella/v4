@@ -40,9 +40,9 @@ tags:
   - computer science
 featured-img: community
 permalink: why-you-should-be-in-communities.html
-translation: /comunidades-tecnologia.html
+translationKey: why-you-should-be-in-communities
 redirect_from: /english/2019/03/22/why-you-should-be-in-the-community.html
-date: 2019-03-21T18:25:52-05:00
+date: 2019-03-22T18:25:52-05:00
 ---
 
 My participation in technology communities over the last 3 years, lead me to notice that it's always tricky to show to companies which don’t interact with this technology ecosystem, how beneficial it is for them to get involved. Many people (developers or not) struggle within their companies, trying to show how much they could benefit from this. This concern increases when we are organizing an event. Sometimes it's a rather lonely fight, depending on where it's fought. 
