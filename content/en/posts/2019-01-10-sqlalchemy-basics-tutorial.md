@@ -61,19 +61,7 @@ Since this post became surprisingly long, I decided that the main problem I was 
 All code is available [here](https://github.com/leportella/sqlalchemy-basics-post/).
 
 
-## Summary
-
-* [Creating and understanding the Engine](#engine)
-* [Engine or connection?](#engine-connection)
-* [Creating and understanding Sessions](#sessions)
-* [Creating tables](#creating-tables)
-* [Adding new records](#add-records)
-* [Making queries](#queries)
-* [Creating new tables tables after initial create_all](#creating-tables-posterior)
-* [Creating a Foreign Key relationship](#foreign-key)
-
-
-<h2 id='engine'>Creating and understanding the Engine</h2>
+## Creating and understanding the Engine
 
 To start workin with SQLAlchemy, the first thing that they taught in the tutorials is to create an Engine. The Engine is how SQLAlchemy communicates with your database, so, when creating the Engine you should add your database (db) URL and that's basically it.
 
@@ -87,17 +75,17 @@ engine = create_engine('sqlite:///:memory:', echo=True)
 
 So, you are just telling where your database currently is located. The attribute `echo=True` will make SQLAlchemy to log all SQL commands it is doing while you apply commands. This should not be activated in production, ok?
 
-<center><img src="https://i.imgur.com/0gVcCUg.png" style="height:200px;"/></center>
+{{< figure src="https://i.imgur.com/0gVcCUg.png" width="200px">}}
 
 Once your engine knows your database, it is easy to execute commands on it by using a method called `engine.execute(...)`. You can see how this is done here:
 
-![](https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/engine_execute.gif)
+{{< figure src="https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/engine_execute.gif" width="450px">}}
 
 So you have a two way street: the Engine that knows where your db is and a method (`engine.execute(...)`) to change the db using the Engine:
 
-<center><img src="https://i.imgur.com/yjdhaTZ.png" style="height:200px;"/></center>
+{{< figure src="https://i.imgur.com/yjdhaTZ.png" width="200px">}}
 
-<h2 id='engine-connection'>Engine or connection?</h2>
+## Engine or connection?
 
 I also saw in some tutorials that you have another way of doing SQL commands through the `engine` by making a `connection` such as:
 
@@ -117,7 +105,7 @@ trans.commit()
 
 So, actually, the structure looks more like this now:
 
-<center><img src="https://i.imgur.com/Bcp1Zku.png" style="height:200px;"/></center>
+{{< figure src="https://i.imgur.com/Bcp1Zku.png" width="200px">}}
 
 
 However, looking more deeply [some answers](https://stackoverflow.com/a/34364247/3538098) about the differences between `engine.execute(...)` and `connection.execute(...)` I found that they are not different at all:
@@ -126,7 +114,7 @@ However, looking more deeply [some answers](https://stackoverflow.com/a/34364247
 
 So, feel free to use each one of those if you would like :)
 
-<h2 id='sessions'>Creating and understanding Sessions</h2>
+## Creating and understanding Sessions
 
 Until now we connected to our database and were able to execute commands through SQL statements. However, the thing that makes SQLAlchemy so attractive is its ORM, which was not discussed so far.
 
@@ -141,12 +129,13 @@ session = Session()
 
 So, you will use sessions to talk to your tables and make queries, but is the `engine` that is actually implementing things on your db.
 
-<center><img src="https://i.imgur.com/iqV59ky.png" style="height:300px;"/></center>
+{{< figure src="https://i.imgur.com/iqV59ky.png" width="300px">}}
+
 
 Although it seems confusing having three entities before even starting with our tables, most of the times after the initial setup you will use the `session` much more than the `engine` and `connection` will be done implicitly by the two firsts, ok?
 
 
-<h2 id='creating-tables'>Creating tables</h2>
+## Creating tables
 
 Now we want to create tables in our db to work with them and finally start to take a look at SQLAlchemy's ORM. To create new tables we will create classes that contain attributes. Each class will be a table in our db and each attribute will be a column in this table. To map which table in the db will be related to each class in our files, we will use a SQLAlchemy system called *Declarative*. To use this, the first thing we must do is to instantiate a `Base`:
 
@@ -182,10 +171,10 @@ Base.metadata.create_all(engine)
 
 This is when SQLAlchemy will actually do something in our database. Since we have the variable `echo` set to `True`, we can see exactly which SQL statement the `engine` actually did on the database:
 
-<center><img src="https://i.imgur.com/kU4Snpb.png" style="height:400px;"/></center>
+{{< figure src="https://i.imgur.com/kU4Snpb.png" width="400px">}}
 
 
-<h2 id='add-records'>Adding new records</h2>
+## Adding new records
 
 Now, we can use the class to create a new record on our database. We can user the `User` class to create a new user and `session.add(...)` to add the instance to our database.
 
@@ -209,7 +198,7 @@ or
 > `session.commit()` commits (persists) those changes to the database. `session.commit()` always calls for `session.flush()` as part of it.
 
 
-<h2 id='queries'>Making queries</h2>
+## Making queries
 
 Once we have our records on our database, we need to be able to find them :)
 
@@ -255,7 +244,7 @@ Product.find_by_name(session, 'John')
 ```
 
 
-<h2 id='creating-tables-posterior'>Creating new tables tables after initial create_all</h2>
+## Creating new tables tables after initial create_all
 
 On problem I bump into while I was working with [Project Jupyter](https://jupyter.org/) was that I needed to create a new table to a database and `engine` that already had a initial creation (the `Base.metadata.create_all(engine)`).
 
@@ -278,12 +267,11 @@ Product.__table__.create(engine)
 ```
 
 
-<h2 id='foreign-key'>Creating a Foreign Key relationship</h2>
+## Creating a Foreign Key relationship
 
 Imagine that you would like to connect each product to a user in your system. So, in each instance of `Product` you would like to store an instance of `User`:
 
-
-<center><img src="https://i.imgur.com/BJqWSMj.png" style="height:350px;"/></center>
+{{< figure src="https://i.imgur.com/BJqWSMj.png" width="350px">}}
 
 If you you are creating all tables now, you should add a Column on your `Product` class that references the Foreign Key of the user and a relationship with the `User` class:
 
@@ -329,4 +317,4 @@ session.commit()
 
 And that's it :)
 
-<center><img src="https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif"/></center>
+{{< figure src="https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif">}}
