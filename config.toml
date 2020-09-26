@@ -17,10 +17,18 @@ startLevel = 2
     title = "My blog"
     weight = 1
     contentDir = "content/en"
+      [languages.en.params]
+      about = "About me"
+      about_text = "A happy dev, in love with data science. I write about technology, career and life."
+      table_of_contents = "Topics"
   [languages.pt-br]
     title = "Meu blog"
     weight = 2
     contentDir = "content/pt-br"
+      [languages.pt-br.params]
+      about = "Sobre mim"
+      about_text = "Uma deva feliz e apaixonada por ciência de dados. Escrevo sobre tecnologia, carreira e vida."
+      table_of_contents = "Tópicos"
 
 [menu]
 [[menu.left]]
