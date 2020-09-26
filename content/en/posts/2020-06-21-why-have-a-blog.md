@@ -58,6 +58,7 @@ tags:
   - python
   - impostor syndrome
 featured-img: paper
+translationKey: why-have-a-blog
 permalink: why-have-a-blog.html
 translation: porque-ter-um-blog.html
 date: 2020-06-21T18:25:52-05:00

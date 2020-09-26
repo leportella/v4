@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "tella"
+defaultContentLanguage = "en"
+copyright = "Everything is mine"
 
 [permalinks]
 posts = "/:slug/"
@@ -11,3 +11,13 @@ posts = "/:slug/"
 endLevel = 2
 ordered = true
 startLevel = 2
+
+[languages]
+  [languages.en]
+    title = "My blog"
+    weight = 1
+    contentDir = "content/en"
+  [languages.pt-br]
+    title = "Meu blog"
+    weight = 2
+    contentDir = "content/pt-br"
