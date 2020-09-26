@@ -80,7 +80,7 @@ I also wrote a section on [common excuses](#excuses) that people give me to not 
 And finally, if you are convinced, there is a section dedicated to [*what* to write about](#what).
 
 
-<h2 id='philosophical-reasons'>Philosophical reasons to have a blog</h2>
+## Philosophical reasons to have a blog
 
 ### You should have your own place in the internet
 
@@ -100,7 +100,7 @@ If you come from a country whose first language is not English, you can create o
 
 More and more it becomes really hard to stay away from the internet and social media. It is important to create a digital presence that associates your name to good things and to what *you* want your name to be associated with. Creating a blog and sharing what you know is an excellent way to position yourself online, and making sure people know you for something better than just social media. 
 
-<h2 id='selfish-reasons'>Selfish reasons to have a blog</h2>
+## Selfish reasons to have a blog
 
 ### Writing as a tool for learning
 
@@ -119,7 +119,7 @@ If you are insecure about writing a blog post, you can share it with your friend
 In today's world, being visible is an excellent way to stand out and get better jobs in better companies. In tech there are several ways of doing this, you can organize meetups, give talks in conferences, have a Youtube channel, a podcast, etc. However, not everyone wants or is comfortable with this kind of exposure. In my opinion, a blog is the best way of share your work with minimal personal exposure. You don't even need to add a personal photo to have one! You can improve your career even if you are too shy to give a talk 😉 
 
 
-<h2 id='excuses'>Common excuses not to write</h2>
+## Common excuses not to write
 
 | **Excuse**                      | **My answer**                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -128,7 +128,7 @@ In today's world, being visible is an excellent way to stand out and get better 
 | “What if I make mistakes?”      | No problem at all. Life is full of mistakes. Make sure you add a comment on the beginning of an old post or even change the text. You don't have to be right all the time and you didn't write in stone. If you make a mistake, go back and fix it. You will only grow from the experience                                       |
 | “I have nothing to write about” | I made a whole section about it 😉                                                                                                                                                                                                                                                                                               |
 
-<h2 id='what'>What to write?</h2>
+## What to write?</h2>
 
 
 If you are here I am assuming I was able to convince you to start blogging! Congratulations! That's a huge step! Here are the topics you can write about (based on my personal experience):
