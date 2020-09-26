@@ -6,7 +6,7 @@
       {{ if .Translations }}
         <span class="language-separator">●</span>
         {{ range first 1 .Translations }}
-          <a hreflang="{{ .Language.Lang }}" href="{{ .RelPermalink }}">{{ .Param "flag" }} {{ .Param "readin" }} {{ .Language.LanguageName }}</a>
+          <a hreflang="{{ .Language.Lang }}" href="{{ .RelPermalink }}" class="translations">{{ .Param "flag" }} {{ .Param "readin" }} {{ .Language.LanguageName }}</a>
         {{ end }}
       {{ end }}
     </div>
