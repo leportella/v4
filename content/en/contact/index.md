@@ -13,7 +13,10 @@ draft: false
       <p>I always like to receive messages, so feel free to write me!</p>
       <p>For companies that might find this page: this is my personal blog and I don't publish content that was not written by me 🤓</p>
     </header>
-    <form id="contactForm" action="https://formspree.io/me@leportella.com" method="post" novalidate="">
+    <form
+        action="https://formspree.io/mwkwplkv"
+        method="POST"
+    >
       <div class="form-group">
           <label>Your Name</label>
           <input type="text" name="name" id="name" class="form-control" name="_replyto">

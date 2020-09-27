@@ -25,6 +25,7 @@ startLevel = 2
         readin = "Read in"
         flag = "🇮🇪"
         similar_posts = "Check posts in similar categories"
+        more = "More"
   [languages.pt-br]
     title = "Meu blog"
     weight = 2
@@ -50,6 +51,11 @@ identifier = "wiki"
 name = "Wiki"
 url = "/"
 weight = 2
+[[menu.right]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 3
 [[menu.right]]
 identifier = "cat"
 name = "Categories"

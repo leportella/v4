@@ -13,10 +13,10 @@ draft: false
       <p>Eu sempre gosto de receber mensagens, então fique a vontade pra me escrever!</p>
       <p>Para empresas que encontram essa página: esse é meu site pessoal e eu não publico conteúdo que não foi escrito por mim 🤓</p>
     </header>
-    <form
-      action="https://formspree.io/mwkwplkv"
-      method="POST"
-    >
+      <form
+        action="https://formspree.io/mwkwplkv"
+        method="POST"
+      >
       <div class="form-group">
           <label>Seu nome</label>
           <input type="text" name="name" id="name" class="form-control" name="_replyto">
