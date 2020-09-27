@@ -25,6 +25,16 @@ h3 {
     margin: 0 1em;
 }
 
+.card-body img {
+    max-width: 100%;
+}
+
+.card-body img[src$='#center'] {
+    display: block;
+    margin: 1.0rem auto;
+    height: auto;
+}
+
 @media (max-width: 575.98px) {
     .language-separator {
         display: none;
