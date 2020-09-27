@@ -3,7 +3,6 @@ layout: post
 title: "O que vem depois do Django Girls"
 categories:
   - django
-  - class based views
   - palestra
 tags:
   - palestras

@@ -2,7 +2,6 @@
 layout: post
 title: "Tutorial básico de SQLAlchemy"
 categories:
-  - sqlalchemy
   - python
   - tutorial
 tags:

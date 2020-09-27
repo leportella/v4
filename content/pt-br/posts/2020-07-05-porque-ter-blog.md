@@ -3,7 +3,6 @@ layout: post
 title: "Por que você deve ter um blog (e escrever nele) "
 categories:
   - blog
-  - escrita técnica
   - carreira
 tags:
   - blog

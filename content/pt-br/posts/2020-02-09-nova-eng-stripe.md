@@ -4,7 +4,6 @@ title: "Como é ser uma nova engenheira de software na Stripe"
 categories:
   - carreira
   - pessoal
-  - stripe
 tags:
   - Stripe
   - San Francisco

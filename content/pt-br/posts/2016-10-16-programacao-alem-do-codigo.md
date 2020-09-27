@@ -5,7 +5,6 @@ categories:
   - palestra
   - pessoal
   - mulheres em tecnologia
-  - talks
 tags:
   - pycon
   - palestra

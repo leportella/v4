@@ -3,7 +3,6 @@ layout: post
 title: "Minha experiência com blogs, sites e meus textos"
 categories:
   - blog
-  - escrita técnica
   - carreira
 tags:
   - medium
