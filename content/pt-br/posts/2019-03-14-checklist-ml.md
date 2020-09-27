@@ -2,7 +2,7 @@
 layout: post
 title: "Minha checklist de machine learning"
 categories:
-  - data science
+  - ciência de dados
 tags:
   - open-source
   - python
@@ -20,6 +20,8 @@ date: 2018-08-24T15:41:52-05:00
 ---
 
 Quando começamos a analisar um novo conjunto de dados, é normal se sentir um pouco "intimidado" pela quantidade enorme de possibilidades que existem na sua frente.
+
+<!--more-->
 
 Eu, particularmente, gosto de tentar, rapidamente, fazer um modelo rápido e "sujo" (quick and dirty) pra ter uma ideia de quão difícil vai ser prever uma variável alvo.
 

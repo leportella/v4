@@ -13,7 +13,7 @@ tags:
   - ORM
   - Views
   - CCBV
-featured-img: ccbv
+featured-img: talk
 permalink: class-based-views-no-django.html
 redirect_from: /pt-br/2017/09/28/classe-based-views-no-django.html
 date: 2017-09-28T14:25:52-05:00
