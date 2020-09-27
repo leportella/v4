@@ -2,7 +2,8 @@
   <header class="card-header text-center">
     <div class="card-meta page-date">
       {{ if eq .Page.Type "posts" }}
-      <a href="#"><time class="timeago" datetime="2019-10-26 20:00">26 october 2019</time></a> 
+      <a href="#"><time class="timeago"
+        datetime="{{ dateFormat "2006-01-02 15:04" .Date }}">{{ dateFormat "02 January 2006" .Date }}</time></a> 
       {{ end }}
       {{ if .Translations }}
         <span class="language-separator">●</span>
