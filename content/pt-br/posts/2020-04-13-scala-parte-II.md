@@ -2,53 +2,12 @@
 layout: post
 title: "Minha saga aprendendo Scala - Parte 2 "
 categories:
-  - pt-br
-tags:
-  - pt-br
-  - english
-  - tecnologia
-  - Scala
-  - Programming Language
-  - programming language
-  - java
-  - jvm
-  - java virtual machine
-  - spark
-  - San Francisco
-  - Dublin
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
-  - self-learning
-  - programmer
-  - ruby
   - scala
-  - python
+  - linguagem de programação
+tags:
+  - scala
+  - jvm
+  - spark
 featured-img: scala
 permalink: scala-parte-II.html
 redirect_from: /pt-br/2020/04/13/scala-parte-II.html

@@ -2,48 +2,14 @@
 layout: post
 title: "O que fazer quando faltam dados?"
 categories:
-  - pt-br
-tags:
-  - pt-br
-  - iniciantes
-  - dúvida
-  - pergunta
-  - data science
   - ciência de dados
-  - data engineer
-  - data analytics
-  - data
-  - interpolation
-  - missing data
+tags:
+  - ciência de dados
+  - interpolação
+  - dados
   - dados ausentes
   - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
+  - pandas
 featured-img: interp
 permalink: dados-ausentes.html
 redirect_from: /pt-br/2018/12/27/o-que-fazer-quando-faltam-dados.html

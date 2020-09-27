@@ -2,7 +2,9 @@
 layout: post
 title: "O que fazer antes de postar uma pergunta online?"
 categories:
-  - pt-br
+  - dicas
+  - carreira
+  - iniciantes
 tags:
   - pt-br
   - iniciantes

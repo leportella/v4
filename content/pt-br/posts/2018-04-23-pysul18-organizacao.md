@@ -2,39 +2,17 @@
 layout: post
 title: "Python Sul 2018 - Organização"
 categories:
-  - pt-br
+  - comunidades
+  - eventos
+  - carreira 
 tags:
-  - pt-br
   - python
   - comunidade
   - eventos
   - gerenciamento
   - gestão 
   - organização
-  - open-source
   - python
-  - mongo
-  - code
-  - mongoengine
-  - database
-  - databases
-  - sql
-  - nosql
-  - mongoDB
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
 featured-img: pysul-organizacao
 permalink: organizacao-pysul2018.html
 redirect_from: /pt-br/2018/04/23/pysul18-organizacao.html

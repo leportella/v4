@@ -2,40 +2,9 @@
 layout: post
 title: "Um breve estudo sobre outliers"
 categories:
-  - pt-br
+  - ciência de dados
 tags:
-  - pt-br
-  - python
-  - data science
   - outliers
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: outlier
 permalink: outliers-I.html
 redirect_from: /pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html

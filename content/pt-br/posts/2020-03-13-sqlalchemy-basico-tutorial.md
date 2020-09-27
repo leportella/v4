@@ -2,38 +2,14 @@
 layout: post
 title: "Tutorial básico de SQLAlchemy"
 categories:
-  - pt-br
-tags:
-  - pt-br
-  - python
-  - machine learning
-  - data science
-  - ciência de dados
-  - pizza de dados
-  - database
-  - postgres
-  - sql databases
-  - nosql databases
-  - Python tutorial
   - sqlalchemy
+  - python
+  - tutorial
+tags:
+  - banco de dados
   - orm
-  - database
-  - SQL
-  - Project Jupyter
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
+  - sqlalchemy
+  - backend
 featured-img: bookcase 
 permalink: tutorial-basico-sqlalchemy.html
 redirect_from: /pt-br/2020/03/13/sqlalchemy-basico-tutorial.html

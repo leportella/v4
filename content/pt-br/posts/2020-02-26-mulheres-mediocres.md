@@ -2,65 +2,13 @@
 layout: post
 title: "Onde estão as mulheres medíocres?"
 categories:
-  - pt-br
+  - mulheres em tecnologia
+  - carreira
 tags:
-  - pt-br
   - mulheres
   - carreira
-  - eventos
-  - tecnologia
-  - Stripe
-  - San Francisco
-  - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
   - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
-  - women in tech
-  - woman in tech
-  - girls who code
-  - career
-  - computer science
   - self-taugh engineer
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: where-women
 permalink: mulheres-mediocres.html
 redirect_from: /pt-br/2020/02/26/mulheres-mediocres.html

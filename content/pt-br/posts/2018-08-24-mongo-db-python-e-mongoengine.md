@@ -2,11 +2,14 @@
 layout: post
 title: "Usando MongoDB com Python e MongoEngine <3"
 categories:
-  - pt-br 
+  - python
+  - banco de dados
 tags:
   - pt-br
   - open-source
   - python
+  - mongo
+  - mongoengine
   - mongo
   - code
   - mongoengine
@@ -15,20 +18,6 @@ tags:
   - sql
   - nosql
   - mongoDB
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
 featured-img: database
 permalink: pt-mongoengine.html
 redirect_from: /pt-br/2018/08/24/mongo-db-python-e-mongoengine.html

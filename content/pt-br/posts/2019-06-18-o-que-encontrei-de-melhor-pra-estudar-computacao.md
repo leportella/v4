@@ -2,47 +2,12 @@
 layout: post
 title: "O que eu encontrei de melhor para estudar ciência da computação"
 categories:
-  - pt-br
+  - dicas
+  - ciência da computação
+  - carreira 
 tags:
-  - pt-br
-  - comunidade
-  - woman in tech
-  - girls in tech
-  - computing
-  - software
-  - python
-  - algoritmos
-  - entrevistas
-  - eventos
-  - events
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
   - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer scienceß
+  - estudos
 featured-img: keyboard
 permalink: material-computacao.html
 redirect_from: /pt-br/2019/06/18/o-que-encontrei-de-melhor-pra-estudar-computacao.html

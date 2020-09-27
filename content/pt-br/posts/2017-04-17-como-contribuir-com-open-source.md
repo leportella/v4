@@ -2,41 +2,11 @@
 layout: post
 title: "Como contribuir para um projeto open-source pela primeira vez sem escrever código"
 categories:
-  - pt-br
+  - open-source
+  - comunidade
 tags:
-  - pt-br
-  - open-source
-  - begginers
-  - study
-  - code
   - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
   - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: open
 permalink: open-source-sem-codigo.html
 redirect_from: /pt-br/2017/04/17/como-contribuir-com-open-source.html

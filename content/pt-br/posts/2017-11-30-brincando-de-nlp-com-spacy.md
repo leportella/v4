@@ -2,43 +2,14 @@
 layout: post
 title: "Brincando de Processamento Natural de Linguagem com spaCy"
 categories:
-  - pt-br
+  - ciência de dados
 tags:
-  - pt-br
   - python
-  - data science
   - nlp
   - lpn
   - ciência de dados
   - processamento natural de linguagem
   - natural language processing
-  - data science
-  - data analytics
-  - data engineer
-  - open-source
-  - python
-  - mongo
-  - code
-  - mongoengine
-  - database
-  - databases
-  - sql
-  - nosql
-  - mongoDB
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
 featured-img: words
 permalink: npl-com-spacy.html
 redirect_from: /pt-br/2017/11/30/brincando-de-nlp-com-spacy.html

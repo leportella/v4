@@ -2,53 +2,14 @@
 layout: post
 title: "Como eu lido com minha síndrome de impostora"
 categories:
-  - pt-br
+  - síndrome de impostor
+  - carreira
 tags:
-  - pt-br
-  - tecnologia
-  - Scala
-  - Programming Language
-  - programming language
-  - java
-  - jvm
-  - java virtual machine
-  - spark
-  - San Francisco
-  - Dublin
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
   - self-taught engineer
-  - code
-  - Django
-  - software
   - career
+  - carreira
   - tech career
   - open-source
-  - no cs degree
-  - cs
-  - computer science
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
-  - impostor syndrome
   - síndrome do impostor
   - síndrome impostor
   - síndrome de impostora

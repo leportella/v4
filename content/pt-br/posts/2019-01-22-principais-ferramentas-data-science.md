@@ -2,48 +2,13 @@
 layout: post
 title: "As principais ferramentas de desenvolvimento em ciência de dados"
 categories:
-  - pt-br
-tags:
-  - pt-br
-  - data science
   - ciência de dados
-  - tecnologia
-  - desenvolvimento
-  - ferramentas
-  - comunidades
+tags:
   - r
   - matlab
   - python
   - jupyter
-  - iniciantes
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
+  - virtualenv
 featured-img: tools
 permalink: principais-ferramentas-ciencia-de-dados.html
 redirect_from: /pt-br/2019/01/22/principais-ferramentas-data-science.html

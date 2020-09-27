@@ -2,37 +2,11 @@
 layout: post
 title: "Meu primeiro ano como dev"
 categories:
-  - pt-br
+  - pessoal
+  - carreira
 tags:
-  - pt-br
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
   - auto-ensino
   - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: django_girls
 permalink: primeiro-ano-dev.html
 redirect_from: /pt-br/2017/03/01/meu-primeiro-ano-como-dev.html

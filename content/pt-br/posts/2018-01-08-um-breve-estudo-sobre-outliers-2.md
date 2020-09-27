@@ -2,40 +2,9 @@
 layout: post
 title: "Um breve estudo sobre outliers - Estudo de Caso"
 categories:
-  - pt-br
+  - ciência de dados
 tags:
-  - pt-br
-  - python
-  - data science
-  - outliers
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
+  - outlier
 date: 2018-01-08T13:25:52-05:00
 featured-img: outlier
 permalink: outliers-II.html

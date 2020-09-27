@@ -2,39 +2,11 @@
 layout: post
 title: "Impulsionando sua carreira como desenvolvedora" 
 categories:
-  - pt-br
+  - carreira
 tags:
-  - pt-br
-  - tecnologia
-  - desenvolvedor
-  - código
-  - codar
-  - programar
-  - programador
-  - programadora
-  - San Francisco
-  - Dublin
-  - Software engineer
-  - software engineering
   - engenheira de software
   - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
-  - women in tech
-  - woman in tech
-  - girls who code
-  - career
-  - computer science
   - self-taugh engineer
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
 featured-img: fast
 permalink: impulsionando-sua-carreira.html
 redirect_from: /pt-br/2020/02/27/impulsionando-sua-carreira-dev.html

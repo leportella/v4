@@ -2,42 +2,15 @@
 layout: post
 title: "O que vem depois do Django Girls"
 categories:
-  - pt-br
-  - talks
+  - django
+  - class based views
+  - palestra
 tags:
-  - pt-br
   - palestras
   - pythonxp
-  - python xp
-  - vinta
-  - vinta tecnologia
   - pycon
   - eventos
   - tecnologia
-  - Stripe
-  - San Francisco
-  - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
-  - women in tech
-  - woman in tech
-  - girls who code
-  - career
-  - computer science
-  - self-taugh engineer
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
   - django
   - class based views
   - django girls
@@ -48,7 +21,7 @@ last_modified_at: 2020-06-24T18:25:52-05:00
 date: 2020-06-24T18:25:52-05:00
 ---
 
-# Ou "uma introdução à Class Based Views
+Também chamadod e... "uma introdução à Class Based Views
 
 Slides disponíveis [aqui](https://speakerdeck.com/leportella/o-que-vem-depois-do-django-girls-uma-introducao-as-class-based-views)
 

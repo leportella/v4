@@ -2,39 +2,13 @@
 layout: post
 title: "Entrevista Capterra com mulheres em tecnologia"
 categories:
-  - pt-br
-  - interview
+  - entrevista
+  - carreira
 tags:
-  - pt-br
-  - mulheres
   - carreira
   - capterra
   - Gartner
-  - eventos
-  - tecnologia
-  - Brasil
-  - banco de dados
-  - Software engineer
-  - software engineering
-  - engenheira de software
   - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
-  - women in tech
-  - woman in tech
-  - girls who code
-  - career
-  - computer science
-  - self-taugh engineer
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
 featured-img: microphone
 permalink: entrevista-capterra.html
 redirect_from: /pt-br/2020/03/08/entrevista-gartner.html

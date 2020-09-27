@@ -2,41 +2,13 @@
 layout: post
 title: "Pizza de Dados no Castálio Podcast!"
 categories:
-  - pt-br
-  - talks
-tags:
-  - pt-br
-  - palestras
-  - Castálio
-  - Pizza de Dados
   - podcast
+  - pizza de dados
+tags:
+  - palestras
+  - castálio
+  - pizza de dados
   - ciência de dados
-  - pycon
-  - eventos
-  - tecnologia
-  - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
-  - women in tech
-  - woman in tech
-  - girls who code
-  - career
-  - computer science
-  - self-taugh engineer
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
-  - django
 featured-img: castalio
 permalink: pizza-no-castalio.html
 redirect_from: /pt-br/talks/2018/11/07/pizza-no-castalio.html

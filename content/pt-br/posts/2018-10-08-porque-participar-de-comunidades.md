@@ -2,7 +2,7 @@
 layout: post
 title: "Por que a sua empresa deveria estar em comunidades de tecnologia"
 categories:
-  - pt-br
+  - comunidades 
 tags:
   - pt-br
   - community

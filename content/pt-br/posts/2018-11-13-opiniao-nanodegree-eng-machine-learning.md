@@ -2,43 +2,12 @@
 layout: post
 title: "Opinião: Nanodegree de Eng. de Machine Learning"
 categories:
-  - pt-br
-tags:
-  - pt-br
-  - iniciantes
-  - cursos
-  - data science
   - ciência de dados
-  - Pizza de Dados
-  - tecnologia
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
+tags:
+  - cursos
+  - ciência de dados
+  - aprendizado de máquina
+  - nanodegree
 featured-img: adult_books
 permalink: pt-machine-learning-nanodegree.html
 redirect_from: /pt-br/2018/11/13/opiniao-nanodegree-eng-machine-learning.html
