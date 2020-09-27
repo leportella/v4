@@ -22,12 +22,13 @@ redirect_from: /english/2019/01/11/outreachy-II.html
 date: 2019-01-11T11:48:52-05:00
 ---
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
 
 Hello there! This is the second report on my work on [Outreachy](https://www.outreachy.org/) internship program. On the [first report](https://leportella.com/english/2018/12/12/outreachy-I.html) I told a little bit on how I got into the program, which problem I am focusing and my first tasks :).
+<!--more-->
 
 Now, almost one month after my first text, here I am to tell you more about what have I done and what were my struggles this time!
 
+<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
 
 ## Vacation
 

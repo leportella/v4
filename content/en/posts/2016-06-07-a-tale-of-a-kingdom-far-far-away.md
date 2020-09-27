@@ -24,6 +24,7 @@ last_modified: 2019-02-21T14:25:52-05:00
 
 
 As I write this article, I am already talking from this world… the one we actually know so well. But I will try to explain, as best as I can, everything that I lived in this awesome week I spent in Portland at the Pycon 2016.
+<!--more-->
 
 First of all, Pycon started to impress me months before I even knew I would go there. If you are not aware, Pycon offers a financial aid for those who does not have a $$ condition to come to one of the largest conferences in Python.
 

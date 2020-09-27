@@ -17,7 +17,7 @@ redirect_from: /english/2019/03/22/why-you-should-be-in-the-community.html
 date: 2019-03-22T18:25:52-05:00
 ---
 
-My participation in technology communities over the last 3 years, lead me to notice that it's always tricky to show to companies which don’t interact with this technology ecosystem, how beneficial it is for them to get involved. Many people (developers or not) struggle within their companies, trying to show how much they could benefit from this. This concern increases when we are organizing an event. Sometimes it's a rather lonely fight, depending on where it's fought. 
+My participation in technology communities over the last 3 years, lead me to notice that it's always tricky to show to companies which don’t interact with this technology ecosystem, how beneficial it is for them to get involved. Many people (developers or not) struggle within their companies, trying to show how much they could benefit from this. <!--more-->This concern increases when we are organizing an event. Sometimes it's a rather lonely fight, depending on where it's fought. 
 
 Recently I saw [this thread](https://twitter.com/cassiosvaldo/status/1036645596176760832) (in Portuguese), where Cassio tagged a number of people, asking for arguments to convince his company to support events. There were many and excellent answers. I decided to put them all together, in a way that I could detail them and trying to gather them into a good document for you to show  to your company whenever you need good arguments.
 

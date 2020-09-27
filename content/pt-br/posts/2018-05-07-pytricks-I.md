@@ -3,10 +3,10 @@ layout: post
 title: "Meus 'truques' preferidos em Python - Parte I"
 categories:
   - python
-  - programming languages
+  - linguagens de programação
 tags:
   - python
-  - programming languages
+  - linguagens de programação
   - open-source
   - python
   - code
@@ -20,7 +20,7 @@ date: 2018-05-07T09:29:52-05:00
 Recentemente, estive ajudando um amigo que transicionava do Matlab para o Python. Dando algumas dicas para ele, percebi 
 que muitas das nuances legais que 
 eu aprendi no Python foi alguém que me ensinou em um momento de "você conhece isso?" ou 
-para resolver um problema bem específico que poderia ser resolvido de forma mais simples. 
+para resolver um problema bem específico que poderia ser resolvido de forma mais simples. <!--more-->
 
 Ao ajudar esse meu amigo que está lá do outro lado do mundo, lembrei da época em que não havia ninguém pra me 
 ensinar um **truque** legal e, na verdade, não sabia nem que isso poderia existir.

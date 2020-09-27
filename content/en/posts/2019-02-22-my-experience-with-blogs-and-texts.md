@@ -19,6 +19,7 @@ translationKey: my-experience-with-blogs
 ---
 
 Writing is a good way to evolve your career. You can go deep in studies you are doing, can generate content to people that may be needing a more friendly view and it is a good way  to gain visibility (thinking in future jobs). Once you decided to start a new blog, a doubt pops up: where am I going to post this content?
+<!--more-->
 
 The question "should I make my own website or use Medium" is becoming more and more common. This is a valid question that more often then not is answered only by simple statements. This week I answered this question to a person on Telegram and I wrote so many things to make my point that I decided to write this text to tell how was my story with Medium, the changes I made and what I think about all this.
 

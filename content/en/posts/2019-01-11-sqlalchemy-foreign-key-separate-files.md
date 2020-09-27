@@ -18,6 +18,7 @@ date: 2019-01-11T11:21:52-05:00
 ---
 
 On [this post](https://leportella.com/english/2019/01/10/sqlalchemy-basics-tutorial.html) you could have a small idea how SQLAlchemy works. However, all my study on SQLAlchemy basics was due to a problem I was having that took me a lot of time to figure it out. Since the problem was more complex and didn't actually fit on the last post, I decided to create a new one dedicated to it, so here it is :)
+<!--more-->
 
 While I was creating the [Native Authenticator](https://github.com/jupyterhub/nativeauthenticator/) I realized that I needed to store some information about my user that wasn't available in the default `User` table. Informations such as email or password, for instance. The [JupuyterHub `User` class](https://github.com/jupyterhub/jupyterhub/blob/master/jupyterhub/orm.py#L111) was like this:
 

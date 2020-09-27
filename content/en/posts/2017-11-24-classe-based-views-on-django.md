@@ -23,6 +23,8 @@ This post could also be called **what comes after the tutorials** :)
 
 In several Django tutorials, we learn how to receive *requests* and return *responses* with html pages having several information.
 This is very easy to start understanding the process that Django does: receiving *requests* and returning *templates*. But what happens after that?
+<!--more-->
+
 
 When I started developing a system that was a little bit more complex than what the tutorials gave me, I found my self drowned with several *get* and *post*
 functions that should have several verifications. This turned out to be much more complex than I expected and not at all as effective as they should be to cover all possibilities I pictured.

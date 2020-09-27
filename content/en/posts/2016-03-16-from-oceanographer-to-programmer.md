@@ -15,10 +15,11 @@ date: 2016-03-16T14:25:52-05:00
 translationKey: from-oceanographer-to-programmer
 ---
 
+This week I was asked to tell a little about how I became programmer (or at least, I’m in the process). I wrote this text to tell a little bit more about my story.
+
+<!--more-->
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/oceanographer.jpg" style="height:500px;"/></center>
 </br>
-
-This week I was asked to tell a little about how I became programmer (or at least, I’m in the process). I wrote this text to tell a little bit more about my story.
 
 Let’s start from the beginning: I am oceanographer graduated from the Federal University of Santa Catarina (Brazil) in December 2013. Well, only that is usually enough to scare people. Oceanowhat?
 

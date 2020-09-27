@@ -26,7 +26,8 @@ date: 2018-12-12T19:48:52-05:00
 
 Hi :)
 
-On November I discovered that I was selected for the [Outreachy](https://www.outreachy.org/) internship program for the batch of December 2018 to March 2019. During this period, I'll be working on JupyterHub Project (OMG!), on creating a new JupyterHub Authenticator system and my mentors will be [Yuvi Panda](https://twitter.com/yuvipanda) and [Min RK](https://twitter.com/minrk). If you would like to read more about the project and the participation of Project Jupyter on this internship, you can read more on this [here](https://blog.jupyter.org/outreachy-jupyter-supporting-diversity-in-open-communities-dfa78db4b0bd).
+On November I discovered that I was selected for the [Outreachy](https://www.outreachy.org/) internship program for the batch of December 2018 to March 2019. <!--more-->
+During this period, I'll be working on JupyterHub Project (OMG!), on creating a new JupyterHub Authenticator system and my mentors will be [Yuvi Panda](https://twitter.com/yuvipanda) and [Min RK](https://twitter.com/minrk). If you would like to read more about the project and the participation of Project Jupyter on this internship, you can read more on this [here](https://blog.jupyter.org/outreachy-jupyter-supporting-diversity-in-open-communities-dfa78db4b0bd).
 
 As part of my training, during the next three months, I'll be sharing blog posts about what I am doing, my main struggles and workarounds.
 

@@ -19,6 +19,8 @@ date: 2019-01-02T21:55:52-05:00
 
 This is the second part of my study on predicting the type of victims an accident can have based on the data from the
 National Highway Police (Polícia Rodoviária Federal), in Brazil. This was my final report for my Machine Learning Engineer Nanodegree and my first technical diploma in the computer science field (yey!).
+<!--more-->
+
 
 ![](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
 

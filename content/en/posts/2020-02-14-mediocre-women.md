@@ -19,6 +19,7 @@ translationKey: mediocre-women
 
 
 > **me•di•o•cre**: adj. Of moderate degree or quality; synonym: average
+<!--more-->
 
 List the last 3 women that where senior engineers you worked with. Can you list them? Can you even get 3? It may be a while since those interactions, but it doesn’t matter. Think about them. If they have some years of experience, there is a good chance that they weren’t only good engineers, but amazing engineers.
 

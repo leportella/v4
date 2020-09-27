@@ -22,10 +22,13 @@ redirect_from: /english/2019/02/05/outreachy-IV.html
 date: 2019-02-05T11:48:52-05:00
 ---
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
+>
 
 This is the forth post on my internship on the [Outreachy Program](https://www.outreachy.org/) with [Project Jupyter](https://jupyter.org/). [The first](https://leportella.com/english/2018/12/12/outreachy-I.html), [the second](https://leportella.com/english/2019/01/11/outreachy-II.html) and [third post](https://leportella.com/english/2019/01/23/outreachy-III.html) are already available, if you want to understand the big picture.
 
+<!--more-->
+
+<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center
 
 On [the last post](https://leportella.com/english/2019/01/23/outreachy-III.html) I talked about how we built the complete user cycle of signing up and getting authorization of the user for actually logging in. Then we talked a bit on adding some optional password check features that admins could configure. This time we continue implementing optional features for admins to use on **Native Authenticator**.
 

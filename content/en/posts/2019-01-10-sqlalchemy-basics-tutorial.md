@@ -25,6 +25,8 @@ translationKey: sqlalchemy-tutorial
 ---
 
 [I've been working with Project Jupyter since December of last year]({{base}}/outreachy-I.html) and it has been a wonderful experience. The last couple of days I struggled with the SQLAlchemy library that [JupyterHub](https://github.com/jupyterhub/jupyterhub) works on its internals. Since I studied this library and had to scratch some [Stack Overflow](http://stackoverflow.com/) questions to find some answers, I created this post to help digesting some of my doubts and findings.
+<!--more-->
+
 
 Since this post became surprisingly long, I decided that the main problem I was having with SQLAlchemy should be in a separated post. So, keep tuned :)
 

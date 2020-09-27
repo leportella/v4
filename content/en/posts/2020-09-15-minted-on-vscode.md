@@ -19,9 +19,12 @@ featured-img: engrenagem
 permalink: minted-vscode
 redirect_from: minted-vscode.html
 last_modified_at: 2020-09-15T18:25:52-05:00
+date: 2020-09-15T18:25:52-05:00
 ---
 
 I was handling some LaTeX files and I needed code coloring. I found the package [minted](https://www.ctan.org/pkg/minted) and it seemed perfect, but it required a couple of things that made my life a bit more complicated on VSCode.
+<!--more-->
+
 
 ## Installing the package
 

@@ -20,6 +20,8 @@ translationKey: first-year-as-dev
 ---
 
 One year ago I started my new job as a Backend Python Developer. I have dropped a career, a profession and I almost drop my master degree. When everything happened, I think I didn’t understand the proportions that decision would have in my life. Now, one year later, I want to tell you a little bit about what happened this year.
+<!--more-->
+
 
 <center>
 <img src="https://cdn-images-1.medium.com/max/800/1*Qiu_GZhqLl-U1YFbghTN2A.gif" style="height:200px;"/>

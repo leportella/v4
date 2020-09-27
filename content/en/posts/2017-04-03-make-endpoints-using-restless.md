@@ -20,6 +20,7 @@ date: 2017-04-03T14:25:52-05:00
 Most of all Django tutorials teach us how to return HTML as response to a request. Sometimes, it is useful to make it a little more RESTful. 
 One option is to use [Django REST Framework](http://www.django-rest-framework.org/) but sometimes you need something a little bit simpler. Then you have [Restless](http://restless.readthedocs.io/). 
 Restless is a miniframework made by [Daniel Lindsley](https://github.com/toastdriven) based on what he learned by making [Tastypie](https://django-tastypie.readthedocs.io/en/latest/) and some other REST libraries.
+<!--more-->
 
 As Lindsley said in the documentation *“While other frameworks attempt to be very complete, include special features or tie deeply to ORMs, Restless is a trip back to the basics”*. 
 Here I am going to show how you can create very simple endpoints using Restless.

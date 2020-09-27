@@ -13,7 +13,8 @@ date: 2017-10-27T14:25:52-05:00
 translationKey: parallel-processes-python
 ---
 
-This week I ran into a case were I should run several scripts with analysis that could run simultaneously. The analysis results would then be used as basis for another analysis, that could only run after all other scripts ended. Something like this:
+This week I ran into a case were I should run several scripts with analysis that could run simultaneously. The analysis results would then be used as basis for another analysis, that could only run after all other scripts ended. <!--more-->
+Something like this:
 
 <center>
   <img src="https://i.imgur.com/XuMDlhb.png" style="height:300px;"/>

@@ -11,12 +11,13 @@ tags:
 featured-img: too-many-books
 permalink: too-much-info.html
 redirect_from: /english/2016/05/05/too-much-information.html
-date: 2016-05-05 T14:25:52-05:00
+date: 2016-05-05T14:25:52-05:00
 ---
 
 Hey!
 
 On the last post I have written some tips for those who are starting in the world of programming, but today I want to talk something that happened to me before, and is happening to me now: There is just too much information on the internet! You will say that this is an obvious observation, but when you want to study something, this is just overwhelming!
+<!--more-->
 
 If you are like me, you will try some tutorial, think that you are not learning as much as you want, and give up… until you bump into the next “perfect tutorial” that will teach everything you want to know. I am reading a lot, trying to absorb the maximum information I can, and I will write here some of the best things I saw (and learned) so far on this journey:
 

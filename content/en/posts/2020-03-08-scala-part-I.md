@@ -19,6 +19,7 @@ translationKey: scala-I
 ---
 
 I decided that I needed to learn a new language and the language I choose was Scala. I added as my goal for 2020 to at least feel a bit comfortable with this language, so here I am. 
+<!--more-->
 
 So far, my history with Scala has been very… frustrating (to say the least). I was trying to learn on my own and quiet - because it is so hard - but I decided to write down what I learned and what was hard in the process. That may be helpful for someone else, but mainly this is for me. In here I will force myself to organize my thoughts, share interesting things I found and find some use to my frustrations. These posts are not intended to be a tutorial, but rather a way of brain dump.
 

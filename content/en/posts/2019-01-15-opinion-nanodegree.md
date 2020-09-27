@@ -21,9 +21,8 @@ translationKey: machine-learning-nanodegree
 date: 2019-01-15T11:48:52-05:00
 ---
 
-This is a translation of [this post in portuguese.](https://medium.com/pizzadedados/opini%C3%A3o-nanodegree-de-eng-de-machine-learning-34e67cb85b33)
-
 In April 2018 I started [Udacity's Nanodegree in Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t). The classes are not cheap and many questions asked me the same thing: does it worth it?
+<!--more-->
 
 <center><img src="https://media.giphy.com/media/ATt7p8OO4mvvO/giphy.gif" style="height:200px;"/></center>
 

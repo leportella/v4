@@ -16,17 +16,18 @@ redirect_from: /english/2018/03/20/how-to-contribute-to-open-source.html
 date: 2018-03-20T14:25:52-05:00
 ---
 
+Starting to contribute to an open-source project is always recomended to someone who is studing to be a programmer. <!--more-->
+Many say that it is an excelent way to show your potential as a developer and 
+some companies ask about these contribution as a way of evaluation. 
+Besides that, when you contribute to an open-source, you are helping and adding value a community that is 
+committed in creating solutions that broad and open (thus, it is beautiful ❤).
+
 **Disclaimer: In an old post, I talked about how frustrating it was writing documentation for 3 whole months. 
 However, I should make some clear: there are times to write code and times to write documentation. 
 I was frustrated in just doing for 3 long months while I was hoping to become a programmer. 
 This made me unconfortable on writing documentation for while and I didn't want to do it at all. 
 Now, I realized that eventually a good documentation can save you time, work and frustrations on developing a new project.**
 
-Starting to contribute to an open-source project is always recomended to someone who is studing to be a programmer. 
-Many say that it is an excelent way to show your potential as a developer and 
-some companies ask about these contribution as a way of evaluation. 
-Besides that, when you contribute to an open-source, you are helping and adding value a community that is 
-committed in creating solutions that broad and open (thus, it is beautiful ❤).
 
 However, everytime I asked people how could I start contributing (and everytime people asked how they could start) I always 
 got/said something like "look for a project on Github". Big news! What project? Who? Why? What the hell should I be doing?

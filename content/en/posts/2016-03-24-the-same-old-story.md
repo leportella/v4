@@ -17,6 +17,8 @@ Hello, everybody! :D
 
 On the last post I told everyone a little bit about my story, but now let’s begin the fun part! As I am studying and becoming a programmer I will try my best to pass along the fun and good things I am learning in the process, ok!?
 
+<!--more-->
+
 The first question everyone asks me: where do I begin?
 
 Ok, first thing that was very important to me was to find a good book to follow as long as I could. My recommendation, no doubt, would be “Beginning Python: From Novice to Professional” by Magnus Lie Hetland. It is not so expensive (I just saw it on Amazon for U$24) but it goes from simple concepts until complex ones such as abstractions. If you know another book for beginners, please feel free to recommend it on the commentaries!

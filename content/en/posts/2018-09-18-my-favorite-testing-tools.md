@@ -20,9 +20,10 @@ redirect_from: /english/2018/09/18/my-favorite-testing-tools.html
 date: 2018-09-18T12:28:52-05:00
 ---
 
-In today's development, tests are a fundamental tool for keeping things nice and easy and to keep programmer's sanity. 
-I've been 
+In today's development, tests are a fundamental tool for keeping things nice and easy and to keep programmer's sanity. I've been 
 using a set of tools for developing my web applications with Django and it is time for me to share a little bit about them.
+<!--more-->
+
 
 ![](https://media.giphy.com/media/12WhkSmwGOGIUM/giphy.gif)
 

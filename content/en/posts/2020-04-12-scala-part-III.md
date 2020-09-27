@@ -18,7 +18,7 @@ date: 2020-04-01T18:25:52-05:00
 ---
 
 *This post is also known as “My saga learning Scala - Part 3“ and is a continuation of* [*Part 1*](https://leportella.com/english/2020/03/08/scala-part-I.html) *and* [*Part 2*](https://leportella.com/english/2020/04/01/scala-part-II.html)
-
+<!--more-->
 As we discussed in the Part 1 of this series, Scala is an object oriented language. [From Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming):
 
 

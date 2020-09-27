@@ -21,6 +21,8 @@ This week, I finished my Nanodegree in Machine Learning Engineer by Udacity. To 
 study. Talking with a dear friend of mine, [Pedro](https://twitter.com/pedrovilanova), he said that the National Highway 
 Police of Brazil had a dataset on car accidents in federal roads. I decided to study this dataset, and try to predict which 
 types of victims an accident would have based on the local, hour and accident characateristics. 
+<!--more-->
+
 
 I decided to publish two blog posts telling about this project, what I have achieved and the main techniques I used to do this 
 project. On this first post, I will explain a little on the context of the project and show the initial exploratory analysis.

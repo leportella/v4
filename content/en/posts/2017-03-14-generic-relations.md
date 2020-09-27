@@ -23,6 +23,8 @@ translationKey: generic-relations-django
 ---
 
 As I talked to some people, few new about Django’s Generic Relation and Generic Foreign Key. And when I was studying it to apply on our system, I realised that the documentation can be kind of tricky and sparse. Nevertheless, Generic Relations helped us a lot, and so I decided to write about it in this blog post :)
+<!--more-->
+
 
 When we have a foreign key, we are linking an instance of another model in the current model. Right? So, we can access that other instance and other model very easily. So it would work like this:
 

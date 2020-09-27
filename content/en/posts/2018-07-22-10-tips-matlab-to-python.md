@@ -20,6 +20,7 @@ translationKey: matlab-to-python
 I started to study programming logic when I came across problems that required knowledge in Matlab. 
 After a while studying Matlab I was suggested to switch to Python for its ease, simplicity and for 
 being able to be applied to numerous areas (besides being free).
+<!--more-->
 
 However, as I moved from one tool to the other, I had a number of basic issues 
 that made the change a bit tricky. Sometimes I had to change my vision about 

@@ -8,34 +8,6 @@ tags:
   - python
   - beginners
   - study
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: apple
 permalink: dev-for-dummies.html
 redirect_from: /english/2016/12/29/dev-for-dummies.html
@@ -44,7 +16,8 @@ date: 2016-12-29T14:25:52-05:00
 ---
 
 Few months ago I decided to drop my career as an oceanographer and decided to become a backend developer with Python, as I told some of you here. After my blog post circulates on the internet, 
-I got an invitation to talk on the [Caipyra](http://caipyra.python.org.br/) conference, in Ribeirão Preto (thanks Marco Rougeth). I was extremely honored and went for it. I could never imagine that, after a two-day event, I had made 3 interviews and received a proposal to work in Ribeirão. And, if someone had told me that I would take it, I most certainly would have doubt it.
+I got an invitation to talk on the [Caipyra](http://caipyra.python.org.br/) conference, in Ribeirão Preto (thanks Marco Rougeth). <!--more-->
+ I was extremely honored and went for it. I could never imagine that, after a two-day event, I had made 3 interviews and received a proposal to work in Ribeirão. And, if someone had told me that I would take it, I most certainly would have doubt it.
 
 Well, 4 months after the Caipyra and almost 8 months after my career change, I write a little bit to tell you how is my life as a developer, in a kind of “dev for dummies” style.
 

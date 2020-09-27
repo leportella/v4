@@ -22,4 +22,5 @@ date: 2020-06-24T18:25:52-05:00
 
 Leticia is a Brazilian developer who changed career to web development four years ago. She previously worked as an Oceanographer but caught the coding bug! Now she works as a developer at the payments solution company Stripe. She is a great example of a software engineer without a CS degree who has a successful career.
 
+<!--more-->
 Continue reading [here](https://www.nocsdegree.com/oceanographer-self-taught-developer-stripe/)!

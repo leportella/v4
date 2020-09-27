@@ -22,9 +22,10 @@ redirect_from: /english/2019/01/23/outreachy-III.html
 date: 2019-01-23T11:48:52-05:00
 ---
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
 
 Hello there! This is the third report on my work on [Outreachy](https://www.outreachy.org/) internship program. If you want to be fully updated on what I have done so far, I recommend you to read the [first](https://leportella.com/english/2018/12/12/outreachy-I.html) and [second](https://leportella.com/english/2019/01/11/outreachy-II.html) reports. 
+<!--more-->
+<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
 
 
 ## Eyes on the prize

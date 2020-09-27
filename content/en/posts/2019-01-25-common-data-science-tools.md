@@ -31,7 +31,7 @@ last_modified: 2020-09-27T15:15:52+01:00
 translationKey: most-common-data-science-tools
 ---
 
-When you start entering the data science world, things can become really messy. There are thousands of concepts and meanings, most of them thrown at you at the same time. Usually, most tutorials and texts focus on languages to be studied but this time I decided to bring something different. In this text, I brought some "simple" explanation for some of the most common tools used on data science development. Although sometimes the tools is attached necessarily, the idea is to explain more about the tools then what each language can do. This is not a text about how to open a spreadsheet and process data, but where data science tools live and which has the right things for you.
+When you start entering the data science world, things can become really messy. There are thousands of concepts and meanings, most of them thrown at you at the same time. <!--more--> Usually, most tutorials and texts focus on languages to be studied but this time I decided to bring something different. In this text, I brought some "simple" explanation for some of the most common tools used on data science development. Although sometimes the tools is attached necessarily, the idea is to explain more about the tools then what each language can do. This is not a text about how to open a spreadsheet and process data, but where data science tools live and which has the right things for you.
 
 Everybody ready?
 

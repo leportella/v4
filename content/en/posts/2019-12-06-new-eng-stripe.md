@@ -21,6 +21,7 @@ translationKey: new-eng-stripe
 ---
 
 Being a software engineer at a new company—anywhere—is hard. The codebase is completely new, you have to adapt to new patterns (for both code and culture) and most likely the problem space is completely new to you too. 
+<!--more-->
 
 When I joined Stripe, I knew it would be challenging: this was my first role in a rapidly growing technology company, a new programming language, first time working with payments and first time working full-time in English. Still, I had no idea how overwhelming and exciting it would be. And yet, even though it was one of the biggest challenge I've had to face in my career the onboarding experience was an amazing and interesting process. I decided to share an overview on how it feels  to be a new engineer here at Stripe having gone through the whole process. 
 

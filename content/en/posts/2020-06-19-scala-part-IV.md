@@ -17,6 +17,7 @@ date: 2020-06-19T23:25:52-05:00
 ---
 
 *This post is also known as “My saga learning Scala - Part 4“*
+<!--more-->
 
 - [Part 1 - Why am I learning Scala and resources](https://leportella.com/english/2020/03/08/scala-part-I.html)
 - [Part 2 - Functions and Strings](https://leportella.com/english/2020/04/01/scala-part-II.html)

@@ -24,6 +24,7 @@ translationKey: mongoengine
 
 I started working with MongoDB for fun and for some side projects in the last year. The main idea of using MongoDB is its flexibility. The [pymongo](https://api.mongodb.com/python/current/) library is really nice for getting some information, 
 but on a project more complex, we may need something a little more intense. A nice alternative is the [**MongoEngine**](https://github.com/MongoEngine/mongoengine) library, which is an Object-Document Mapper (ODM), which treats MongoDB documents as a kind of ORM. 
+<!--more-->
 
 So, I decided to make this post to teach a little bit about MongoDB, MongoCompass and MongoEngine. On a next post, I will 
  talk a little bit on how can we test this project in a very simple and nice way.

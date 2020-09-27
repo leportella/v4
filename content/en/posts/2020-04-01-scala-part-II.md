@@ -20,7 +20,7 @@ translationKey: scala-II
 
 
 Continuation of [My Saga learning Scala - Part 1]({{base}}/english/2020/03/08/scala-part-I.html). 
-
+<!--more-->
 On the last post I talked about somethings I've learned on Scala. Although [my tweet about this post](https://twitter.com/leleportella/status/1237322864514281472) generated some comments about the language (both good and bad) I am still decided to [at least finish the course I started doing](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/). So far the feeling is that I am starting to understand some things and starting to be more comfortable, although I am very far away from the magic stuff that scares me.
 
 Another thing is that most of the comparisons and things that I find interesting are based on my knowledge from Python and may be super normal in other languages. So remember that while reading this post 🙂 

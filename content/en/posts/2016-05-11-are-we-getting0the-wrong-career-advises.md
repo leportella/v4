@@ -17,6 +17,8 @@ date: 2016-05-11T14:25:52-05:00
 ---
 
 I just watched an [awesome lecture](https://www.youtube.com/watch?v=ybVkNRdb6hE&feature=youtu.be) about how to have a five-digit salary in Brazil by Bruno Ticami (Python Brazil 2013). Here are some questions and advises that he talked about:
+<!--more-->
+
 
 * Do you worth a five-digit salary TODAY? Why do you have your current salary instead?
 * What do you do to actually worth a five-digit salary?

@@ -19,6 +19,7 @@ translationKey: review-code
 
 Code review is a complicated task and can become overwhelming, specially when you have no idea how to do it.
 However, code review can be a powerful tool to increase code quality and assure “healthy” deploys.
+<!--more-->
 
 <center>
 <img src="https://cdn-images-1.medium.com/max/800/1*EFsX-ndhmx4CFsI98zSvKA.gif" style="height:200px;"/>

@@ -14,6 +14,7 @@ date: 2020-05-09T18:25:52-05:00
 ---
 
 As the years went by, I developed a framework to deal with my impostor syndrome in different scales it occurs. It is not something super complex or with a deep theoretical background, but it worked for me and I've been using it for the past year.
+<!--more-->
 
 Feeling like a fraud comes to me in different moments and scales. Sometimes I feel like a fraud because it has been 3 days and I couldn't accomplish something. Sometimes is because a major life plan failed. To solve that problem I divided my life in generally 3 time scales: weeks, months and years.
 
