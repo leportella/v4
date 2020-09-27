@@ -139,12 +139,8 @@ Done! You can add comments to any Book or Cd instance, are retrieve it by simply
 ```python
 >>> book.comments.all()
 ```
-
-<center>
-  <img src="https://cdn-images-1.medium.com/max/800/1*mPUc2fU1VPbW6gjbw1DjeQ.gif" style="height:200px;"/>
-</center>
-<br/>
-
+ 
+ {{<figure src="https://cdn-images-1.medium.com/max/800/1*mPUc2fU1VPbW6gjbw1DjeQ.gif#center">}}
 
 Another good news is that you can use it in **prefetch_related** to optimize queries with no worries.
 

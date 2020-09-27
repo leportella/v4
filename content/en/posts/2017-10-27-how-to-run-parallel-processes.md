@@ -16,13 +16,7 @@ translationKey: parallel-processes-python
 This week I ran into a case were I should run several scripts with analysis that could run simultaneously. The analysis results would then be used as basis for another analysis, that could only run after all other scripts ended. <!--more-->
 Something like this:
 
-<center>
-  <img src="https://i.imgur.com/XuMDlhb.png" style="height:300px;"/>
-</center>
-<center>
-<i>We have 3 processes (analysis scripts) that are independents one from another and can run in parallel. The 4th process is a script that depends on the outputs of the first three scripts</i>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/XuMDlhb.png#center" caption="We have 3 processes (analysis scripts) that are independents one from another and can run in parallel. The 4th process is a script that depends on the outputs of the first three scripts">}}
 
 We wanted some things:
 
@@ -111,14 +105,7 @@ if all processes ran in a sequence, we would have to wait all the time of **proc
 then wait for **process2** and only then **process3** would be initiated. 
 Since we are executing them all at the same time, the processes will be finalized in the order from the fastest to the slowest. The result is:
 
-<center>
-<img src="https://i.imgur.com/2rI9yJM.png" style="height:300px;"/>
-</center>
-<center>
-<i>Total time used in the process of the 3 scripts with the results in the order the scripts were ended.</i>
-</center>
-<br/>
-
+{{<figure src="https://i.imgur.com/2rI9yJM.png#center" caption="Total time used in the process of the 3 scripts with the results in the order the scripts were ended.">}}
 
 Our **process2**, faster, finishes almost immediately. **Process3** still takes a while and 
 **process1** takes all 10seconds to end it. This way, instead of taking ~13 seconds to run 
@@ -152,10 +139,7 @@ pool.map(run_process, other)
 
 This way, the result is this:
 
-<center>
-  <img src="https://i.imgur.com/SvmtS0H.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/SvmtS0H.png#center">}}
 
 We have the first two processes running in parallel until both are finished and only then 
 **process3** is executed.

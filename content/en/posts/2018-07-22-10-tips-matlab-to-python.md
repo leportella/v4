@@ -30,17 +30,13 @@ main difficulties and some tools that helped me in the transition.
 Just to make it clear, everything that is presented here is in Python 3 
 because Python 2 is [about to retire](https://pythonclock.org/) :(
 
-<center>
-  <img src="https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif#center">}}
 
 It is not the purpose of this post to discuss which tool is better, 
 but to show how to make easier the transition from Matlab to Python :)
 
 
-## 1. Numbers, letters and other "little things" ...
+## Numbers, letters and other "little things" ...
 
 With Matlab we can create vectors and arrays of numbers or texts, which are 
 intuitive and quite useful. Basically, we can access any value
@@ -58,20 +54,16 @@ Besides, there is a difference between decimal numbers (**float**)
 and **integers**. That is, first it is better to get acquainted with 
 existing Python types of variables and structures! That's a pretty big advantage!
 
-<center>
-  <img src="https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif" style="height:300px;"/>
-</center>
-<center>
-<i>Me when I first saw dictionaries and tuples</i>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif#center">}}
+
+*Me when I first saw dictionaries and tuples*
 
 If you are in doubt about your 
 [variable type](https://docs.python.org/3/library/stdtypes.html), just type in the 
 intepreter: `type(variable)` ;)
 
 
-## 2. Working with words and numbers
+## Working with words and numbers
 
 Whether through dictionaries or lists (standard Python frameworks) 
 or DataFrames (Pandas structure of matrix/array), Python is quite easy 
@@ -80,7 +72,7 @@ he same can't be said of Matlab, where entering text complicates everything!
 
 Listing of type `list = [1, 'two', [1,2,3], {'key': 1}]` it is totally acceptable!
 
-## 3. Accessing values in lists (and list of lists)
+## Accessing values in lists (and list of lists)
 
 In Matlab, counting lists starts at 1 and it is accessed through parentheses. 
 The last value can be accessed through the word "end".
@@ -126,7 +118,7 @@ print(complex_list[0][2])
 print(complex_list[1][1])
 ```
 
-## 4. Blocks do not end with "end" and need ":"
+## Blocks do not end with "end" and need ":"
 
 In Matlab, the simplest way to make a loop is shown below, where you have a 
 list and enumerate them through its items. In this loop below, 
@@ -172,7 +164,7 @@ for item in my_list:
 print('Outside of loop')
 ```
 
-## 5. Functions and methods available
+## Functions and methods available
 
 In Matlab, several functions are loaded by default, for example the basic math 
 functions such as sine and cosine. Python has a different philosophy where 
@@ -240,7 +232,7 @@ my_list.append('four')
 my_list.count('3')
 ```
 
-## 6. How to know which module I should use?
+## How to know which module I should use?
 
 If you are using Matlab, [Numpy](http://www.numpy.org/), 
 [Scipy](https://www.scipy.org/), 
@@ -251,7 +243,7 @@ have already done something similar that are available in
 [Github](http://github.com/), [Stackoverflow](http://stackoverflow.com/) or 
 check foruns.
 
-## 7. Where do I see the loaded variables?
+## Where do I see the loaded variables?
 
 One of the most recurring problems in Matlab was that we were used to 
 visualizing variables. The "terminal" was there, but also the script we were 
@@ -272,33 +264,27 @@ to quickly find the discrepancies) and a terminal with ipython in
 the lower right part. F9 also works the same way! 
 For me, it was love at first sight ❤.
 
-<center>
-  <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif#center">}}
 
 Look at its face:
 
-<center>
-  <img src="https://i.imgur.com/RgKovVN.png" style="height:400px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/RgKovVN.png#center">}}
 
 Example of Spyder running with an 11-line script (left), variables loaded (upper right), and ipython terminal (lower right)
 
-## 8. Seeking help
+## Seeking help
 
 If you don't know what a function does, simply type: `help(function)` and be 
 happy :) If you have it in Spyder, you can go on the function and type `Ctrl + I`.
 
-## 9. Orientation to object
+## Orientation to object
 
 Although Matlab constructed something similar to Object Orientation, 
 Python is strictly oriented towards object. 
 As you progress with language, the concepts of classes 
 (with methods, attributes and class inheritance) should be studied further. Stay tuned!
 
-## 10. Code Formatting
+## Code Formatting
 
 There are a number of good code practices guides, such as acceptable line 
 sizes, how to name your variables, how many rows between functions, and so on. 
@@ -311,10 +297,5 @@ readable pythonic philosophy which is very much rooted in the community.
 To learn more about the suggested style, see [PEP8](https://www.python.org/dev/peps/pep-0008/). 
 To learn more about the Python philosophy go to the terminal and type `import this` and welcome!
 
-<center>
-  <img src="https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif" style="height:300px;"/>
-</center>
-<center>
-  <i>Welcome to the Zen of Python</i>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif#center">}}
+*Welcome to the Zen of Python*

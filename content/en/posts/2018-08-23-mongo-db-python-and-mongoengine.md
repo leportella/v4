@@ -138,10 +138,9 @@ from integers, to list and even new dictionaries.
 The great advantage of using the MongoCompass, is that these documents can be aggregated and expanded for 
 better visualization. Here are the view of the same document agreggated and expanded:
 
-<img src="https://i.imgur.com/p16d738.png" height="400" style="max-width: 20%" />
+{{<figure src="https://i.imgur.com/p16d738.png#center">}}
 
-<img src="https://i.imgur.com/cPCTlSq.png" height="550" style="max-width: 20%" />
-
+{{<figure src="https://i.imgur.com/cPCTlSq.png#center">}}
 
 ## Setting up the MongoEngine
 

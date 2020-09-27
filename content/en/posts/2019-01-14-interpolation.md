@@ -31,9 +31,8 @@ translationKey: missing-data
 AKA magics to plug holes in your dataset
 <!--more-->
 
-<center><img src="https://media.giphy.com/media/MSd5euCFgqULK/giphy.gif" style="height:300px;"/></center>
-
-<center><i>and it is not with little foxes ;)</i></center> 
+{{<figure src="https://media.giphy.com/media/MSd5euCFgqULK/giphy.gif#center">}}
+*and it is not with little foxes ;)*
 
 This is the translation of [this post in portuguese :)](https://medium.com/databootcamp/o-que-fazer-quando-faltam-dados-255ef5508a4f)
 
@@ -51,23 +50,23 @@ All graphics and code are available on [this notebook](https://github.com/leport
 
 We will use the following data to analyze. We have a pretty simple data that has a senoidal shape. We know, before anything, that this data doesn't have abrupt variations and that it should be received in regular time intervals. We can see, then, that the nineth element was lost and this is the data we will focus to fullfil. 
 
-<center><img src="https://i.imgur.com/9Iwfi2x.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/9Iwfi2x.png#center">}}
 
 The original data is in red:
 
-<center><img src="https://i.imgur.com/mcA3Ov9.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/mcA3Ov9.png#center">}}
 
 ## Fill with mean
 
 One possibility is to fill the missing data with the mean value of the whole series. The result is the presented below:
 
-<center><img src="https://i.imgur.com/G53c1JE.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/G53c1JE.png#center">}}
 
 Seems weird, rigth? And it is! Since we know the data general pattern, this alternative is really unsuited. However, this method can be quite usefull depeding on what you have, since the mean of the whole data remains the same.
 
 However, don't be fooled by it! The mean will not change but the other statistical characteristics may (and probably will) change. Because we are adding another data more close to the mean, the standard deviation tend to be smaller. See:
 
-<center><img src="https://i.imgur.com/BDJcVY9.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/BDJcVY9.png#center">}}
 
 ## Interpolation
 
@@ -75,25 +74,25 @@ Interpolation is a mathematical method that adjusts a function to your data and 
 
 Since our data is a curve and not a line, we have a difference between the real original point and the interpolated point. However, since we have a good idea on how our data should behave, this is a pretty good approximation that solves our problem.
 
-<center><img src="https://i.imgur.com/Bwj5Rw5.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/Bwj5Rw5.png#center">}}
 
 Of course, we could have a pretty complex pattern here and linear interpolation could not be enough. Although I am just showing one type, we have several different types of interpolation, one for each reality you may bump into. Just in Pandas we have the following options: ‘linear’, ‘time’, ‘index’, ‘values’, ‘nearest’, ‘zero’, ‘slinear’, ‘quadratic’, ‘cubic’, ‘barycentric’, ‘krogh’, ‘polynomial’, ‘spline’, ‘piecewise_polynomial’, ‘from_derivatives’, ‘pchip’, ‘akima’.
 
-<center><img src="https://media.giphy.com/media/j9djzcMmzg8ow/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/j9djzcMmzg8ow/giphy.gif#center">}}
 
 ## Interpolation when data pattern is unknown
 
 It is important to say that not all temporal signals have a clear pattern such as that we just saw. So, let's take a look to a second temporal series. 
 
-<center><img src="https://i.imgur.com/dQclr46.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/dQclr46.png#center">}}
 
 In this case, we don't know the pattern and we can't predict for sure the data that was lost and we can't predict the low value it actually had. Thus, linear interpolation may not be the best choice:  
 
-<center><img src="https://i.imgur.com/5dosVQY.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/5dosVQY.png#center">}}
 
 In this case filling the missing value with the mean value of the series makes more sense! Since no data will actually predict the missing value, the value of the mean will keep the data align to its overall behavior and you get your continuity back. Depending on which kind of analysis you want to do, this could be exactly what you need.
 
-<center><img src="https://i.imgur.com/Pkd5SX4.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/Pkd5SX4.png#center">}}
 
 In our case the missing data and the mean have a really close value, but this is not always the case. Imagine if the missing point was the pick in the beginning of the data?
 
@@ -101,22 +100,21 @@ In our case the missing data and the mean have a really close value, but this is
 
 Another option is to replace the missing data with data that surrounds it. We can, for instance, replace for the previous data. This technique is called Forward Fill because it propagates existent data forward. 
 
-<center><img src="https://i.imgur.com/8C7rA6P.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/8C7rA6P.png#center">}}
 
 We can do the opposite as well, it is called Backward Fill:
 
-<center><img src="https://i.imgur.com/SqEqMlg.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/SqEqMlg.png#center">}}
 
 Table with statistics of all series:
 
-<center><img src="https://i.imgur.com/Uqq6cjP.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/Uqq6cjP.png#center">}}
 
 ## Which to use?
 
 Hard to say. If your data has a known pattern, probably some kind of interpolation will fit better. However, if the pattern is unknown, I recommend you to evaluate the analysis you want to make and choose the best method for it or the one that gives you the best result :)
 
-<center><img src="
-https://media.giphy.com/media/OmAdpbVnAAWJO/giphy.gif" style="height:300px;"/></center>
+{{<figure src="https://media.giphy.com/media/OmAdpbVnAAWJO/giphy.gif#center">}}
 
 ## Cool references
 

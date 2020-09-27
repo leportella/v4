@@ -50,10 +50,7 @@ last_modified: 2018-05-01T14:25:52-05:00
 Sometimes I get just really lost with all available commands and tricks one can make on pandas. 
 This way, I really wanted a place to gather my tricks that I really don't want to forget.
 
-<center>
-  <img src="https://media.giphy.com/media/EwO9pwLnPlttu/giphy.gif" style="height:300px;"/>
-</center>
-</br>
+{{<figure src="https://media.giphy.com/media/EwO9pwLnPlttu/giphy.gif#center">}}
 
 # Summary
 

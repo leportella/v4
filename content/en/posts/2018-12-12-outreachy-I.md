@@ -22,7 +22,7 @@ redirect_from: english/2018/12/12/outreachy-I.html
 date: 2018-12-12T19:48:52-05:00
 ---
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png#center">}}
 
 Hi :)
 
@@ -33,8 +33,8 @@ As part of my training, during the next three months, I'll be sharing blog posts
 
 Hope you like it ❤️
 
-<center><img src="https://media.giphy.com/media/1136UBdSNn6Bu8/giphy.gif" style="height:200px;"/></center>
-<center><i>This is me writing this post</i></center>
+{{<figure src="https://media.giphy.com/media/1136UBdSNn6Bu8/giphy.gif#center">}}
+*This is me writing this post*
 
 ## Overview
 
@@ -51,13 +51,13 @@ A **POST** that would receive a new password and call the right function to do t
 
 The end result was this:
 
-<center><img src="https://i.imgur.com/nWKzwbs.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/nWKzwbs.png#center">}}
 
 This job was very close to the main Outreachy project I was applying. Now that I am in, my job is to construct a Native Authenticator that will help admins to manage their users (hopefully) seamlessly. Thus, I will use the knowledge I got previously and expand it :)
 
 ## The first guidelines
 
-<center><img src="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/tHufwMDTUi20E/giphy.gif#center">}}
 
 On the week before the program starts, I did a call with one of my mentors, Yuvi, to align some of the things we were wishing to accomplish on our first week.
 
@@ -88,7 +88,7 @@ Now I had a small structure and tests was time to [add some checks on my pull re
 * I had indentation problems (number of spaces are not constant on the file o.O) 
 * I had permission problems: I had to add **sudo** before any `pip install … `. I tried adding a `--user` flag, but with no success. Left this for later improvements and used `sudo` anyway 😅
 
-<center><img src="https://media.giphy.com/media/3oz8xZwLzHuL2vt2yQ/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/3oz8xZwLzHuL2vt2yQ/giphy.gif#center">}}
 
 My next task was to [create an official documentation](https://github.com/jupyterhub/nativeauthenticator/pull/9), for that I used the [ReadTheDocs Sphinx](https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html) project to create a initial documentation structure. Added a small *Quickstart* file and [published it](https://native-authenticator.readthedocs.io/en/latest/) using Read the Docs. This was pretty cool! [I tried doing a pull request before the CircleCI phase](https://github.com/jupyterhub/nativeauthenticator/pull/6), but it got so messed up with all the commits I was doing that I decided to start over on a new pull request all fresh an clean.
 
@@ -104,6 +104,4 @@ Now, I have to start getting deeper on things and make the authenticator work a 
 
 See ya next week!
 
-
-<center><img src="https://media.giphy.com/media/5bdhq6YF0szPaCEk9Y/giphy.gif" style="height:200px;"/></center>
-
+{{<figure src="https://media.giphy.com/media/5bdhq6YF0szPaCEk9Y/giphy.gif#center">}}

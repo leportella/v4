@@ -28,12 +28,11 @@ Hello there! This is the second report on my work on [Outreachy](https://www.out
 
 Now, almost one month after my first text, here I am to tell you more about what have I done and what were my struggles this time!
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png#center">}}
 
 ## Vacation
 
-<center><img src="https://media.giphy.com/media/k7NvI2SBTgA1NuO5Tu/giphy.gif" style="height:300px;"/></center>
-
+{{<figure src="https://media.giphy.com/media/k7NvI2SBTgA1NuO5Tu/giphy.gif#center">}}
 
 Just after I finished my first weeks of work here I was also finishing my moving from Brazil to Ireland. So things were absolutely crazy and I couldn't focus at all. I was pretty nervous to move to another city, country and continent and this was making me unable to focus. We decided that was best for me to take vacations during this stressing period. 
 
@@ -59,7 +58,7 @@ I got confused with a lot of  `!` and `[]` but finally I got it to work (and you
 
 I also tried to add more tests to my Handler, but this is way more complicated than I thought, and I was told to let it go for now.
 
-<center><img src="https://media.giphy.com/media/nisRCk7fmAxeLt8S72/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/nisRCk7fmAxeLt8S72/giphy.gif#center">}}
 
 ## Organizing things
 
@@ -72,8 +71,7 @@ I wanted to have a SingUp page, where new users could add information to request
 
 Whenever a user entender a path on the browser, the path (or endpoint) will lead to a `Handler` class and for a specific method in that class. If the user makes a `GET` to the page, it will look for the `get` method inside the `Handler` class. This method, will then return a `html` template back to the user. 
 
-
-<center><img src="https://i.imgur.com/F2AEvCq.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/F2AEvCq.png#center">}}
 
 [I added](https://github.com/jupyterhub/nativeauthenticator/pull/11/) an endpoint called `/signup` and created a simple Handler that would have only a `get` method that would return a simple `html` page written "signup page". 
 
@@ -94,9 +92,9 @@ I had some problems with imports and while studying it a bit, I found [this arti
 
 This was pretty tricky. I studied the internals of Jupyter trying to figure out where was the database and how the hack could I add some table to it. 
 
-<center><img src="https://media.giphy.com/media/gKsJUddjnpPG0/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/gKsJUddjnpPG0/giphy.gif#center">}}
 
-<center><i>Me trying to understand where the database was</i></center>
+*Me trying to understand where the database was*
 
 Finally I gave up and asked Yuvi and... it was on my authenticator class as `self.db` 😅. 
 
@@ -135,7 +133,6 @@ def app():
 And now I could simple pass the fixture to my test function and use its database without any problem:
 
 ```python
-```python
 from nativeauthenticator import NativeAuthenticator
 
 async def test_basic(app):
@@ -143,8 +140,7 @@ async def test_basic(app):
     # ...
 ```
 
-<center><img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" style="height:200px;"/></center>
-
+{{<figure src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif#center">}}
 
 ## So... what's next?
 
@@ -161,9 +157,6 @@ Now some features we would like to add:
 * Block users after number of failed logins
 * ... much more! Let's not spoil it :)
 
-<center><img src="
-https://media.giphy.com/media/3bznFj6OB5381BEjDu/giphy.gif" style="height:250px;"/></center>
+{{<figure src="https://media.giphy.com/media/3bznFj6OB5381BEjDu/giphy.gif#center">}}
 
 See you later for more tales of struggles!
-
-

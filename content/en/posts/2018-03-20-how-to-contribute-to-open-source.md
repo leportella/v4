@@ -63,10 +63,7 @@ the article nor in the documentation. Hey! I can contribute to this!
 Big projects usually have a file to indicate how the expect your contribution to occur. In the social-app-django, I found the 
 contribution guide:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="/assets/img/posts/contribute.png#center">}}
 
 From that document, I knew that the first step was having a Github account (check!), add an issue explaining the problem and, 
 if possible, make a project fork. Let's go!
@@ -84,15 +81,9 @@ anytime soon!
 
 In my case, I explained my problem, showed where I got help and said that I could help with this.
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute2.png" style="height:300px;"/>
-</center>
+{{<figure src="/assets/img/posts/contribute2.png#center">}}
 
-<center>
-<i><a href="https://github.com/python-social-auth/social-app-django/issues/44">My issue</a> showed where I found the solution and shows I am willing to contribute</i>
-</center>
-<br/>
-
+[My issue](https://github.com/python-social-auth/social-app-django/issues/44) showed where I found the solution and shows I am willing to contribute
 
 I waited for 8 days but got no answer. Decided to go forward. 
 
@@ -113,21 +104,12 @@ I read the documentation, understood the code and finally, I was able to make tw
 
 My open-source contribution was done!
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute3.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="/assets/img/posts/contribute3.png#center">}}
 
 This may seem simple to some people, but it took me some hours of code reading trying to figure this out. Luckly, this 
 small contribution will help other developers and they will be wuicker on make things done. So, if you have no ideia how 
 to contribute, how about helping documentation? Did you got stuck somewhere because of wrong docs? Why don't you help them?
 
-<center>
-<h3>If you want to go fast, go alone. If want to go far away, go together (African Proverb)
-</h3>
-</center>
+### If you want to go fast, go alone. If want to go far away, go together (African Proverb)
 
-<center>
-  <img src="https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif" style="height:400px;"/>
-</center>
-<br/>
+{{<figure src="https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif#center">}}

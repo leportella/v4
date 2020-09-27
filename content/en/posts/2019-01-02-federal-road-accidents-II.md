@@ -54,11 +54,11 @@ Through all notebooks I used the same strategy. My cleaned dataset consisted in 
 
 This way I used most of my dataset but not all to train my model. I still was able to test my model by using a set that it doesn't have seen previously. This is a way to try to verify if my model is not overfitting to the data and it can generalize well to data that it hasn't seen before.
 
-<img src="https://i.imgur.com/UZ3XMLU.png" style="height:300px;"/>
+{{<figure src="https://i.imgur.com/UZ3XMLU.png#center">}}
 
 I then used my *test dataset* to check how well my model was doing. I used the `X_test` (only features of my *test dataset*) to make predictions and then compared the result of the model (`y_pred`) with the actual data (`y_test`). With this comparison I had information of accuracy, F1 score and precision and recall for each class, which helped decide which model was doing better.
 
-<img src="https://i.imgur.com/YwnibIT.png" style="height:300px;"/>
+{{<figure src="https://i.imgur.com/YwnibIT.png#center">}}
 
 ## Initial steps
 
@@ -96,7 +96,7 @@ First I created 3 models: one for each class (Models 10.0, 10.1 and 10.2). The f
 
 The general schema can be seen on the figure below:
 
-<img src="https://i.imgur.com/tsMohnH.png" style="height:300px;"/>
+{{<figure src="https://i.imgur.com/tsMohnH.png#center">}}
 
 Even though this was the most complex strategy I used, this didn’t result in a good improvement of the prediction. A general accuracy of 0.56, but a recall of only 0.39 for class 1.
 
@@ -121,14 +121,13 @@ I tried several models in the process of trying to get a better performance. Dur
 
 ## Evaluating all the models
 
-![](https://media.giphy.com/media/vsZF2hC9cH0Mo/giphy.gif)
+{{<figure src="https://media.giphy.com/media/vsZF2hC9cH0Mo/giphy.gif#center">}}
 
 After 10 models  (with accuracy score and F1 scores for each)  and 3 classes (with values of recall, precision and F1 score for each) things started to get really confusing. I could not visualize which model was better for what and I definitely couldn’t figure out where could I be better.
 
 The final solution for me was to create a spreadsheet that contained all the values and format it with a color bar from 0 to 1. This way, I could visualize what was happening and filter the best models. This became a good friend of mine :) Totally recommend it! If you would like to use mine as a baseline, feel free to download it [here](https://docs.google.com/spreadsheets/d/1G0UfnlyHtR_aMCPGND4_KZXvYn5xs86nWLkW0Is_qqU/edit?usp=sharing).
 
-![](https://i.imgur.com/ivQGug8.png)
-
+{{<figure src="https://i.imgur.com/ivQGug8.png#center">}}
 
 ## Final model
 
@@ -148,10 +147,9 @@ The results here presented are a combination of the best algorithm and variables
 
 On the figure below we can see the confusion matrix of the best binary model (notebook 20). We can see that only 182 accidents that had not victims were classified as with victims, while 1602 with victims were classified as without victims. The table below has the results of precision, recall and f1-score for each class.
 
+{{<figure src="https://i.imgur.com/Tne5rRO.png#center">}}
 
-<img src="https://i.imgur.com/Tne5rRO.png" style="height:300px;"/>
-
-<img src="https://i.imgur.com/FC8QnIZ.png" style="height:100px;"/>
+{{<figure src="https://i.imgur.com/FC8QnIZ.png#center">}}
 
 ## Next steps
 

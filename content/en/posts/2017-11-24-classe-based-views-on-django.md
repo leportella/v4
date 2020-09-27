@@ -37,14 +37,10 @@ classes that are almost ready for use and that your class can inherit. After tha
 
 I will show you step by step the evolution of a system from function, to the problems I faced until a system based on pre-existing classes.
 
-<center>
-  <img src="https://media.giphy.com/media/IYjiXRV622OBO/giphy.gif" style="height:300px;"/>
-</center>
-<center>
-<i>TLDR → See the <a href="https://github.com/leportella/class-based-views-example">project code here</a> and go in peace :)</i>
-</center>
-<br/>
 
+{{<figure src="https://media.giphy.com/media/IYjiXRV622OBO/giphy.gif#center">}}
+
+TLDR → See the [project code here](https://github.com/leportella/class-based-views-example) and go in peace :)
 
 ## You're constructing a system and need a function to return templates
 
@@ -332,7 +328,4 @@ To make things easier, I make a [little project](https://github.com/leportella/c
 
 Hope this is helpful to you as it was for me!
 
-<center>
-  <img src="https://media.giphy.com/media/6gy2ySS6nXaDe/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/6gy2ySS6nXaDe/giphy.gif#center">}}

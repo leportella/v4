@@ -120,17 +120,11 @@ $ git rebase -i 123456
 
 It will open your editor with the commit options written as *pick*
 
-<center>
-  <img src="https://i.imgur.com/6jbkv2b.png" style="height:300px;"/>
-</center>
-</br>
+{{<figure src="https://i.imgur.com/6jbkv2b.png#center">}}
 
 Change it to *edit*
 
-<center>
-  <img src="https://i.imgur.com/vbPbIAe.png" style="height:300px;"/>
-</center>
-</br>
+{{<figure src="https://i.imgur.com/vbPbIAe.png#center">}}
 
 Your branch name is now changed to the commit's hash. Edit your files then:
 
