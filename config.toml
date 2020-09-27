@@ -24,6 +24,7 @@ startLevel = 2
         table_of_contents = "Topics"
         readin = "Read in"
         flag = "🇮🇪"
+        similar_posts = "Check posts in similar categories"
   [languages.pt-br]
     title = "Meu blog"
     weight = 2
@@ -35,6 +36,7 @@ startLevel = 2
         table_of_contents = "Tópicos"
         readin = "Leia em"
         flag = "🇧🇷"
+        similar_posts = "Textos em categorias semelhantes"
 
 [menu]
 [[menu.left]]
@@ -47,6 +49,11 @@ identifier = "blog"
 name = "🇧🇷 Em Português"
 url = "/pt-br/"
 weight = 2
+[[menu.left]]
+identifier = "cat"
+name = "Categories"
+url = "/categories/"
+weight = 3
 
 [[menu.right]]
 identifier = "about"
