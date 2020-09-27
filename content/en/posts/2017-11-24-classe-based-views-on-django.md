@@ -12,7 +12,7 @@ tags:
   - Class Based Views
   - ORM
   - framework
-featured-img: ccbv
+featured-img: talk
 permalink: class-based-views-on-django.html
 redirect_from: /english/2017/11/24/classe-based-views-on-django.html
 date: 2017-11-24T14:25:52-05:00
