@@ -3,8 +3,8 @@
 {{ end }}
 
 {{ define "main" }}
-<h1>{{ .Section }}</h1>
-<ul>
+<h1>{{ .Section | title }}</h1>
+<ul class="{{ if in "categories tags" .Section }}categories{{ end }}">
 {{ range .Pages }}
     <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
 {{ end }}

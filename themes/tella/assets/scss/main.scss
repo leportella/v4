@@ -1,5 +1,8 @@
 @import "app";
 
+.container h1 {
+    margin-bottom: 1.5em;
+}
 h2 {
     margin: 1.5em 0 1em 0;
 }
@@ -45,4 +48,18 @@ h3 {
     .translations {
         display: block;
     }
+}
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.categories li {
+    list-style: none;
+    padding: 1em 1.3em;
+    margin: 0 1em 1em 0;
+    background: rgb(248, 248, 248);
+    border-radius: 8px;
 }
