@@ -33,7 +33,7 @@ date: 2020-07-05T18:25:52-05:00
 <br/>
 
 
-Se você me disse que está aprendendo a programar (ou qualquer coisa, na verdade), é provável que eu tenha lhe aconselhado a ter seu blog e escrever nele. Embora eu tenha discutido esse assunto pessoalmente com muitas pessoas, há apenas pequenos textos sobre ele em posts que escrevi sobre outros assuntos diversos ([[1]](https://leportella.com/my-experience-with-blogs.html), [[2]](https://leportella.com/boosting-your-career.html)). A postagem de hoje é dedicada aos motivos pelos quais *você deveria ter seu próprio blog (independente)*. Como as pessoas têm maneiras diferentes de ver o mundo, eu dividi as razões em duas seções:
+Se você me disse que está aprendendo a programar (ou qualquer coisa, na verdade), é provável que eu tenha lhe aconselhado a ter seu blog e escrever nele. <!--more--> Embora eu tenha discutido esse assunto pessoalmente com muitas pessoas, há apenas pequenos textos sobre ele em posts que escrevi sobre outros assuntos diversos ([[1]](https://leportella.com/my-experience-with-blogs.html), [[2]](https://leportella.com/boosting-your-career.html)). A postagem de hoje é dedicada aos motivos pelos quais *você deveria ter seu próprio blog (independente)*. Como as pessoas têm maneiras diferentes de ver o mundo, eu dividi as razões em duas seções:
 
 
 - Razões filosóficas para se ter um blog

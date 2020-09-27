@@ -15,7 +15,7 @@ date: 2020-04-13T18:25:52-05:00
 translationKey: scala-II
 ---
 
-Esse artigo é a continuação do artigo [Minha saga aprendendo Scala - Parte 1](https://leportella.com/pt-br/2020/04/01/scala-parte-I.html). 
+Esse artigo é a continuação do artigo [Minha saga aprendendo Scala - Parte 1](https://leportella.com/pt-br/2020/04/01/scala-parte-I.html).  <!--more--> 
 
 No último artigo, falei sobre algumas coisas que aprendi sobre Scala. Embora [meu tweet sobre o post](https://twitter.com/leleportella/status/1237322864514281472) tenha gerado alguns comentários sobre a linguagem (bons e ruins), ainda estou decidida a pelo menos [terminar o curso que comecei a fazer](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/). Até agora, a sensação é de que estou começando a entender algumas coisas e a ficar mais confortável, embora esteja muito longe das coisas mágicas que me assustam.
 

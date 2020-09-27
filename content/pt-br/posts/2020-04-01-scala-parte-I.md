@@ -16,7 +16,7 @@ translationKey: scala-I
 ---
 
 Eu decidi que eu precisava aprender uma nova linguagem e a linguagem que escolhi foi Scala. Eu adicionei como meta para 2020 eu, pelo menos, me sentir um pouco confortável com essa linguagem, então aqui estou. 
-
+<!--more--> 
 Até agora, minha história com Scala tem sido... frustrante (para dizer o mínimo). Eu estava tentando aprender sozinha e sem muito alarde - porque é muito difícil - mas decidi escrever o que aprendi e o que foi difícil no processo. Isso pode ser útil para outra pessoa, mas principalmente isso é para mim. Eu utilizo artigos como esse para me ajudar a estudar e ajudar a sentir que estou evoluindo:
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Uma dica pra quem não acha um ponto final pra um estudo: escreva sobre o assunto que está estudando. Finalizar um post sobre o tema dá a sensação de dever cumprido/etapa ultrapassada além de ajudar na fixação do conteúdo e organização do estudo. <a href="https://t.co/SjliCeQCP6">https://t.co/SjliCeQCP6</a></p>&mdash; Leticia Portella (@leleportella) <a href="https://twitter.com/leleportella/status/1238519625631043585?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

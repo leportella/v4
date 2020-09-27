@@ -8,7 +8,8 @@ tags:
   - ciência de dados
 featured-img: julia
 permalink: julia.html
-date: 2020-06-24T18:25:52-05:00
+date: 2019-05-22T18:25:52-05:00
+last_modified: 2020-06-24T18:25:52-05:00
 ---
 
 
@@ -17,7 +18,7 @@ date: 2020-06-24T18:25:52-05:00
 <br/>
 
 
-Julia é uma linguagem de programação que eu tenho muito ouvido falar há algum tempo e eu sei que ela merecia minha atenção. No entanto, a quantidade de bibliotecas e frameworks de aprendizado de máquina e deep learning que surgiram e acabaram entrando na frente atrasaram o meu primeiro contato com ela. Nós do Pizza de Dados](http://pizzadedados.com/), querendo dar o melhor conteúdo pros nossos ouvintes, decidimos fazer [um episódio sobre a linguagem](https://podcast.pizzadedados.com/e/episodio-021/). Foi aí que eu precisei sentar o bumbum na cadeira e de fato olhar para essa desconhecida porém intrigante linguagem. E eu confesso que acabei me apaixonando pelo pouco que estudei! Então a gente precisa conversar sobre essa linguagem maravilhosa que não está tendo a visibilidade que ela merece.
+Julia é uma linguagem de programação que eu tenho muito ouvido falar há algum tempo e eu sei que ela merecia minha atenção. <!--more-->  No entanto, a quantidade de bibliotecas e frameworks de aprendizado de máquina e deep learning que surgiram e acabaram entrando na frente atrasaram o meu primeiro contato com ela. Nós do Pizza de Dados](http://pizzadedados.com/), querendo dar o melhor conteúdo pros nossos ouvintes, decidimos fazer [um episódio sobre a linguagem](https://podcast.pizzadedados.com/e/episodio-021/). Foi aí que eu precisei sentar o bumbum na cadeira e de fato olhar para essa desconhecida porém intrigante linguagem. E eu confesso que acabei me apaixonando pelo pouco que estudei! Então a gente precisa conversar sobre essa linguagem maravilhosa que não está tendo a visibilidade que ela merece.
 
 Obs: Eu uso muito da minha base de Python como comparação ao que estava vendo em Julia. Se você está começando agora em programação, ciência de dados e Python, recomendo fortemente ler [este outro texto antes de continuar nesse texto]](https://leportella.com/english/2019/01/25/common-data-science-tools.html) 🙃
 
