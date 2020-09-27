@@ -66,9 +66,7 @@ last_modified_at: 2020-09-15T18:25:52-05:00
 date: 2020-09-15T18:25:52-05:00
 ---
 
-## What's LaTeX?
-
-[LaTeX](https://www.latex-project.org/) (yes, written exactly like this) is a system that allows you to write documents without worrying about the style of the presentation. You can say that it is like you are coding a text instead of using Microsoft Word or Google Drive. 
+[LaTeX](https://www.latex-project.org/) (yes, written exactly like this) is a system that allows you to write documents without worrying about the style of the presentation. <!--more--> You can say that it is like you are coding a text instead of using Microsoft Word or Google Drive. 
 
 Because all the formatting definitions are defined in a single place (the main document), you just need write plain text and LaTeX will worry on how to render it the correct way. This is highly used by scientific magazines, universities thesis. book publishers and many more people.  For instance, universities and scientific journals usually have a template that you can download and the document will be immediately in the formatting it should be. This also includes formatting of bibliography that can be quite painful (trust me). 
 
@@ -78,11 +76,7 @@ I have used LaTeX before (waaaaaaaaaaaay back) and it was painful. At the time t
 
 Since I started playing with it again these days I decided to create this introduction to LaTeX 🤓
 
-
-<center>
-  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" style="height:250px;"/>
-</center>
-<br/>
+{{< figure src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif#center" width="250px">}}
 
 
 ## Installation
@@ -155,10 +149,8 @@ pdflatex mydox.tex
 
 And you already have something that looks so pretty...
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/latex1.png" style="height:250px;"/>
-</center>
-<br/>
+{{< figure src="/assets/img/posts/latex1.png#center" width="250px">}}
+
 
 You will see that along with the PDF file, LaTeX created two additional files `*.aux` and `*.log`. These are auxiliary files and they can be deleted afterwards with no problem. 
 
@@ -256,11 +248,7 @@ Now I can go to another chapter and reference this chapter:
 As we will see in chapter \ref{chap:my-first-chapter}, ...
 ```
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/latex2.png" style="height:200px;"/>
-</center>
-<br/>
-
+{{< figure src="/assets/img/posts/latex2.png#center">}}
 
 The `\label` command can be used by any division and will be later used for tables and images as well!
 
@@ -313,10 +301,7 @@ Another cool package that I like is hyperref. It makes the table of contents, im
 
 Now any reference will be displayed as this:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/latex3.png" style="height:200px;"/>
-</center>
-<br/>
+{{< figure src="/assets/img/posts/latex3.png#center">}}
 
 If you need to display code within your document, check [the very brief post I made about minted](https://leportella.com/minted-vscode.html). 
 
@@ -371,19 +356,12 @@ It became kind of annoying to write the document in one place, run the commands 
 
 VSCode solved all my problems! You can see in the figure below that on the left side, I have a LaTeX extensions that has a quick-link to any division and label I add to the document. I can divide the main section between the tex files and the pdf . The cool thing is that VSCode already regenerates everything once you save a `*.tex` file but you still have the option to run the command on the bottom terminal:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/latex4.png" style="height:500px;"/>
-</center>
-<br/>
+{{< figure src="/assets/img/posts/latex4.png#center" width="700px">}}
 
 
 And by adding the LaTeX extension, you can also have access to some pretty useful commands, like and automatic command for deleting auxiliary files:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/latex5.png" style="height:180px;"/>
-</center>
-<br/>
-
+{{< figure src="/assets/img/posts/latex5.png#center">}}
 
 I am not a super fan of very big IDEs... but omg this made my life 1000 times easier!
 

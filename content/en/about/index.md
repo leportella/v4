@@ -34,4 +34,4 @@ I am very proud of it. So, if you ask me about it... I'll probably go on and on 
 
 It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could ever imagine. 
 
-{{< figure src="/assets/img/lights.jpg#center" title="Steve Francia" width="200px">}}
+{{< figure src="/assets/img/lights.jpg#center" width="200px">}}
