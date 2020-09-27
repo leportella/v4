@@ -13,6 +13,9 @@ permalink: native-auth.html
 date: 2020-06-24T18:25:52-05:00
 ---
 
-Slides disponíveis [aqui](https://speakerdeck.com/leportella/apresentando-um-novo-autenticador-para-o-jupyterhub)
+Palestra dada na Python Floripa Online 
+<!--more-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yK7vsVnbbN8?start=6955" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube "yK7vsVnbbN8?start=6955">}}
+
+Slides disponíveis [aqui](https://speakerdeck.com/leportella/apresentando-um-novo-autenticador-para-o-jupyterhub)

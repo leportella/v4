@@ -32,29 +32,16 @@ Eu me sinto uma fraude em diferentes momentos e escalas. Às vezes me sinto uma 
 Basicamente, crio um novo documento toda semana com o ano e o número da semana como identificadores. Eu uso minha configuração do Google Calendário para me mostrar a semana em que estou atualmente.
 
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/calendar.jpg" style="height:250px;"/>
-</center>
-<br/>
+{{< figure src="/assets/img/posts/calendar.jpg#center">}}
 
 Para esse diário eu uso o aplicativo [Bear.app](https://bear.app/) (disponível apenas para MacOs e iOS) que me permite organizar meus documentos usando hashtags. Então, meu documento começa assim:
 
-
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly1.png" style="height:200px;"/>
- </center>
- <center>
-  <i>2020 Semana 19</i>
-</center>
-<br/>
+{{< figure src="/assets/img/posts/weekly1.png#center"caption="2020 Semana 19">}}
 
 Pela forma como eu organizo as *hashtags*, o Bear me permite visualizar as mesas e buscar notas da seguinte forma:
 
+{{< figure src="/assets/img/posts/weekly2.png#center">}}
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly2.png" style="height:250px;"/>
-</center>
-<br/>
 
 Em cada documento (que corresponde a uma semana), eu crio uma subseção para cada dia específico. Cada dia começa com uma lista de coisas a fazer que eu tenho  que fazer. Normalmente, todas as manhãs, eu pego as tarefas que não fiz ontem e as adiciono na subseção de hoje e adiciono as demais tarefas que eu preciso fazer.
 
@@ -71,28 +58,13 @@ Eu também escrevo sobre as coisas que fiz no meu dia. Estas são as coisas que 
 
 Portanto, cada dia fica mais ou menos dessa forma:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly3.png" style="height:300px;"/>
-  </center>
-  <center>
-  <i>Lista de tarefas como: 'precisei ler esse documento', 'tive uma reunião com #quem/daniel', 'me preparei pra sessão de mentoria dessa semana', etc.</i>
-</center>
-<br/>
-
+{{< figure src="/assets/img/posts/weekly3.png#center" caption="Lista de tarefas como: 'precisei ler esse documento', 'tive uma reunião com #quem/daniel', 'me preparei pra sessão de mentoria dessa semana', etc.">}}
 
 Quando a semana termina, geralmente escrevo uma seção *Resumo* (*Overall*) que fornecerá o resumo da semana. Com isso, tenho uma maneira rápida de entender o trabalho que realizei sem seguir a descrição detalhada do trabalho que fiz a cada dia. Mas, ao mesmo tempo, tenho a opção de saber o que fiz em detalhes!
 
 Este é um exemplo (real) de uma das minhas semanas:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly4.png" style="height:250px;"/>
-  </center>
-  <center>
-  <i>Na seção Resumo (Overall), lê-se: "foi uma semana difícil. O meu build não passava, trabalhei até tarde e a maior parte das coisas não funcionaram. Então eu quase não tenho descrição dessa semana :(" </i>
-</center>
-
-<br/>
-
+{{< figure src="/assets/img/posts/weekly4.png#center" caption="Na seção Resumo (Overall), lê-se: \"foi uma semana difícil. O meu build não passava, trabalhei até tarde e a maior parte das coisas não funcionaram. Então eu quase não tenho descrição dessa semana :(">}}
 
 Como você pode ver no Resumo acima, nem todas as semanas são detalhadas e cheias de coisas que eu fiz. Algumas semanas são difíceis e frustrantes. Mas tudo bem! Deixar explícito o que aconteceu e reconhecer que não foi fácil faz me sentir um pouco melhor. 
 

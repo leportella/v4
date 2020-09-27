@@ -23,8 +23,8 @@ Até agora, minha história com Scala tem sido... frustrante (para dizer o míni
 
 Então vou me forçar nesses artigos a organizar meus pensamentos, compartilhar coisas interessantes que encontrei e encontrar algum uso para as minhas frustrações. Essas postagens não pretendem ser um tutorial, mas uma forma de deixar registrado o que eu aprendi (conhecido em inglês como *brain dump*, despejo cerebral).
 
-<center><img src="https://media.giphy.com/media/l41m04gr7tRet7Uas/giphy.gif" style="height:300px;"/></center>
-<br/>
+{{< figure src="https://media.giphy.com/media/l41m04gr7tRet7Uas/giphy.gif#center">}}
+
 
 ## Porque Scala?
 
@@ -54,8 +54,7 @@ Eu também queria ver como as pessoas estão vendo Scala no mercado de trabalho.
 
 Primeiro, comecei a procurar alguns livros recomendados. Em seguida, esbarrei no meu primeiro problema ao tentar passar do Python para o Scala: todos os livros e tutoriais assumem que eu sei Java. E, como você pode imaginar, eu não sei nada de Java!
 
-<center><img src="https://media.giphy.com/media/jxcMNv8wJIlb6Jp9ER/giphy.gif" style="height:300px;"/></center>
-<br/>
+{{< figure src="https://media.giphy.com/media/jxcMNv8wJIlb6Jp9ER/giphy.gif#center">}}
 
 O primeiro livro que alguém me recomendou, [Functional Programming in Scala](https://www.goodreads.com/book/show/13541678-functional-programming-in-scala), era muito confuso e comparava tudo ao Java. Em vez de explicar os recursos, só falava "isso aqui é igual no Java". E era isso. Ótimo! Agora eu preciso aprender uma linguagem para aprender uma outra linguagem? Que??
 
@@ -65,8 +64,7 @@ Finalmente, encontrei um link dos Principais Tutoriais para Aprender Scala e enc
 
 Também recebi uma recomendação impressionante da maravilhosa [Dani Petruzalek](https://twitter.com/danicat83) que ainda não estou estudando por completo: [uma aula do Coursera](https://www.coursera.org/learn/progfun1) e [um livro](https://www.goodreads.com/book/show/5680904-programming-in-scala) de Martin Odersky, o criador do Scala, e essa palestra:
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LH75sJAR0hc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube LH75sJAR0hc>}}
 
 
 ## O que eu aprendi até agora

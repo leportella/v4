@@ -22,19 +22,7 @@ translationKey: sqlalchemy-tutorial
 Todo o código está disponível [neste repositório](https://github.com/leportella/sqlalchemy-basics-post/).
 
 
-## Sumário
-
-* [Criando e entendendo o *Engine* (mecanismo)](#engine)
-* [*Engine* ou conexão?](#engine-connection)
-* [Criando e entendendo Sessões](#sessions)
-* [Criando tabelas](#creating-tables)
-* [Adicionando novos usuários](#add-records)
-* [Fazendo buscas](#queries)
-* [Adicionando tabelas depois de iniciar o banco com create_all](#creating-tables-posterior)
-* [Criando uma relação com chave estrangeira (foreign key)](#foreign-key)
-
-
-<h2 id='engine'>Criando e entendendo o <i>Engine</i> (mecanismo)</h2>
+## Criando e entendendo o *Engine* (mecanismo)
 
 Para começar a trabalhar com o [SQLAlchemy](https://www.sqlalchemy.org/), a primeira coisa que eles ensinam nos tutoriais é que você deve criar um *engine*. O *engine* é como o SQLAlchemy se comunica com o banco de dados. Portanto, ao criar o mecanismo, você deve adicionar a URL do banco de dados (chamada pela abreviação em inglês *db*) e é basicamente isso.
 
@@ -48,17 +36,19 @@ Embora você possa acessar o banco de dados por meio de comandos do *engine* (ve
 
 Nesse comando, você está apenas dizendo para o SQLAlchemy onde seu banco de dados está localizado. O atributo `echo = True` fará com que SQLAlchemy registre no console todos os comandos SQL que você está executando através dos comandos e os resultados otidos. Esse parâmetro não deve ficar ativado em produção, ok?
 
-<center><img src="https://i.imgur.com/0gVcCUg.png" style="height:200px;"/></center>
+{{< figure src="https://i.imgur.com/0gVcCUg.png#center" width="250px">}}
+
 
 Uma vez que seu *engine* conhece seu banco de dados, é fácil executar comandos usando um método chamado `engine.execute(...)`. Veja o exemplo abaixo:
 
-![](https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/engine_execute.gif)
+{{< figure src="https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/engine_execute.gif#center">}}
+
 
 Portanto, você tem uma via de mão dupla: o *engine* que sabe onde está o seu banco de dados e um método (`engine.execute(...)`) para alterar o banco de dados usando o *engine*:
 
-<center><img src="https://i.imgur.com/yjdhaTZ.png" style="height:200px;"/></center>
+{{< figure src="https://i.imgur.com/yjdhaTZ.png#center" width="250px">}}
 
-<h2 id='engine-connection'><i>Engine</i> ou conexão?</h2>
+## *Engine* ou conexão?
 
 Também vi em alguns tutoriais que você tem outra maneira de executar comandos SQL através do *engine* que é através de uma `connection` (conexão). Isso acontece da seguinte forma:
 
@@ -79,8 +69,7 @@ trans.commit()
 
 Então, na verdade, a estrutura de comunicação se parece mais com isso:
 
-
-<center><img src="https://i.imgur.com/Bcp1Zku.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/Bcp1Zku.png#center" width="250px">}}
 
 
 No entanto, quando eu continuei investigando as diferenças entre `engine.execute(...)` e `connection.execute(...)` [eu descobri que elas não são diferentes](https://stackoverflow.com/a/34364247/3538098):
@@ -106,11 +95,11 @@ session = Session()
 
 Então, daqui pra frente, nós vamos usar o `session` para conversar com as tabelas e fazer consultas, mas é o `engine` que realmente está implementando coisas no seu banco de dados.
 
-<center><img src="https://i.imgur.com/iqV59ky.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/iqV59ky.png#center" width="250px">}}
 
 Embora pareça confuso ter três entidades antes mesmo de começar a mexer com tabelas, na maioria das vezes após a configuração inicial você vai usar a `session` muito mais do que o `engine` e a conexão será feita implicitamente por ele.
 
-<h2 id='creating-tables'>Criando tabelas</h2>
+## Criando tabelas
 
 Agora que entendemos a estrutura básica, a primeira coisa a fazer é começar a criar tabelas em nosso banco de dados e finalmente começar a dar uma olhada no ORM do SQLAlchemy. 
 
@@ -155,10 +144,10 @@ Base.metadata.create_all(engine)
 
 É só nesse momento que o SQLAlchemy realmente vai implementar as mudanças no banco de dados. Como definimos o parâmetro  `echo` como verdadeiro (`True`), podemos ver exatamente quais são instruções aplicadas via SQL que o `engine` está gerando:
 
-<center><img src="https://i.imgur.com/kU4Snpb.png" style="height:400px;"/></center>
+{{<figure src="https://i.imgur.com/kU4Snpb.png">}}
 
 
-<h2 id='add-records'>Adicionando novos usuários</h2>
+## Adicionando novos usuários
 
 
 Agora que a tabela de fato existe no banco de dados, podemos usar a classe para criar um novo registro no banco. Podemos usar a classe `User` para criar um novo usuário e `session.add(...)` para adicionar a instância ao nosso banco de dados como uma nova linha.
@@ -185,7 +174,7 @@ ou
 >  _session.commit() persiste as mudanças no banco de dados. Esse comando sempre chama `session.flush()` como parte dele._ 
 
 
-<h2 id='queries'>Fazendo buscas</h2>
+## Fazendo buscas
 
 Depois de termos registros no banco de dados, precisamos ter acesso a eles :)
 
@@ -231,7 +220,7 @@ Product.find_by_name(session, 'John')
 ```
 
 
-<h2 id='creating-tables-posterior'>Adicionando tabelas depois de iniciar o banco com create_all</h2>
+## Adicionando tabelas depois de iniciar o banco com create_all
 
 Um dos problemas que tive enquanto trabalhava com o [Projeto Jupyter](https://jupyter.org/), é que eu precisava  criar uma nova tabela em um banco de dados e um `engine` que já estavam criados, ou seja, depois do  `Base.metadata.create_all(engine)`.
 
@@ -256,12 +245,12 @@ Product.__table__.create(engine)
 ```
 
 
-<h2 id='foreign-key'>Criando uma relação com chave estrangeira (foreign key)</h2>
+## Criando uma relação com chave estrangeira (foreign key)
 
 Imagine que você gostaria de conectar cada produto (*product*) a um usuário (*user*) em seu sistema. Portanto, em cada instância da classe `Product`, você gostaria de armazenar uma instância da classe  `User`:
 
 
-<center><img src="https://i.imgur.com/BJqWSMj.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/BJqWSMj.png#center" width="250px">}}
 
 Se você estiver criando todas as tabelas agora, uma classe `Column` como atributo da sua classe `Product` e indique esse atributo faz referência à chave estrangeira da classe `User`  e que vai armazenar o atributo `id` como chave estrangeira:
 
@@ -306,4 +295,5 @@ session.commit()
 
 E é isso 🙂 
 
-<center><img src="https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif"/></center>
+
+{{<figure src="https://media.giphy.com/media/3o7btQsLqXMJAPu6Na/giphy.gif#center">}}

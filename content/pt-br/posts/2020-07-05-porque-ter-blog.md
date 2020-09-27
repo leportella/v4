@@ -26,11 +26,6 @@ date: 2020-07-05T18:25:52-05:00
 ---
 
 
-<center>
-  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" style="height:250px;"/>
-</center>
-<br/>
-
 
 Se você me disse que está aprendendo a programar (ou qualquer coisa, na verdade), é provável que eu tenha lhe aconselhado a ter seu blog e escrever nele. <!--more--> Embora eu tenha discutido esse assunto pessoalmente com muitas pessoas, há apenas pequenos textos sobre ele em posts que escrevi sobre outros assuntos diversos ([[1]](https://leportella.com/my-experience-with-blogs.html), [[2]](https://leportella.com/boosting-your-career.html)). A postagem de hoje é dedicada aos motivos pelos quais *você deveria ter seu próprio blog (independente)*. Como as pessoas têm maneiras diferentes de ver o mundo, eu dividi as razões em duas seções:
 
@@ -42,8 +37,7 @@ Eu também escrevi uma seção que contém as desculpas comuns que as pessoas me
 
 E, finalmente, se você estiver convencida, há uma seção dedicada ao assuntos que você pode escrever sobre.
 
-
-
+{{< figure src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif#center" width="250px">}}
 
 ## Razões filosóficas para se ter um blog
 
@@ -69,9 +63,7 @@ Cada vez mais, fica realmente difícil ficar longe da internet e das redes socia
 Tem um vídeo incrível de um Youtuber que admiro, o Átila Iamarino, que explica isso de uma maneira fácil e clara:
 
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ja6ZnJUQa_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>    
+{{< youtube Ja6ZnJUQa_0 >}}
 
 
 ## Razões egoístas para se ter um blog 
