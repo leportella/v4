@@ -18,6 +18,7 @@ Há um ano eu começava meu novo emprego como desenvolvedora backend em Python.
 Eu havia largado uma carreira, uma profissão e por pouco também não larguei um mestrado.
 Quando tudo isso aconteceu, acho que eu não tinha entendido as proporções que aquela decisão teve na minha vida. 
 Hoje, exatamente, faz um ano do meu primeiro dia como desenvolvedora e eu quero contar um pouco sobre o que aconteceu nesse ano.
+<!--more-->
 
 <center>
 <img src="https://cdn-images-1.medium.com/max/800/1*Qiu_GZhqLl-U1YFbghTN2A.gif" style="height:200px;"/>

@@ -23,6 +23,7 @@ translationKey: class-based-views-no-django
 
 
 Este post também poderia ser chamado de **o que vem depois dos tutoriais** :)
+<!--more-->
 
 Em vários tutoriais do Django, vemos como receber *requests* e responder *responses* com páginas html contendo diversas informações. 
 Isso é bem legal para começar a entender o processo que o Django faz: recebe *requests* e devolve *templates*. Mas ok, e depois disso?

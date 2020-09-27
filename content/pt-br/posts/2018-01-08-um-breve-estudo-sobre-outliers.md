@@ -11,11 +11,9 @@ redirect_from: /pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html
 date: 2018-01-08T13:25:52-05:00
 ---
 
-Nas últimas semanas tenho me dedicado a estudar e entender melhor sobre dados anômalos ou *outliers* em séries de dados. 
+Nas últimas semanas tenho me dedicado a estudar e entender melhor sobre dados anômalos ou *outliers* em séries de dados.  <!--more-->
 
-Na oceanografia, nossos dados anômalos são facilmente reconhecíveis. Uma corrente em uma região calma não tem como chegar em 
-10m/s de repente ou uma região com um variação de 1m na coluna de água não vai ter 1 dado com 17m. Mas nem todo conjunto de dados 
-te permite saber o que é um *outlier* de forma tão "simples". 
+Na oceanografia, nossos dados anômalos são facilmente reconhecíveis. Uma corrente em uma região calma não tem como chegar em 10m/s de repente ou uma região com um variação de 1m na coluna de água não vai ter 1 dado com 17m. Mas nem todo conjunto de dados te permite saber o que é um *outlier* de forma tão "simples".  
 
 Este post é uma primeira tentativa em descrever o que eu encontrei e refleti sobre as técnicas para identificar dados anômalos 
 focando em um conjunto de dados em que o meu *outlier* prejudica uma avaliação dos dados ou prejudica uma análise preditiva, por exemplo.

@@ -19,7 +19,7 @@ translationKey: missing-data
 ---
 
 
-Podemos dividir, de forma bastante grosseira, qualquer tipo de dado em duas categorias: temporais e atemporais. Dados atemporais são bastante comuns nos datasets mais utilizados nos tutoriais de ciência de dados: as características dos sobreviventes do Titanic, os tamanhos de pétalas de flores ou as características de um tumor. Estes, podem ter dados temporais, como o momento em que o usuário tomou uma determinada atitude, mas o dado temporal é uma característica secundária, não sua essência.
+Podemos dividir, de forma bastante grosseira, qualquer tipo de dado em duas categorias: temporais e atemporais. Dados atemporais são bastante comuns nos datasets mais utilizados nos tutoriais de ciência de dados: as características dos sobreviventes do Titanic, os tamanhos de pétalas de flores ou as características de um tumor. <!--more-->Estes, podem ter dados temporais, como o momento em que o usuário tomou uma determinada atitude, mas o dado temporal é uma característica secundária, não sua essência.
 
 Os dados temporais, por outro lado, foram criados em um momento de extrema importância. Exemplos clássicos são as variações cambiais ao longo de um dia ou o tráfego de usuários por hora.
 

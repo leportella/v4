@@ -13,6 +13,7 @@ redirect_from: /pt-br/2018/01/08/um-breve-estudo-sobre-outliers-2.html
 ---
 
 Continuação [deste post](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html)
+<!--more-->
 
 Nesta sessão vamos fazer análises mais complexas usando o algoritmo EllipticEnvelope do Sklearn para tentar entender análises de *outliers* em ambientes mais complexos e multidimensionais.
 

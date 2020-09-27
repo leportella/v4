@@ -20,7 +20,7 @@ last_modified: 2019-01-16T14:25:52-05:00
 ---
 
 Essa semana, eu troquei email com uma moça que quer começar sua carreira como desenvolvedora, mas estava insegura e frustrada. As entrevistas eram difíceis e, 
-muitas vezes, impessoais. Escrevi um email de ajuda e apoio para ela e achei que seria válido deixar as minhas "dicas" e recomendações anotadas em algum lugar.
+muitas vezes, impessoais. Escrevi um email de ajuda e apoio para ela e achei que seria válido deixar as minhas "dicas" e recomendações anotadas em algum lugar. <!--more-->
 
 O que eu penso é que começar é super difícil. Minhas primeiras entrevistas foram péssimas, eu perdi dias tentando fazer um desafio que eu não consegui no fim. 
 Olhando para trás hoje penso que se dependesse de entrevista, jamais teria conseguido meu primeiro emprego. Eu contei muito com a ajuda de amigos, com indicações e 

@@ -19,7 +19,7 @@ translationKey: mediocre-women
 > **me•dí•o•cre**: adj. De grau ou qualidade moderada; sinônimo: médio
 
 Liste as três últimas mulheres engenheiras seniores com as quais trabalhou. Você consegue listá-las? Você consegue ao menos 3? Pode fazer um tempo desde essas interações, mas isso não importa. Pense nelas. Se elas têm alguns anos de experiência, há uma boa chance de que elas não fossem apenas boas engenheiras, mas engenheiras incríveis.
-
+<!--more-->
 
 Eu fui [pesquisar](https://duckduckgo.com/) as palavras-chave “conselhos para mulheres engenheiras de software” e a maioria dos conselhos sempre inclui coisas altamente relacionadas à como você deve ser impor como alguém que exige (e merece) ser levada a sério. Coisas como [chamar quando você não está sendo levada a sério](https://www.ivanti.com/blog/the-challenges-of-being-a-woman-in-technology) ou [como não ter medo medo de pedir o que deseja](https://techbeacon.com/app-dev-testing/women-software-development-8-success-stories-5-tips-advancement) ou [como até mais importante do que ter confiança é ter perseverança](https://hackbrightacademy.com/blog/12-pieces-advice-female-software-engineers/). Na minha pesquisa rápida, não consegui encontrar um único artigo de aconselhamento que realmente dissesse algo sobre habilidades de escrever código. Eu até encontrei essa citação ridícula que eu nem consigo lidar:
 

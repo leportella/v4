@@ -25,12 +25,7 @@ date: 2018-08-24T15:41:52-05:00
 translationKey: mongoengine
 ---
 
-No último ano eu comecei a trabalhar com MongoDB por diversão e fiz alguns projetos paralelos com esse banco de dados que 
-é bem interessante!
-A ideia principal do MongoDB é que ele é extremamente flexível. O [pymongo](https://api.mongodb.com/python/current/) é uma 
-excelente biblioteca para trabalhar com o MongoDB, porém em alguns projetos mais complexos às vezes é preciso uma coisa um 
-pouco mais robusta. Uma alternativa interessante é a biblioteca [**MongoEngine**](https://github.com/MongoEngine/mongoengine), 
-que Mapeamento entre Objeto-Documento (Object-Document Mapper - ODM), que trabalha os documentos do banco de dados como 
+No último ano eu comecei a trabalhar com MongoDB por diversão e fiz alguns projetos paralelos com esse banco de dados que é bem interessante! A ideia principal do MongoDB é que ele é extremamente flexível. <!--more--> O [pymongo](https://api.mongodb.com/python/current/) é uma excelente biblioteca para trabalhar com o MongoDB, porém em alguns projetos mais complexos às vezes é preciso uma coisa um pouco mais robusta. Uma alternativa interessante é a biblioteca [**MongoEngine**](https://github.com/MongoEngine/mongoengine), que Mapeamento entre Objeto-Documento (Object-Document Mapper - ODM), que trabalha os documentos do banco de dados como 
 uma espécie de ORM.
 
 Como eu estava adorando trabalhar com essas ferramentas, decidi fazer esse post para falar um pouco mais sobre o MongoDB, 

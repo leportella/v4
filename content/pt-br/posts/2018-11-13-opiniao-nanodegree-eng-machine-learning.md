@@ -16,7 +16,7 @@ last_modified: 2019-01-03T18:25:52-05:00
 translationKey: machine-learning-nanodegree
 ---
 
-Em Abril de 2018 eu comecei o [Nanodegree de Engenheiro(a) de Machine Learning](https://medium.com/pizzadedados/opini%C3%A3o-nanodegree-de-eng-de-machine-learning-34e67cb85b33) pela Udacity. O curso não é barato e muitas pessoas me perguntaram a mesma coisa: vale a pena?
+Em Abril de 2018 eu comecei o [Nanodegree de Engenheiro(a) de Machine Learning](https://medium.com/pizzadedados/opini%C3%A3o-nanodegree-de-eng-de-machine-learning-34e67cb85b33) pela Udacity. O curso não é barato e muitas pessoas me perguntaram a mesma coisa: vale a pena? <!--more-->
 
 A minha resposta pode ser um pouco chata: depende. Sim, parece chato falar isso mas, depende.
 

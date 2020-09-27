@@ -17,7 +17,7 @@ translationKey: sqlalchemy-tutorial
 ---
 
 
-[Eu trabalhei com o Projeto Jupyter de dezembro/2018 até março/2019]({{base}}/outreachy-I.html) como parte de um estágio no programa [Outreachy](https://www.outreachy.org/). Foi uma experiência maravilhosa e super recomendo! Durante o meu estágio, eu lutei com a biblioteca [SQLAlchemy](https://www.sqlalchemy.org/) que o [JupyterHub](https://github.com/jupyterhub/jupyterhub) utiliza internamente. Como estudei essa biblioteca e tive que fazer algumas buscas no [Stack Overflow](http://stackoverflow.com/) pra entender várias coisas, decidi criar este post para ajudar a digerir algumas das minhas dúvidas e descobertas.
+[Eu trabalhei com o Projeto Jupyter de dezembro/2018 até março/2019]({{base}}/outreachy-I.html) como parte de um estágio no programa [Outreachy](https://www.outreachy.org/). Foi uma experiência maravilhosa e super recomendo! Durante o meu estágio, eu lutei com a biblioteca [SQLAlchemy](https://www.sqlalchemy.org/) que o [JupyterHub](https://github.com/jupyterhub/jupyterhub) utiliza internamente. <!--more--> Como estudei essa biblioteca e tive que fazer algumas buscas no [Stack Overflow](http://stackoverflow.com/) pra entender várias coisas, decidi criar este post para ajudar a digerir algumas das minhas dúvidas e descobertas.
 
 Todo o código está disponível [neste repositório](https://github.com/leportella/sqlalchemy-basics-post/).
 

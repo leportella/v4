@@ -17,11 +17,8 @@ redirect_from: /pt-br/2018/10/08/porque-participar-de-comunidades.html
 date: 2018-10-08T18:25:52-05:00
 ---
 
-Participando de comunidades de tecnologia nos últimos 3 anos, vejo que é sempre complicado mostrar para empresas que 
-não interagem com esse ecossistema, o quanto é vantajoso para elas fazer isso. 
-Muitas pessoas (desenvolvedores ou não) tentam travar lutas 
-nas empresas, tentando mostrar o quanto isso é vantajoso. Quando estamos organizando um evento, essa preocupação aumenta.
-Às vezes é uma luta um pouco solitária, dependendo da onde ela é travada. 
+Participando de comunidades de tecnologia nos últimos 3 anos, vejo que é sempre complicado mostrar para empresas que não interagem com esse ecossistema, o quanto é vantajoso para elas fazer isso. 
+Muitas pessoas (desenvolvedores ou não) tentam travar lutas nas empresas, tentando mostrar o quanto isso é vantajoso. <!--more--> Quando estamos organizando um evento, essa preocupação aumenta. Às vezes é uma luta um pouco solitária, dependendo da onde ela é travada. 
 
 Recentemente eu vi [essa thread](https://twitter.com/cassiosvaldo/status/1036645596176760832), onde o Cássio marca uma série 
 de pessoas, pedindo argumentos para convencer sua empresa a apoiar eventos. As respostas foram várias e excelentes. Decidi 

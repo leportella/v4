@@ -16,7 +16,7 @@ date: 2020-02-09T18:25:52-05:00
 translationKey: new-eng-stripe
 ---
 
-Ser engenheira de software em uma nova empresa - em qualquer nova empresa - é sempre difícil. A base de código é completamente nova, você precisa se adaptar a novos padrões (tanto de código quanto culturais) e, provavelmente, o tipo de problema que você vai resolver também é completamente novo para você.
+Ser engenheira de software em uma nova empresa - em qualquer nova empresa - é sempre difícil. A base de código é completamente nova, você precisa se adaptar a novos padrões (tanto de código quanto culturais) e, provavelmente, o tipo de problema que você vai resolver também é completamente novo para você. <!--more-->
 
 Quando entrei na [Stripe](https://stripe.com/au), eu sabia que seria um desafio: esse era meu primeiro emprego em uma empresa de tecnologia em rápido crescimento, eu teria que usar uma nova linguagem de programação, iria trabalhar com pagamentos e, pela primeira vez, trabalharia em inglês em tempo integral. Mesmo sabendo de tudo isso, eu não tinha ideia de como seria desafiador e emocionante. No entanto, mesmo que tenha sido um dos maiores desafios que tive na minha carreira, a experiência de integração foi um processo incrível e interessante. Decidi compartilhar uma visão geral de como é ser uma nova engenheira aqui na Stripe, logo após ter passado por todo esse processo.
 

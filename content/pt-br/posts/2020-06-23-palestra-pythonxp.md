@@ -13,7 +13,7 @@ tags:
   - django
   - class based views
   - django girls
-featured-img: cbv-pt
+featured-img: talk
 permalink: cbv-palestra
 redirect_from: cbv-palestra.html
 last_modified_at: 2020-06-24T18:25:52-05:00

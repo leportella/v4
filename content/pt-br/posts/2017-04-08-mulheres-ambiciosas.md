@@ -21,6 +21,7 @@ translationKey: ambicious-women
 As fofíssimas Pyladies Salvador pediram um texto para estrear o blog delas e me falaram que iam publicar esse texto no dia da mulher. 
 Refleti muito a respeito do que escrever, do que eu poderia agregar de alguma forma nesse dia que tem tanto significado e resolvi que gostaria de 
 conversar com vocês sobre ambição. **Quão ambiciosa você se considera**?
+<!--more-->
 
 <center>
   <img src="https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif" style="height:200px;"/>

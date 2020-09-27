@@ -15,7 +15,7 @@ date: 2016-10-11T14:25:52-05:00
 ---
 
 Há uns meses atrás, decidi largar minha carreira em oceanografia e virar backend em python como eu contei [aqui](http://leportella.com/community/2016/03/13/de-oceanografa-para-programadora.html). 
-Pouco tempo depois de o texto circular pela internet, recebi um convite maravilhoso para palestrar no [Caipyra](http://caipyra.python.org.br/), em Ribeirão Preto (obrigada @rougeth!). 
+Pouco tempo depois de o texto circular pela internet, recebi um convite maravilhoso para palestrar no [Caipyra](http://caipyra.python.org.br/), em Ribeirão Preto (obrigada @rougeth!).  <!--more-->
 [Fiquei extremamente honrada e fui](https://www.youtube.com/watch?v=yV3XFWfJ0TE). Jamais esperaria que, ao final dos dois dias do evento, eu teria feito 3 entrevistas e recebido uma proposta pra ir para Ribeirão. E se alguém tivesse me contado que eu a teria aceitado, certamente duvidaria.
 
 Pois bem, quase 4 meses após o Caipyra e quase 8 meses da minha mudança, escrevo pra contar como anda a vida de dev, numa espécie de “dev para leigos”.

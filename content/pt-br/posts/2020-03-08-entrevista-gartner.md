@@ -15,7 +15,7 @@ redirect_from: /pt-br/2020/03/08/entrevista-gartner.html
 date: 2020-03-08T18:25:52-05:00
 ---
 
-O pessoal da Gartner e Capterra entraram em contato comigo para fazer uma entrevista sobre mulheres na tecnologia. Como a entrevista foi por email, decidi publicar na íntegra o que eu respondi para eles.
+O pessoal da Gartner e Capterra entraram em contato comigo para fazer uma entrevista sobre mulheres na tecnologia. Como a entrevista foi por email, decidi publicar na íntegra o que eu respondi para eles. <!--more-->
 
 [Link para a reportagem final](https://www.capterra.com.br/blog/1342/mulheres-na-tecnologia)
 

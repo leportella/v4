@@ -18,7 +18,7 @@ date: 2017-11-30T14:25:52-05:00
 Essa semana eu descobri o [spaCy](https://spacy.io), uma bilbioteca Python para Processamento de Linguagem Natural (PLN) que me pareceu excelente. 
 Ao brincar um pouco mais com ela, eu percebi que ela era ainda mais divertida do que eu imaginava e já com um modelo pronto em 
 português, o que facilita bastante para dar uma arranhada na superfície do assunto que é o PLN (ou NLP em inglês).
-
+<!--more-->
 Eu, particularmente, não sei nada muito a fundo sobre PLN, então a minha apresentação aqui vai ser bem superficial :)
 
 Vamos à uma rápida apresentação do que eu vi até agora...

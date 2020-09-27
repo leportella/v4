@@ -22,8 +22,8 @@ last_modified: 2017-03-09T14:25:52-05:00
 translationKey: generic-relations-django
 ---
 
-
 Conversando com algumas pessoas, percebi que poucas conheciam sobre as Relações Genéricas (*Generic Relation*) e Chave Estrangeira Genérica (*Generic Foreign Key*) no Django. Estudando para aplicár esses métodos no nossos sitema foi possível perceber que a documentação pode ser difícil e esparsa — para não falar confusa. Entretanto, relações genéricas nos ajudou muito, então decidi escrever sobre aqui neste blog post :)
+<!--more-->
 
 Primeiro vamos falar sobre chaves estrangeiras. Quando temos uma chave estrangeira no nosso modelo, estamos conectando uma instância de outro modelo no nosso modelo atual. Certo? Dessa forma, podemos acessar aquela outra instância naquele outro modelo de forma muito fácil. Funciona mais ou menos assim:
 

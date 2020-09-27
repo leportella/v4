@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Minha checklist de machine learning"
 categories:
   - data science
 tags:

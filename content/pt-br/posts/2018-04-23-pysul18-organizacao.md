@@ -21,6 +21,7 @@ date: 2017-03-09T14:25:52-05:00
 
 Em Abril aconteceu a Python Sul 2018, evento regional da linguagem de programação Python que reúne profissionais e curiosos 
 da região sul do Brasil. Em [um post anterior](http://leportella.com/pt-br/2018/04/21/pysul18-minha-experiencia.html) eu falei sobre como foi a parte humana do evento. Dessa vez quero falar sobre a organização.
+<!--more-->
 
 Essa foram as pessoas que me ajudaram a fazer o evento possível (algumas não estão na foto):
 ![](https://i.imgur.com/olWJ8Ue.jpg)

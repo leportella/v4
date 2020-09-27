@@ -22,7 +22,7 @@ date: 2018-03-15T14:25:52-05:00
 ---
 
 Já está disponível a pesquisa versão 2018 de desenvolvedores do [Stack Overflow](https://stackoverflow.com/), nosso site amado de dúvidas <3. Todo ano, o Stack Overflow faz uma pesquisa
-para tentar entender como a comunidade de desenvolvedores está, que tecnologias prefere e quais são suas visões sobre carreira e crescimento profissional. Este ano, mais de 100 mil
+para tentar entender como a comunidade de desenvolvedores está, que tecnologias prefere e quais são suas visões sobre carreira e crescimento profissional. <!--more--> Este ano, mais de 100 mil
 desenvolvedores respoderam o questionário, sendo esta a maior pesquisa feita por eles até o momento.
 
 Os dados do Stack Overflow que eu quero falar diz respeito às prioridades que cada pessoa tem quando busca um novo trabalho. Mas antes de conversarmos sobre o que é

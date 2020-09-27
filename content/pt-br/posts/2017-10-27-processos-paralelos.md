@@ -16,7 +16,7 @@ last_modified: 2018-08-01T13:25:52-05:00
 translationKey: parallel-processes-python
 ---
 
-Essa semana caí num caso em que eu tinha diversos scripts contendo análises que poderiam rodar em paralelo. Essas análises eram então usadas como base para uma outra análise, que devia rodar apenas depois de todas as outras acabarem. Algo parecido com isso:
+Essa semana caí num caso em que eu tinha diversos scripts contendo análises que poderiam rodar em paralelo. Essas análises eram então usadas como base para uma outra análise, que devia rodar apenas depois de todas as outras acabarem. <!--more--> Algo parecido com isso:
 
 <center>
   <img src="https://i.imgur.com/jfX5XMZ.png" style="height:300px;"/>

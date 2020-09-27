@@ -19,16 +19,15 @@ redirect_from: /pt-br/2018/04/21/pysul18-minha-experiencia.html
 date: 2017-03-09T14:25:52-05:00
 ---
 
-*Foto oficial da Python Sul 2018*:
-![](https://i.imgur.com/8NSLrrP.jpg)
 
-Em Abril aconteceu a Python Sul 2018, evento regional da linguagem de programação Python que reúne profissionais e curiosos 
-da região sul do Brasil. No ano de 2017 eu tinha sido keynote e o Adriano jogou a responsa de 2018 para mim. Ok, vamos lá.
-Ao longo de 7 meses de organização e 3 dias de evento eu aprendi tanto, mas TANTO, que eu decidi escrever sobre isso (e porque 
-o Mário Sérgio me "ordenou" que um texto sobre o que aconteceu deveria acontecer).
+Em Abril aconteceu a Python Sul 2018, evento regional da linguagem de programação Python que reúne profissionais e curiosos da região sul do Brasil. No ano de 2017 eu tinha sido keynote e o Adriano jogou a responsa de 2018 para mim. Ok, vamos lá. Ao longo de 7 meses de organização e 3 dias de evento eu aprendi tanto, mas TANTO, que eu decidi escrever sobre isso (e porque o Mário Sérgio me "ordenou" que um texto sobre o que aconteceu deveria acontecer).
+<!--more-->
 
 Sobre a organização em si (o que foi feito e como), vou escrever um outro texto. Hoje eu quero falar sobre a questão humana do 
 negócio, ok?
+
+*Foto oficial da Python Sul 2018*:
+![](https://i.imgur.com/8NSLrrP.jpg)
 
 
 ## Acessibilidade

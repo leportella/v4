@@ -16,6 +16,7 @@ translationKey: from-oceanographer-to-programmer
 ---
 
 Nesta semana me pediram pra contar um pouco sobre como eu virei programadora (ou pelo menos estou no processo). Eu escrevi esse texto para contar um pouco mais sobre essa história.
+<!--more-->
 
 Vamos começar do começo: sou oceanógrafa formada pela Universidade Federal de Santa Catarina em Dezembro de 2013. Bom, isso por si só, já costuma assustar as pessoas. Oceoque?
 

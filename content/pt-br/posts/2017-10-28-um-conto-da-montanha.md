@@ -10,10 +10,11 @@ tags:
 featured-img: mountain
 permalink: conto-da-montanha.html
 redirect_from: /pt-br/2017/10/28/um-conto-da-montanha.html
-date: 2017-03-28T14:25:52-05:00
+date: 2017-10-28T14:25:52-05:00
 ---
 
 Existem pessoas que conseguem tocar piano maravilhosamente bem enquanto outras não conseguem nem bater palmas no ritmo (eu). Existem pessoas que conseguem se expressar bem e pessoas que não conseguem lidar com os inúmeros pensamentos que fluem pelo cérebro. Existem inteligências múltiplas.
+<!--more-->
 
 Nos últimos dias tive diversas conversas filosóficas com pessoas de todos os tipos. Um tema recorrente foi uma sensação de incapacidade, de mediocridade, misturado com gotas de tristeza e um punhado de cegueira. Cegueira? Sim, cegueira.
 
