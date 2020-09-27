@@ -63,11 +63,10 @@ permalink: why-have-a-blog.html
 date: 2020-06-21T18:25:52-05:00
 ---
 
-{{< figure src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" s width="250px">}}
+{{< figure src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="250px">}}
 
 
 If you ever told me you are learning to code (or anything, really), chances are I told you you should have your blog and write in it. Although I discussed this topic in person with a lot of people, there are only small texts about it on blog posts I wrote about other topics ([[1]](https://leportella.com/my-experience-with-blogs.html), [[2]](https://leportella.com/boosting-your-career.html)). This blog post is dedicated to *why you should have your own (independent) blog*. Because people have different ways of seeing the world I divided it into two sections of *why:*
-
 - [Philosophical reasons to have a blog](#philosophical-reasons)
 - [Selfish reasons to have a blog](#selfish-reasons)
 
