@@ -1,7 +1,9 @@
 <article class="card mb-4">
   <header class="card-header text-center">
     <div class="card-meta page-date">
+      {{ if eq .Page.Type "posts" }}
       <a href="#"><time class="timeago" datetime="2019-10-26 20:00">26 october 2019</time></a> 
+      {{ end }}
       {{ if .Translations }}
         <span class="language-separator">●</span>
         {{ range first 1 .Translations }}

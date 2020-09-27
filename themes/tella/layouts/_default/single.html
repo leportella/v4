@@ -3,12 +3,20 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="row">
-  <div class="col-md-9">
-    {{ partial "post/article.html" . }}
+  {{ if eq .Page.Type "posts" }}
+  <div class="row">
+    <div class="col-md-9">
+      {{ partial "post/article.html" . }}
+    </div>
+    <div class="col-md-3 ml-auto">
+      {{ partial "post/sidebar.html" . }}
+    </div>
   </div>
-  <div class="col-md-3 ml-auto">
-    {{ partial "post/sidebar.html" . }}
+  {{ else }}
+  <div class="row justify-content-md-center">
+    <div class="col-md-9">
+      {{ partial "post/article.html" . }}
+    </div>
   </div>
-</div>
+  {{ end }}
 {{ end }}
