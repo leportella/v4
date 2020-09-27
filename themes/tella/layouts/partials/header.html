@@ -6,14 +6,25 @@
         aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-  
+
       <div class="collapse navbar-collapse order-3 order-md-2" id="navbar-left">
         <ul class="navbar-nav mr-auto">
           {{ $currentPage := . }}
           {{ range .Site.Menus.left }}
-          <li class="nav-item {{ if $currentPage.IsMenuCurrent "left" . }}active{{ end }}">
-            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-          </li>
+            {{ if .HasChildren }}
+              <li class="nav-item dropdown {{ if $currentPage.HasMenuCurrent .Menu . }}active{{ end }}">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdown-{{ .Name | urlize }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ .Name }}</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown-{{ .Name | urlize }}">
+                  {{ range .Children }}
+                  <a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a>
+                  {{ end }}
+                </div>
+              </li>
+            {{ else }}
+              <li class="nav-item {{ if $currentPage.IsMenuCurrent .Menu . }}active{{ end }}">
+                <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
           {{ end }}
         </ul>
       </div>
@@ -23,9 +34,20 @@
       <div class="collapse navbar-collapse order-4 order-md-4" id="navbar-right">
         <ul class="navbar-nav ml-auto">
           {{ range .Site.Menus.right }}
-          <li class="nav-item {{ if $currentPage.IsMenuCurrent "left" . }}active{{ end }}">
-            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-          </li>
+            {{ if .HasChildren }}
+              <li class="nav-item dropdown {{ if $currentPage.HasMenuCurrent .Menu . }}active{{ end }}">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdown-{{ .Page.name | urlize }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Posts</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown-{{ .Page.name | urlize }}">
+                  {{ range .Children }}
+                  <a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Name }}</a>
+                  {{ end }}
+                </div>
+              </li>
+            {{ else }}
+              <li class="nav-item {{ if $currentPage.IsMenuCurrent .Menu . }}active{{ end }}">
+                <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
           {{ end }}
         </ul>
         <form class="form-inline" role="search">
