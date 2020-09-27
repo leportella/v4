@@ -41,7 +41,7 @@ startLevel = 2
 [menu]
 [[menu.left]]
 identifier = "home"
-name = "Home"
+name = "🇮🇪 In English"
 url = "/"
 weight = 1
 [[menu.left]]
@@ -50,10 +50,22 @@ name = "🇧🇷 Em Português"
 url = "/pt-br/"
 weight = 2
 [[menu.left]]
+identifier = "more"
+name = "More"
+weight = 3
+[[menu.left]]
 identifier = "cat"
+parent = "more"
 name = "Categories"
 url = "/categories/"
 weight = 3
+[[menu.left]]
+identifier = "tags"
+parent = "more"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
 
 [[menu.right]]
 identifier = "about"
