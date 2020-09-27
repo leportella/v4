@@ -2,35 +2,15 @@
 layout: post
 title: "How to make simple endpoints with Django using Restless"
 categories:
-  - english
+  - django
+  - python
 tags:
-  - en 
   - Django 
   - restless
   - open-source
   - python
   - mongo
   - code
-  - mongoengine
-  - database
-  - databases
-  - sql
-  - nosql
-  - mongoDB
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
 featured-img: rest
 permalink: restless.html
 redirect_from: /english/2017/04/03/make-endpoints-using-restless.html

@@ -2,9 +2,8 @@
 layout: post
 title: ""
 categories:
-  - pt-br 
+  - data science
 tags:
-  - pt-br
   - open-source
   - python
   - mongo
@@ -15,20 +14,6 @@ tags:
   - sql
   - nosql
   - mongoDB
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
 featured-img: database
 permalink: checklist-ml.html
 date: 2018-08-24T15:41:52-05:00

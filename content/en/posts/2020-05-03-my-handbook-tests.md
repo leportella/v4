@@ -2,54 +2,9 @@
 layout: post
 title: "What does it mean to test software?"
 categories:
-  - english
-  - handbook
+  - tests
 tags:
-  - english
-  - english
-  - tecnologia
-  - Scala
-  - Programming Language
   - programming language
-  - java
-  - jvm
-  - java virtual machine
-  - spark
-  - San Francisco
-  - Dublin
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
 featured-img: paris
 permalink: my-handbook-I.html
 redirect_from: /english/2020/04/12/something.html

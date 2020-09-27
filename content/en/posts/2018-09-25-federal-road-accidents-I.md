@@ -2,7 +2,7 @@
 layout: post
 title: "Predicting victims on national roads in Brazil - Part I"
 categories:
-  - english
+  - data science 
 tags:
   - english
   - data science

@@ -2,9 +2,8 @@
 layout: post
 title: "What to do when data is missing?"
 categories:
-  - english
+  - data science 
 tags:
-  - english
   - python
   - jupyter
   - open-source
@@ -22,34 +21,6 @@ tags:
   - missing data
   - data
   - datasets
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: interp
 permalink: missing-data.html
 redirect_from: /english/2019/01/14/interpolation.html

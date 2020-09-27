@@ -2,9 +2,8 @@
 layout: post
 title: "The most common data science tools"
 categories:
-  - english
+  - data science 
 tags:
-  - english
   - python
   - jupyter
   - outreachy
@@ -24,27 +23,11 @@ tags:
   - python
   - jupyter
   - beginners
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - data science
-  - ciência de dados
-  - pizza de dados
-  - podcast
 featured-img: tools
 permalink: most-common-data-science-tools.html
 redirect_from: /english/2019/01/25/common-data-science-tools.html
 date: 2019-01-25T11:48:52-05:00
+last_modified: 2020-09-27T15:15:52+01:00
 translationKey: most-common-data-science-tools
 ---
 
@@ -97,7 +80,7 @@ When you run a Jupyter server on your computer, the system will open in a browse
 
 [Spyder](https://www.spyder-ide.org/) is an environment focused on scientific computing and data science with Python. Unlike Jupyter Notebook, Spyder is a Desktop application. The program has an area for developing your code, a terminal to run code and the script and and an area to visualize the variables that are loaded in memory.
 
-It also has tools for checking code quality and quick shortcuts for accessing documentation, which makes life pretty easy for begginers.
+It also has tools for checking code quality and quick shortcuts for accessing documentation, which makes life pretty easy for beginners.
 
 A cool thing about Spyder is that it also have [a plugin to use and create Jupyter Notebooks inside the Spyder platform](https://github.com/spyder-ide/spyder-notebook). 
 

@@ -2,36 +2,16 @@
 layout: post
 title: "My first year as a developer"
 categories:
-  - english
+  - career
+  - personal
 tags:
-  - en 
   - python
-  - begginers
+  - beginners
   - pyladies
   - open-source
   - python
   - mongo
   - code
-  - mongoengine
-  - database
-  - databases
-  - sql
-  - nosql
-  - mongoDB
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
 date: 2017-03-21T14:25:52-05:00
 permalink: first-year-as-dev.html 
 redirect_from: /english/2017/03/21/my-first-year-as-a-developer.html

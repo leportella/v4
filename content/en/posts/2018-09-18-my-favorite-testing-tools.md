@@ -2,7 +2,9 @@
 layout: post
 title: "My favorite testing tools on Django"
 categories:
-  - english
+  - django
+  - python
+  - tests
 tags:
   - en
   - open-source

@@ -2,41 +2,14 @@
 layout: post
 title: "10 tips for switching from Matlab to Python" 
 categories:
-  - english
+  - python
+  - matlab
+  - programming languages
 tags:
-  - en
   - python
   - begginers
   - matlab
   - octave
-  - data science
-  - data
-  - data analytics
-  - data vizualization
-  - open-source
-  - python
-  - mongo
-  - code
-  - mongoengine
-  - database
-  - databases
-  - sql
-  - nosql
-  - mongoDB
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
 featured-img: idea
 permalink: matlab-to-python.html
 redirect_from: /english/2018/07/22/10-tips-matlab-to-python.html

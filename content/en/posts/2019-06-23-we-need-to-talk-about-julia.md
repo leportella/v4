@@ -2,46 +2,16 @@
 layout: post
 title: "We need to talk about Julia language"
 categories:
-  - english
+  - julia
+  - programming languages
+  - data science
 tags:
-  - english
   - community
   - comunidade
   - sponsorship
   - open-source
   - events
   - technology
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
-  - data 
-  - data science
-  - ciência de dados
 featured-img: julia
 permalink: julia-language.html
 redirect_from: /english/2019/06/23/we-need-to-talk-about-julia.html

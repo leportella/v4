@@ -2,41 +2,13 @@
 layout: post
 title: "How to contribute to an open-source project without writing any code"
 categories:
-  - english
+  - open-source
+  - beginners
 tags:
-  - en
-  - open-source
-  - begginers
+  - beginners
   - study
-  - code
-  - python
   - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
   - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: open
 permalink: open-source-without-code.html
 translationKey: open-source-without-code

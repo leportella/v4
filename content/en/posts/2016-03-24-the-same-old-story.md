@@ -2,40 +2,11 @@
 layout: post
 title: "The same old story: how can I start learning to code?"
 categories:
-  - english
+  - python
 tags:
-  - en
   - python
-  - begginers
-  - study
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
+  - beginners
   - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: board
 permalink: learning-code.html
 redirect_from: /english/2016/03/24/the-same-old-story.html

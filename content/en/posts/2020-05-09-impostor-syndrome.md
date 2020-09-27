@@ -2,53 +2,9 @@
 layout: post
 title: "How I deal with my impostor syndrome"
 categories:
-  - english
-tags:
-  - english
-  - english
-  - tecnologia
-  - Scala
-  - Programming Language
-  - programming language
-  - java
-  - jvm
-  - java virtual machine
-  - spark
-  - San Francisco
-  - Dublin
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
   - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
+  - personal
+tags:
   - impostor syndrome
 featured-img: alone
 has_tweet: true

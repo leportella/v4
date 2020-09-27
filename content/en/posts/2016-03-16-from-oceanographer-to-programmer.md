@@ -2,37 +2,12 @@
 layout: post
 title: "From oceanographer to programmer"
 categories:
-  - english 
-tags:
-  - en
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
   - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
+  - personal
+tags:
+  - software engineering
+  - self-taught engineer
+  - career
 featured-img: oceanographer
 permalink: from-oceanographer-to-programmer.html
 redirect_from: /english/2016/03/16/from-oceanographer-to-programmer.html

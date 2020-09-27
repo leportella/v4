@@ -2,48 +2,15 @@
 layout: post
 title: "How we used generic relations to add comments to model instances"
 categories:
-  - english
+  - django
+  - python
 tags:
-  - en 
   - python
   - Django 
   - generic relations
   - MRV
   - Class based views
-  - software
-  - developer
-  - women in tech
-  - foreign key
-  - framework
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - computer science
   - CCBV
-  - relações genericas
   - generic relation
   - database
   - ORM

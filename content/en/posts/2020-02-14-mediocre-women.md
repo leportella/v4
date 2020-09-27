@@ -2,62 +2,14 @@
 layout: post
 title: "Where are the mediocre women?"
 categories:
-  - english
-tags:
-  - english
-  - eventos
-  - tecnologia
-  - Stripe
-  - San Francisco
-  - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
-  - women in tech
-  - woman in tech
-  - girls who code
   - career
+  - women in technology
+tags:
+  - women in tech
   - computer science
   - self-taugh engineer
   - self-learning
   - programmer
-  - ruby
-  - scala
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: where-women
 permalink: mediocre-women.html
 redirect_from: /english/2020/02/14/mediocre-women.html

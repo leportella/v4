@@ -2,53 +2,15 @@
 layout: post
 title: "Classes, Objects and Traits in Scala"
 categories:
-  - english
+  - scala
+  - programming language
 tags:
-  - english
-  - english
-  - tecnologia
   - Scala
-  - Programming Language
   - programming language
   - java
   - jvm
   - java virtual machine
-  - spark
-  - San Francisco
-  - Dublin
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
+  - spar
 featured-img: scala
 permalink: scala-IV.html
 date: 2020-06-19T23:25:52-05:00

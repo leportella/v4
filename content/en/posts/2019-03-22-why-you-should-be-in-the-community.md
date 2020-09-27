@@ -2,42 +2,14 @@
 layout: post
 title: "Why should your company be in technology communities? "
 categories:
-  - english
+  - communities
+  - open-source
 tags:
-  - english
   - community
   - comunidade
   - sponsorship
   - open-source
   - events
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: community
 permalink: why-you-should-be-in-communities.html
 translationKey: why-you-should-be-in-communities

@@ -2,49 +2,14 @@
 layout: post
 title: "Meus 'truques' preferidos em Python - Parte I"
 categories:
-  - pt-br 
+  - python
+  - programming languages
 tags:
-  - pt-br
   - python
   - programming languages
   - open-source
   - python
-  - mongo
   - code
-  - mongoengine
-  - database
-  - databases
-  - sql
-  - nosql
-  - mongoDB
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: computer
 permalink: truques-python.html
 redirect_from: /pt-br/2018/05/07/pytricks-I.html

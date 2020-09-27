@@ -2,47 +2,20 @@
 layout: post
 title: "Outreachy Report I"
 categories:
-  - english
+  - python
+  - outreachy
 tags:
-  - english
   - python
   - jupyter
   - outreachy
   - open-source
   - development
-  - girls in tech
-  - pyladies
   - project jupyter
   - internship
   - newbie
   - python
   - community 
   - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: write
 permalink: outreachy-I.html
 redirect_from: english/2018/12/12/outreachy-I.html

@@ -2,39 +2,10 @@
 layout: post
 title: "How to run parallel processes?"
 categories:
-  - english
+  - python
 tags:
-  - en 
-  - data science 
   - optimization
   - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: type-machine
 permalink: parallel-processes-python.html
 redirect_from: /english/2017/10/27/how-to-run-parallel-processes.html

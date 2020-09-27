@@ -2,9 +2,9 @@
 layout: post
 title: "Opinion: Machine Learning Engineer Nanodegree"
 categories:
-  - english
+  - data science
+  - personal
 tags:
-  - english
   - python
   - data science
   - courses
@@ -14,34 +14,6 @@ tags:
   - udacity
   - nanodegree
   - data
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: auditorium
 permalink: machine-learning-nanodegree.html
 redirect_from: /english/2019/01/15/opinion-nanodegree.html

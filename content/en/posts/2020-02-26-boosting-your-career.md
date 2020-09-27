@@ -2,61 +2,19 @@
 layout: post
 title: "Boosting your career as a developer"
 categories:
-  - english
-tags:
-  - english
-  - tecnologia
-  - Stripe
-  - San Francisco
-  - Dublin
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
-  - women in tech
-  - woman in tech
-  - girls who code
   - career
-  - computer science
-  - self-taugh engineer
-  - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
+  - personal
+tags:
   - woman in tech
   - girls in tech
-  - computação
-  - ciência de computação
   - software development
   - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
   - self-taught engineer
   - code
   - Django
   - software
   - career
   - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: fast
 permalink: boosting-your-career.html
 redirect_from: /english/2020/02/26/boosting-your-career.html

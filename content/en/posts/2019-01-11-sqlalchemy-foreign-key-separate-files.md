@@ -2,9 +2,8 @@
 layout: post
 title: "Adding relationship to tables already created on SQLAlchemy"
 categories:
-  - english
+  - databases
 tags:
-  - english
   - python
   - outreachy
   - sqlalchemy
@@ -12,34 +11,6 @@ tags:
   - database
   - SQL
   - Project Jupyter
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: alone-anime
 permalink: relationship-sqlalchemy.html
 redirect_from: /english/2019/01/11/sqlalchemy-foreign-key-separate-files.html

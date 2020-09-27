@@ -2,24 +2,13 @@
 layout: post
 title: "The Ambicious women"
 categories:
-  - english
+  - career
+  - women in technology
 tags:
-  - en 
   - career 
   - women 
   - technology
-  - tecnologia
-  - programador
-  - programadora
-  - mulheres na tecnologia
   - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
   - self-taught engineer
   - sorority
   - ambicious women
@@ -27,31 +16,7 @@ tags:
   - python
   - community 
   - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
-  - Django
-  - software
   - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
 featured-img: woman-tech
 permalink: ambicious-women.html
 redirect_from: /english/2017/04/19/ambicious-women.html

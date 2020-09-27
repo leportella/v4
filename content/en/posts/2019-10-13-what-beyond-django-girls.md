@@ -2,43 +2,15 @@
 layout: post
 title: "What's beyond Django Girls tutorial? Introduction to Class Based Views"
 categories:
-  - english
-  - talks
+  - django
+  - python
 tags:
-  - english
-  - eventos
-  - tecnologia
-  - Stripe
-  - San Francisco
-  - Dublin
   - python
   - community 
   - pyladies
   - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
   - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
+  - Django Girls
 featured-img: ccbv
 permalink: talk-class-based-views.html
 redirect_from: /english/talks/2019/10/13/what-beyond-django-girls.html

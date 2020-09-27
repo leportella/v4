@@ -2,11 +2,11 @@
 layout: post
 title: "Dev for dummies"
 categories:
-  - english
+  - career
+  - beginners
 tags:
-  - en 
   - python
-  - begginers
+  - beginners
   - study
   - python
   - community 

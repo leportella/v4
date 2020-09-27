@@ -2,40 +2,12 @@
 layout: post
 title: "Class Based Views on Django"
 categories:
-  - english 
+  - django
+  - python
 tags:
-  - en 
   - python 
   - intermediate
-  - python
-  - community 
-  - pyladies
-  - technology
-  - tecnologia
-  - programador
-  - programadora
-  - developer
-  - mulheres na tecnologia
-  - woman in tech
-  - girls in tech
-  - computação
-  - ciência de computação
-  - software development
-  - software engineering
-  - engenharia de software
-  - desenvolvimento
-  - auto-ensino
-  - self-taught engineer
-  - code
   - Django
-  - software
-  - career
-  - tech career
-  - open-source
-  - no cs degree
-  - cs
-  - computer science
-  - URL
   - CCBV
   - Class Based Views
   - ORM

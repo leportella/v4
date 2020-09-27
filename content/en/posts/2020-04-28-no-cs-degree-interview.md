@@ -2,28 +2,12 @@
 layout: post
 title: "From Oceanographer to self-taught developer working at Stripe"
 categories:
-  - english
   - interview
+  - career
+  - personal
 tags:
-  - english
   - women
   - career
-  - nocsdegree
-  - no cs
-  - eventos
-  - tecnologia
-  - Brasil
-  - banco de dados
-  - Software engineer
-  - software engineering
-  - engenheira de software
-  - desenvolvedora
-  - mulheres que codam
-  - mulhers desenvolvedoras
-  - programadora
-  - events
-  - payments
-  - development
   - women in tech
   - woman in tech
   - girls who code
@@ -31,10 +15,6 @@ tags:
   - computer science
   - self-taugh engineer
   - self-learning
-  - programmer
-  - ruby
-  - scala
-  - python
 featured-img: microphone
 permalink: nocsdegree.html
 date: 2020-06-24T18:25:52-05:00
