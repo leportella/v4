@@ -24,7 +24,8 @@ da região sul do Brasil. Em [um post anterior](http://leportella.com/pt-br/2018
 <!--more-->
 
 Essa foram as pessoas que me ajudaram a fazer o evento possível (algumas não estão na foto):
-![](https://i.imgur.com/olWJ8Ue.jpg)
+
+{{<figure src="https://i.imgur.com/olWJ8Ue.jpg#center">}}
 
 ## Organização orientada a planilha 
 
@@ -43,7 +44,7 @@ Vamos falar ponto por ponto do que tínhamos que gerenciar.
 A primeira aba trata de todas as informações gerais do evento: quantos dias são, separados entre tutoriais e palestras, 
 quantas pessoas são esperadas por evento, etc. 
 
-![](https://i.imgur.com/H9Y4MWd.png)
+{{<figure src="https://i.imgur.com/H9Y4MWd.png#center">}}
 
 Logo abaixo dessas informações básicas, estão as informações de balanço 
 de custo. Nesta parte consideramos 4 cenários: pessimista, otimista, atual e final. Cada cenário 
@@ -54,7 +55,7 @@ pode ser definido da seguinte forma:
 * **Atual**: Que verbas já entraram e que custos já foram pagos;
 * **Final**: Qual o balanço final do evento, uma vez que tudo tiver entrado e sido pago.
 
-![](https://i.imgur.com/wmcFSTU.png)
+{{<figure src="https://i.imgur.com/wmcFSTU.png#center">}}
 
 Esta aba não é para entendermos o que está acontecendo em detalhes, mas para termos uma noção do nosso cenário atual.
 
@@ -70,7 +71,7 @@ são basicamente "chutes" e devem ser avaliados com cuidado.
 O total pessimista deve ser algo viável de ser alcançado enquanto o 
 otimista pode ter uma margem maior para *sonhar*, digamos assim.
 
-![](https://i.imgur.com/CnJwzK2.png)
+{{<figure src="https://i.imgur.com/CnJwzK2.png#center">}}
 
 E aí vem a pergunta: *como eu calculo o preço do ingresso?* Segui a sugesto dada pelo 
 [Mário Sérgio](https://twitter.com/queirozMario21) nessa hora: 
@@ -79,7 +80,7 @@ ingresso deve cobrir os custos com *coffe-breaks* e camisetas. Esse é o mínimo
 que forem usar, e esse dinheiro é bom ser inserido nos custos ou cobrados a parte, mas esse 
 custo não deve ser esquecido pois quanto maior o evento, maior o impacto dele.
 
-![](https://i.imgur.com/lOCRc81.png)
+{{<figure src="https://i.imgur.com/lOCRc81.png#center">}}
 
 Finalmente, temos uma tabela exclusiva para os patrícionos 
 (ou outras entradas de dinheiro) que já foram negociados e  
@@ -92,7 +93,7 @@ bem como gerenciar quais pagamentos já podem ser feitos com o dinheiro que havi
 No nosso caso, usamos a APyB e éramos um evento pago, portanto já inclui uma sessão de desconto de 10% considerando a taxa de 
 uso da associação. Desconsidere isso se você usar outras formas de emissão de nota fiscal.
 
-![](https://i.imgur.com/agLL9FH.png)
+{{<figure src="https://i.imgur.com/agLL9FH.png#center">}}
 
 #### Deixe as coisas no seu lugar!
 
@@ -130,7 +131,7 @@ A planilha ainda tem uma aba de **status** para saber exatamente o que já foi p
 uma nota e você simplesmente esquece dele. Essa nota (e 
 esse custo, por consequência) vai voltar pra te assombrar quando você menos espera.
 
-![](https://i.imgur.com/rZQnxE6.png)
+{{<figure src="https://i.imgur.com/rZQnxE6.png#center">}}
 
 ### Agenda
 
@@ -188,4 +189,4 @@ muito sobre gestão e organização de coisas e pessoas!
 Obrigada a todos da organização da Python Sul 2018!
 
 *Foto oficial da Python Sul 2018*:
-![](https://i.imgur.com/8NSLrrP.jpg)
+{{<figure src="https://i.imgur.com/8NSLrrP.png#center">}}

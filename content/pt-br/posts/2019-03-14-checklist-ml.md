@@ -27,12 +27,7 @@ Eu, particularmente, gosto de tentar, rapidamente, fazer um modelo rápido e "su
 
 Às vezes, me perco na quantidade de coisas que eu fiz/pretendo fazer e o negócio desanda. Pra garantir a qualidade dos projetos que eu pego pra fazer, criei uma checklist que eu tento sempre passar o olho pra ver se não deixei de fazer algo. Agora, deixo ela pública pra te ajudar!
 
-
-<center>
-  <img src="https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/aSZSj0mT8f6tW/giphy.gif#center">}}
 
 ## 1. Os dados que você está usando estão limpos?
 
@@ -64,11 +59,7 @@ Gráficos, gráficos, gráficos! Faça gráficos. Seja criativo!
 
 Estatísticas podem te enganar. Nossos cérebros conseguem interpretar gráficos de forma muito mais fácil do que números numa planilha. O exemplo abaixo é sensacional: todos os gráficos mostrados tem as mesmas características estatísticas em duas casas decimais de precisão, mas com uma imagem gráfica completamente diferente [[1]](https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing).
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/multi-charts-single-mean.png" style="height:300px;"/>
-</center>
-<center><i>Média em x: 54.02. Média em y: 48.09. Desvio padrão: 24.79. R de Pearson: +0.32.</i></center>
-<br/>
+{{<figure src="/assets/img/posts/multi-charts-single-mean.png#center" caption="Média em x: 54.02. Média em y: 48.09. Desvio padrão: 24.79. R de Pearson: +0.32.">}}
 
 ## 5. Você normalizou os dados?
 
@@ -109,11 +100,7 @@ Depois de muitas tentativas, é fácil se perder num mar de números de acuráci
 
 [Quando eu estava fazendo meu estudo sobre vítimas de acidentes de trânsito](https://leportella.com/english/2019/01/02/federal-road-accidents-II.html), eu comecei a perder a noção de qual modelo estava melhor. Eram muitos modelos e 3 classes. Pra isso, fiz uma planilha no Google Drive que continha informações de precisão e revocação para cada uma das minhas 3 classes, mais a acurácia e o *F1 score* geral para cada um dos modelos que eu testei. Fiz com que as células aparecessem em escalas de cor de vermelho escuro (0) para verde (1). Isso facilitou muito! Se quiser, [você pode baixar um exemplo dessa planilha](https://docs.google.com/spreadsheets/d/1G0UfnlyHtR_aMCPGND4_KZXvYn5xs86nWLkW0Is_qqU/edit?usp=sharing).
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ml-sheet.png" style="height:300px;"/>
-</center>
-<center><i>Exemplo da minha planilha no meu estudo</i></center>
-<br/>
+{{<figure src="/assets/img/posts/ml-sheet.png#center" caption="Exemplo da minha planilha no meu estudo">}}
 
 ## 13. Seu projeto está organizado?
 
@@ -133,9 +120,4 @@ No caso do meu projeto com acidentes de trânsito, meu objetivo era 60% de acur�
 
 Descreva oportunidades de melhoria: o que seria possível fazer de diferente? Quais premissas foram assumidas que podem ser revistas no futuro? Quais dados a mais você poderia adicionar para tentar melhorar a análise? Sempre deixe espaço para crescer caso você volte no projeto no futuro :)
 
-
-<center>
-  <img src="https://media.giphy.com/media/dQpUkK59l5Imxsh8jN/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/dQpUkK59l5Imxsh8jN/giphy.gif#center">}}

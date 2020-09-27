@@ -13,9 +13,6 @@ last_modified: 2020-06-24T18:25:52-05:00
 ---
 
 
-<center><img src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif" style="height:300px;"/></center>
-<center><i></i></center>
-<br/>
 
 
 Julia é uma linguagem de programação que eu tenho muito ouvido falar há algum tempo e eu sei que ela merecia minha atenção. <!--more-->  No entanto, a quantidade de bibliotecas e frameworks de aprendizado de máquina e deep learning que surgiram e acabaram entrando na frente atrasaram o meu primeiro contato com ela. Nós do Pizza de Dados](http://pizzadedados.com/), querendo dar o melhor conteúdo pros nossos ouvintes, decidimos fazer [um episódio sobre a linguagem](https://podcast.pizzadedados.com/e/episodio-021/). Foi aí que eu precisei sentar o bumbum na cadeira e de fato olhar para essa desconhecida porém intrigante linguagem. E eu confesso que acabei me apaixonando pelo pouco que estudei! Então a gente precisa conversar sobre essa linguagem maravilhosa que não está tendo a visibilidade que ela merece.
@@ -24,8 +21,7 @@ Obs: Eu uso muito da minha base de Python como comparação ao que estava vendo 
 
 Obs 2: O [Pizza de Dados](http://pizzadedados.com/) lançou um episódio sobre Julia que fala mais a fundo sobre a linguagem. Confira este post e [o episódio juntos para uma melhor compreensão](https://podcast.pizzadedados.com/e/episodio-021/).
 
-
-
+{{<figure src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif#center">}}
 
 ## Descobrindo mais sobre a linguagem
 
@@ -33,10 +29,7 @@ Julia foi criada em 2012 por Alan Edelman, Stefan Karpinski, Jeff Bezanson e Vir
 
 Eu já tinha ouvido de algumas pessoas sobre como Julia é uma linguagem performática, e isso também está descrito em diversos locais do site oficial. O que me impressionou bastante foi que, apesar de ser de alto nível como Python, testes de velocidade colocam a linguagem no mesmo nível de linguagens compiladas extremamente rápidas como Rust ou Go. Veja as comparações do tempo de execução de alguns algoritmos em diferentes linguagens:
 
-<center><img src="https://i.imgur.com/Ail3AU6.png" style="height:400px;"/></center>
-<center><i>Fonte: <a href="https://julialang.org/benchmarks/">Site Oficial</a></i></center>
-<br/>
-
+{{<figure src="https://i.imgur.com/Ail3AU6.png" caption="Fonte: https://julialang.org/benchmarks/">}}
 
 E, de fato, esse foi o principal objetivo: a performance de uma linguagem estaticamente compilada (como C e Fortran) com o comportamento interativo/dinâmico e produtividade de linguagens como Python e Ruby  ([Bezanson et al., 2012](https://julialang.org/images/julia-dynamic-2012-tr.pdf)).
 
@@ -81,10 +74,7 @@ Julia conta com [uma extensa coleção de pacotes](https://juliaobserver.com/), 
 Julia has [an extensive collection of packages](https://juliaobserver.com/), similar to Python's [PyPi](https://pypi.org/). 
 To install a package just type `]` inside the interpreter that it "transforms" the interpreter into an installer. Take a look:
 
-
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif" style="height:300px;"/></center>
-<center><i>Instalando um pacote em Julia</i></center>
-<br/>
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif#center" caption="Instalando um pacote em Julia">}}
 
 Nesse caso acima eu instalei o pacote do `ThinkJulia`, o livro que eu segui para estudar para esse texto. Para usar o pacote eu devo declarar dentro do interpretador que eu quero usar o pacote `ThinkJulia`:
 
@@ -126,35 +116,25 @@ julia> notebook()
 
 No meu caso, o programa pergunta se eu desejo instalar o Jupyter via [Conda](https://docs.conda.io/en/latest/miniconda.html) e, apesar de ter ambos em [Ambientes Virtuais do Python](https://docs.python.org/3/tutorial/venv.html), uma série de pacotes foram instalados juntos:
 
-<center><img src="https://i.imgur.com/BOyniWX.png" style="height:200px;"/></center>
-<center><i>Instalações que são feitas quando chamamos o Jupyter Notebook pela primeira vez dentro do terminal do Julia</i></center>
-<br/>
-
+{{<figure src="https://i.imgur.com/BOyniWX.png#center" caption="Instalações que são feitas quando chamamos o Jupyter Notebook pela primeira vez dentro do terminal do Julia">}}
 
 Tendo tudo instalado, a tela padrão do Jupyter Notebook abriu e agora além de Python 2 e 3 eu também tinha Julia como opção:
 
-<center><img src="https://i.imgur.com/eQQVhQV.png" style="height:300px;"/></center>
-<center><i>Ao tentar criar um Jupyter Notebook, passei a ter a opção de Julia</i></center>
-<br/>
-
+{{<figure src="https://i.imgur.com/eQQVhQV.png#center" caption="Ao tentar criar um Jupyter Notebook, passei a ter a opção de Julia">}}
 
 ## Iniciando os trabalhos
-
 
 ### Nomeando variáveis
 
 As definições de variáveis é igual ao que encontramos em Python. Com uma diferença: Julia tem suporte extensivo a Unicode. Isso significa que você pode ter nomes de variáveis com letras em japonês, acento e até emojis 😰.
 
-<center><img src="https://i.imgur.com/xcFTZxr.png" style="height:300px;"/></center>
-<center><i>Julia tem um suporte extenso a Unicode.</i></center>
-<br/>
 
+{{<figure src="https://i.imgur.com/xcFTZxr.png#center" caption="Julia tem um suporte extenso a Unicode.">}}
 
 [Nem todos os caracteres unicode estão disponíveis para nomear variáveis](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#characters). O caracter `@`, por exemplo, não pode ser usado. Mas é bem interessante pensar nas possibilidades, especialmente considerando países cujas línguas nem usam o alfabeto latino.
 
 
 ### Criando um pequeno script
-
 
 Arquivos Julia tem a extensão `.jl` e podem ser executados da seguinte forma:
 
@@ -174,8 +154,6 @@ println("Minha 🍕 favorita é de 🎲🎲")
 <i>Meu primeiro script em Julia!</i>
 
 Logo de cara já caí num erro: vindo de Python, eu sempre vario entre o uso de aspas simples (`'`) e aspas duplas (`"`). Ao usar aspas simples, recebi um erro de sintaxe, avisando que eu havia usado um caractere inválido.
-
-
 
 ### Strings
 
@@ -238,14 +216,9 @@ julia> soma(x, y) = x + y
 
 Muito legal e muito fácil de visualizar. Mas aí comecei a ler mais e a cabeça foi explodindo… em Julia, os operadores (`+` , por exemplo) são apenas funções com características especiais. Então a soma de alguns elementos pode ser feita chamando a função soma, ou o `+` nesse caso:
 
+{{<figure src="https://i.imgur.com/93wMaPR.png#center">}}
 
-<center><img src="https://i.imgur.com/93wMaPR.png" style="height:200px;"/></center>
-<br/>
-
-
-<center><img src="https://media.giphy.com/media/Ysce790SgjJK0/giphy.gif" style="height:200px;"/></center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/Ysce790SgjJK0/giphy.gif#center">}}
 
 ## Vamos parar por aqui
 
@@ -255,8 +228,4 @@ Uma linguagem é sempre um mundo novo a ser descoberto. Esse texto foi apenas um
 ---
 Se interessou? Não deixe de ouvir o “Episódio 021: Precisamos falar sobre Julia” e conferir o post do episódio para checar os links!
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LDHWQgtcMaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-
+{{<youtube LDHWQgtcMaI>}}

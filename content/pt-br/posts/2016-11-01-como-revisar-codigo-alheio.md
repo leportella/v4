@@ -17,20 +17,17 @@ translationKey: review-code
 Revisar código é uma tarefa complicada e pode se tornar bastante desesperadora, especialmente quando você não tem ideia de como fazer isso. Entretanto, a revisão de código pode ser uma ferramenta poderosa para aumentar a qualidade do seu código e garantir deploys “saudáveis”.
 <!--more-->
 
-<center>
-<img src="https://cdn-images-1.medium.com/max/800/1*EFsX-ndhmx4CFsI98zSvKA.gif" style="height:200px;"/>
-</center>
-<br/>
+{{<figure src="https://cdn-images-1.medium.com/max/800/1*EFsX-ndhmx4CFsI98zSvKA.gif">}}
 
 Na [Crave Food Services](http://sourcewhatsgood.com/) acabamos por desenvolver uma metodologia que seguimos na hora de corrigir os códigos. Neste artigo, vamos descrever um pouco melhor como funciona nossa metodologia de testes.
 
 Vale ressaltar que este texto não visa discutir a análise estática de código, mas visa dar um guia geral para quem não tem ideia de por onde começar uma revisão de código. O intuito final da metodologia exposta aqui é apenas a qualidade de código e uma ideia prática de como fazer uma boa revisão.
 
-## 1. Funciona?
+## Funciona?
 
 Todo código é escrito com algum objetivo específico. Pode ser a resolução de um problema, uma nova funcionalidade ou mesmo uma refatoração. Então a primeira pergunta é: “Ele cumpre o objetivo proposto?”. Não apenas acredite que o código funciona. Teste. Se é um endpoint novo, rode localmente e teste-o. Se é uma função, execute-a com os parâmetros corretos e os incorretos também. A função consegue tratar as exceções de forma correta? Tente avaliar possíveis falhas.
 
-## 2. Tem documentação?
+## Tem documentação?
 
 Ter documentação é algo que pode te ajudar na primeira tarefa (a de ver se o código funciona). Então talvez verificar se existe documentação e verificar se o código funciona podem ser tarefas atreladas. Entretanto, na maior parte das vezes, o ideal é que o código fale por si só. Caso seja algo que vá ser usado por uma terceira pessoa que não consegue ler o código, ai sim o ideal é documentar o que foi feito.
 
@@ -39,28 +36,28 @@ Documentar adequadamente seu projeto torna tudo mais fácil dado que depois de a
 Entretanto, use o bom-senso na hora de usar a documentação! Em excesso, ela pode se tornar cansativa para quem faz e obsoleta para quem usa.
 
 
-## 3. Está legível? Você conseguiu compreendê-lo facilmente?
+## Está legível? Você conseguiu compreendê-lo facilmente?
 
 Aqui temos uma filosofia de que o código tem que se explicar por si só. Usamos Python que, pra quem não conhece, tem aquela máxima: “simple is better than complex”.
 
 O código normalmente deve falar por si só. Se a coisa está muito complexa para alguém entender, normalmente existe um jeito mais fácil de fazê-la. Existe uma frase ótima que diz tudo: “escreva seu código como se a pessoa que fosse mantê-lo fosse um serial killer que sabe onde você mora”.
 
 
-## 4. Se o código for complexo, os comentários são suficientes para compreendê-lo?
+## Se o código for complexo, os comentários são suficientes para compreendê-lo?
 
 Ok, nem sempre conseguimos fazer as coisas de um jeito simples. Se o que está implementado é complexo - e deve ser complexo, ou seja, sem condições de simplificação - o código deve conter comentários para ajudar um futuro leitor/mantenedor a compreender o que está escrito. De novo, as memórias se apagam e o código pode ficar completamente indecifrável depois de algum tempo. E sempre que possível lembre-se: “complex is better than complicated”.
 
-## 5. O código está de acordo com o padrão de qualidade?
+## O código está de acordo com o padrão de qualidade?
 
 Em Python, por exemplo, temos a PEP8 que sugere algumas “regras” de boa escrita de código. O código deve estar de acordo com o padrão de código da linguagem e do ambiente de trabalho. Vale lembrar que as regras do ambiente onde você está normalmente sobrepõem as regras gerais. Entenda o ambiente onde o código está inserido e corrija-o pensando em seu “habitat natural”.
 
 Aqui essas verificações são manuais até inserirmos medidores de código automatizados. Por exemplo, nenhum código novo é inserido se não estiver com o Flake8 e o Isort ok.
 
-## 6. Tem testes?
+## Tem testes?
 
 O que falar de testes? Testes ajudam muito na garantia de qualidade do código e evitam muito transtorno (principalmente quando o que você alterou mudou uma parte do sistema que você nem lembrava que existia). Os testes por si só já são uma garantia de qualidade do sistema. Caso exista a política de testes na sua empresa, exija testes. Verifique se os testes adicionados cobrem todos os caminhos (esperados e exceções) e se a cobertura de código não diminuiu.
 
-## 7. Dê feedback
+## Dê feedback
 
 Diga o que achou e sugira melhorias, se for o caso :)
 

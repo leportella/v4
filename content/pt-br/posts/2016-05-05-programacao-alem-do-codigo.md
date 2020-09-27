@@ -17,7 +17,5 @@ date: 2016-05-05T18:25:52-05:00
 last_modified: 2020-02-14T18:25:52-05:00
 ---
 <!--more-->
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yV3XFWfJ0TE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-<br/>
+
+{{<youtube yV3XFWfJ0TE>}}

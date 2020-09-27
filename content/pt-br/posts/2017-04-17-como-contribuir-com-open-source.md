@@ -52,11 +52,7 @@ Opa! Veio a ideia: isso aí eu posso contribuir!
 
 Os grandes projetos normalmente tem um arquivo para indicar como eles incentivam que as contribuições ocorram. No caso do social-app-django, encontrei o guia de contribuição deles:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute.png" style="height:300px;"/>
-</center>
-<br/>
-
+{{<figure src="/assets/img/posts/contribute.png#center">}}
 
 A partir daí eu soube que o primeiro passo é ter uma conta no GitHub (check!), submeter um **issue** falando sobre o problema em si e, se possível, fazer um **fork** do projeto. Vamos por partes.
 
@@ -71,15 +67,9 @@ Seja educado, prestativo e não se irrite se demorar a receber respostas!
 
 No meu caso, eu expliquei que tive problemas, mostrei aonde consegui ajuda e me coloquei disposta a melhorar a documentação.
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute2.png" style="height:300px;"/>
-</center>
+{{<figure src="/assets/img/posts/contribute2.png#center">}}
 
-<center>
-<i><a href="https://github.com/python-social-auth/social-app-django/issues/44">Minha issue aberta no social-app-django</a> explica o problema, mostra onde encontrei a solução e me digo disposta a ajudar</i>
-</center>
-<br/>
-
+[Minha issue aberta no social-app-django](https://github.com/python-social-auth/social-app-django/issues/44) explica o problema, mostra onde encontrei a solução e me digo disposta a ajudar.
 
 Apesar de não ter recebido resposta depois de 8 dias, decidi continuar minha empreitada.
 
@@ -101,19 +91,10 @@ Busquei a documentação, li o código e finalmente, consegui fazer dois **pull 
 
 Estava feita a minha contribuição **open-source**.
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/contribute3.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="/assets/img/posts/contribute3.png#center">}}
 
 Isso pode até parecer simples para algumas pessoas, mas eu acabei demorando algumas horas de desenvolvimento tentando entender e aplicar a autenticação por GitHub. Com sorte, esta minha pequena contribuição poderá ajudar os próximos desenvolvedores a não demorarem tanto tempo. Então quem sabe você que não tem ideia por onde começar a contribuir comece da mesma forma? Teve uma dificuldade usando uma biblioteca? Porque não ajudar alguém a ter uma documentação melhor?
 
-<center>
-<h3>Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. (Provérbio Africano)</h3>
-</center>
+### Se quer ir rápido, vá sozinho. Se quer ir longe, vá em grupo. (Provérbio Africano)
 
-<center>
-  <img src="https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif" style="height:400px;"/>
-</center>
-<br/>
-
+{{<figure src="https://cdn-images-1.medium.com/max/800/1*b4np_iaYln1XAJVu_ttd9w.gif#center">}}

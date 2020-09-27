@@ -28,8 +28,7 @@ ensinar um **truque** legal e, na verdade, não sabia nem que isso poderia exist
 Decidi então escrever meu **truques** favoritos e que, muitas vezes, deixam o código muito mais simples e legível. Esse texto 
 vai estar entre o *cheat list* e um post simples e espero que seja útil.
 
-![](https://media.giphy.com/media/o6jPMSGtbHJFC/giphy.gif)
-
+{{<figure src="https://media.giphy.com/media/o6jPMSGtbHJFC/giphy.gif#center">}}
 
 ## Permuta de valores entre variáveis
 
@@ -359,9 +358,8 @@ isinstance('oi', str):
 
 Bem simples e elegante :)
 
-
 ## Adios!
 
 É isso por hoje pessoal! Espero que tenham gostado e espero fazer novos posts conforme eu aprenda mais "truques"! 
 
-![](https://media.giphy.com/media/3o6EhGvKschtbrRjX2/giphy.gif)
+{{<figure src="https://media.giphy.com/media/3o6EhGvKschtbrRjX2/giphy.gif#center">}}

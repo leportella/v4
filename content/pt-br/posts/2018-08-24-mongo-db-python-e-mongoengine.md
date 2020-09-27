@@ -34,7 +34,7 @@ falar de jeitos de testar essas ferramentas :)
 
 Vamos começar?
 
-![](https://media.giphy.com/media/3o6ZsXHLRnkgPtEYVi/giphy.gif)
+{{<figure src="https://media.giphy.com/media/3o6ZsXHLRnkgPtEYVi/giphy.gif#center">}}
 
 ## Configuração Inicial
 
@@ -61,19 +61,19 @@ informações sobre diversos filmes disponível [nesse link](https://raw.githubu
 Uma vez que criamos o banco de dados e a coleção, podemos adicionar todos os dados armazenados nesse JSON para a nossa 
 coleção de uma forma bem simples. Vá na área da sua coleção na interface do Mongo Compass:
 
-![](https://i.imgur.com/HgZHPht.png)
+{{<figure src="https://i.imgur.com/HgZHPht.png#center">}}
 
 Na barra superior vá em `Collection` > `Import Data`
 
-![](https://i.imgur.com/cSJV9f6.png)
+{{<figure src="https://i.imgur.com/cSJV9f6.png#center">}}
 
 Selecione o arquivo que você baixou do site 
 
-![](https://i.imgur.com/OA8KvZo.png)
+{{<figure src="https://i.imgur.com/OA8KvZo.png#center">}}
 
 Prontinho :) Um monte de filmes para analizarmos as avaliações foram adicionados na nossa coleção.
 
-![](https://media.giphy.com/media/pUeXcg80cO8I8/giphy.gif)
+{{<figure src="https://media.giphy.com/media/pUeXcg80cO8I8/giphy.gif#center">}}
 
 ## MongoDB e Pymongo
 
@@ -143,10 +143,9 @@ inteiros, listas e até novos dicionários.
 A grande vantagem de usar o Mongo Compass, é que os documentos podem ser agregados e expandidos para melhor visualização 
 dependendo do contexto. Aqui estão duas visões do mesmo documento acima, mas agregados e expandidos no Mongo Compass:
 
-<img src="https://i.imgur.com/p16d738.png" height="300" style="max-width: 20%" />
+{{<figure src="https://i.imgur.com/p16d738.png#center">}}
 
-<img src="https://i.imgur.com/cPCTlSq.png" height="550" style="max-width: 20%" />
-
+{{<figure src="https://i.imgur.com/cPCTlSq.png#center">}}
 
 ## Preparando o MongoEngine
 
@@ -318,7 +317,7 @@ Agora que entedemos como as classes de modelo funcionam, algumas coisas que voc�
 
 ## Buscando dados no dataset
 
-![](https://media.giphy.com/media/3ohhwuzTxy3eQK10Yw/giphy.gif)
+{{<figure src="https://media.giphy.com/media/3ohhwuzTxy3eQK10Yw/giphy.gif#center">}}
 
 MongoEngine nos permite fazer buscas de uma forma bem semelhante ao que o Django permite em seu ORM padrão. 
 Por exemplo, nós podemos fazer filtragens por filmes que foram lançados antes de 1988:

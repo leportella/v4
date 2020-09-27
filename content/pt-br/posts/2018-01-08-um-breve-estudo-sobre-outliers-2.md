@@ -26,33 +26,21 @@ pode ser encontrada [aqui](https://github.com/leportella/outlier-analysis/blob/m
 
 Basicamente temos uma variável y (*store_profit*) que tem um hitograma de cauda longa:
 
-<center>
-<img src="https://i.imgur.com/ygXccBS.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/ygXccBS.png#center">}}
 
 Duas variáveis independentes distribuda em torno de um centróide (*products in stock* e *product rating*):
 
-<center>
-  <img src="https://i.imgur.com/EvbWMC5.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/EvbWMC5.png#center">}}
 
 E mais uma variável categrica (*business_type*) e duas variáveis que são números internos, sem padrão de distribuição.
 
 O Dataframe resultante:
 
-<center>
-  <img src="https://i.imgur.com/sH7Rk7F.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/sH7Rk7F.png#center">}}
 
 Com essas características:
 
-<center>
-  <img src="https://i.imgur.com/EvbWMC5.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/EvbWMC5.png#center">}}
 
 ### EllipticEnvelope em X e variáveis numéricas
 
@@ -86,18 +74,12 @@ coerentes com a distribuição, enquanto que valores -1 são observaçes conside
 
 O resultado, quando observamos graficamente, é este:
 
-<center>
-<img src="https://i.imgur.com/Os4hDhg.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/Os4hDhg.png#center">}}
 
 Mas repare que não consideramos que os valor da nossa variável y nesse processo. Dessa forma, ao observamos as amostras em y que 
 foram consideradas *outliers* elas estão distribudas quase aleatóriamente:
 
-<center>
-  <img src="https://i.imgur.com/2ooxSD3.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/2ooxSD3.png#center">}}
 
 Muito legal hein?
 
@@ -121,17 +103,11 @@ Na verdade, quando avaliamos uma variável só, especialmente quando ela tem uma
 
 Dessa forma, temos que o nosso gráfico de y vai aparecer com um "corte", removendo valores muito extremos:
 
-<center>
-  <img src="https://i.imgur.com/xUj90Kg.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/xUj90Kg.png#center">}}
 
 Agora, se olharmos o gráfico dos valores das variáveis independentes temos a aleatoriadade das amostras:
 
-<center>
-  <img src="https://i.imgur.com/JMddE1Q.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/JMddE1Q.png#center">}}
 
 ### EllipticEnvelope em X e variáveis categóricas
 
@@ -164,10 +140,7 @@ inliers = clf.predict(X)
 
 O resultado é diferente daquele que encontramos anteriormente, considerando apenas duas variveis:
 
-<center>
-  <img src="https://i.imgur.com/sbQvPqO.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/sbQvPqO.png#center">}}
 
 Entretanto, não tem como fazermos a avaliação visual de como isso se comporta no espaço, como fizemos no exemplo anterior :/
 
@@ -184,9 +157,7 @@ se tenta identificar um *outlier* para fazer análises preditivas a partir dos d
 
 O primeiro caso teríamos a anomalia presente em y, como mostra a tabela abaixo:
 
-<center>
-<img src="https://i.imgur.com/NPKmR2U.png" height="100" style="max-width: 20%" />
-</center>
+{{<figure src="https://i.imgur.com/NPKmR2U.png#center">}}
 
 Se fizermos a análise baseando-nos em y, temos a análise removendo corretamente o quinto elemento, que é claramente um *outlier*.
 Agora, se fizermos a análise baseando-nos em X, essa observação não será removida. 
@@ -196,19 +167,13 @@ Agora, se fizermos a análise baseando-nos em X, essa observação não será re
 No segundo caso, a observação anômala ocorrem X. Dessa vez, a análise apenas de y pode não remover esse caso que é, claramente, 
 um anômalo.
 
-<center>
-<img src="https://i.imgur.com/xCetOdk.png" height="100" style="max-width: 20%"/>
-</center>
-
+{{<figure src="https://i.imgur.com/xCetOdk.png#center">}}
 
 **Caso 3: Temos anomalia em X e y**
 
 No terceiro caso temos a aparição de dados anômalos justamente em X e em y. A análise, de qualquer forma que se olhe, poderia nos dar uma impressão errada de um dado anômalo quando, na verdade, temos um comportamento relativamente fácil de prever. Quando X é grande, y será grande também.
 
-<center>
-<img src="https://i.imgur.com/BsPPlVU.png" height="100" style="max-width: 20%" />
-</center>
-
+{{<figure src="https://i.imgur.com/BsPPlVU.png#center">}}
 
 ## Fim?
 
@@ -216,10 +181,7 @@ Por enquanto foram esses os tópicos que eu cheguei e as análises que fiz para 
 as técnicas são várias e tem muita coisa pela frente. Se você sabe de algo que não está aqui, 
 por favor se sinta a vontade para comentar :)
 
-<center>
-  <img src="https://media.giphy.com/media/q9lNzUPfLAbBK/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/q9lNzUPfLAbBK/giphy.gif#center">}}
 
 ## Referências
 

@@ -29,7 +29,7 @@ Vamos lá...
 
 ## Razões para participar de comunidades
 
-### 1. Quem não é visto, não é lembrado
+### Quem não é visto, não é lembrado
 
 O velho ditado é válido aqui também. 
 Participar de eventos traz a sua empenha para a cabeça das pessoas que estão ali. E não apenas possíveis 
@@ -41,11 +41,9 @@ meios da comunidade, também vão se lembrar delas na hora de aplicar para novas
 
 [Comentário do Renato Oliveira](https://twitter.com/_renatoOliveira/status/1036754228990169088) da [Labcodes](https://www.labcodes.com.br/), empresa referência em participação de comunidade:
 
+{{<figure src="https://i.imgur.com/I68JORR.png#center">}}
 
-<center><img src="https://i.imgur.com/I68JORR.png" style="height:200px;"/></center>
-
-
-### 2. Pessoas buscam lugares onde possam aprender
+### Pessoas buscam lugares onde possam aprender
 
 O maior bem de uma empresa nos dias de hoje é, sem sombra de dúvida, o recurso humano. E com a escassez de desenvolvedores, 
 é de extremo interesse que as empresas se mostrem como um lugar legal de trabalhar. E legal não no sentido de puffs e video-games, mas um 
@@ -56,7 +54,7 @@ sempre no topo da lista de onde as pessoas querem trabalhar estão presentes em 
 tem pessoas de altíssimo nível palestrando e estão sempre incentivando que seus colaboradores participem de eventos. Porque?
 Porque espaços de troca de conhecimento são espaços de crescimento :)
 
-### 3. Bons desenvolvedores são difíceis de encontrar
+### Bons desenvolvedores são difíceis de encontrar
 
 Como falamos no item 2: recursos humanos são o maior bem de uma empresa e são bens escassos. Então se você quer encontrar 
 bons desenvolvedores ou pessoas com alto potencial, eventos são o lugar perfeito. Quantas pessoas que você conhece gastam 
@@ -64,30 +62,26 @@ suas noites e fins de semana estudando? Pessoas que "gastam" seu tempo, seu fim 
 sua noite ou o seu dinheiro, tem força de vontade, são interessadas e, no mínimo, 
 tem alguma coisa de diferente. Olhe para esse público!
 
+{{<figure src="https://i.imgur.com/KKFc6Lq.png#center">}}
 
-<center><img src="https://i.imgur.com/KKFc6Lq.png" style="height:200px;"/></center>
-
-
-### 4. É um treinamento
+### É um treinamento
 
 Tem MUITA coisa rolando em um evento. É um lugar de muito conhecimento. Tecnologias diferentes,
 pessoas explicando coisas úteis. 
 Às vezes a solução para o seu problema está numa palestra, às vezes está numa conversa de corredor. Às vezes, você conhece 
 AQUELA pessoa que vai te ajudar no seu problema enorme. 
 
-<center><img src="https://i.imgur.com/v7I3xvg.png" style="height:150px;"/></center>
+{{<figure src="https://i.imgur.com/v7I3xvg.png#center">}}
 
-
-### 5. Ajuda para as ferramentas do dia-a-dia
+### Ajuda para as ferramentas do dia-a-dia
 
 Existe uma boa chance de que você trabalha usando (ou fazendo) projetos open-source. Os desenvolvedores desses projetos 
 estão nos eventos! É a sua chance de tirar aquela dúvida, ou ajudar a criar a nova feature que vai te ajudar. Se o seu projeto 
 está aberto, é a hora perfeita pra conseguir pessoas para te ajudarem!
 
-<center><img src="https://i.imgur.com/fIekux5.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/fIekux5.png#center">}}
 
-
-### 6. Tendências do mercado
+### Tendências do mercado
 
 O mundo tecnológico muda diariamente e é extremamente difícil ficar atualizado com as tendências do mercado. 
 Estar presente na comunidade te permite observar quais são as principais tendências, 
@@ -101,8 +95,7 @@ empresas não percam momentum e fiquem obsoletas.
 
 Palavras maravilhosas do Filipe da [Vinta](https://www.vinta.com.br/), outra empresa que é exemplo de participação da comunidade:
 
-<center><img src="https://i.imgur.com/MEPkFum.png" style="height:180px;"/></center>
-
+{{<figure src="https://i.imgur.com/MEPkFum.png">}}
 
 ## Como participar da comunidade? Spoiler: nem tudo é dinheiro ;)
 

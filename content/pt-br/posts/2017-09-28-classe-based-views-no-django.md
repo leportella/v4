@@ -18,9 +18,7 @@ permalink: class-based-views-no-django.html
 redirect_from: /pt-br/2017/09/28/classe-based-views-no-django.html
 date: 2017-09-28T14:25:52-05:00
 translationKey: class-based-views-no-django
-
 ---
-
 
 Este post também poderia ser chamado de **o que vem depois dos tutoriais** :)
 <!--more-->
@@ -37,14 +35,9 @@ De maneira simples, podemos agregar as funções básicas das views dentro de cl
 
 Vou seguir passo a passo a evolução de um sistema passando por funções, os problemas que podemos esbarrar e um sistema baseado em classes já existentes.
 
-<center>
-  <img src="https://media.giphy.com/media/IYjiXRV622OBO/giphy.gif" style="height:300px;"/>
-</center>
-<center>
-<i>TLDR → Veja o <a href="https://github.com/leportella/class-based-views-example">código do projeto todo aqui</a> e siga em paz :)</i>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/IYjiXRV622OBO/giphy.gif#center">}}
 
+TLDR → Veja o [código do projeto todo aqui](https://github.com/leportella/class-based-views-example) e siga em paz :)
 
 ## Você está construindo seu sistema e precisa de uma função para retornar os templates
 
@@ -325,7 +318,4 @@ Para facilitar a compreensão do todo, eu fiz [este projetinho](https://github.c
 
 Espero que seja útil para você como foi para mim!
 
-<center>
-  <img src="https://media.giphy.com/media/6gy2ySS6nXaDe/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/6gy2ySS6nXaDe/giphy.gif#center">}}

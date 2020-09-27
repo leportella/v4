@@ -33,10 +33,7 @@ Durante essa primeira semana trabalhamos com diferentes equipes todo dia e sempr
 
 Em nossa segunda semana ainda tínhamos algumas aulas no Stripe 101, mas começamos as aulas da Engenharia 101. Nestas aulas especializadas aprendemos sobre a arquitetura geral do Stripe, padrões de design, linguagens de programação e muito mais. Conseguimos visualizar melhor como os projetos são executados, os tipos de problemas que podemos enfrentar e como as pessoas trabalham no dia-a-dia.
 
-<center><img src="https://imgur.com/NPokNqK.png" style="height:300px;"/></center>
-<center><i>Eu depois do primeiro dia!</i></center>
-<br/>
-
+{{<figure src="https://imgur.com/NPokNqK.png#center" caption="Eu depois do primeiro dia!" width="250px">}}
 
 ## Reconhecendo a dificuldade
 
@@ -51,9 +48,7 @@ Depois de terminar as aulas que eu comentei acima, você é agrupada com outras 
 
 Minha equipe /dev/start tinha pessoas que mais tarde se uniram a equipes muito diferentes da minha, pessoas com as quais eu talvez nunca mais venha a trabalhar. Desenvolvemos uma ferramenta para explorar e pré-visualizar arquivos em buckets S3 em uma ferramenta online interna (sem precisar fazer o SSH em uma máquina de produção). Meu projeto usou Scala, uma linguagem que eu nunca trabalhei antes. Eu estava com muito medo de ser inútil para o time, porque nunca havia trabalhado com uma linguagem JVM como Scala. Foi quando comecei a duvidar de mim e do que estava fazendo lá. Conversei com as pessoas da minha equipe e contei sobre minhas lutas. Eu disse que Stripe podia ter cometido um erro ao me contratar. Adivinha? Todos sentiram algo semelhante: estávamos todos inseguros. Acabamos ajudando um ao outro: pareando para escrever código e conversando quando as inseguranças ressurgiam. Não sei dizer o quão incrível e importante essa experiência foi para mim. Depois de apenas alguns dias, estávamos produzindo código, fazendo *deploy* das nossas mudanças e nos sentindo confortáveis com as principais ferramentas. Formamos uma ótima equipe e pudemos implantar nossa ferramenta antes do final da segunda semana do projeto.
 
-<center><img src="https://imgur.com/wKhtZIt.png" style="height:300px;"/></center>
-<center><i>Minha equipe e eu jantando juntos</i></center>
-<br/>
+{{<figure src="https://imgur.com/wKhtZIt.png" caption="Minha equipe e eu jantando juntos">}}
 
 ## Me sentindo confortável
 
@@ -96,9 +91,7 @@ Com o [Bear App](https://bear.app/), crio uma anotação por dia e adiciono info
 
 Aqui está um exemplo de como eu organizo minhas anotações diariamente:
 
-<center><img src="https://imgur.com/d14maPo.png" style="height:300px;"/></center>
-<center><i></i></center>
-<br/>
+{{<figure src="https://imgur.com/d14maPo.png">}}
 
 Eu também uso este diário como forma de guardar meus aprendizados. Se descubro como fazer algo que não é tão simples, ou se passei muito tempo tentando resolver um bug, registro o problema e as soluções lá. Esse diário me faz ter a  sensação pessoal de melhoria, de que estou evoluindo mesmo nos dias que eu passei lutando com alguma coisa. E é realmente útil ter uma lista do que você fez nas reuniões diárias da equipe. Por exemplo, se houver uma sequência de comandos que desejo armazenar, posso adicionar tags como `#code/tool` e `#code/project-abc`.
 

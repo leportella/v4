@@ -27,8 +27,7 @@ Sobre a organização em si (o que foi feito e como), vou escrever um outro text
 negócio, ok?
 
 *Foto oficial da Python Sul 2018*:
-![](https://i.imgur.com/8NSLrrP.jpg)
-
+{{<figure src="https://i.imgur.com/8NSLrrP.jpg#center">}}
 
 ## Acessibilidade
 
@@ -75,7 +74,7 @@ que eles tem muito orgulho disso.
 Uma coisa bem legal que a equipe da Ealis faz é divulgar eventos para a comunidade surda. Esse foi o vídeo de divulgação 
 que eles fizeram pra Python Sul:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/94aZw3tFzIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{<youtube 94aZw3tFzIQ>}}
 
 Nota: Super recomendo o serviço da EALIS, as intérpretes eram demais! Simpáticas e atenciosas. Os surdos também deram feedbacks 
 ótimos sobre a tradução das palestras.
@@ -97,7 +96,7 @@ me dando um sinal para me identificar. O sinal que ela me deu me identificava pe
 A Amanda e o Sávio criaram juntos o símbolo para Python em LIBRAS. Mandamos isso nos grupos e imediatamente o 
 querido Masanori já mandou uma foto dele fazendo o símbolo.
 
-![](https://i.imgur.com/q4oaq7Q.jpg)
+{{<figure src="https://i.imgur.com/q4oaq7Q.jpg#center">}}
 
 ## Pair programming entre pai e filho
 
@@ -107,7 +106,7 @@ eles fizeram pair programming e, em 4 horas fizeram um jogo. O mais legal?
 O menino tem apenas 10 anos! Era nítida a alegria dele no palco, contando como foi fazer o jogo e porque ele escolheu 
 aquela ferramenta. 
 
-![](https://i.imgur.com/qwN4M7E.jpg)
+{{<figure src="https://i.imgur.com/qwN4M7E.jpg#center">}}
 
 Não era momento das lightning talks, mas eles precisavam ir embora e queríamos muito que aquela palestra acontecesse. 
 Foi um momento lindo demais e, ao sair do palco, o Matheus virou pra mim e disse: "Você viu? Foi a minha primeira vez em um 
@@ -129,7 +128,7 @@ enquanto o Cris, dono do *food truck* do meu lado me ajudava a revezar as maquin
 E foi lindo ver as pessoas sendo atendidas por toda a equipe, recebendo 
 seus almoços, chopps e pedidos com rapidez. Essa é a foto do Maurício servindo chopp felizão da vida:
 
-![](https://i.imgur.com/lcKsLke.jpg)
+{{<figure src="https://i.imgur.com/lcKsLke.jpg#center">}}
 
 ## Fotos
 
@@ -139,7 +138,7 @@ arrasou nas fotos da Python Brasil em 2016! Claro que as fotos ficaram o  máxim
 Fotógrafo normalmente não gosta de aparecer na foto mas dessa vez consegui uma foto com ele e o Cris do *food truck* (no fundo), 
 nosso mestre responsável pelo delicioso almoço e *happy hour*!
 
-![](https://i.imgur.com/iqxhqrc.jpg)
+{{<figure src="https://i.imgur.com/iqxhqrc.jpg#center">}}
 
 ## A comunidade se reflete nos pequenos atos
 
@@ -157,11 +156,11 @@ quilos de alimentos recebidos! Algumas pessoas se juntaram e doaram caixas intei
 
 O resultado foi uma turma muito feliz reunindo o alimento:
 
-![](https://i.imgur.com/dHOqz2G.jpg)
+{{<figure src="https://i.imgur.com/dHOqz2G.jpg#center">}}
 
 Que não parece tanto mas encheu um carrinho enorme!
 
-![](https://i.imgur.com/c49SXhB.jpg)
+{{<figure src="https://i.imgur.com/c49SXhB.jpg#center">}}
 
 No fim das contas, o alimento foi doado para a [Associação dos Surdos de Florianópolis](http://www.asgfsurdos.org.br/), que também trabalha com surdos 
 carentes. Os alimentos foram usados na associação e serão usados para fazer uma feijoada beneficente em prol da associação no 
@@ -169,14 +168,14 @@ próximo dia 26 de maio (de 2018).
 
 Olha a Amanda agradecendo pelos alimentos:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-qtSwEBsue0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{<youtube qtSwEBsue0>}}
 
 ## Tutorial de inclusão da comunidade surda
 
 A Amanda também deu um depoimento lindo e falou sobre a comunidade surda em um dos tutoriais da Python Sul. 
 Você pode conferir essa história emocionante no vídeo abaixo e [na continuação do vídeo](https://www.youtube.com/watch?v=OxEnFFxRuu0).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LzmotDoMB6o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{<youtube LzmotDoMB6o>}}
 
 ## O que é a comunidade para você
 
@@ -184,8 +183,7 @@ Durante a Python Sul tive uma ideia: fazer um vídeo perguntando para as pessoas
 Dei essa missão ao [Jojo](https://twitter.com/jonatasbaldin) que fez um vídeo 10 vezes melhor do que eu um dia podería ter imaginado. Confere o que a comunidade 
 falou aqui:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j3GMjqj4fXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+{{<youtube j3GMjqj4fXA>}}
 
 ## Conclusão
 
@@ -203,4 +201,5 @@ Pessoas > tecnologia. Sempre!
 PS: Se eu lembrar de mais coisas vou adicionando aqui ;)
 
 *Organização fazendo o símbolo de Python em LIBRAS*
-![](https://i.imgur.com/olWJ8Ue.jpg)
+
+{{<figure src="https://i.imgur.com/olWJ8Ue.jpg#center">}}

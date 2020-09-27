@@ -26,10 +26,7 @@ Há três anos, quando eu decidi escrever [meu primeiro texto](https://leportell
 
 O texto acabou sendo bastante divulgado por amigos e muita gente falou que gostou da minha escrita. Passei um bom tempo escrevendo textos no Medium, sem sequer parar pra pensar se eu deveria fazer diferente. A plataforma me proporcionava tudo o que eu queria: era fácil escrever no editor, podia compartilhar rascunhos com amigos e eu conseguia ver quantas pessoas acessavam meus textos. E mais: a própria plataforma se encarregava de divulgar meus textos para pessoas que se interessavam por aquele tipo de conteúdo.
 
-<center><img src="https://i.imgur.com/ypV2AKR.png" style="height:150px;"/></center>
-
-<center><i>Estatísticas disponibilizadas pelo Medium</i></center>
-<br/>
+{{<figure src="https://i.imgur.com/ypV2AKR.png#center" caption="Estatísticas disponibilizadas pelo Medium">}}
 
 E nisso, acho que o Medium é sensacional. Ele é **extremamente** acessível para pessoas com pouca bagagem técnica e pessoas que não querem ficar pensando muito sobre sites, ferramentas e acessos. Ele é um lugar pra escrever. Simples, fácil e rápido.
 
@@ -38,10 +35,7 @@ E nisso, acho que o Medium é sensacional. Ele é **extremamente** acessível pa
 
 Só que, no meio do caminho, percebi que o Medium começou a mudar seus objetivos. Agora textos eram bloqueados, você não podia acessar textos se não tivesse logado e as coisas pareceram perder o sentido pra mim. Eu escrevia texto para as pessoas verem, sem nenhum tipo de amarras, não queria ninguém potencialmente bloqueando elas.
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*hvb7WNgDjGsLRU6CH_IjhA.png" style="height:250px;"/></center>
-
-<center><i>Imagem de bloqueio de conteúdo do Medium</i></center>
-<br/>
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*hvb7WNgDjGsLRU6CH_IjhA.png#center" caption="Imagem de bloqueio de conteúdo do Medium">}}
 
 Eu já tinha um *protótipo* de site para colocar os links dos meus textos (e treinar minha habilidades ridículas de html e css), mas comecei a achar que fazia mais sentido deixar as coisas só no meu site. Em algum momento nesse período em que eu estava me questionando sobre tudo isso vi que o [Luciano Ramalho](https://ramalho.org/) publicou um texto genial chamado [Porque cada pessoa deve ter seu site na Web](https://ramalho.org/wiki/doku.php?id=porque_cada_pessoa_deve_ter_seu_site_na_web). Cito uma frase em especial:
 
@@ -49,10 +43,7 @@ Eu já tinha um *protótipo* de site para colocar os links dos meus textos (e tr
 
 Então tomei uma decisão e decidi não só criar um novo site que permitisse que meu conteúdo ficasse armanezado lá como também decidi tirar o conteúdo que já estava no Medium. [Escrevi um texto](https://medium.com/@leportella/adeus-medium-3ba475620397) explicando algumas razões e avisando que novos textos só estariam disponíveis [no meu site pessoal](https://leportella.com). Também retirei o conteúdo dos posts que não estavam vinculados a revistas (como o [Hackernoon](https://hackernoon.com/) ou [Coletividad](https://medium.com/nossa-coletividad)) e inseri o link pro novo local onde o conteúdo estava disponível. Exemplo de como ficou um post que foi originalmente escrito no Medium e removido pro meu site:
 
-<center><img src="https://i.imgur.com/FSyW3ur.png" style="height:250px;"/></center>
-
-<center><i>Aviso deixado em cada post que foi recolocado no meu site pessoal</i></center>
-<br/>
+{{<figure src="https://i.imgur.com/FSyW3ur.png#center" caption="Aviso deixado em cada post que foi recolocado no meu site pessoal">}}
 
 Isso deu um trabalho enorme. Só que eu queria evitar que o conteúdo dos textos no meu site fosse conteúdo duplicado, o que faria ele cair nas pesquisas no Google, por exemplo.
 
@@ -66,17 +57,12 @@ No meu caso eu comprei meu domínio leportella.com no [Namecheap](https://www.na
  
  Com um site pré-pronto do Jekyll, também consegui adicionar uma tag do [Google Analytics](https://analytics.google.com), o que permitiu que eu tivesse várias outras informações a respeito de quem acessava meu site. Esse foi o número de acessos nos primeiros 10 meses após a mudança:
 
- <center><img src="https://i.imgur.com/99XpkfZ.png" style="height:350px;"/></center>
-
-<center><i>Estatítisca de usuários por dia, semana e mês nos primeiros 10 meses depois de colocar os meus textos no site (7/9/17 a 31/7/18)</i></center>
-<br/>
+ {{<figure src="https://i.imgur.com/99XpkfZ.png#center" caption="Estatítisca de usuários por dia, semana e mês nos primeiros 10 meses depois de colocar os meus textos no site (7/9/17 a 31/7/18)">}}
 
 Como é possível ver, eu comecei a ver um crescimento de pessoas no meu site, com um pico estimado de quase 3342 pessoas em um mês. E foi legal ver que a grande maioria dos acessos vinham de buscas orgânicas:
 
-<center><img src="https://i.imgur.com/UEw963k.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/UEw963k.png#center" caption="Origem dos acessos: o azul escuro indica buscas orgânicas">}}
 
-<center><i>Origem dos acessos: o azul escuro indica buscas orgânicas</i></center>
-<br/>
 
 Só nisso, consegui ver uma grande vantagem em relação ao Medium: eu conseguia ter mais informações a respeito dos meus usuários. Eu conseguia ter informações em diferentes períodos de tempo, quais países estavam acessando meu conteúdo e muito mais. 
 
@@ -88,11 +74,7 @@ Além disso, o site já via com um plugin de [SEO](https://en.wikipedia.org/wiki
 
 Claro que, nesse meio tempo, eu fui aumentando a quantidade de posts e gerando mais e mais conteúdo pro site. E a combinação de um bom template para encontrar textos + plugin de SEO + mais textos em duas línguas acabou dando um resultado muito maior do que eu podia imaginar. Hoje, o meu site já passou dos 6 mil acessos port mês, a grande maioria (>80%) por buscas orgânicas.
 
-
-<center><img src="https://i.imgur.com/TbYoAU1.png" style="height:350px;"/></center>
-
-<center><i>Estatítisca de usuários por dia, semana e mês 2 meses antes de colocar a nova versão do site (1/4/18 a 31/7/18) e depois de colocar a nova versão do site (24/8/18)</i></center>
-<br/>
+{{<figure src="https://i.imgur.com/TbYoAU1.png#center" caption="Estatítisca de usuários por dia, semana e mês 2 meses antes de colocar a nova versão do site (1/4/18 a 31/7/18) e depois de colocar a nova versão do site (24/8/18)">}}
 
 Portanto, pro meu caso, a mudança impactou positivamente os meus acessos. Eu aumentei o controle sobre as informações das pessoas que trafegam no meu site e o melhor: não dependo de nenhuma ferramenta centralizadora pra alcançar os objetivos que eu tenho com o site. 
 
@@ -108,10 +90,9 @@ Portanto, qual o seu objetivo com os textos? Que público pretende atingir? Se n
 
 E se você pensa que isso não faz diferença, mesmo tendo metade dos meus textos em inglês o Brasil representa quase 40% dos meus acessos:
 
-<center><img src="https://i.imgur.com/jMmR4y4.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/jMmR4y4.png#center">}}
 
-
-## Site como seu cantinho pessoal
+# Site como seu cantinho pessoal
 
 Uma coisa que eu gostei de fazer no meu site pessoal, além dos textos, foi escrever [uma sessão de currículo do jeito que eu queria](https://leportella.com/cv.html). Esqueça currículo de 1 página ou seu perfil no Linkedin. O que **você** gostaria que estivesse no seu currículo?
 

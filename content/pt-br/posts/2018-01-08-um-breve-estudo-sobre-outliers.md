@@ -18,10 +18,8 @@ Na oceanografia, nossos dados anômalos são facilmente reconhecíveis. Uma corr
 Este post é uma primeira tentativa em descrever o que eu encontrei e refleti sobre as técnicas para identificar dados anômalos 
 focando em um conjunto de dados em que o meu *outlier* prejudica uma avaliação dos dados ou prejudica uma análise preditiva, por exemplo.
 
-<center>
-  <img src="https://media.giphy.com/media/26gJA9SSe4m54MYec/giphy.gif" style="height:300px;"/>
-</center>
-</br>
+
+{{<figure src="https://media.giphy.com/media/26gJA9SSe4m54MYec/giphy.gif#center">}}
 
 ## Definição de Outliers
 
@@ -70,10 +68,7 @@ pedido do Senhor Hadlum. Em 1951 uma outra corte definiu o limite como 360 dias.
 
 Fascinante, não?
 
-<center>
-  <img src="https://i.imgur.com/8b73OnB.png" style="height:300px;"/>
-</center>
-</br>
+{{<figure src="https://i.imgur.com/8b73OnB.png#center">}}
 
 ## Causas da ocorrência de um Outlier
 
@@ -100,10 +95,7 @@ e
 Onde dados que ficam entre f1 e F1 ou f3 e F3 são chamados de *outliers* externos ("*outside outliers*") enquanto 
 dados maiores que F1 e F3 são chamados de *outliers* longínquos ("*far out outliers").
 
-<center>
-  <img src="http://flowingdata.com/wp-content/uploads/2008/02/box-plot-explained.gif" style="height:300px;"/>
-</center>
-</br>
+{{<figure src="http://flowingdata.com/wp-content/uploads/2008/02/box-plot-explained.gif#center">}}
 
 ## Estudo de Caso
 

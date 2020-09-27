@@ -20,6 +20,6 @@ Quando você começa nesse mundo, as coisas ficam extremamente confusas. São mi
 
 Todos prontos?
 
-<center><img src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif#center">}}
 
 Gostou? Confira [o texto completo na Revista do Pizza de Dados](https://medium.com/pizzadedados/ferramentas-desenvolvimento-ciencia-dados-c54d112871d8)

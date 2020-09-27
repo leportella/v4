@@ -19,9 +19,7 @@ Este mês é meu aniversário de [4 anos do meu primeiro emprego como desenvolve
 Algumas delas podem ser bastante óbvias para alguns, mas, uma e outra vez, converso com pessoas e vejo que algumas das dicas mais "óbvias" podem ser úteis. Muitas coisas também não são contempladas aqui, o post já ficou longo demais, mas eu quis compartilhá-lo de qualquer maneira! Então, aqui está o meu post de comemoração para o meu 4º aniversário como desenvolvedora de software! 🙂
 
 
-<center><img src="https://media.giphy.com/media/cRH5deQTgTMR2/giphy.gif" style="height:300px;"/></center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/cRH5deQTgTMR2/giphy.gif#center">}}
 
 
 ## Aprenda ao menos uma tecnologia bem o suficiente
@@ -79,8 +77,7 @@ As quatro situações são:
 
 Pense em como você apresentaria esses fatos.
 
-<center><img src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif" style="height:300px;"/></center>
-<br/>
+{{<figure src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif#center">}}
 
 .
 
@@ -136,11 +133,7 @@ Vou te contar um segredo: *ninguém realmente sabe o que está fazendo*. A verda
 
 Portanto, não espere saber tudo para depois conseguir o trabalho. Se você sabe tudo sobre o trabalho que deseja, provavelmente já é boa demais para ele.
 
-
-
-<center><img src="https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif" style="height:300px;"/></center>
-<center><i>Essa sou eu na maioria do que eu faço. Tradução: Eu não tenho ideia do que estou fazendo</i></center>
-<br/>
+{{<figure src="https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif#center">}}
 
 Se você encontrar uma vaga de trabalho para algo em que sempre sonhou trabalhar, aplique. Você pode não ter chances de alcançá-la, mas deve tentar. *Sempre.* **Você não deve fazer o trabalho das pessoas que escolhem.** O trabalho delas é verificar se você é boa o suficiente. O seu trabalho é aplicar e fazer o seu melhor.
 

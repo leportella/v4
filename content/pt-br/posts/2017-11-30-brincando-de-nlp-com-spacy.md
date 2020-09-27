@@ -29,13 +29,7 @@ Processamento inteligente de texto puro é algo muito difícil: muitas palavras 
 distintas podem ter significados iguais enquanto a mesma palavra pode ter um significado completamente diferente dependendo 
 do contexto. 
 
-<center>
-  <img src="https://media.giphy.com/media/woOg6RMyfXxSg/giphy.gif" style="height:300px;"/>
-</center>
-<center>
-<i>Tente explicar para um estrangeiro a diferença entre 'bota a calça' e 'calça a bota'</i>
-</center>
-</br>
+{{<figure src="https://media.giphy.com/media/woOg6RMyfXxSg/giphy.gif#center" caption="Tente explicar para um estrangeiro a diferença entre 'bota a calça' e 'calça a bota">}}
 
 Mesmo a divisão entre palavras pode ser muito difícil em algumas línguas. Mesmo que seja possível utilizar apenas caracteres 
 puros, normalmente é melhor usar o conhecimento da linguística para adicionar informações úteis. 

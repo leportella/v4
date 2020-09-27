@@ -22,16 +22,11 @@ Entretanto, ao mudar de uma ferramenta para a outra, tive uma série de problemi
 
 Só para deixar claro, tudo o que é apresentado aqui está em Python 3 porque o Python 2 [está para se aposentar](https://pythonclock.org/) :(
 
-<center>
-  <img src="https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/nI3Npa6iPC4b6/giphy.gif#center">}}
 
 O intuito deste post não é discutir qual ferramenta é melhor, mas mostrar como facilitar a transição de conhecimento de Matlab para Python :)
 
-
-## 1. Números, letras e outras “cositas mas”…
+## Números, letras e outras “cositas mas”…
 
 No Matlab podemos criar vetores e matrizes de números e texto, o que é bastante útil e 
 intuitivo. Basicamente, podemos acessar qualquer valor em um vetor ou 
@@ -43,25 +38,18 @@ Dicionários são estruturas de dados que você pode acessar através da “chav
 
 Além disso, existe uma diferença entre tipos de variáveis decimais (`floats`) e números inteiros (`integers`). Ou seja, é bom se familiarizar primeiro com os tipos de variáveis e estruturas que existem no Python! Essa é uma vantagem bem grande!
 
-<center>
-  <img src="https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif" style="height:300px;"/>
-</center>
-<center>
-<i>Vendo dicionários e tuplas pela primeira vez</i>
-</center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif#center" caption="Vendo dicionários e tuplas pela primeira vez">}}
 
 Se você tiver em dúvida do [tipo da sua variável](https://docs.python.org/3/library/stdtypes.html), digite: `type(variavel)` ;)
 
-## 2. Trabalhando com palavras e números
+## Trabalhando com palavras e números
 
 Seja através de dicionários ou listas (estruturas padrão do Python) ou DataFrames (estrutura de matrizes do Pandas), 
 Python é facílimo de trabalhar com dados numéricos e de texto em um mesmo contexto. O mesmo não pode ser dito do Matlab, onde inserir textos complica tudo!
 
 Uma lista do tipo `lista = [1, 'dois', [1,2,3], {'chave': 1}]` é totalmente aceitável!
 
-## 3. Acessando valores em listas (e listas de listas)
+## Acessando valores em listas (e listas de listas)
 
 Em Matlab, contagem de listas começam em `1` e são acessadas através de parênteses. O último valor pode ser acessado através da palavra `end`.
 
@@ -104,7 +92,7 @@ print(lista_complexa[0][2])
 print(lista_complexa[1][1])
 ```
 
-## 4. Blocos não terminam com “end” e precisam de “:”
+## Blocos não terminam com “end” e precisam de “:”
 
 No Matlab, a maneira mais simples de fazer um laço é a mostrada abaixo, 
 onde você tem uma lista e itera pelos itens dela. Neste laço abaixo, o `for` caracteriza o início do laço 
@@ -140,7 +128,7 @@ for item in lista:
 print('Fora do Laço')
 ```
 
-## 5. Funções e métodos disponíveis
+## Funções e métodos disponíveis
 
 No Matlab, diversas funções vem carregadas por padrão, por exemplo as funções básicas de matemática como seno e cosseno. 
 O Python possui uma filosofia diferente onde [poucas funções](https://docs.python.org/3/library/functions.html#built-in-funcs) são carregadas por padrão e a 
@@ -195,11 +183,11 @@ lista.append('quatro')
 lista.count('3')
 ```
 
-## 6. Como saber qual módulo usar?
+## Como saber qual módulo usar?
 
 Se você está usando Matlab a maioria de suas necessidades devem ser supridas com o [Numpy](http://www.numpy.org/), [Scipy](https://www.scipy.org/), [Matplotlib](http://matplotlib.org/) e [Pandas](http://pandas.pydata.org/). Essas são as principais ferramentas de análise de dados no Python, mas existem inúmeras outras. Procure por códigos que já fizeram o que você faz, busque no [Github](http://github.com/), [Stackoverflow](http://stackoverflow.com/) ou dê uma passada rápida nos fóruns.
 
-## 7. Aonde eu vejo as variáveis carregadas?
+## Aonde eu vejo as variáveis carregadas?
 
 Um dos problemas mais recorrentes era que em Matlab estamos extremamente acostumados 
 com a visualização de variáveis. O “terminal” estava ali, mas o script 
@@ -211,42 +199,28 @@ No começo, isso chega a ser assustador. Eventualmente eu me acostumei, mas o qu
 
 O Spyder é uma ferramenta para Python, feita em Python, que possui uma interface bem semelhante com a do Matlab: os scripts ficam na parte esquerda, na parte direita superior é possível ver os dados carregados e como eles são compostos (inclusive com um background colorido que ajuda muito a encontrar discrepâncias rapidamente) e um terminal com ipython na parte direita inferior. Até o **F9** funciona da mesma forma! Para mim, foi amor a primeira vista ❤.
 
-<center>
-  <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" style="height:300px;"/>
-</center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif#center">}}
 
 Olha a carinha dele:
 
-<center>
-  <img src="https://i.imgur.com/RgKovVN.png" style="height:400px;"/>
-</center>
-<br/>
-
+{{<figure src="https://i.imgur.com/RgKovVN.png#center">}}
 
 Exemplo do Spyder funcionando com um script de 11 linhas (esquerda), as variáveis carregadas (superior direito) e o terminal ipython (inferior direito)
 
-## 8. Procurando ajuda
+## Procurando ajuda
 
 Se você não sabe o que uma função faz, simplesmente digite: `help(função)` e 
 seja feliz :) Se tiver no Spyder, você pode ir em cima da função e digitar `Ctrl+I`.
 
-## 9. Orientação a objetos
+## Orientação a objetos
 
 Apesar de o Matlab ter construído algo parecido com Orientação a Objetos, o Python é puramente orientado a objetos. Conforme você avança na linguagem os conceitos de classes (com métodos, atributos e herança de classes) tem que ser estudados mais a fundo. Fique atento nisso!
 
-## 10. Formatação de código
+## Formatação de código
 
 Existem uma séries de guias de boas práticas de código, como tamanho de linhas aceitáveis, como nomear suas variáveis, quantas linhas entre funções, etc. Eu nunca tinha ouvido falar de boas práticas de código antes de estudar outra linguagem… então isso foi meio estranho (e desnecessário) a princípio. Depois de um tempo, você percebe o quanto isso é bom e faz falta!
 
 No caso do Python, esse guia de boas práticas está ligado a uma filosofia pythônica de código limpos, bem escritos e legíveis que é muito enraizada na comunidade. 
 Para saber mais sobre o estilo sugerido veja a [PEP8](https://www.python.org/dev/peps/pep-0008/). Para saber mais sobre a filosofia Python vá no terminal e digite import this e seja bem-vindo!
 
-<center>
-  <img src="https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif" style="height:300px;"/>
-</center>
-<center>
-  <i>Bem vindo ao Zen do Python</i>
-</center>
-<br/>
+{{<figure src="https://media.giphy.com/media/3o6ZsYMuMkxBNiy7pC/giphy.gif#center" caption="Bem vindo ao Zen do Python">}}

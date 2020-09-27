@@ -18,10 +18,7 @@ translationKey: parallel-processes-python
 
 Essa semana caí num caso em que eu tinha diversos scripts contendo análises que poderiam rodar em paralelo. Essas análises eram então usadas como base para uma outra análise, que devia rodar apenas depois de todas as outras acabarem. <!--more--> Algo parecido com isso:
 
-<center>
-  <img src="https://i.imgur.com/jfX5XMZ.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/jfX5XMZ.png#center">}}
 
 *Temos 3 processos (scripts de análise) que são independentes um dos outros e podem rodar em paralelo. O 4o processo é uma análise que depende do resultado dos demais processos.*
 
@@ -117,10 +114,7 @@ Como temos 3 processos que executam em tempos diferentes, se os processos rodass
 seria iniciado. Como estamos executando todos ao mesmo tempo, 
 os processos vão ser finalizados na ordem do mais rápido ao mais lento. O resultado portanto é:
 
-<center>
-  <img src="https://i.imgur.com/GvIoQS5.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/GvIoQS5.png#center">}}
 
 *Tempo total usado no processamento dos 3 scripts de processo e resultado em ordem de tempo de execução*
 
@@ -157,10 +151,7 @@ pool.map(roda_processo, outros)
 
 Dessa forma, o resultado fica mas parecido com este:
 
-<center>
-  <img src="https://i.imgur.com/2ja6VBK.png" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://i.imgur.com/2ja6VBK.png#center">}}
 
 Temos os dois primeiros processos rodando em paralelo até o final e apenas então o **processo3** 
 é executado.
