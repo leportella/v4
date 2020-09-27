@@ -1,0 +1,12 @@
+{{ define "header" }}
+{{ partial "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<h1>{{ .Section }}</h1>
+<ul>
+{{ range .Pages }}
+    <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+{{ end }}
+</ul>
+{{ end}}
