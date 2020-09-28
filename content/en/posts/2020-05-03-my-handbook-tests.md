@@ -5,7 +5,7 @@ categories:
   - tests
 tags:
   - programming language
-featured-img: paris
+featured-img: road
 permalink: my-handbook-I.html
 redirect_from: /english/2020/04/12/something.html
 date: 2020-05-03T18:25:52-05:00

@@ -15,7 +15,7 @@ tags:
   - latex
   - minted
   - vscode
-featured-img: notebook
+featured-img: book
 slug: latex
 last_modified_at: 2020-09-15T18:25:52-05:00
 date: 2020-09-15T18:25:52-05:00
