@@ -115,11 +115,14 @@ println(point.x) // 2
 
 So… you have:
 
+{{< table >}}
+
 | **Attribute definition** | **Assessor? (Point.x)** | **Mutator? (Point.x = 4)** | **Can override?** |
 | ------------------------ | ----------------------- | -------------------------- | ----------------- |
 | `val`                    | yes                     | no                         | yes               |
 | `var`                    | yes                     | yes                        | no                |
 | nothing                  | no                      | no                         | yes               |
+{{< /table >}}
 
 ## Using classes
 

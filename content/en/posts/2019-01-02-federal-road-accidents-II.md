@@ -137,12 +137,14 @@ Even though the original proposition (multiclass model) had a similar accuracy t
 
 The best model was the Multi-layer Perceptron Classifier (Neural Network), was optimised with the following parameters (Model 20):
 
+{{< table >}}
 | Parameter          | Values Tested                  |  Value Optimal |
 |--------------------|--------------------------------|----------------|
 | activation         | identity, logistic, tanh, relu | Logistic       |
 | solver             | lbfgs, sgd, adam               | Adam           |
 | hidden layer sizes | 50, 100, 200                   | 100            |
 | learning rates     | constant, invscaling, adaptive | invscaling     |
+{{< /table >}}
 
 
 The results here presented are a combination of the best algorithm and variables, but this were small changes compared to the change that could be achieved only by under sampling.

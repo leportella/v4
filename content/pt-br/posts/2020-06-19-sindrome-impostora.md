@@ -87,12 +87,14 @@ Como você pode ver no Resumo acima, nem todas as semanas são detalhadas e chei
 
 As seções de *Objetivos* me mantém focada no que eu quero alcançar como profissional, mas são objetivos alcançáveis. Por exemplo, quando entrei na minha nova empresa, meus objetivos de curtos prazo eram sobreviver aos primeiros 6 meses e trabalhar em um projeto que teria um resultado claro.
 
+{{< table >}}
 
 | ⛔️ Objetivo inalcançável  | ✅ Objetivo alcançável                                                       |
 | ------------------------- | --------------------------------------------------------------------------- |
 | Aprender Scala            | Terminar o curso de Scala                                                   |
 | Escrever mais no meu blog | Escrever 3 artigos pro blog                                                 |
 | Ser uma mentora melhor    | Pedir feedback da pessoa que estou mentorando sobre o que eu posso melhorar |
+{{< /table >}}
 
 
 Na seção *Projetos em que trabalhei*, *Documentação* e *Construção da Empresa*, costumo adicionar pequenas frases dizendo o que fiz e tento sempre adicionar um link ao resultado concreto. Pode ser uma pesquisa, uma solicitação de recebimento, uma entrevista de usuário, uma proposta de processo que ajudou minha equipe a melhorar o trabalho. Não importa.

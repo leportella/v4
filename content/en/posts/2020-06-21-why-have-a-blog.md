@@ -71,12 +71,16 @@ In today's world, being visible is an excellent way to stand out and get better 
 
 ## Common excuses not to write
 
+{{< table >}}
+
 | **Excuse**                      | **My answer**                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | “I am not an expert”            | That's ok! You don't have to be an expert to explain  something you know! On every blog post that I am not completely sure of what I am writing I make it explicit that this is based on my knowledge. Just make sure to be open to criticism and feedback.                                                                      |
 | “Everybody know this”           | Even if something was written a thousand times, it doesn't mean you shouldn't write about it. I usually search for different articles on a single topic to help me understand something! Not always what was written before works for everyone. Maybe what you wrote will be good for a specific person. And that's all you need |
 | “What if I make mistakes?”      | No problem at all. Life is full of mistakes. Make sure you add a comment on the beginning of an old post or even change the text. You don't have to be right all the time and you didn't write in stone. If you make a mistake, go back and fix it. You will only grow from the experience                                       |
 | “I have nothing to write about” | I made a whole section about it 😉                                                                                                                                                                                                                                                                                               |
+{{< /table >}}
+
 
 ## What to write?</h2>
 

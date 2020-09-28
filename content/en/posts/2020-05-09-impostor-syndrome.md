@@ -79,12 +79,14 @@ As the days and weeks go by, you might have a feeling that you are working, but 
 
 The *Goals* section keeps me focused on what I want to achieve for myself but they are achievable goals. For example when I joined my new company my short goals were surviving the first 6 months and working on something that would have a clear output. It is pretty easy to add generic topics that are non achievable. These tend to let me much more frustrated than anything else, so I keep my distance. 
 
-
+{{< table >}}
 | ⛔️ Non-achievable goal | ✅ Achievable goal                                     |
 | ---------------------- | ----------------------------------------------------- |
 | Learning Scala         | Finishing this course of Scala                        |
 | Write more on my blog  | Write 3 posts on my blog                              |
-| Be a better mentor     | Request feedback from my mentee on what can I improve and compare with last year |
+| Be a better mentor     | Request feedback from my mentee on what can I improve tand compare with last year |
+{{< /table >}}
+
 
 On *Projects I've worked on, Documentation and Company Building*, I usually add small sentences saying what I did and try to always add a link to the concrete result. It could either be a research, a pull request, an user interview, a proposition that helped my team be better. It doesn't matter. 
 

@@ -85,6 +85,7 @@ No mundo de hoje, ser visível é uma excelente maneira de se destacar no mercad
 
 ## Desculpas comuns para não escrever
 
+{{< table >}}
 
 | **Desculpa**                        | **Minha resposta**                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,6 +93,7 @@ No mundo de hoje, ser visível é uma excelente maneira de se destacar no mercad
 | “Todo mundo sabe isso”              | Mesmo que algo tenha sido escrito mil vezes, isso não significa que você não deva escrever sobre isso. Normalmente, procuro artigos diferentes sobre um único tópico para me ajudar a entender alguma coisa! Nem sempre o que foi escrito antes funciona para todas as pessoas. Talvez o que você escreveu seja bom para uma pessoa específica. E isso é tudo que você precisa! |
 | “E se eu escrever algo errado?”     | Sem problema algum. A vida é cheia de erros. Adicione um comentário no início de uma postagem antiga ou altere o texto. Você não precisa estar certa o tempo todo e definitivamente não escreveu em pedra. Se você cometer um erro, volte e corrija-o. Você só crescerá com a experiência                                                                                       |
 | “Eu não tenho sobre o que escrever” | Eu fiz uma sessão inteira sobre isso 😉                                                                                                                                                                                                                                                                                                                                          |
+{{< /table >}}
 
 ## Sobre o que escrever?
 
