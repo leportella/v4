@@ -2,8 +2,16 @@
   <header class="card-header text-center">
     <div class="card-meta page-date">
       {{ if eq .Page.Type "posts" }}
-      <a href="#"><time class="timeago"
-        datetime="{{ dateFormat "2006-01-02 15:04" .Date }}">{{ dateFormat "02 January 2006" .Date }}</time></a> 
+
+        {{ if eq .Language.Lang "pt-br"}}
+          <time class="post-date" datetime="{{ .Date }}">
+            {{ .Date.Day }} {{ index $.Site.Data.meses (printf "%d" .Date.Month) }} {{ .Date.Year }}
+          </time>
+        {{ else }}
+          <time class="post-date" datetime="{{ dateFormat "2006-01-02 15:04" .Date }}">
+            {{ dateFormat "02 January 2006" .Date }}
+          </time>
+        {{ end }}
         {{ if .Translations }}
           <span class="language-separator">●</span>
           {{ range first 1 .Translations }}
