@@ -1,4 +1,5 @@
 @import "app";
+@import "variables";
 
 .container h1 {
     margin-bottom: 1.5em;
@@ -8,6 +9,11 @@ h2 {
 }
 h3 {
     margin: 1em 0;
+}
+
+.card-body a:not(.btn) {
+    color: $cyan;
+    text-decoration: none;
 }
 
 .page-title {
@@ -21,11 +27,15 @@ h3 {
 
 #TableOfContents ol li {
     margin-bottom: 0.5em;
-    color: #0087ff;
+    color: $cyan;
 }
 
 .language-separator {
     margin: 0 1em;
+}
+
+pre {
+    padding: 1em;
 }
 
 .card-body img {
