@@ -3,6 +3,7 @@ theme = "tella"
 defaultContentLanguage = "en"
 copyright = "Everything is mine"
 googleAnalytics = "UA-106178084-1"
+disqusShortname = "leportella-com"
 
 [permalinks]
 posts = "/:slug/"
