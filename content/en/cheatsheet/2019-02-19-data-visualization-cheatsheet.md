@@ -46,7 +46,7 @@ tags:
   - ciência de dados
   - pizza de dados
 featured-img: dataviz
-slug: cheatsheet-data-visualization
+slug: data-visualization
 aliases: 
   - /cheatlist/2019/02/19/data-visualization-cheatsheet.html
   - /cheatsheet-data-visualization.html

@@ -41,7 +41,9 @@ tags:
   - sql
   - database
 featured-img: search
-slug: cheatsheet-sql.html
+slug: sql
+aliases:
+  - /cheatsheet-sql.html
 date: 2020-04-25T14:25:52-05:00
 ---
 

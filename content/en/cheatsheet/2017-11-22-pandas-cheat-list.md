@@ -40,9 +40,9 @@ tags:
   - data science
   - ciência de dados
 featured-img: panda
-slug: cheatsheet-pandas
+slug: pandas
 aliases:
-  - cheatsheet-pandas.html
+  - /cheatsheet-pandas.html
   - /cheatlist/2017/11/22/pandas-cheat-list.html
 date: 2017-11-22T14:25:52-05:00
 last_mod: 2018-05-01T14:25:52-05:00

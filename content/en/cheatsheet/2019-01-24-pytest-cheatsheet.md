@@ -39,7 +39,7 @@ tags:
   - cs
   - computer science
 featured-img: list
-slug: cheatsheet-pytest
+slug: pytest
 aliases: 
   - /cheatlist/2019/01/24/pytest-cheatsheet.html
   - /cheatsheet-pytest.html

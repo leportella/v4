@@ -38,9 +38,9 @@ tags:
   - cs
   - computer science
 featured-img: calculator
-slug: cheatsheet-sklearn
+slug: sklearn
 aliases: 
-  - cheatsheet-sklearn.html
+  - /cheatsheet-sklearn.html
   - /cheatlist/2018/05/01/sklearn-cheat-list.html
 date: 2018-05-01T14:25:52-05:00
 ---

@@ -43,7 +43,7 @@ tags:
   - cs
   - computer science
 featured-img: analytics
-slug: cheatsheet-machine-learning
+slug: machine-learning
 aliases: 
   - /cheatsheet-machine-learning.html
   - /cheatlist/2018/05/20/models-cheat-list.html

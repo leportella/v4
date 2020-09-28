@@ -38,9 +38,9 @@ tags:
   - cs
   - computer science
 featured-img: code
-slug: cheatsheet-git
+slug: git
 aliases: 
-  - /learning-code.html
+  - /cheatsheet-git.html
   - /cheatlist/2018/01/05/git-cheat-list.html
 date: 2018-01-05T14:25:52-05:00
 ---
