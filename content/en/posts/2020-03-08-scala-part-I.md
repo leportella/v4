@@ -64,9 +64,7 @@ Finally, I found this link of Top Tutorials to Learn Scala and I found a course 
 
 I also got some awesome recommendation from the marvelous [Dani Petruzalek](https://twitter.com/danicat83) that I still haven't seen it all: a [Coursera class](https://www.coursera.org/learn/progfun1) and [book](https://www.goodreads.com/book/show/5680904-programming-in-scala) from Martin Odersky, the language creator, and this talk:
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LH75sJAR0hc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{{<youtube LH75sJAR0hc>}}
 
 ## Some on the things I learned so far
 

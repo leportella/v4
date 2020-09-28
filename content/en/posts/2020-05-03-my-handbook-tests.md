@@ -182,3 +182,6 @@ Hope you enjoyed this post technical but not full of code 🙂. This is the firs
 
 [1] JC Westland. 2002. The cost of errors in software development: evidence from industry. The Journal of Systems and Software 62 1–9.
 
+--
+
+Photo by Deva Darshan in Pexels

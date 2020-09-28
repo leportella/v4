@@ -14,7 +14,7 @@ tags:
   - sql
   - nosql
   - mongoDB
-featured-img: database
+featured-img: todo
 permalink: checklist-ml.html
 date: 2018-08-24T15:41:52-05:00
 ---

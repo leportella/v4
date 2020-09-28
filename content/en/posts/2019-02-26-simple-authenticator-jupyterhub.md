@@ -12,7 +12,7 @@ tags:
   - medium
   - outreachy
   - internship
-featured-img: native-auth
+featured-img: jupyterhub
 permalink: jupyterhub-nativeauth.html
 redirect_from: /english/2019/02/26/simple-authenticator-jupyterhub.html
 date: 2019-02-22T14:25:52-05:00

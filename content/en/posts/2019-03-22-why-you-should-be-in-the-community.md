@@ -10,7 +10,7 @@ tags:
   - sponsorship
   - open-source
   - events
-featured-img: community
+featured-img: room
 permalink: why-you-should-be-in-communities.html
 translationKey: why-you-should-be-in-communities
 redirect_from: /english/2019/03/22/why-you-should-be-in-the-community.html

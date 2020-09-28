@@ -19,4 +19,4 @@ last_modified: 2020-02-14T18:25:52-05:00
 ---
 <!--more-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CAFOxnntH7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{<youtube CAFOxnntH7U>}}

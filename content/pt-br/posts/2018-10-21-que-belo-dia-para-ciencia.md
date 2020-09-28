@@ -18,8 +18,8 @@ last_modified: 2020-02-14T18:25:52-05:00
 
 Vídeo da palestra dada na Python Brasil 2018
 
+<!--more-->
 {{<youtube URBE9PyGclU>}}
 
-<!--more-->
 --
 *Foto por faaiq ackmerd*

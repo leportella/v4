@@ -18,14 +18,13 @@ redirect_from: /english/2019/06/23/we-need-to-talk-about-julia.html
 date: 2019-06-23T18:25:52-05:00
 ---
 
-{{<figure src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif#center">}}
-
 Julia is a programming language that I heard a lot for some time now and I knew it deserved my attention. However, a number of libraries and frameworks for machine learning and deep learning keep emerging and I ended up prioritizing them first.<!--more--> We of the [Pizza de Dados](http://pizzadedados.com/) (my brazilian podcast about data science), wanting to give the best to our listeners, decided [to make an episode about a language](https://podcast.pizzadedados.com/e/episodio-021/). That was when I decided I needed to sit in the chair and actually look at this unknown yet intriguing language. And I confess that I fell in love with the little I saw! So we need to talk about this wonderful language that is not being recognized as it should.
 
 Obs: I use a lot of my Python experience to compare what I was finding in Julia. If you are just starting in programming, data science and Python, I strongly recommend you read [this text](https://leportella.com/english/2019/01/25/common-data-science-tools.html) before going further 🙃
 
 Obs 2: My podcast, [Pizza de Dados](http://pizzadedados.com/), [launched an episode in portuguese about the language](https://podcast.pizzadedados.com/e/episodio-021/). If you speak portuguese be sure to listen to the episode as well!
 
+{{<figure src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif#center">}}
 
 ## Starting to dig deeper in the language
 
