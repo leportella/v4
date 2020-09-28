@@ -10,8 +10,10 @@ tags:
   - jupyter
   - virtualenv
 featured-img: tools
-permalink: principais-ferramentas-ciencia-de-dados.html
-redirect_from: /pt-br/2019/01/22/principais-ferramentas-data-science.html
+slug: principais-ferramentas-ciencia-de-dados
+aliases: 
+  - /principais-ferramentas-ciencia-de-dados.html
+  - /pt-br/2019/01/22/principais-ferramentas-data-science.html
 date: 2019-01-22T11:10:52-05:00
 translationKey: most-common-data-science-tools
 ---

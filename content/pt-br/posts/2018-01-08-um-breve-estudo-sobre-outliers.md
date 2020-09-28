@@ -6,8 +6,10 @@ categories:
 tags:
   - outliers
 featured-img: outlier
-permalink: outliers-I.html
-redirect_from: /pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html
+slug: outliers-I
+aliases: 
+  - /outliers-I.html
+  - /pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html
 date: 2018-01-08T13:25:52-05:00
 ---
 

@@ -11,8 +11,10 @@ tags:
   - software
   - pull requests
 featured-img: feedback
-permalink: review-code.html
-redirect_from: /english/2017/03/09/how-to-review-someone-elses-code.html
+slug: review-code
+aliases: 
+  - /english/2017/03/09/how-to-review-someone-elses-code.html
+  - /review-code.html
 date: 2017-03-09T14:25:52-05:00
 translationKey: review-code
 ---

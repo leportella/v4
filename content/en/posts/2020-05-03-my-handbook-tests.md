@@ -6,8 +6,10 @@ categories:
 tags:
   - programming language
 featured-img: road
-permalink: my-handbook-I.html
-redirect_from: /english/2020/04/12/something.html
+slug: my-handbook-I
+aliases: 
+  - /my-handbook-I.html
+  - /english/2020/04/12/something.html
 date: 2020-05-03T18:25:52-05:00
 ---
 Although we think of a software as being this one massive thing that does a lot of things, we can thing of a software as a huge pile of small functions that work together. A function is basically something that receives inputs, work with them internally and returns an output. 

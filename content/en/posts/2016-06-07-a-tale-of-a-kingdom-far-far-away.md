@@ -16,8 +16,10 @@ tags:
   - community 
   - pyladies
 featured-img: pycon
-permalink: pycon2016.html
-redirect_from: /english/2016/06/07/a-tale-of-a-kingdom-far-far-away.html
+slug: pycon2016
+aliases: 
+  - "/pycon2016.html"
+  -  "/english/2016/06/07/a-tale-of-a-kingdom-far-far-away.html"
 date: 2016-06-07T14:25:52-05:00
 last_mod: 2019-02-21T14:25:52-05:00
 ---
@@ -32,7 +34,7 @@ In December, my dear friend Mario showed me the form and insisted that I tried t
 
 The conference is divided in three sections: 2 days of tutorials (were you actually have long 3–4 hour courses), 3 days of the main event (talks and keynotes) and 4 days of sprints (contribution to open source projects that need a hand).
 
-{{<figure src="assets/img/posts/pycon_badge.jpg#center" caption="My badge">}}
+{{<figure src="/assets/img/posts/pycon_badge.jpg#center" caption="My badge" width="250px">}}
 
 On my first day (second tutorial day) I got to the Oregon Convention Center extremely early. I simply couldn’t sleep! So excited! But I got there and surprise!… no one was there. It was freaking 7:30 in the morning! The conference was starting at 9, so I took a coffee and sat down on a table. My excitement was growing smaller. I look to my left and this guy is also sitting by himself, but he didn’t make eye contact. So, I remained there, thinking what the hell I was doing there. In the mean time I was thinking that, this awesome girl (later I discovered she a very important person in the community) came to me very enthusiastically and said: “This seems to be your first Pycon, am I right?”. After I said yes she turned to the guy and said: “Yours too, right? You have a lot to talk then!”. Done. With 30 seconds of conversation I already was talking to this guy, and learned about what he did (and learned so much!).
 
@@ -42,7 +44,7 @@ On my second day (first day of main event) the Pycon host was introducing the co
 
 [The opening keynote was Lorena Barba](https://www.youtube.com/watch?v=ckW1xuGVpug), that gave an great lecture about community, culture and communication. It’s worth noticing that 40% of the event speakers were women, which is pretty crazy for this field of work. (You go girls!). [One of her lectures](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/) help me a lot during my classes and I had a chance to talk to her, and she was so very kind with me. (Here we are:)
 
-{{<figure src="assets/img/posts/pycon_lorena.jpg#center" caption="Me and Lorena Barba">}}
+{{<figure src="/assets/img/posts/pycon_lorena.jpg#center" caption="Me and Lorena Barba">}}
 
 But what everybody told me, and I learned it quite well, is that the talks are important, but the event is about people. Is about meeting people, and talking, discovering new areas of field you have never heard about. Its about life stories that can make you very impressed. It is about how people are open to help you, if you just ask.
 
@@ -50,7 +52,7 @@ It’s amazing how many different people there are, and they are JUST LIKE YOU. 
 
 Here is a photo of me and K Lahrs, which had [the most wonderful keynote I have ever had](https://www.youtube.com/watch?v=bSfe5M_zG2s&t=451s). Gladly I had a chance to met him the day before and share a few beers and talks...
 
-{{<figure src="assets/img/posts/pycon_klars.jpg#center" caption="Me and K Lahrs">}}
+{{<figure src="/assets/img/posts/pycon_klars.jpg#center" caption="Me and K Lahrs" width="250px">}}
 
 I met friends that thought me about life (thanks Henrique!), I met those who thought me computer science stuff (Thanks Elias and Sérgio!), those who shared personal stories to teach me a lesson and those who were kind enough to say: “don’t worry, I help you out with this”. That’s why I started my text by saying that all this happened in another dimension. This doesn’t happen in “the real world”. And the question that is bothering me now is… why not?
 
@@ -60,13 +62,13 @@ Also, I saw Carol Willing (remember the girl that introduced me to the guy on th
 
 Here is the photo I took with Audrey, Daniel and Carol on the last day. Their attitude also gave me more conffidence in myself and my potential. Thank you!
 
-{{<figure src="assets/img/posts/pycon_carol_greenfelds.jpg#center" caption="Carol, Me, Audrey and Daniel">}}
+{{<figure src="/assets/img/posts/pycon_carol_greenfelds.jpg#center" caption="Carol, Me, Audrey and Daniel">}}
 
 So, as I am writing here I get kind of sad… because it seams like I really went to another dimension, where everything is so different and unexpected. I spended 6 of my 7 days in the city “locked up” in this conference center, from 7 am till 7 pm. I usually slept very little, I got super tired and I didn’t have a chance to know the city as I would like. But you know what? I don’t regret anything. It was one of the best experiences of my life, a life changing one.
 
 I come back a little more confident, with a lot of new friends, with a little more knowledge but much, much more humble. Next year, Pycon will happen in Portland again, and in Cleveland in 2018. Hope I could come to this, and all the others to come. I want to bring that dimension into my reality, you know?
 
-{{<figure src="assets/img/posts/pycon_br.jpg#center" caption="Me and the Brazilians!">}}
+{{<figure src="/assets/img/posts/pycon_br.jpg#center" caption="Me and the Brazilians!">}}
 
 Special thanks for Pycon and PSF for the financial aid, Mario for making me go there and all the great people that change me during this week…
 

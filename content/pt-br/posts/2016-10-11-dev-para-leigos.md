@@ -8,8 +8,10 @@ tags:
   - community 
   - pyladies
 featured-img: apple
-permalink: dev-para-leigos.html
-redirect_from: /pt-br/2016/10/11/dev-para-leigos.html
+slug: dev-para-leigos
+aliases: 
+  - /dev-para-leigos.html
+  - /pt-br/2016/10/11/dev-para-leigos.html
 translationKey: dev-for-dummies
 date: 2016-10-11T14:25:52-05:00
 ---

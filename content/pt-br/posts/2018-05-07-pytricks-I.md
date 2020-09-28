@@ -11,8 +11,10 @@ tags:
   - python
   - code
 featured-img: computer
-permalink: truques-python.html
-redirect_from: /pt-br/2018/05/07/pytricks-I.html
+slug: truques-python
+aliases: 
+    - /truques-python.html
+    - /pt-br/2018/05/07/pytricks-I.html
 date: 2018-05-07T09:29:52-05:00
 ---
 

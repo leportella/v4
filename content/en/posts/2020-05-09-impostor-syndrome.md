@@ -8,7 +8,7 @@ tags:
   - impostor syndrome
 featured-img: alone
 has_tweet: true
-permalink: impostor-syndrome.html
+slug: impostor-syndrome.html
 translationKey: impostor-syndrome
 date: 2020-05-09T18:25:52-05:00
 ---

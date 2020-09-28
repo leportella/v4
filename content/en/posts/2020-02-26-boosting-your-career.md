@@ -16,8 +16,10 @@ tags:
   - career
   - tech career
 featured-img: fast
-permalink: boosting-your-career.html
-redirect_from: /english/2020/02/26/boosting-your-career.html
+slug: boosting-your-career
+aliases: 
+  - /boosting-your-career.html
+  - /english/2020/02/26/boosting-your-career.html
 date: 2020-02-26T18:25:52-05:00
 translationKey: boosting-your-career
 ---

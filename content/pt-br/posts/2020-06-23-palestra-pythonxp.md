@@ -14,8 +14,9 @@ tags:
   - class based views
   - django girls
 featured-img: talk
-permalink: cbv-palestra
-redirect_from: cbv-palestra.html
+slug: cbv-palestra
+aliases:
+  - /cbv-palestra.html
 last_mod: 2020-06-24T18:25:52-05:00
 date: 2020-06-23T18:25:52-05:00
 ---

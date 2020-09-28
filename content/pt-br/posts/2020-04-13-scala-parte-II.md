@@ -9,8 +9,10 @@ tags:
   - jvm
   - spark
 featured-img: scala
-permalink: scala-parte-II.html
-redirect_from: /pt-br/2020/04/13/scala-parte-II.html
+slug: scala-II
+aliases: 
+  - /scala-parte-II.html
+  - /pt-br/2020/04/13/scala-parte-II.html
 date: 2020-04-13T18:25:52-05:00
 translationKey: scala-II
 ---

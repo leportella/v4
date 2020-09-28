@@ -13,8 +13,10 @@ tags:
   - outreachy
   - internship
 featured-img: jupyterhub
-permalink: jupyterhub-nativeauth.html
-redirect_from: /english/2019/02/26/simple-authenticator-jupyterhub.html
+slug: jupyterhub-nativeauth
+aliases: 
+  - /jupyterhub-nativeauth.html
+  - /english/2019/02/26/simple-authenticator-jupyterhub.html
 date: 2019-02-22T14:25:52-05:00
 ---
 

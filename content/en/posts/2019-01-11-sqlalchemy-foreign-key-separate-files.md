@@ -12,8 +12,10 @@ tags:
   - SQL
   - Project Jupyter
 featured-img: alone-anime
-permalink: relationship-sqlalchemy.html
-redirect_from: /english/2019/01/11/sqlalchemy-foreign-key-separate-files.html
+slug: relationship-sqlalchemy
+aliases: 
+    - /relationship-sqlalchemy.html
+    - /english/2019/01/11/sqlalchemy-foreign-key-separate-files.html
 date: 2019-01-11T11:21:52-05:00
 ---
 

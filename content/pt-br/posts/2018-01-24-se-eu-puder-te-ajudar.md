@@ -13,8 +13,10 @@ tags:
   - community 
   - pyladies
 featured-img: plane
-permalink: dicas-iniciantes.html
-redirect_from: /pt-br/2018/01/24/se-eu-puder-te-ajudar.html
+slug: dicas-iniciantes
+aliases: 
+  - /dicas-iniciantes.html
+  - /pt-br/2018/01/24/se-eu-puder-te-ajudar.html
 date: 2018-01-24T14:25:52-05:00
 last_mod: 2019-01-16T14:25:52-05:00
 ---

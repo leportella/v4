@@ -11,9 +11,11 @@ tags:
   - open-source
   - patrocinio
 featured-img: room 
-permalink: comunidades-tecnologia.html
+slug: comunidades-tecnologia
+aliases: 
+  - /comunidades-tecnologia.html
+  - /pt-br/2018/10/08/porque-participar-de-comunidades.html
 translationKey: why-you-should-be-in-communities
-redirect_from: /pt-br/2018/10/08/porque-participar-de-comunidades.html
 date: 2018-10-08T18:25:52-05:00
 ---
 

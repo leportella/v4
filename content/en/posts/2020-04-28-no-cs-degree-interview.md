@@ -16,7 +16,7 @@ tags:
   - self-taugh engineer
   - self-learning
 featured-img: microphone
-permalink: nocsdegree.html
+slug: nocsdegree.html
 date: 2020-06-24T18:25:52-05:00
 ---
 

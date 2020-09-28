@@ -11,8 +11,10 @@ tags:
   - matlab
   - octave
 featured-img: idea
-permalink: matlab-to-python.html
-redirect_from: /english/2018/07/22/10-tips-matlab-to-python.html
+slug: matlab-to-python
+aliases: 
+  - /matlab-to-python.html
+  - /english/2018/07/22/10-tips-matlab-to-python.html
 date: 2018-07-22T14:25:52-05:00
 translationKey: matlab-to-python
 ---

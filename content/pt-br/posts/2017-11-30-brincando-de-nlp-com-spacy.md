@@ -11,8 +11,10 @@ tags:
   - processamento natural de linguagem
   - natural language processing
 featured-img: words
-permalink: npl-com-spacy.html
-redirect_from: /pt-br/2017/11/30/brincando-de-nlp-com-spacy.html
+slug: npl-com-spacy
+aliases: 
+  - /npl-com-spacy.html
+  - /pt-br/2017/11/30/brincando-de-nlp-com-spacy.html
 date: 2017-11-30T14:25:52-05:00
 ---
 Essa semana eu descobri o [spaCy](https://spacy.io), uma bilbioteca Python para Processamento de Linguagem Natural (PLN) que me pareceu excelente. 

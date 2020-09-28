@@ -13,8 +13,10 @@ tags:
   - ORM
   - framework
 featured-img: binoculos
-permalink: class-based-views-on-django.html
-redirect_from: /english/2017/11/24/classe-based-views-on-django.html
+slug: class-based-views-on-django
+aliases: 
+  - /class-based-views-on-django.html
+  - /english/2017/11/24/classe-based-views-on-django.html
 date: 2017-11-24T14:25:52-05:00
 translationKey: class-based-views-no-django
 ---

@@ -19,8 +19,8 @@ tags:
   - career
 featured-img: paper
 translationKey: why-have-a-blog
-permalink: porque-ter-um-blog
-redirect_from: porque-ter-um-blog.html
+slug: porque-ter-um-blog
+aliases: porque-ter-um-blog.html
 last_mod: 2020-07-05T18:25:52-05:00
 date: 2020-07-05T18:25:52-05:00
 ---

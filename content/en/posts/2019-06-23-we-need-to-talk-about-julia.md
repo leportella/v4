@@ -13,8 +13,10 @@ tags:
   - events
   - technology
 featured-img: julia
-permalink: julia-language.html
-redirect_from: /english/2019/06/23/we-need-to-talk-about-julia.html
+slug: julia-language
+aliases: 
+  - /julia-language.html
+  - /english/2019/06/23/we-need-to-talk-about-julia.html
 date: 2019-06-23T18:25:52-05:00
 ---
 

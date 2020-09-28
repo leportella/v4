@@ -9,7 +9,7 @@ tags:
   - sqlalchemy
   - estágio
 featured-img: jupyterhub
-permalink: native-auth.html
+slug: native-auth.html
 date: 2020-06-24T18:25:52-05:00
 ---
 

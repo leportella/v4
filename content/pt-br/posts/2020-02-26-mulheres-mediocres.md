@@ -10,8 +10,10 @@ tags:
   - mulhers desenvolvedoras
   - self-taugh engineer
 featured-img: where-women
-permalink: mulheres-mediocres.html
-redirect_from: /pt-br/2020/02/26/mulheres-mediocres.html
+slug: mulheres-mediocres
+aliases: 
+  - /mulheres-mediocres.html
+  - /pt-br/2020/02/26/mulheres-mediocres.html
 date: 2020-02-26T18:25:52-05:00
 translationKey: mediocre-women
 ---

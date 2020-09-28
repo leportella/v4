@@ -38,8 +38,10 @@ tags:
   - cs
   - computer science
 featured-img: calculator
-permalink: cheatsheet-sklearn.html
-redirect_from: /cheatlist/2018/05/01/sklearn-cheat-list.html
+slug: cheatsheet-sklearn
+aliases: 
+  - cheatsheet-sklearn.html
+  - /cheatlist/2018/05/01/sklearn-cheat-list.html
 date: 2018-05-01T14:25:52-05:00
 ---
 

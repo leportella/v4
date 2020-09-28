@@ -8,8 +8,10 @@ tags:
   - self-taught engineer
   - code
 featured-img: feedback
-permalink: revisar-codigo.html
-redirect_from: /pt-br/2016/11/01/como-revisar-codigo-alheio.html
+slug: revisar-codigo
+aliases: 
+  - /revisar-codigo.html
+  - /pt-br/2016/11/01/como-revisar-codigo-alheio.html
 date: 2016-11-01T14:25:52-05:00
 translationKey: review-code
 ---

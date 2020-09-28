@@ -10,9 +10,11 @@ tags:
   - community 
   - code
 featured-img: open
-permalink: open-source-without-code.html
+slug: open-source-without-code
 translationKey: open-source-without-code
-redirect_from: /english/2018/03/20/how-to-contribute-to-open-source.html
+aliases: 
+  - /open-source-without-code.html
+  - /english/2018/03/20/how-to-contribute-to-open-source.html
 date: 2018-03-20T14:25:52-05:00
 ---
 

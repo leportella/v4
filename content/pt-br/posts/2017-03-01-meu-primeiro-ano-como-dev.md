@@ -8,8 +8,10 @@ tags:
   - auto-ensino
   - self-taught engineer
 featured-img: django_girls
-permalink: primeiro-ano-dev.html
-redirect_from: /pt-br/2017/03/01/meu-primeiro-ano-como-dev.html
+slug: primeiro-ano-dev
+aliases: 
+  - /primeiro-ano-dev.html
+  - /pt-br/2017/03/01/meu-primeiro-ano-como-dev.html
 date: 2017-03-01T14:25:52-05:00
 translationKey: first-year-as-dev 
 ---

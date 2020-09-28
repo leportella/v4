@@ -18,8 +18,10 @@ tags:
   - SQL
   - Project Jupyter
 featured-img: bookcase 
-permalink: sqlalchemy-tutorial.html
-redirect_from: /english/2019/01/10/sqlalchemy-basics-tutorial.html
+slug: sqlalchemy-tutorial
+aliases: 
+  - /english/2019/01/10/sqlalchemy-basics-tutorial.html
+  - /sqlalchemy-tutorial.html
 date: 2019-01-10T21:55:52-05:00
 translationKey: sqlalchemy-tutorial
 ---

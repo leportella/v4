@@ -9,8 +9,10 @@ tags:
   - self-taught engineer
   - estudos
 featured-img: keyboard
-permalink: material-computacao.html
-redirect_from: /pt-br/2019/06/18/o-que-encontrei-de-melhor-pra-estudar-computacao.html
+slug: material-computacao
+aliases: 
+  - /material-computacao.html
+  - /pt-br/2019/06/18/o-que-encontrei-de-melhor-pra-estudar-computacao.html
 date: 2019-06-18T18:25:52-05:00
 ---
 

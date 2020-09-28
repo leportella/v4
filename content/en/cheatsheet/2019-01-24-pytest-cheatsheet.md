@@ -39,8 +39,10 @@ tags:
   - cs
   - computer science
 featured-img: list
-permalink: cheatsheet-pytest.html
-redirect_from: /cheatlist/2019/01/24/pytest-cheatsheet.html
+slug: cheatsheet-pytest
+aliases: 
+  - /cheatlist/2019/01/24/pytest-cheatsheet.html
+  - /cheatsheet-pytest.html
 date: 2019-01-24T14:25:52-05:00
 ---
 

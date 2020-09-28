@@ -9,8 +9,10 @@ tags:
   - beginners
   - python
 featured-img: too-many-books
-permalink: too-much-info.html
-redirect_from: /english/2016/05/05/too-much-information.html
+slug: too-much-info
+aliases: 
+  - /english/2016/05/05/too-much-information.html
+  - /too-much-info.html
 date: 2016-05-05T14:25:52-05:00
 ---
 

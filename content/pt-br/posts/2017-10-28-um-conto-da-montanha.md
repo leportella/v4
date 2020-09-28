@@ -8,8 +8,10 @@ tags:
   - filosofando
   - mulheres na tecnologia
 featured-img: mountain
-permalink: conto-da-montanha.html
-redirect_from: /pt-br/2017/10/28/um-conto-da-montanha.html
+slug: conto-da-montanha
+aliases: 
+  - /conto-da-montanha.html
+  - /pt-br/2017/10/28/um-conto-da-montanha.html
 date: 2017-10-28T14:25:52-05:00
 ---
 

@@ -18,8 +18,10 @@ tags:
   - pyladies
   - career
 featured-img: woman-tech
-permalink: ambicious-women.html
-redirect_from: /english/2017/04/19/ambicious-women.html
+slug: ambicious-women
+aliases: 
+  - /english/2017/04/19/ambicious-women.html
+  - /ambicious-women.html
 date: 2017-04-19T14:25:52-05:00
 translationKey: ambicious-women
 ---

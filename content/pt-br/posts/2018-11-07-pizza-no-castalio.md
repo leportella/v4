@@ -10,8 +10,10 @@ tags:
   - pizza de dados
   - ciência de dados
 featured-img: castalio
-permalink: pizza-no-castalio.html
-redirect_from: /pt-br/talks/2018/11/07/pizza-no-castalio.html
+slug: pizza-no-castalio
+aliases: 
+  - /pizza-no-castalio.html
+  - /pt-br/talks/2018/11/07/pizza-no-castalio.html
 date: 2018-11-07T18:25:52-05:00
 ---
 

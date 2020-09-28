@@ -12,8 +12,10 @@ tags:
   - java virtual machine
   - spark
 featured-img: scala
-permalink: scala-I.html
-redirect_from: /english/2020/03/08/scala-part-I.html
+slug: scala-I
+aliases: 
+  - /english/2020/03/08/scala-part-I.html
+  - /scala-I.html
 date: 2020-03-08T18:25:52-05:00
 translationKey: scala-I
 ---

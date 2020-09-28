@@ -9,8 +9,10 @@ tags:
   - beginners
   - study
 featured-img: apple
-permalink: dev-for-dummies.html
-redirect_from: /english/2016/12/29/dev-for-dummies.html
+slug: dev-for-dummies
+aliases: 
+  - /english/2016/12/29/dev-for-dummies.html
+  - /dev-for-dummies.html
 translationKey: dev-for-dummies
 date: 2016-12-29T14:25:52-05:00
 ---

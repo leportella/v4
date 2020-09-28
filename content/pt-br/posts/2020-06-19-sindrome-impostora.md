@@ -15,7 +15,7 @@ tags:
   - síndrome de impostora
 featured-img: alone
 has_tweet: true
-permalink: sindrome-impostora.html
+slug: sindrome-impostora.html
 translationKey: impostor-syndrome
 date: 2020-06-19T18:25:52-05:00
 ---

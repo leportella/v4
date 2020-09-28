@@ -38,8 +38,10 @@ tags:
   - cs
   - computer science
 featured-img: code
-permalink: cheatsheet-git.html
-redirect_from: /cheatlist/2018/01/05/git-cheat-list.html
+slug: cheatsheet-git
+aliases: 
+  - /learning-code.html
+  - /cheatlist/2018/01/05/git-cheat-list.html
 date: 2018-01-05T14:25:52-05:00
 ---
 

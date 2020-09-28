@@ -17,8 +17,8 @@ tags:
   - community 
   - pyladies
 featured-img: write
-permalink: outreachy-I.html
-redirect_from: english/2018/12/12/outreachy-I.html
+slug: outreachy-I.html
+aliases: english/2018/12/12/outreachy-I.html
 date: 2018-12-12T19:48:52-05:00
 ---
 

@@ -9,8 +9,10 @@ tags:
   - paralelismo
   - otimização
 featured-img: type-machine
-permalink: processos-em-paralelo-python.html
-redirect_from: /pt-br/2017/10/27/processos-paralelos.html
+slug: processos-em-paralelo-python
+aliases: 
+  - /processos-em-paralelo-python.html
+  - /pt-br/2017/10/27/processos-paralelos.html
 date: 2017-10-27T13:25:52-05:00
 last_mod: 2018-08-01T13:25:52-05:00
 translationKey: parallel-processes-python

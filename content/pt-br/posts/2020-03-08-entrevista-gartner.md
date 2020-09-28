@@ -10,8 +10,10 @@ tags:
   - Gartner
   - desenvolvedora
 featured-img: microphone
-permalink: entrevista-capterra.html
-redirect_from: /pt-br/2020/03/08/entrevista-gartner.html
+slug: entrevista-capterra
+aliases: 
+  - /entrevista-capterra.html
+  - /pt-br/2020/03/08/entrevista-gartner.html
 date: 2020-03-08T18:25:52-05:00
 ---
 

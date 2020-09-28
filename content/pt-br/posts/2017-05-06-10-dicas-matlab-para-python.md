@@ -9,8 +9,10 @@ categories:
 tags:
   - python
 featured-img: idea
-permalink: matlab-para-python.html
-redirect_from: /pt-br/2017/05/06/10-dicas-matlab-para-python.html
+slug: matlab-para-python
+aliases: 
+  - /matlab-para-python.html
+  - /pt-br/2017/05/06/10-dicas-matlab-para-python.html
 date: 2017-05-10T14:25:52-05:00
 translationKey: matlab-to-python
 ---

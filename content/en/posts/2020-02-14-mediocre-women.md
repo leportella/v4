@@ -11,8 +11,10 @@ tags:
   - self-learning
   - programmer
 featured-img: where-women
-permalink: mediocre-women.html
-redirect_from: /english/2020/02/14/mediocre-women.html
+slug: mediocre-women
+aliases: 
+  - /mediocre-women.html
+  - /english/2020/02/14/mediocre-women.html
 date: 2020-02-14T18:25:52-05:00
 translationKey: mediocre-women
 ---

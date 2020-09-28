@@ -12,8 +12,10 @@ tags:
   - carreer
   - personal website
 featured-img: blog
-permalink: my-experience-with-blogs.html
-redirect_from: /english/2019/02/22/my-experience-with-blogs-and-texts.html
+slug: my-experience-with-blogs
+aliases: 
+  - /my-experience-with-blogs.html
+  - /english/2019/02/22/my-experience-with-blogs-and-texts.html
 date: 2019-02-22T14:25:52-05:00
 translationKey: my-experience-with-blogs
 ---

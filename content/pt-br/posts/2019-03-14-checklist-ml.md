@@ -15,7 +15,7 @@ tags:
   - nosql
   - mongoDB
 featured-img: todo
-permalink: checklist-ml.html
+slug: checklist-ml.html
 date: 2018-08-24T15:41:52-05:00
 ---
 

@@ -12,7 +12,7 @@ tags:
   - java virtual machine
   - spar
 featured-img: scala
-permalink: scala-IV.html
+slug: scala-IV.html
 date: 2020-06-19T23:25:52-05:00
 ---
 

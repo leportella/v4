@@ -12,8 +12,10 @@ tags:
   - pergunta
   - tecnologia
 featured-img: doubt
-permalink: pergunta-online.html
-redirect_from: /pt-br/2018/10/25/antes-de-uma-pergunta-online.html
+slug: pergunta-online
+aliases: 
+  - /pergunta-online.html
+  - /pt-br/2018/10/25/antes-de-uma-pergunta-online.html
 date: 2018-10-26T18:25:52-05:00
 ---
 

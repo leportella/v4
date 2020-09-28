@@ -11,9 +11,11 @@ tags:
   - open-source
   - events
 featured-img: room
-permalink: why-you-should-be-in-communities.html
+slug: why-you-should-be-in-communities
 translationKey: why-you-should-be-in-communities
-redirect_from: /english/2019/03/22/why-you-should-be-in-the-community.html
+aliases: 
+  - /why-you-should-be-in-communities.html
+  - /english/2019/03/22/why-you-should-be-in-the-community.html
 date: 2019-03-22T18:25:52-05:00
 ---
 
