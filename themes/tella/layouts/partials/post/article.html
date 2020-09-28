@@ -14,7 +14,13 @@
     </div>
     <h1 class="card-title page-title">{{ .Title }}</h1>
   </header>
-  <img class="card-img" src="/assets/img/posts/{{ .Param "featured-img" }}_thumb@2x.jpg" alt="" />
+
+  {{ if .Param "inside-img" }}
+    <img class="card-img" src="/assets/img/posts/{{ .Param "inside-img" }}_thumb@2x.jpg" alt="" />
+  {{else}}
+    <img class="card-img" src="/assets/img/posts/{{ .Param "featured-img" }}_thumb@2x.jpg" alt="" />
+  {{end}}
+
   <div class="card-body">
     {{ .Content }}
     <hr />
