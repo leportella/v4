@@ -3,7 +3,9 @@ theme = "tella"
 defaultContentLanguage = "en"
 copyright = "Everything is mine"
 googleAnalytics = "UA-106178084-1"
-disqusShortname = "leportella-com"
+disqusShoortname = "leportella-com"
+title = "Leticia Portella"
+description = "I'm a happy dev, in love with data science that loves to write technical posts about what tech, career and life"
 
 [permalinks]
 posts = "/:slug/"
@@ -16,7 +18,6 @@ startLevel = 2
 
 [languages]
   [languages.en]
-    title = "My blog"
     weight = 1
     contentDir = "content/en"
     languageName = "English"
@@ -49,7 +50,6 @@ startLevel = 2
         url = "/contact"
         weight = 4
   [languages.pt-br]
-    title = "Meu blog"
     weight = 2
     contentDir = "content/pt-br"
     languageName = "Português"
