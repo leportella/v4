@@ -25,7 +25,26 @@ startLevel = 2
         readin = "Read in"
         flag = "🇮🇪"
         similar_posts = "Check posts in similar categories"
-        more = "More"
+    [[languages.en.menu.left]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[languages.en.menu.left]]
+        name = "🇧🇷 Em Português"
+        url = "/pt-br"
+        weight = 1
+    [[languages.en.menu.right]]
+        name = "About"
+        url = "/about"
+        weight = 2
+    [[languages.en.menu.right]]
+        name = "Categories"
+        url = "/categories"
+        weight = 3
+    [[languages.en.menu.right]]
+        name = "Contact"
+        url = "/contact"
+        weight = 4
   [languages.pt-br]
     title = "Meu blog"
     weight = 2
@@ -39,36 +58,25 @@ startLevel = 2
         flag = "🇧🇷"
         similar_posts = "Textos em categorias semelhantes"
         more = "Outros"
+    [[languages.pt-br.menu.left]]
+        name = "Início"
+        url = "/pt-br"
+        weight = 1
+    [[languages.pt-br.menu.left]]
+        name = "🇮🇪 In English"
+        url = "/"
+        weight = 1
+    [[languages.pt-br.menu.right]]
+        name = "Sobre"
+        url = "/about"
+        weight = 2
+    [[languages.pt-br.menu.right]]
+        name = "Categorias"
+        url = "/pt-br/categories"
+        weight = 3
+    [[languages.pt-br.menu.right]]
+        name = "Contato"
+        url = "/pt-br/contact"
+        weight = 4
 
-[menu]
-[[menu.right]]
-identifier = "about"
-name = "About"
-url = "/about"
-weight = 1
-[[menu.right]]
-identifier = "wiki"
-name = "Wiki"
-url = "/"
-weight = 2
-[[menu.right]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 3
-[[menu.right]]
-identifier = "cat"
-name = "Categories"
-url = "/categories/"
-weight = 3
 
-[[menu.left]]
-identifier = "en"
-name = "🇮🇪"
-url = "/"
-weight = 1
-[[menu.left]]
-identifier = "pt"
-name = "🇧🇷"
-url = "/pt-br/"
-weight = 2
