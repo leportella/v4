@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 theme = "tella"
 defaultContentLanguage = "en"
 copyright = "Everything is mine"
+googleAnalytics = "UA-106178084-1"
 
 [permalinks]
 posts = "/:slug/"
