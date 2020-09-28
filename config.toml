@@ -27,6 +27,7 @@ startLevel = 2
         readin = "Read in"
         flag = "🇮🇪"
         similar_posts = "Check posts in similar categories"
+        cheers = "Cheers!"
     [[languages.en.menu.left]]
         name = "Home"
         url = "/"
@@ -59,7 +60,7 @@ startLevel = 2
         readin = "Leia em"
         flag = "🇧🇷"
         similar_posts = "Textos em categorias semelhantes"
-        more = "Outros"
+        cheers = "Abraço!"
     [[languages.pt-br.menu.left]]
         name = "Início"
         url = "/pt-br"
