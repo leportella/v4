@@ -16,7 +16,7 @@ tags:
 featured-img: talk
 permalink: cbv-palestra
 redirect_from: cbv-palestra.html
-last_modified_at: 2020-06-24T18:25:52-05:00
+last_mod: 2020-06-24T18:25:52-05:00
 date: 2020-06-23T18:25:52-05:00
 ---
 

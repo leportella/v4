@@ -12,7 +12,7 @@ featured-img: adult_books
 permalink: pt-machine-learning-nanodegree.html
 redirect_from: /pt-br/2018/11/13/opiniao-nanodegree-eng-machine-learning.html
 date: 2018-11-13T18:25:52-05:00
-last_modified: 2019-01-03T18:25:52-05:00
+last_mod: 2019-01-03T18:25:52-05:00
 translationKey: machine-learning-nanodegree
 ---
 

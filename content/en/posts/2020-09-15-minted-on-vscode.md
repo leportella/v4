@@ -18,7 +18,7 @@ tags:
 featured-img: engrenagem
 permalink: minted-vscode
 redirect_from: minted-vscode.html
-last_modified_at: 2020-09-15T18:25:52-05:00
+last_mod: 2020-09-15T18:25:52-05:00
 date: 2020-09-15T18:25:52-05:00
 ---
 

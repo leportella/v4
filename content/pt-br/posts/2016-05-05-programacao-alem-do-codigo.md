@@ -14,7 +14,7 @@ featured-img: pybr12
 permalink: palestra-caipyra.html
 redirect_from: /pt-br/talks/2016/05/05/programacao-alem-do-codigo.html
 date: 2016-05-05T18:25:52-05:00
-last_modified: 2020-02-14T18:25:52-05:00
+last_mod: 2020-02-14T18:25:52-05:00
 ---
 <!--more-->
 

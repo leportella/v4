@@ -14,7 +14,7 @@ featured-img: interp
 permalink: dados-ausentes.html
 redirect_from: /pt-br/2018/12/27/o-que-fazer-quando-faltam-dados.html
 date: 2018-12-27T11:10:52-05:00
-last_modified: 2019-01-02T11:10:52-05:00
+last_mod: 2019-01-02T11:10:52-05:00
 translationKey: missing-data
 ---
 

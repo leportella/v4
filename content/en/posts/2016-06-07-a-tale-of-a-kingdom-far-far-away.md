@@ -19,7 +19,7 @@ featured-img: pycon
 permalink: pycon2016.html
 redirect_from: /english/2016/06/07/a-tale-of-a-kingdom-far-far-away.html
 date: 2016-06-07T14:25:52-05:00
-last_modified: 2019-02-21T14:25:52-05:00
+last_mod: 2019-02-21T14:25:52-05:00
 ---
 
 

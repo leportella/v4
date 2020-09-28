@@ -15,7 +15,7 @@ tags:
   - jupyter
 featured-img: panda
 permalink: oceanhackweek
-last_modified_at: 2020-08-15T18:25:52-05:00
+last_mod: 2020-08-15T18:25:52-05:00
 date: 2020-08-15T18:25:52-05:00
 ---
 
