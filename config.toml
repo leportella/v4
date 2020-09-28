@@ -68,7 +68,7 @@ startLevel = 2
         weight = 1
     [[languages.pt-br.menu.right]]
         name = "Sobre"
-        url = "/about"
+        url = "/pt-br/about"
         weight = 2
     [[languages.pt-br.menu.right]]
         name = "Categorias"

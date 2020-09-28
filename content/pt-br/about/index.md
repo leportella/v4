@@ -1,0 +1,33 @@
+---
+title: "Sobre"
+date: 2020-09-26T22:55:34+01:00
+last_modified_at: 2020-09-26T22:55:34+01:00
+draft: false
+---
+
+Olá! Fico feliz de você ter encontrado meu cantinho na internet e quer saber mais sobre mim.
+
+Bem, [eu sou uma oceanógrafa que se descobriu apaixonada por programação](http://leportella.com/from-oceanographer-to-programmer.html) e decidi mudar de carreira. Desde então eu escrevo textos sobre coisas técnicas, a evolução da minha carreira e a vida em geral. 
+
+Eu espero que você aproveite o que eu criei aqui e fique a vontade para deixar um comentário ou me escrever caso algum texto seja útil pra você. Às vezes eu perco a criatividade sobre o que escrever e receber mensagens sempre me faz voltar pro computador!
+
+I'm an open-source enthusiast and a living proof of the community's power and of what it can do for a person. 
+The Python community, in particular, helped me so much over the years that I always try to give back everytime I can. 
+
+I am crazy about books and, in particular, the Chronicles of Ice and Fire and all their theories. I have tons of books that I love but some of my favorites are:
+
+* Shógun - James Clavell
+* The Godfather - Mario Puzo
+* Pillars of Earth - Ken follet
+* The physician - Noah Gordon
+* The hunger games - Suzanne Collins 
+
+
+In 2017, I started a brazilian podcast specifically for data science called [Pizza de Dados](http://pizzadedados.com), 
+which is a joke with Pizza and the brazilian word for data (and dice!). Pizza de Dados
+is the first and biggest podcast of data science in Brazil and has an important role on bringing quality content in portuguese. 
+I am very proud of it. So, if you ask me about it... I'll probably go on and on about my baby <3.
+
+It's been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could ever imagine. 
+
+{{< figure src="/assets/img/lights.jpg#center" width="200px">}}
