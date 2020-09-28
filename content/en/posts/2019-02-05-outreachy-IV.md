@@ -28,7 +28,7 @@ This is the forth post on my internship on the [Outreachy Program](https://www.o
 
 <!--more-->
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png#center">}}
 
 On [the last post](https://leportella.com/english/2019/01/23/outreachy-III.html) I talked about how we built the complete user cycle of signing up and getting authorization of the user for actually logging in. Then we talked a bit on adding some optional password check features that admins could configure. This time we continue implementing optional features for admins to use on **Native Authenticator**.
 
@@ -36,7 +36,7 @@ On [the last post](https://leportella.com/english/2019/01/23/outreachy-III.html)
 
 ## Block user after failed attempts of login
 
-<center><img src="https://media.giphy.com/media/Qt7ZKXj42izpm/giphy.gif" style="height:300px;"/></center>
+{{<figure src="https://media.giphy.com/media/Qt7ZKXj42izpm/giphy.gif#center">}}
 
 On the last time, Yuvi recommended me [this post](https://auth0.com/blog/dont-pass-on-the-new-nist-password-guidelines/) about password security guidelines that helped me implement the two options I talked about on the last report: the option to block common passwords on sign up and the option of checking the password length.
 
@@ -46,7 +46,7 @@ This was something that, as simple as sounds, took me a lot of work. Although I'
 
 The first thing was to construct a function that would add a count everytime the user failed to make a login. It would also store the moment when the failed attempt happened. The idea was the following:
 
-<center><img src="https://i.imgur.com/wcLJ58d.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/wcLJ58d.jpg#center">}}
 
 To do this, I created an empty dictionary attribute called `login_attempts`. When I call the function `add_login attempts` on my `authenticate` method, it will check if the user is already in the dictionary. If it is, then it will increase the count and change the time. Otherwise, it will add the dictionary to the user. 
 
@@ -71,7 +71,7 @@ class NativeAuthenticator(Authenticator):
 
 Once the count was working ([tests](https://github.com/jupyterhub/nativeauthenticator/blob/master/nativeauthenticator/tests/test_authenticator.py#L99) helped me on this one 😅), I added another function to the `authenticate` method, that would check if the user is blocked or not. This would allow me to exit the `authenticate` method if the user is blocked, not even let it try to login:   
 
-<center><img src="https://i.imgur.com/cROySZN.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/cROySZN.jpg#center">}}
 
 Cool. Now I just needed to actually check if the user is blocked or not 😅. 
 
@@ -79,8 +79,7 @@ I had to check if the user had tried at last 3 times and if they had tried multi
 
 So, the main flux of the system is something like this:
 
-
-<center><img src="https://i.imgur.com/KHhNCrT.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/KHhNCrT.jpg#center">}}
 
 So, my `is_blocked` function will go to my dictionary `login_attemps` and get the user info (stored here in the variable `logins`) if the user has no register or if the number of counts is less then 3, the function returns that the user is not blocked. If the the user is blocked then it has to check the time. Since this part is a little bit more complicated, I separated in another function called `can_try_login_again`. 
 
@@ -127,8 +126,7 @@ It may seem simple now that it is done, but thi [took a lot of work](https://git
 
 ## Option to see the password when typing
 
-<center><img src="https://media.giphy.com/media/lQeGS2LCeZg7m/giphy.gif" style="height:350px;"/></center>
-
+{{<figure src="https://media.giphy.com/media/lQeGS2LCeZg7m/giphy.gif#center">}}
 
 [The same post](https://auth0.com/blog/dont-pass-on-the-new-nist-password-guidelines/) that suggested to check for common passwords and block after failed attempt logins also recommended to add an option to let the user check the password while typing. 
 
@@ -198,7 +196,7 @@ And that was it! [I had an option](https://github.com/jupyterhub/nativeauthentic
 
 ## Open SignUp 
 
-<center><img src="https://media.giphy.com/media/aCRe3EFA17kWc/giphy.gif" style="height:350px;"/></center>
+{{<figure src="https://media.giphy.com/media/aCRe3EFA17kWc/giphy.gif#center">}}
 
 One option we decided to add was the possibility of an open Sign Up. If you remember [the last post](https://leportella.com/english/2019/01/23/outreachy-III.html), but default if a user signs up it will be blocked to log in the system until an admin authorizes. We wanted to make an option to add the opposite: the user is always authorized just after the sign up until an admin blocks them.  
 
@@ -220,16 +218,15 @@ One thing I had to change here were the result messages after the sign up. Inste
 
 If the Sign Up depends on Admin authorization:
 
-<center><img src="https://i.imgur.com/QtTLM95.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/QtTLM95.png#center">}}
 
 If the Sign Up had problem with the password:
 
-<center><img src="https://i.imgur.com/FIPrW0t.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/FIPrW0t.png#center">}}
 
 If there is an Open Sign Up and no problem with the password:
 
-<center><img src="https://i.imgur.com/1gUFXwy.png" style="height:200px;"/></center>
-
+{{<figure src="https://i.imgur.com/1gUFXwy.png#center">}}
 
 ## Change user password
 
@@ -262,5 +259,4 @@ We still have some things to do, but things are getting polish now. While writin
 
 If you are following this reports and want to test and give feedbacks on what I can improve the authenticator, feel free to leave your issue :) 
 
-
-<center><img src="https://media.giphy.com/media/100QWMdxQJzQC4/giphy.gif" style="height:250px;"/></center>
+{{<figure src="https://media.giphy.com/media/100QWMdxQJzQC4/giphy.gif#center">}}

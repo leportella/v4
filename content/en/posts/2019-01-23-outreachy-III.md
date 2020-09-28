@@ -25,8 +25,8 @@ date: 2019-01-23T11:48:52-05:00
 
 Hello there! This is the third report on my work on [Outreachy](https://www.outreachy.org/) internship program. If you want to be fully updated on what I have done so far, I recommend you to read the [first](https://leportella.com/english/2018/12/12/outreachy-I.html) and [second](https://leportella.com/english/2019/01/11/outreachy-II.html) reports. 
 <!--more-->
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png" style="height:300px;"/></center>
 
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*OsCmvuJ-lLeC7UtWK8CkNA.png#center">}}
 
 ## Eyes on the prize
 
@@ -47,8 +47,7 @@ If you saw my previous posts you probably know that the goal of this internships
 
 I always keep remembering me what tasks I've done so far and what I want to be done by the end of my internship. This always helps me when dealing with developing something.
 
-<center><img src="https://media.giphy.com/media/3oz8xvhl6mTmF4MJI4/giphy.gif" style="height:200px;"/></center>
-
+{{<figure src="https://media.giphy.com/media/3oz8xvhl6mTmF4MJI4/giphy.gif#center">}}
 
 So far the following things were added to Native Authenticator (details can be seen on the first two reports):
 
@@ -68,20 +67,19 @@ What I created until now is a full cicle that I will give you an idea on this to
 
 Assume the system is working and there is a new user to access the system. First, the person must make a sign up. To do this, he/she can go to `/signup` and create a new user. So far the sign up is pretty simple: you must create a username and a password.  
 
-<center><img src="https://i.imgur.com/BwsTaL8.png" style="height:250px;"/></center>
+{{<figure src="https://i.imgur.com/BwsTaL8.png#center">}}
 
 The user, by default, won't be able to access the system. The user is created in the system, but it is still unauthorized.
 
-<center><img src="https://i.imgur.com/ZP0BedM.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/ZP0BedM.png#center">}}
 
 To authorize and manage users, an admin must enter the `/authorize` area. This area shows users that are allowed to log in the system as green rows and unauthorized users as blank rows. The buttons on each row handles the authorization of each user.
 
-<center><img src="https://i.imgur.com/gWzRo8y.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/gWzRo8y.png#center">}}
 
 Once the admin authorizes the user, the user will be able to access the system by going to the home (`/`) page and logging in normally.
 
-
-<center><img src="https://i.imgur.com/1R4Uwha.png" style="height:400px;"/></center>
+{{<figure src="https://i.imgur.com/1R4Uwha.png#center">}}
 
 There is one exception to this default behavior of needing authorization for logging in. If the username that made the sign up is listed as an admin on the config file, it will automatically have authorization to the system. You can add admins by adding this line on your config file:
 
@@ -89,8 +87,7 @@ There is one exception to this default behavior of needing authorization for log
 
 ## Talk code to me
 
-<center><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="height:300px;"/></center>
-
+{{<figure src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif#center">}}
 
 The first thing I did after I had the sign up cicle going on was to [create the authorization flow](https://github.com/jupyterhub/nativeauthenticator/pull/29) I just showed you. 
 
@@ -120,7 +117,7 @@ And this was it: We had the whole flow described on the images 🙃.
 
 ## Let them choose!
 
-<center><img src="https://media.giphy.com/media/3oEhmDF8PZDtSNjFAI/giphy.gif" style="height:250px;"/></center>
+{{<figure src="https://media.giphy.com/media/3oEhmDF8PZDtSNjFAI/giphy.gif#center">}}
 
 A thing that I really wanted was to give choices to our users. We wanted a lot of configurable features to help make **Native Authenticator** useful for a lot of people with different needs. During this period I worked on one option: [password strength](https://github.com/jupyterhub/nativeauthenticator/pull/31). 
 
@@ -217,7 +214,7 @@ async def test_authentication(username, password, authorized,
 
 This will run the test `test_authentication` over and over again, replacing each parameter by the values you defined in the list. Thus, instead of adding a single test for each scenario, I wrote 1 test that is repeated several times with different scenarios. Less code, less problem mantaining it :)
 
-<center><img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" style="height:250px;"/></center>
+{{<figure src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif#center">}}
 
 The full result is this:
 
@@ -244,6 +241,5 @@ async def test_authentication(username, password, authorized,
     assert bool(response) == expected 
 
 ```
-
 
 That's all for today! :)

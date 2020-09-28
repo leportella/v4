@@ -35,8 +35,7 @@ When you start entering the data science world, things can become really messy. 
 
 Everybody ready?
 
-<center><img src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif" style="height:200px;"/></center>
-
+{{<figure src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif#center">}}
 
 ## Virtualenv
 
@@ -44,24 +43,21 @@ Everybody ready?
 
 Imagine that your computer (and operational system) is a huge box that has a lot of packages:
 
+{{<figure src="https://i.imgur.com/UP5sRIO.jpg#center">}}
 
-<center><img src="https://i.imgur.com/UP5sRIO.jpg" style="height:300px;"/></center>
-
-<center><i>Your operational system is like a box, with a specific version of Python and the Python libraries it needs, which specific versions it needs.</i></center>
+*Your operational system is like a box, with a specific version of Python and the Python libraries it needs, which specific versions it needs.*
 
 
 Creating a virtualenv is like you created a "little box", and inside it you can install whatever you eant: any version of Python and any version of the libraries you need. Since you created a "little box", what's in it is completely isolated from your general environment, and it can be easily deleted if you stop working on that project.
 
+{{<figure src="https://i.imgur.com/LECu4e9.jpg#center">}}
 
-<center><img src="https://i.imgur.com/LECu4e9.jpg" style="height:300px;"/></center>
-
-<center><i>Example on how a virtualenv is a "little box" inside the "big box" that is your operational system</i></center>
+*Example on how a virtualenv is a "little box" inside the "big box" that is your operational system*
 
 Since you can create multiple virtualenvs, each project can (and normally should) have its own "box", making easier to manage packages and libraries for each project, always keeping your operational system intact.
 
-<center><img src="https://i.imgur.com/UcKkwuD.jpg" style="height:300px;"/></center>
-
-<center><i>You can have as many virtualenv as you like inside your operational system.</i></center>
+{{<figure src="https://i.imgur.com/UcKkwuD.jpg#center">}}
+*You can have as many virtualenv as you like inside your operational system.*
 
 
 ## Jupyter
@@ -70,9 +66,9 @@ Since you can create multiple virtualenvs, each project can (and normally should
 
 Notebooks were created in 2014 and quickly became famous on both academic and business world. It is an development environment that allows you to write code, text, create graphics, add formulas, videos and much more in a single place. It is extremely powerful, for instance, to give lectures. All theoretical concepts and the code that show how to apply it can be in the same document. A cool example is a series of [12 notebooks made by Professor Lorena Barba](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/) that shows how to implement in Python the complex formulas of fluid dynamics. Since this is not an easy task, each notebook gets more and more complicated.  
 
-<center><img src="https://i.imgur.com/UBIHf5S.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/UBIHf5S.jpg#center">}}
 
-<center><i>Notebook example. Each cell is independent from the other an can either contain text or code.</i></center>
+*Notebook example. Each cell is independent from the other an can either contain text or code.*
 
 When you run a Jupyter server on your computer, the system will open in a browser. This makes easy for users that are not very technical or have trouble with command lines. All files are saved with the extension `.ipynb` and can be exported to HTML (to open in any browser) as well as to PDF.
 
@@ -85,9 +81,9 @@ It also has tools for checking code quality and quick shortcuts for accessing do
 A cool thing about Spyder is that it also have [a plugin to use and create Jupyter Notebooks inside the Spyder platform](https://github.com/spyder-ide/spyder-notebook). 
 
 
-<center><img src="https://i.imgur.com/dIdmuv1.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/dIdmuv1.jpg#center">}}
 
-<center><i>Spyder interface. On the right there is the available files on the directory, next to it the script that is being developed, then error verification. On the upper right you can see variables loaded and on the lower right the terminal with the figures plotted by the script.</i></center>
+*Spyder interface. On the right there is the available files on the directory, next to it the script that is being developed, then error verification. On the upper right you can see variables loaded and on the lower right the terminal with the figures plotted by the script.*
 
 ## R-Studio
 
@@ -97,9 +93,9 @@ A cool thing of R-Studio is that it allows you to run both R and Python code at 
 
 It also has a kind of "notebook" available, called RMarkdown (extension `.rmd`). This file is similar to a Markdown file, but with more options. Like Jupyter, it allows code and text to exist in the same document in an organized way. It can also be exported by HTML and PDF.
 
-<center><img src="https://i.imgur.com/vgvqWK9.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/vgvqWK9.jpg#center">}}
 
-<center><i>R-Studio interface. On the lower right a documentation area and access to the documents available on the directory. On the upper right you can see available variables. On the upper left the script that is being developed and on the lower left the terminal to execute commands. </i></center>
+*R-Studio interface. On the lower right a documentation area and access to the documents available on the directory. On the upper right you can see available variables. On the upper left the script that is being developed and on the lower left the terminal to execute commands.*
 
 
 ## MATLAB
@@ -108,9 +104,9 @@ It also has a kind of "notebook" available, called RMarkdown (extension `.rmd`).
 
 It generates files with extension `.m`.
 
-<center><img src="https://i.imgur.com/47het4V.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/47het4V.jpg#center">}}
 
-<center><i>MATLAB interface. At left the script that is being developed, on upper center a space for plotting images, on lower center the terminal, on upper right the available variables and on lower right the history of  commands typed on the terminal (command line).</i></center>
+*MATLAB interface. At left the script that is being developed, on upper center a space for plotting images, on lower center the terminal, on upper right the available variables and on lower right the history of  commands typed on the terminal (command line).*
 
 
 ## Octave
@@ -123,9 +119,9 @@ It generates files with extension `.m`.
 
 Differences exist, but can be worked on the software preferences.
 
-<center><img src="https://i.imgur.com/ylFIsrU.png" style="height:300px;"/></center>
+{{<figure src="https://i.imgur.com/ylFIsrU.jpg#center">}}
 
-<center><i>Octave interface. On upper left the files available on current directory, on lower left the available variables and the terminal (command line) is on the right, with an image over it.</i></center>
+*Octave interface. On upper left the files available on current directory, on lower left the available variables and the terminal (command line) is on the right, with an image over it.*
 
 
 ## Pip
@@ -142,7 +138,7 @@ When you actually go to work with data science, you often need to use packages (
 
 The Anaconda distribution is then composed of some parts, as shown in the figure below taken from the [project site](https://www.anaconda.com/distribution/).
 
-<center><img src="https://i.imgur.com/TubiVrm.png" style="height:400px;"/></center>
+{{<figure src="https://i.imgur.com/TubiVrm.jpg#center">}}
 
 ## Conda
 
@@ -158,4 +154,4 @@ Imagine that you made a beautiful and wonderful code, but your colleague had a b
 
 Now imagine that you made your code with a super complex analysis of a huge dataset and the analysis took forever. And then your computer died. What to do now? Sit down and cry? Not if you use an online platform to put your code! [Github](http://github.com/), like other similar platforms like [Bitbucket](https://bitbucket.org/) and [Gitlab](https://about.gitlab.com/), is a system that allows you to store your code online. What sets it apart from a Dropbox or Google Drive is that it implements the Git system for you. This allows all code changes and the people who made them to be stored in the cloud and not lost if someone's computer dies. This way, you can also go back to "past versions" of your code (in case something went wrong) or find the moment when errors were introduced. It is a fundamental tool for those who want to build a portfolio :)
 
-<center><img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" style="height:300px;"/></center>
+{{<figure src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif#center">}}

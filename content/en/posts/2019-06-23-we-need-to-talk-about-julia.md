@@ -18,9 +18,7 @@ redirect_from: /english/2019/06/23/we-need-to-talk-about-julia.html
 date: 2019-06-23T18:25:52-05:00
 ---
 
-<center><img src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif" style="height:300px;"/></center>
-<center><i></i></center>
-<br/>
+{{<figure src="https://media.giphy.com/media/VMmRM3EjhjBII/giphy.gif#center">}}
 
 Julia is a programming language that I heard a lot for some time now and I knew it deserved my attention. However, a number of libraries and frameworks for machine learning and deep learning keep emerging and I ended up prioritizing them first.<!--more--> We of the [Pizza de Dados](http://pizzadedados.com/) (my brazilian podcast about data science), wanting to give the best to our listeners, decided [to make an episode about a language](https://podcast.pizzadedados.com/e/episodio-021/). That was when I decided I needed to sit in the chair and actually look at this unknown yet intriguing language. And I confess that I fell in love with the little I saw! So we need to talk about this wonderful language that is not being recognized as it should.
 
@@ -36,9 +34,8 @@ Julia was created in 2012 by Alan Edelman, Stefan Karpinski, Jeff Bezanson and V
 
 I had already heard people saying how Julia is a performance language, and this is also described in several places of the official website. What really impressed me was that, despite being high-level like Python, speed tests put the language at the same level of extremely fast compiled languages as Rust or Go. See the run-time comparisons of some algorithms in different languages:
 
-<center><img src="https://i.imgur.com/Ail3AU6.png" style="height:400px;"/></center>
-<center><i>Source: <a href="https://julialang.org/benchmarks/">Official website</a></i></center>
-<br/>
+{{<figure src="https://i.imgur.com/Ail3AU6.png#center">}}
+*Source: [Official website](https://julialang.org/benchmarks/)*
 
 
 In fact, this was the main objective when the authors created the language: the performance of a statically compiled language (such as C and Fortran) with the interactive / dynamic behavior and productivity of languages such as Python and Ruby ([Bezanson et al., 2012](https://julialang.org/images/julia-dynamic-2012-tr.pdf)).
@@ -73,10 +70,9 @@ Once I did it... everything was ready to run 😜
 Julia has [an extensive collection of packages](https://juliaobserver.com/), similar to Python's [PyPi](https://pypi.org/). 
 To install a package just type `]` inside the interpreter that it "transforms" the interpreter into an installer. Take a look:
 
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif#center">}}
 
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*DkyKrnt1spV_oFm9Gkyang.gif" style="height:300px;"/></center>
-<center><i>Installing a package in Julia</i></center>
-<br/>
+*Installing a package in Julia*
 
 In the case above I installed the `ThinkJulia` package, the book I followed to study for this text. After installing, I must declare inside the interpreter so I want to use the `ThinkJulia` package:
 
@@ -117,17 +113,15 @@ julia> notebook()
 
 In my case, the program asks if I want to install Jupyter though [Conda](https://docs.conda.io/en/latest/miniconda.html) and, despite having both in [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html), a series of packages were installed:
 
-<center><img src="https://i.imgur.com/BOyniWX.png" style="height:200px;"/></center>
-<center><i>Installations that are made when we first call the Jupyter Notebook inside the Julia terminal</i></center>
-<br/>
+{{<figure src="https://i.imgur.com/BOyniWX.png#center">}}
 
+*Installations that are made when we first call the Jupyter Notebook inside the Julia terminal*
 
 Once I had everything installed, the default screen of the Jupyter Notebook opened on my browser and now I had both Python 2, 3 and Julia as options:
 
-<center><img src="https://i.imgur.com/eQQVhQV.png" style="height:300px;"/></center>
-<center><i>When I started the notebook, I had the option of Julia</i></center>
-<br/>
+{{<figure src="https://i.imgur.com/eQQVhQV.png#center">}}
 
+*When I started the notebook, I had the option of Julia*
 
 ## Starting the work
 
@@ -136,9 +130,9 @@ Once I had everything installed, the default screen of the Jupyter Notebook open
 
 The variable definitions are the same as those found in Python, and also Julia has extensive Unicode support. This means you can have variable names with Japanese letters, accent and even emojis 😰.
 
-<center><img src="https://i.imgur.com/xcFTZxr.png" style="height:300px;"/></center>
-<center><i>Julia has extensive support to Unicode</i></center>
-<br/>
+{{<figure src="https://i.imgur.com/xcFTZxr.png#center">}}
+
+*Julia has extensive support to Unicode*
 
 [Not all unicode characters are available](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#characters) to name variables. The `@` character can not be used. But it is very interesting to think about the possibilities, especially considering countries whose languages do not even use the Latin alphabet.
 
@@ -221,14 +215,9 @@ julia> soma(x, y) = x + y
 
 Very cool and very easy to understand! The more I read, the more my head was exploding... in Julia, the operators (`+`, for example) are only functions with special characteristics. Then the sum of some elements can be done by calling the sum function, or the `+` in this case:
 
+{{<figure src="https://i.imgur.com/93wMaPR.png#center">}}
 
-<center><img src="https://i.imgur.com/93wMaPR.png" style="height:200px;"/></center>
-<br/>
-
-
-<center><img src="https://media.giphy.com/media/Ysce790SgjJK0/giphy.gif" style="height:200px;"/></center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/Ysce790SgjJK0/giphy.gif#center">}}
 
 ## Let's stop here
 

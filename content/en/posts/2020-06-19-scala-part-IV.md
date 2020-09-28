@@ -40,12 +40,7 @@ class Person(val name: String)
 val mary = new Person("Mary") 
 ```
 
-
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/scala-classes1.png" style="height:150px;"/>
-</center>
-<br/>
-
+{{<figure src="/assets/img/posts/scala-classes1.png#center">}}
 
 If I create a new person, this will create a new instance:
 
@@ -56,23 +51,12 @@ val john = new Person("John")
 The instance  `john` is not the same as the `mary` instance, because each time we call the `new Person` we create a new instance. 
 
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/scala-classes2.png" style="height:250px;"/>
-</center>
-<br/>
-
-
+{{<figure src="/assets/img/posts/scala-classes2.png#center">}}
 
 In Scala, an `object`  will always have a single instance, no matter how many times you "instantiate" it. That's why an `object`  is called a *singleton*.
 
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/scala-classes3.png" style="height:150px;"/>
-</center>
-<br/>
-
-
-
+{{<figure src="/assets/img/posts/scala-classes3.png#center">}}
 
 I don't even need the `new` keyword to create an instance, because we actually don't need to instantiate the `object` at all. When you create an `object`, it is already instantiated, so you can simply use it. 
 

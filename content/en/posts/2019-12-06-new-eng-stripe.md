@@ -37,10 +37,9 @@ During this first week, we worked across teams in our start class every day and 
 
 On our second week we still had some classes left in Stripe 101 but we also began classes for Engineering 101. In these specialized classes, we learned about Stripe's overall architecture, design patterns, programming languages and much more. We were able to better visualize how projects are executed, the types of problems we may face and how people work on a day-to-day basis.
 
+{{<figure src="https://i.imgur.com/NPokNqK.png#center">}}
 
-<center><img src="https://imgur.com/NPokNqK.png" style="height:300px;"/></center>
-<center><i>After the first day!</i></center>
-<br/>
+*After the first day!*
 
 ## Recognizing the difficulty
 
@@ -55,10 +54,9 @@ After you have finished your onboarding classes, you are grouped with other newl
 
 My /dev/start team had people that would later join very different teams, people that you may never work with again at Stripe. We developed a tool to explore and pre-visualize files in S3 buckets on an internal online tool (without needing to SSH into a production machine). My project used Scala, which I have never worked before. I was terrified that I would be useless because I had never worked with a JVM language like Scala before. That's when I started to doubt myself and what I was doing there. I talked to the people on my team and told them about my struggles. I told that Stripe might have made a mistake hiring me. Guess what? They all felt something similar: we were all insecure. We ended up helping each other: pairing on code and talking when insecurities resurfaced. I can't say how amazing and important this experience was for me. After just a couple of days, we were committing code, deploying things and feeling comfortable with the main tools. We made a great team and we were able to deploy our tool before the end of our project's second week.
 
-<center><img src="https://imgur.com/wKhtZIt.png" style="height:300px;"/></center>
-<center><i>My team having dinner together</i></center>
-<br/>
+{{<figure src="https://i.imgur.com/wKhtZIt.png#center">}}
 
+*My team having dinner together*
 
 ## Feeling comfortable
 
@@ -103,17 +101,13 @@ With Bear App, I create one note per day and I add information of things that I 
 
 Here's an example of how I organize my notes daily:
 
-<center><img src="https://imgur.com/d14maPo.png" style="height:300px;"/></center>
-<center><i></i></center>
-<br/>
-
+{{<figure src="https://i.imgur.com/d14maPo.png#center">}}
 
 I also use this diary as a keeper of my learnings. If I discover how to do something that is not so simple, or if I struggle with a bug, I record the problem and solutions there. This is always useful to feel a personal sense of improvement, even on days that you’ve spent struggling with something. And it's really handy to have a list of things you did  for your daily team meetings. For example, if there is a sequence of commands that I want to store I can add tags like `#code/tool` and `#code/project-abc`.
 
 ### Brag document
 
 The last resource I use is a brag document. This document shares your main achievements over a course of time. While my work diary is really granular with small details that occur on daily basis, my brag document records major accomplishments that I think should be recorded. [Julia Evans did an amazing job explaining about this](https://jvns.ca/blog/brag-documents/), so go there and find more about it. Brag documents are useful both for your peers at review time, but also to build confidence by looking back on all the things you’ve accomplished.
-
 
 ---
 

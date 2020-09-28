@@ -44,21 +44,11 @@ pip install Pygments
 
 The problem is that this broke my VSCode setup, because `minted` required me to add `--shell-escape` to the pdflatex, and the default way of running LaTeX of VSCode didn't include that. Because of that, my document that was all nice and compiling when I ran on the terminal, was resulting in this:
 
-
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted2.png" style="height:200px;"/>
-</center>
-<br/>
-
+{{<figure src="/assets/img/posts/minted2.png#center">}}
 
 And VSCode went crazy and showed a lot of errors when automatically compiling:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted1.png" style="height:180px;"/>
-</center>
-<br/>
-
-
+{{<figure src="/assets/img/posts/minted1.png#center">}}
 
 ## Let's fix VSCode
 
@@ -102,28 +92,15 @@ So I went to `Code > Preferences > Settings > Extensions` and rolled until the e
 
 Also wanted VSCode to run within my virtualenv, so on extensions, I added the Python extension. 
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted3.png" style="height:250px;"/>
-</center>
-<br/>
-
-
+{{<figure src="/assets/img/posts/minted3.png#center">}}
 
 Once installed I used `Cmd+Shift+P` and  used `Select Interpreter` to select my current virtualenv.
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted4.png" style="height:200px;"/>
-</center>
-<br/>
-
-
+{{<figure src="/assets/img/posts/minted4.png#center">}}
 
 Now I got no errors and the VSCode is happy again:
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/minted5.png" style="height:80px;"/>
-</center>
-<br/>
 
+{{<figure src="/assets/img/posts/minted5.png#center">}}
 
 ## Using it!
 
@@ -146,8 +123,8 @@ PS 2: I used miniconda to create this venv and VSCode required some extra config
 That's it for now 😉
 
 
-
---*This post includes and expands [Wu Sun's post](https://wusun.name/blog/2019-01-17-minted-vscode/) that was super helpful to me*
+--
+*This post includes and expands [Wu Sun's post](https://wusun.name/blog/2019-01-17-minted-vscode/) that was super helpful to me*
 
 -- 
 *Image cover by Miguel Á. Padriñan in Pexels*

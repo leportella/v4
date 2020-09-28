@@ -26,26 +26,15 @@ It is pretty common at the end the week to stop and think: “what did I even do
 
 Basically I create a new document every week with the year and week number as identifiers. I use my google calendar configuration to show me the week I am currently in.
 
-
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/calendar.jpg" style="height:250px;"/>
-</center>
-<br/>
+{{<figure src="/assets/img/posts/calendar.jpg#center">}}
 
 I use the [Bear.app](https://bear.app/) application (available only for MacOs and iOS) that let me organize my documents using hashtags. So my the initial template of a week is like this:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly1.png" style="height:200px;"/>
-</center>
-<br/>
+{{<figure src="/assets/img/posts/weekly1.jpg#center">}}
 
 Because the way I organize the weekly hashtag, Bear let me easily search for the notes of past weeks. Even though it is not super intuitive (which week was that again?), it is much better than the other ways I tried before.
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly2.png" style="height:250px;"/>
-</center>
-<br/>
-
+{{<figure src="/assets/img/posts/weekly2.jpg#center">}}
 
 Then on each document I create a subsection for each specific day. The day section always have a todo list on the top. Usually, when I start my day each morning I remove the to-do tasks I didn't do the day before and add them to today's topic. As things that I need to do appear, I keep adding them always in the current day section. 
 
@@ -61,21 +50,13 @@ Then I also write about the things I've done in my day. These are the things I u
 
 So each day looks something like this:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly3.png" style="height:300px;"/>
-</center>
-<br/>
-
+{{<figure src="/assets/img/posts/weekly3.jpg#center">}}
 
 When the week ends, I usually write an _Overall_ section before the daily sections. This is where I can add the summary of the week. This way I have a quick way of understanding the work I did  without going on the detailed, day-by-day description of it. This is useful when going back and trying to find in which week something happened or how you felt.
 
 This is a (real) example of one of my weeks:
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/weekly4.png" style="height:250px;"/>
-</center>
-<br/>
-
+{{<figure src="/assets/img/posts/weekly4.jpg#center">}}
 
 As you can see from the example above, not all weeks are detailed and full of descriptions. Some weeks are just hard and frustrating. But that's ok! Having it written down what happened makes me feel a bit better. 
 
@@ -152,6 +133,8 @@ It doesn't really matter what you add there. It could be big or small, as long y
 
 These are my strategies to cope with my impostor syndrome. As with everything, it doesn't mean it is definitive, it doesn't mean it works all the time, but it is what is working so far. We should have a way to look the steps we did so we can realize how far we came!
 
+{{< raw >}}
 <center>
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/g47utttA9t">pic.twitter.com/g47utttA9t</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/940967297526661120?ref_src=twsrc%5Etfw">December 13, 2017</a></blockquote> 
 </center>
+{{< /raw >}}

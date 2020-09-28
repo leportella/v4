@@ -24,7 +24,7 @@ date: 2019-01-15T11:48:52-05:00
 In April 2018 I started [Udacity's Nanodegree in Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t). The classes are not cheap and many questions asked me the same thing: does it worth it?
 <!--more-->
 
-<center><img src="https://media.giphy.com/media/ATt7p8OO4mvvO/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/ATt7p8OO4mvvO/giphy.gif#center">}}
 
 My answer is not the best: it depends. Yes, this is not a good answer but it is true: it depends.
 
@@ -59,7 +59,7 @@ Although the project was a bit confusing I really liked this module as a whole.
 
 Well... here things weren't so good. During the first 7 classes of this module things were hard, but duable. They started with lessons on reiforcement learning in discrete spaces. Hard, but duable. In class 7 you have to set a little project to put a taxi to walk by itself. It seems huge, but you use a library to do this and it was an interesting challenge. The problem starts after it. From the 8th class on the thing goes from hard to impossible. It goes from discrete to continuous spaces, and with [deep learning](https://en.wikipedia.org/wiki/Deep_learning) and whaaaaaat? And also, there is absolutely no pratical exercises on continous spaces. 
 
-<center><img src="https://media.giphy.com/media/UnTC9o2HMyUta/giphy.gif" style="height:200px;"/></center>
+{{<figure src="https://media.giphy.com/media/UnTC9o2HMyUta/giphy.gif#center">}}
 
 The final project uses deep learning with [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow) and boy... it was hard. I had a LOT of difficulty to go through this module and project. Until the Taxi project things were pretty cool, but after this... disaster. I really think it was not necessary to go so hard so fast. It was kinf of demotivator.
 
@@ -83,8 +83,6 @@ So, if you already have a good knowledge on statistics and an idea on how machin
 Ah! And I published that this was my first degree in the tech field and I won some gifts from Udacity! Thanks!
 
 
-<center><img src="https://i.imgur.com/zD1suVv.jpg" style="height:300px;"/></center>
-
+{{<figure src="https://i.imgur.com/zD1suVv.jpg#center">}}
 
 PS: I am so sorry that Udacity is ending its operation in Brazil. I really liked all the support of my brazilian mentors and the director's plan for Brazil :/
-

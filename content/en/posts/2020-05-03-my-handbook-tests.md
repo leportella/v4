@@ -18,26 +18,16 @@ Although we think of a software as being this one massive thing that does a lot 
 
 ---
 
+{{<figure src="/assets/img/posts/tests1.jpg#center">}}
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/tests1.jpg" style="height:150px;"/>
-  <i>A function is something that receives inputs, work with them and returns an output</i> 
-</center>
-<br/>
-
-
+*A function is something that receives inputs, work with them and returns an output*
 
 For example, when you type your username and password to try to login to a system, there a bunch of things that can happen but on the bottom of it all there is a function that receives the username and password and returns an answer: is this user logged in? The answer will be what we call a [Boolean value](https://en.wikipedia.org/wiki/Boolean_data_type): it will either return True or False.
 
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/tests2.jpg" style="height:250px;"/>
-</center>
-<center>  
-  <i>The function is presented as a cloud and boxes indicate inputs and possible outputs</i> 
-</center>
-<br/>
+{{<figure src="/assets/img/posts/tests2.jpg#center">}}
 
+*The function is presented as a cloud and boxes indicate inputs and possible outputs*
 
 ## Testing the function
 
@@ -92,10 +82,7 @@ This may seem pretty simple to some of you at this point. Like, why test somethi
 
 As time goes by, the software we build doesn't look like the nice diagram above, but it probably look something like this:
 
-<center>
-  <img src="https://1.bp.blogspot.com/-YKE0brIdI9I/U_5O-dpS5kI/AAAAAAAABAc/sfAPiS5jA1I/s1600/gato-energia.jpg" style="height:300px;"/>
-</center>
-<br/>
+{{<figure src="https://1.bp.blogspot.com/-YKE0brIdI9I/U_5O-dpS5kI/AAAAAAAABAc/sfAPiS5jA1I/s1600/gato-energia.jpg#center">}}
 
 How can you guarantee that if you change one part, the others won't start failing? If the functions are tested well enough, making changes in the system is easier, because you can identify things that were broke before the changes ever get to the final customer.
 
@@ -130,13 +117,9 @@ At the same time, you need to guarantee that the functionalities are tested and 
 
 On the example above, testing if the `login_user` function works, doesn't guarantee that the user is actually going to your website, typing their credentials and then redirected to the restricted part of the system. To do that, you need another type of test, onee that will actually go through all the flow a user would, verifying if the system is working with all pieces together.
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/tests3.jpg" style="height:100px;"/>
+{{<figure src="/assets/img/posts/tests3.jpg#center">}}
 
-  <i>This test is not checking the behavior of a particular function but rather what the user actually sees</i> 
-</center>
-<br/>
-
+*This test is not checking the behavior of a particular function but rather what the user actually sees*
 
 This is type of test that will actually go through the system as a customer would, and they are much more complex than a unit test. There are variation on how this test is called, but the thing is: it is also important to actually test what your user is actually seeing and not if all the small parts are working. 
 
@@ -162,14 +145,9 @@ sms = MyPartner.sms(phone="123456", message="Hello, user!")
 # sms will be either "sent" or "failed"
 ```
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/tests4.jpg" style="height:200px;"/>
-</center>
-<center>
-  <i>The system will send an sms, if it fails, it will send an email</i> 
-</center>
-<br/>
+{{<figure src="/assets/img/posts/tests4.jpg#center">}}
 
+*The system will send an sms, if it fails, it will send an email*
 
 However, every time you run this command, the company MyPartner will charge 10 cents. As we've seen, you want to test that the system is correct, but we don't want to be charged 10 cents for every test we run. And tests should be ran all the time! So what to do? 
 
@@ -196,11 +174,7 @@ Can you see the possibilities? Now that you understand how mocking your system w
 Hope you enjoyed this post technical but not full of code 🙂. This is the first from what I am hoping to be a series of them. Hope you have enjoyed, please leave your feedback and suggestions for new topics.
 
 
-<center>
-  <img src="https://media.giphy.com/media/YmyKXz0VZ9dugA1X7b/giphy.gif" style="height:200px;"/>
-</center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/YmyKXz0VZ9dugA1X7b/giphy.gif#center">}}
 
 **References**
 

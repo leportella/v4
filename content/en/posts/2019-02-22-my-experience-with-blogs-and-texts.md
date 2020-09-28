@@ -30,11 +30,9 @@ Three years ago, when I decided to [write my first post](https://leportella.com/
 
 My post was vastly shared by friends and lots of people told me they liked the way I write. I spent good time writing posts on Medium, without ever questioning if I should do anything different. The platform gave me everything I needed: it was easy to write, I could share drafts with my friends and I could see how many people viewed my posts. And more: the platform itself helped me share my posts with other people that wanted contents such as mine.
 
+{{<figure src="https://i.imgur.com/ypV2AKR.png#center">}}
 
-<center><img src="https://i.imgur.com/ypV2AKR.png" style="height:150px;"/></center>
-
-<center><i>Statistics available in Medium: number of views, number of people that read the text, the ratio of people that read it and the number of fans.</i></center>
-<br/>
+*Statistics available in Medium: number of views, number of people that read the text, the ratio of people that read it and the number of fans.*
 
 In this way I find the Medium awesome. It is **extremely** easy for people with little technical skills and people that don't want to think a lot about sites, tools and access. It is a place to write. Simple, easy and quick. 
 
@@ -42,12 +40,9 @@ In this way I find the Medium awesome. It is **extremely** easy for people with 
 
 Happens that, in the middle of the way, I realized that Medium started to change its goals. Some posts were blocked now, you couldn't access posts unless you were logged in and this were starting to not make sense to me. I was writing posts for people to see, with no strings attached. I really didn't want anyone being blocked from the contect **I produced** by someone else. 
 
+{{<figure src="https://cdn-images-1.medium.com/max/1600/1*hvb7WNgDjGsLRU6CH_IjhA.png#center">}}
 
-
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*hvb7WNgDjGsLRU6CH_IjhA.png" style="height:250px;"/></center>
-
-<center><i>Image of Medium that blocks content from users</i></center>
-<br/>
+*Image of Medium that blocks content from users*
 
 I already had a *prototype* of site to put the links of my texts (and test my ridiculous abilities with HTML and CSS), but I started to think that it would make more sense to also let my content in my website. At this time I saw a post from [Luciano Ramalho](https://ramalho.org/) on [why every person should have their own website on the internet](https://ramalho.org/wiki/doku.php?id=porque_cada_pessoa_deve_ter_seu_site_na_web). I would like to highlight a phrase in particular:
 
@@ -55,10 +50,9 @@ I already had a *prototype* of site to put the links of my texts (and test my ri
 
 So I made the decision to create a new website that allowed me to store my own content. I also decided to take all my posts from the Medium. [I wrote a text](https://medium.com/@leportella/goodbye-medium-eebb271f6d8a) explaining some of my reasons and letting people know that my texts would only be available [in my personal website](https://leportella.com). I also removed the content from the posts that were not related to a publication (such as [Hackernoon](https://hackernoon.com/) or [Coletividad](https://medium.com/nossa-coletividad)) and I added the link for the full post in my website. Here is an example on how an old post that was originally written in Medium and later removed to my website: 
 
-<center><img src="https://i.imgur.com/5wwEZT5.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/5wwEZT5.png#center">}}
 
-<center><i>The note I left on each post of my Medium that I removed the content</i></center>
-<br/>
+*The note I left on each post of my Medium that I removed the content*
 
 This demanded a lot of work. However, I didn't want a duplicated content on my website, which would mean that it would go far away from the Google research, for instance.
 
@@ -73,17 +67,15 @@ In my case, I bought my domain leportella.com on [Namecheap](https://www.nameche
 
 With my Jekyll website I also added a tag from [Google Analytics](https://analytics.google.com), which allowed me to have several information regarding people accessing my website. This was the number of access in the first 10 months after changing from Medium:
 
- <center><img src="https://i.imgur.com/99XpkfZ.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/99XpkfZ.png#center">}}
 
-<center><i>Statistics of users per day, week and month on the first 10 months after I changed my posts from Medium to my site (7/9/17 a 31/7/18)</i></center>
-<br/>
+*Statistics of users per day, week and month on the first 10 months after I changed my posts from Medium to my site (7/9/17 a 31/7/18)*
 
 As you can see, I noticed a growth in the number of people accessing my site, with an estimated peak of 3342 people in a month. And it was nice to notice that most of them were from organic searches:
 
-<center><img src="https://i.imgur.com/UEw963k.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/UEw963k.png#center">}}
 
-<center><i>Access origin: dark blues means organic searches</i></center>
-<br/>
+*Access origin: dark blues means organic searches*
 
 Only considering this I already think I had a huge advantage: I had much more information regarding my users. I was able to see information in different periods of time, which countries were accessing my content and much more.
 
@@ -95,10 +87,9 @@ Along all this, the template already had a plugin for [SEO](https://en.wikipedia
 
 In the mean time, I was writing more and more posts, gathering more contents on my site. The combo good template + SEO plugin + posts in both languages gave a better result then I could ever expect. Today, my site has over 6 thousand access per month, most of them (over 80%) by organic searches.
 
-<center><img src="https://i.imgur.com/TbYoAU1.png" style="height:350px;"/></center>
+{{<figure src="https://i.imgur.com/TbYoAU1.png#center">}}
 
-<center><i>Statistics of users per day, week and month 2 months before changing the site version (1/4/18 to 31/7/18) and after changing to the new version (after 24/8/18)</i></center>
-<br/>
+*Statistics of users per day, week and month 2 months before changing the site version (1/4/18 to 31/7/18) and after changing to the new version (after 24/8/18)*
 
 Thus, for me, changing from Medium to my personal site was a positive change. I had more control over the acesses and the best: I don't depend on a huge centrilized platform to achieve the goals I have with my content.
 
@@ -114,10 +105,8 @@ So what is your purpose of your texts? What audience do you want to reach? If yo
 
 And if you think that does not make any difference, even though I have half of my texts in English, Brazil accounts for almost 40% of my hits:
 
-<center><img src="https://i.imgur.com/jMmR4y4.png" style="height:350px;"/></center>
-<center><i>Sessions by country</i></center>
-<br/>
-
+{{<figure src="https://i.imgur.com/jMmR4y4.png#center">}}
+*Sessions by country*
 
 ## Your site as your "personal corner"
 

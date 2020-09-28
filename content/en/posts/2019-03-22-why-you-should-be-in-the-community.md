@@ -31,11 +31,9 @@ The old adage applies here as well. Participating in events brings your company 
 
 [Comment of Renato Oliveira](https://twitter.com/_renatoOliveira/status/1036754228990169088) of the [Labcodes](https://www.labcodes.com.br/), a reference company in community participation
 
-<center><img src="https://i.imgur.com/I68JORR.png" style="height:200px;"/></center>
+{{<figure src="https://i.imgur.com/I68JORR.png#center">}}
 
-<center><i>I agree with everything up there, but I just wanted to give MORE emphasis on sustainability. A company needs money getting  in and people to perform tasks. Depending on your business you can get clients in communities, if not, at least networking
-</i></center>
-<p></p>
+*I agree with everything up there, but I just wanted to give MORE emphasis on sustainability. A company needs money getting  in and people to perform tasks. Depending on your business you can get clients in communities, if not, at least networking*
 
 ## 2. People seek places where they can learn
 
@@ -45,30 +43,26 @@ Nowadays, human resources are surely the greatest asset of a company. And with t
 
 As we talked about in item 2: Human resources are the greatest asset of a company and are scarce assets. If you want to meet good developers or people with high potential, events are the perfect place. How many people do you know spend their nights and weekends studying? People who "spend" their time, their weekend, their night or their money have willpower, they are interested, and at the very least, they have something different. Look at this audience!
 
+{{<figure src="https://i.imgur.com/KKFc6Lq.png#center">}}
 
-<center><img src="https://i.imgur.com/KKFc6Lq.png" style="height:200px;"/></center>
-
-<center><i>1) By investing in communities you probably you’ll be helping to train people who may work with you in the future. And the best: usually people who come from the community have a lot of desire to teach, which is a great profile to have in the company.
-2) That's when the things add up: Just start medium / long term planning.</i></center>
-<p></p>
+*1) By investing in communities you probably you’ll be helping to train people who may work with you in the future. And the best: usually people who come from the community have a lot of desire to teach, which is a great profile to have in the company.
+2) That's when the things add up: Just start medium / long term planning.*
 
 ## 4. It is a training 
 
 There is so much going on in an event. It is a place of much knowledge. Different technologies, people explaining useful things. Sometimes the solution to your problem is in a lecture, sometimes it is in a hallway conversation. Eventually you will meet THAT person who will help you in your huge problem.
 
-<center><img src="https://i.imgur.com/v7I3xvg.png" style="height:150px;"/></center>
-<center><i>The company needs people to perform tasks. Training costs are high. It's great when people arrive in your company knowing what is needed to comply with  the tasks</i></center>
-<p></p>
+{{<figure src="https://i.imgur.com/v7I3xvg.png#center">}}
 
+*The company needs people to perform tasks. Training costs are high. It's great when people arrive in your company knowing what is needed to comply with  the tasks*
 
 ## 5. Help for day-to-day tools
 
 There is a good chance that you work using (or doing) open-source projects. The developers of these projects are in the events! It's your chance to clarify that doubt, or contribute to create the new feature that will help you. If your project is open, it's the perfect time to get people to help you!
 
-<center><img src="https://i.imgur.com/fIekux5.png" style="height:200px;"/></center>
-<center><i>"A company that supports open source events draws attention to its own projects and increases the chances of receiving contribution from codes"
-</i></center>
-<p></p>
+{{<figure src="https://i.imgur.com/fIekux5.png#center">}}
+
+*"A company that supports open source events draws attention to its own projects and increases the chances of receiving contribution from codes"*
 
 ## 6. Market Trends
 
@@ -80,11 +74,9 @@ That leads to another point: not just technical people should attend these event
 
 Wonderful words from Filipe from [Vinta](https://www.vinta.com.br/), another company which is an example of community participation
 
-<center><img src="https://i.imgur.com/MEPkFum.png" style="height:180px;"/></center>
-<center><i>"Besides marketing and recruitment I consider very important the moral issue. If you benefit from open source {in my opinion} it is more than fair that you reciprocate what you have won. Preferably, sponsoring the projects you use directly. 
-"
-</i></center>
-<p></p>
+{{<figure src="https://i.imgur.com/MEPkFum.png#center">}}
+
+*"Besides marketing and recruitment I consider very important the moral issue. If you benefit from open source {in my opinion} it is more than fair that you reciprocate what you have won. Preferably, sponsoring the projects you use directly."*
 
 ## How to join the community? Spoiler: Not everything is money;)
 

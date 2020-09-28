@@ -23,10 +23,7 @@ I decided that I needed to learn a new language and the language I choose was Sc
 
 So far, my history with Scala has been very… frustrating (to say the least). I was trying to learn on my own and quiet - because it is so hard - but I decided to write down what I learned and what was hard in the process. That may be helpful for someone else, but mainly this is for me. In here I will force myself to organize my thoughts, share interesting things I found and find some use to my frustrations. These posts are not intended to be a tutorial, but rather a way of brain dump.
 
-
-<center><img src="https://media.giphy.com/media/l41m04gr7tRet7Uas/giphy.gif" style="height:300px;"/></center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/l41m04gr7tRet7Uas/giphy.gif#center">}}
 
 ## Why Scala?
 
@@ -57,9 +54,7 @@ I also wanted to see how people are seeing Scala in the market. My natural place
 
 First I started looking to some recommended books. Then I bumped into my first problem while trying to move from Python to Scala: *All freaking books and tutorials assume I know Java to teach me Scala.* And, as you can imagine, I don't.
 
-<center><img src="https://media.giphy.com/media/jxcMNv8wJIlb6Jp9ER/giphy.gif" style="height:300px;"/></center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/jxcMNv8wJIlb6Jp9ER/giphy.gif#center">}}
 
 The first book someone recommended to me, [Functional Programming in Scala](https://www.goodreads.com/book/show/13541678-functional-programming-in-scala), was too confusing and compared everything to Java. Instead of explaining the features, it would go “this is the same as Java”. And that's it. Great! Now I need to learn a language to learn a language? Wat?
 

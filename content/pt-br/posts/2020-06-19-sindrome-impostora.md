@@ -139,6 +139,8 @@ Realmente não importa o que você adicionar lá. Pode ser grande ou pequeno, de
 
 Estas são minhas estratégias para lidar com a minha síndrome de impostor. Como em tudo na vida, isso não significa que é algo definitivo, não significa que funciona o tempo todo, mas é o que está funcionando até agora. Como esta adorável história em quadrinhos mostra: com pequenos passos, podemos ir tão longe!
 
+{{< raw >}}
 <center>
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/g47utttA9t">pic.twitter.com/g47utttA9t</a></p>&mdash; Sarah Andersen (@SarahCAndersen) <a href="https://twitter.com/SarahCAndersen/status/940967297526661120?ref_src=twsrc%5Etfw">December 13, 2017</a></blockquote> 
 </center>
+{{< /raw >}}

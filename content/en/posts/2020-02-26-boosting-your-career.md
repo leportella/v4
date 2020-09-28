@@ -27,9 +27,7 @@ This month is my [4 year anniversary of my first job as a developer]({{base}}/fr
 
 Some of these can be quite obvious to some people, but time and time again I talk to people and find some usage for some of the most "obvious” tips. It is also missing a lot of stuff. It was already too long as it, but I wanted to share it anyway! So here is my celebration post to my 4st anniversary as a software developer! 🙂 
 
-<center><img src="https://media.giphy.com/media/cRH5deQTgTMR2/giphy.gif" style="height:300px;"/></center>
-<br/>
-
+{{<figure src="https://media.giphy.com/media/cRH5deQTgTMR2/giphy.gif#center">}}
 
 ## Learn at least one technology deep enough
 
@@ -84,9 +82,7 @@ The four situations are:
 
 Think about them. 
 
-
-<center><img src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif" style="height:300px;"/></center>
-<br/>
+{{<figure src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif#center">}}
 
 .
 
@@ -137,10 +133,9 @@ The true reality of life is that *nobody actually knows what their doing.* The t
 
 So don't wait to know everything to go after the job you want. If you know everything for the job you want, you probably are too good for it.
 
-<center><img src="https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif" style="height:300px;"/></center>
-<center><i>This is me in most of the things I'm doing</i></center>
-<br/>
+{{<figure src="https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif#center">}}
 
+*This is me in most of the things I'm doing*
 
 If you see a job description for something that you have always dream to work on, apply. You may have no chances of achieving it, but you should try. Always. **You shouldn't do the job of the people who choose.** It is their job to see if you are good enough. Your job is to apply and do your best.
 
