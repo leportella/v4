@@ -13,6 +13,7 @@ tags:
   - Project Jupyter
 featured-img: alone-anime
 slug: sqlalchemy-relacionamento
+translationKey: sqlalchemy-relationship
 date: 2020-09-29T11:21:52-05:00
 ---
 
@@ -120,7 +121,7 @@ User.info = relationship(UserInfo, backref='users')
 
 Veja um exemplo completo com as duas classes:
 
-![https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/jupyterhub_example.gif](https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/jupyterhub_example.gif)
+{{<figure src="https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/jupyterhub_example.gif#center">}}
 
 Pronto! Tudo funciona!
 

@@ -16,6 +16,7 @@ slug: relationship-sqlalchemy
 aliases: 
     - /relationship-sqlalchemy.html
     - /english/2019/01/11/sqlalchemy-foreign-key-separate-files.html
+translationKey: sqlalchemy-relationship
 date: 2019-01-11T11:21:52-05:00
 ---
 
@@ -113,7 +114,7 @@ User.info = relationship(UserInfo, backref='users')
 
 See a full example on how you work with these two classes here:
 
-![](https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/jupyterhub_example.gif)
+{{<figure src="https://raw.githubusercontent.com/leportella/sqlalchemy-basics-post/master/gifs/jupyterhub_example.gif#center">}}
 
 
 Done! Everything worked!
