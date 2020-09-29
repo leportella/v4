@@ -35,7 +35,7 @@ vai estar entre o *cheat list* e um post simples e espero que seja útil.
 ## Permuta de valores entre variáveis
 
 Agora, imagine que temos duas variáveis e queremos inverter os valores delas. Eu quero que a variável **a** passe a ter o 
-valor de **b** e vice-versa. Podemos usar a mesma lógica de definição de variáveis que vimos no item anterior:
+valor de **b** e vice-versa. Podemos usar a seguinte lógica:
 
 ```python
 a, b = 10, 5
@@ -93,7 +93,7 @@ verificadas em um `if`. Nosso código ficaria algo assim:
 a, b, c, d = 1, 2, 3, 4
 
 if a == 1 and b == 2 and c == 3 and d == 4:
-    print('all True!')
+    print('todas as condições eram verdadeiras!')
 ```
 Nesse caso, queremos que todas as condições sejam verdadeiras, certo? Cada verificador `==` vai retornar `True` ou `False` e,
 portanto, entraremos no `if` só se todos forem verdadeiros.
@@ -142,7 +142,7 @@ Nesse caso, o `else` se torna completamente desnecessário. Porque qualquer caso
 Dessa forma, nossa função pode ser simplificada para:
 
 ```python
-def modifica_valor(lista):
+def modifica_valor(x):
     if x == 'a':
         return 0
     return 1
@@ -240,7 +240,7 @@ transform = lambda x: 0 if x == 'a' else 1
 ```
 
 Ou seja, ao receber um x retorne 0 caso ele seja igual a **a** ou 1 em qualquer outro caso. Isso pode ser usado, por 
-exemplo, ao se passar uma função para um `map`, por exemplo, que vai aplicar essa função em cada item da lista. Aquele loop 
+exemplo, ao se passar uma função para um `map` que vai aplicar essa função em cada item da lista. Aquele loop 
 com vários `append` acaba virando isso:
 
 ```python
@@ -325,7 +325,7 @@ a
 ```
 
 Dessa forma, podemos fazer algo semelhante ao que vimos no *list comprehension* para fazer manipulações de strings. Por exemplo, 
-vamos supor que você tenha uma string que contenha acentos, e você deseja removê-los. Usando essa ideia simples, podemos fazer:
+vamos supor que você tenha uma string que contenha pontuações, e você deseja removê-las. Usando essa ideia simples, podemos fazer:
 
 ```python
 frase = 'O que? Eu não quero frases com pontuações! Chega!'
