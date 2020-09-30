@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-  {{ if eq .Page.Type "posts" }}
+  {{ if or (eq .Page.Type "posts" ) (eq .Page.Type "wiki" )}}
   <div class="row">
     <div class="col-md-9">
       {{ partial "post/article.html" . }}

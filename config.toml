@@ -34,9 +34,13 @@ startLevel = 2
         url = "/"
         weight = 1
     [[languages.en.menu.left]]
+        name = "Wiki"
+        url = "/wiki"
+        weight = 1
+    [[languages.en.menu.left]]
         name = "🇧🇷 Em Português"
         url = "/pt-br"
-        weight = 1
+        weight = 2
     [[languages.en.menu.right]]
         name = "About"
         url = "/about"
@@ -66,9 +70,13 @@ startLevel = 2
         url = "/pt-br"
         weight = 1
     [[languages.pt-br.menu.left]]
+        name = "Wiki"
+        url = "/wiki"
+        weight = 1
+    [[languages.pt-br.menu.left]]
         name = "🇮🇪 In English"
         url = "/"
-        weight = 1
+        weight = 2
     [[languages.pt-br.menu.right]]
         name = "Sobre"
         url = "/pt-br/about"
