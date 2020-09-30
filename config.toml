@@ -1,4 +1,4 @@
-baseURL = "https://leportella.netlify.app/"
+baseURL = "https://leportella.com"
 theme = "tella"
 defaultContentLanguage = "en"
 copyright = "Everything is mine"
