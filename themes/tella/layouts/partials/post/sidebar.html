@@ -17,13 +17,18 @@
   </div><!-- /.card -->
   {{ end }}
 
-  {{ if .Params.categories }}
+  {{ if .Params.categories  }}
   <div class="card mb-4">
     <div class="card-body">
       <h4 class="card-title">{{ .Language.Params.Similar_Posts }}</h4>
       <ul>
         {{ range .Params.categories }}
-         <li><a href="/{{ $.Language.Lang }}/categories/{{ . | urlize }}">{{ . }}</a></li>
+
+          {{ if eq $.Language.Lang "en"}}
+            <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+          {{ else }}
+            <li><a href="/{{ $.Language.Lang }}/categories/{{ . | urlize }}">{{ . }}</a></li>
+           {{ end }}
         {{ end }}
       </ul>
     </div>

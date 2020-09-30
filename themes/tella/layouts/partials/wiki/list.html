@@ -7,7 +7,7 @@
 <ul class="wiki-pages">
 
 {{ if eq (.Site.GetPage .Section) .CurrentSection }}
-  {{range (.Paginate ( where .Site.Pages "Section" .Section)  9).Pages.ByTitle }}
+  {{range sort (where .Site.Pages "Section" .Section) "RelPermalink" }}
   {{ if .IsPage }}
   <li>
     <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></li>
