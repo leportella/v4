@@ -12,6 +12,7 @@ tags:
   - eventos
 featured-img: pybr14
 slug: keynote-painel-dados
+remove-inside-img: true
 aliases: 
   - /keynote-painel-dados.html
   - /pt-br/talks/2019/10/15/painel-dados-abertos.html

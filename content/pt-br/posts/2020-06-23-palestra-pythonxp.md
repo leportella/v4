@@ -14,6 +14,7 @@ tags:
   - class based views
   - django girls
 featured-img: talk
+remove-inside-img: true
 slug: cbv-palestra
 aliases:
   - /cbv-palestra.html

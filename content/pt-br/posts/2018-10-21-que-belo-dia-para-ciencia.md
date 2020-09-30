@@ -11,6 +11,7 @@ tags:
   - python brasil
 featured-img: sky
 slug: palestra-que-belo-dia
+remove-inside-img: true
 aliases: 
   - /palestra-que-belo-dia.html
   - /pt-br/talks/2019/10/21/que-belo-dia-para-ciencia.html

@@ -4,6 +4,7 @@ title: "What's beyond Django Girls tutorial? Introduction to Class Based Views"
 categories:
   - django
   - python
+  - talk
 tags:
   - python
   - community 
@@ -12,6 +13,7 @@ tags:
   - Django
   - Django Girls
 featured-img: talk
+remove-inside-img: true
 slug: talk-class-based-views
 aliases: 
   - /talk-class-based-views.html

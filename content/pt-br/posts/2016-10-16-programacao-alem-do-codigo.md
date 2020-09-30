@@ -10,7 +10,9 @@ tags:
   - palestra
   - eventos
   - tecnologia
-featured-img: pybr12
+featured-img: womenintech
+inside-img: womenintech2
+remove-inside-img: true
 slug: palestra-pybr12
 aliases: 
   - /pt-br/talks/2016/10/16/programacao-alem-do-codigo.html
@@ -21,3 +23,7 @@ last_mod: 2020-02-14T18:25:52-05:00
 <!--more-->
 
 {{<youtube sfbMb1yLRRY>}}
+
+
+--
+*Foto de cottonbro no Pexels*
