@@ -15,7 +15,6 @@ featured-img: rest
 slug: restless
 aliases:
   - /english/2017/04/03/make-endpoints-using-restless.html
-  - restless.html
 date: 2017-04-03T14:25:52-05:00
 ---
 

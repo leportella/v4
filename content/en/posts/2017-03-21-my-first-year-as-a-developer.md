@@ -16,7 +16,6 @@ date: 2017-03-21T14:25:52-05:00
 slug: first-year-as-dev
 aliases: 
   - /english/2017/03/21/my-first-year-as-a-developer.html
-  - /first-year-as-dev.html 
 featured-img: django_girls
 translationKey: first-year-as-dev
 ---

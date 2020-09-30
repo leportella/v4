@@ -13,7 +13,6 @@ tags:
 featured-img: where-women
 slug: mediocre-women
 aliases: 
-  - /mediocre-women.html
   - /english/2020/02/14/mediocre-women.html
 date: 2020-02-14T18:25:52-05:00
 translationKey: mediocre-women

@@ -16,7 +16,6 @@ tags:
 featured-img: stripe
 slug: new-eng-stripe
 aliases: 
-  - new-eng-stripe.html
   - /english/2019/12/06/new-eng-stripe.html
 date: 2019-12-06T18:25:52-05:00
 translationKey: new-eng-stripe

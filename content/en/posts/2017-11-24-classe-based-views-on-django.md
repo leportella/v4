@@ -15,7 +15,6 @@ tags:
 featured-img: binoculos
 slug: class-based-views-on-django
 aliases: 
-  - /class-based-views-on-django.html
   - /english/2017/11/24/classe-based-views-on-django.html
 date: 2017-11-24T14:25:52-05:00
 translationKey: class-based-views-no-django

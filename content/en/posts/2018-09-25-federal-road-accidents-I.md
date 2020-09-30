@@ -12,9 +12,8 @@ tags:
   - sklearn
   - python
 featured-img: accidents
-slug: predicting-victims-national-roads-I.html
+slug: predicting-victims-national-roads-I
 aliases: 
-  - /predicting-victims-national-roads-I
   - /english/2018/09/25/federal-road-accidents-I.html
 date: 2018-09-25T22:05:52-05:00
 ---

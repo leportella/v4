@@ -14,7 +14,6 @@ tags:
 featured-img: scala
 slug: scala-III
 aliases: 
-  - /scala-III.html
   - /english/2020/04/12/scala-part-III.html
 date: 2020-04-01T18:25:52-05:00
 ---

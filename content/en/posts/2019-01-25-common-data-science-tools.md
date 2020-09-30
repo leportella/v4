@@ -26,7 +26,6 @@ tags:
 featured-img: tools
 slug: most-common-data-science-tools
 aliases: 
-  - /most-common-data-science-tools.html
   - /english/2019/01/25/common-data-science-tools.html
 date: 2019-01-25T11:48:52-05:00
 last_mod: 2020-09-27T15:15:52+01:00

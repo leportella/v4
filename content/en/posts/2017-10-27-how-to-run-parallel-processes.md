@@ -9,7 +9,6 @@ tags:
 featured-img: type-machine
 slug: parallel-processes-python
 aliases: 
-  - /parallel-processes-python.html
   - /english/2017/10/27/how-to-run-parallel-processes.html
 date: 2017-10-27T14:25:52-05:00
 translationKey: parallel-processes-python

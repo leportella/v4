@@ -18,7 +18,6 @@ featured-img: board-chalk-chalkboard-459793
 slug: testing-tools-django
 aliases: 
   - /english/2018/09/18/my-favorite-testing-tools.html
-  - /testing-tools-django.html 
 date: 2018-09-18T12:28:52-05:00
 ---
 

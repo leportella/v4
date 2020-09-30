@@ -19,7 +19,6 @@ featured-img: comments
 slug: generic-relations-django
 aliases: 
     - /english/2017/03/14/generic-relations.html
-    - /generic-relations-django.html
 date: 2017-03-14T14:25:52-05:00
 translationKey: generic-relations-django
 ---

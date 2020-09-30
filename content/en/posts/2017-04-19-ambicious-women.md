@@ -21,7 +21,6 @@ featured-img: woman-tech
 slug: ambicious-women
 aliases: 
   - /english/2017/04/19/ambicious-women.html
-  - /ambicious-women.html
 date: 2017-04-19T14:25:52-05:00
 translationKey: ambicious-women
 ---

@@ -18,8 +18,7 @@ tags:
 featured-img: pycon
 slug: pycon2016
 aliases: 
-  - "/pycon2016.html"
-  -  "/english/2016/06/07/a-tale-of-a-kingdom-far-far-away.html"
+  -  /english/2016/06/07/a-tale-of-a-kingdom-far-far-away.html
 date: 2016-06-07T14:25:52-05:00
 last_mod: 2019-02-21T14:25:52-05:00
 ---

@@ -12,7 +12,6 @@ featured-img: apple
 slug: dev-for-dummies
 aliases: 
   - /english/2016/12/29/dev-for-dummies.html
-  - /dev-for-dummies.html
 translationKey: dev-for-dummies
 date: 2016-12-29T14:25:52-05:00
 ---

@@ -10,7 +10,6 @@ tags:
 featured-img: board
 slug: learning-code
 aliases: 
-  - /learning-code.html
   - /english/2016/03/24/the-same-old-story.html
 date: 2016-03-24T14:25:52-05:00
 ---

@@ -19,7 +19,6 @@ tags:
 featured-img: write
 slug: outreachy-V
 aliases: 
-  - /outreachy-V.html
   - /english/2019/02/21/outreachy-V.html
 date: 2019-02-21T11:48:52-05:00
 ---

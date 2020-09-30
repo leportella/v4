@@ -12,7 +12,6 @@ featured-img: oceanographer
 slug: from-oceanographer-to-programmer
 aliases: 
   - /english/2016/03/16/from-oceanographer-to-programmer.html
-  - /from-oceanographer-to-programmer.html
 date: 2016-03-16T14:25:52-05:00
 translationKey: from-oceanographer-to-programmer
 ---

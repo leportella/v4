@@ -19,7 +19,6 @@ featured-img: database
 slug: mongoengine
 aliases: 
   - /english/2018/08/23/mongo-db-python-and-mongoengine.html
-  - /mongoengine.html
 date: 2018-08-23T14:25:52-05:00
 translationKey: mongoengine
 ---

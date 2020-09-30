@@ -12,7 +12,6 @@ featured-img: too-many-books
 slug: too-much-info
 aliases: 
   - /english/2016/05/05/too-much-information.html
-  - /too-much-info.html
 date: 2016-05-05T14:25:52-05:00
 ---
 

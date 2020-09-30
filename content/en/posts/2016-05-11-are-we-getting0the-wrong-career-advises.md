@@ -14,7 +14,6 @@ featured-img: chimp
 slug: wrong-career-advises
 aliases: 
   - /english/2016/05/11/are-we-getting0the-wrong-career-advises.html
-  - /wrong-career-advises.html
 date: 2016-05-11T14:25:52-05:00
 ---
 

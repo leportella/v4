@@ -14,7 +14,6 @@ featured-img: room
 slug: why-you-should-be-in-communities
 translationKey: why-you-should-be-in-communities
 aliases: 
-  - /why-you-should-be-in-communities.html
   - /english/2019/03/22/why-you-should-be-in-the-community.html
 date: 2019-03-22T18:25:52-05:00
 ---

@@ -17,7 +17,6 @@ tags:
 featured-img: auditorium
 slug: machine-learning-nanodegree
 aliases: 
-  - /machine-learning-nanodegree.html
   - /english/2019/01/15/opinion-nanodegree.html
 translationKey: machine-learning-nanodegree
 date: 2019-01-15T11:48:52-05:00
