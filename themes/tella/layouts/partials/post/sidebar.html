@@ -17,6 +17,7 @@
   </div><!-- /.card -->
   {{ end }}
 
+  {{ if .Params.categories }}
   <div class="card mb-4">
     <div class="card-body">
       <h4 class="card-title">{{ .Language.Params.Similar_Posts }}</h4>
@@ -27,4 +28,5 @@
       </ul>
     </div>
   </div><!-- /.card -->
+  {{ end }}
 </aside>
