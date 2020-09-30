@@ -18,7 +18,6 @@ featured-img: comments
 slug: relacoes-genericas-django
 aliases: 
     - /pt-br/2016/12/29/relacoes-genericas-do-django.html
-    - /relacoes-genericas-django.html
 date: 2016-12-29T14:25:52-05:00
 last_mod: 2017-03-09T14:25:52-05:00
 translationKey: generic-relations-django

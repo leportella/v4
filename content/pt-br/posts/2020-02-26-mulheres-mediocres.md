@@ -12,7 +12,6 @@ tags:
 featured-img: where-women
 slug: mulheres-mediocres
 aliases: 
-  - /mulheres-mediocres.html
   - /pt-br/2020/02/26/mulheres-mediocres.html
 date: 2020-02-26T18:25:52-05:00
 translationKey: mediocre-women

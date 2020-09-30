@@ -14,7 +14,6 @@ featured-img: computer
 slug: truques-python
 translationKey: pytricks
 aliases: 
-    - /truques-python.html
     - /pt-br/2018/05/07/pytricks-I.html
 date: 2018-05-07T09:29:52-05:00
 ---

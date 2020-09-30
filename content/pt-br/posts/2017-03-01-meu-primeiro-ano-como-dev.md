@@ -10,7 +10,6 @@ tags:
 featured-img: django_girls
 slug: primeiro-ano-dev
 aliases: 
-  - /primeiro-ano-dev.html
   - /pt-br/2017/03/01/meu-primeiro-ano-como-dev.html
 date: 2017-03-01T14:25:52-05:00
 translationKey: first-year-as-dev 

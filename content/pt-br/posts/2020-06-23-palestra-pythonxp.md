@@ -16,8 +16,6 @@ tags:
 featured-img: talk
 remove-inside-img: true
 slug: cbv-palestra
-aliases:
-  - /cbv-palestra.html
 last_mod: 2020-06-24T18:25:52-05:00
 date: 2020-06-23T18:25:52-05:00
 ---

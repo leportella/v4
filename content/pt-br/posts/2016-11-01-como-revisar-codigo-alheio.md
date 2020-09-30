@@ -10,7 +10,6 @@ tags:
 featured-img: feedback
 slug: revisar-codigo
 aliases: 
-  - /revisar-codigo.html
   - /pt-br/2016/11/01/como-revisar-codigo-alheio.html
 date: 2016-11-01T14:25:52-05:00
 translationKey: review-code

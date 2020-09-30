@@ -12,7 +12,6 @@ tags:
 featured-img: stripe
 slug: nova-eng-stripe
 aliases: 
-  - /nova-eng-stripe.html
   - /pt-br/2020/02/09/nova-eng-stripe.html
 date: 2020-02-09T18:25:52-05:00
 translationKey: new-eng-stripe

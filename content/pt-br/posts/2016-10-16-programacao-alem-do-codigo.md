@@ -16,7 +16,6 @@ remove-inside-img: true
 slug: palestra-pybr12
 aliases: 
   - /pt-br/talks/2016/10/16/programacao-alem-do-codigo.html
-  - /palestra-pybr12.html
 date: 2016-10-16T18:25:52-05:00
 last_mod: 2020-02-14T18:25:52-05:00
 ---

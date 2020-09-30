@@ -13,7 +13,6 @@ featured-img: castalio
 remove-inside-img: true
 slug: pizza-no-castalio
 aliases: 
-  - /pizza-no-castalio.html
   - /pt-br/talks/2018/11/07/pizza-no-castalio.html
 date: 2018-11-07T18:25:52-05:00
 ---

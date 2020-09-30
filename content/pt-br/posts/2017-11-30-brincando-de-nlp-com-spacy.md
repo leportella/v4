@@ -13,7 +13,6 @@ tags:
 featured-img: words
 slug: npl-com-spacy
 aliases: 
-  - /npl-com-spacy.html
   - /pt-br/2017/11/30/brincando-de-nlp-com-spacy.html
 date: 2017-11-30T14:25:52-05:00
 ---

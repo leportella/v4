@@ -16,7 +16,6 @@ tags:
 featured-img: pysul-organizacao
 slug: organizacao-pysul2018
 aliases: 
-  - /organizacao-pysul2018.html
   - /pt-br/2018/04/23/pysul18-organizacao.html
 date: 2017-03-09T14:25:52-05:00
 ---

@@ -12,7 +12,6 @@ tags:
 featured-img: blog
 slug: minha-experiencia-com-blogs
 aliases: 
-  - /minha-experiencia-com-blogs.html
   - /pt-br/2019/02/09/minha-experiencia-com-blogs.html
 date: 2019-02-09T14:25:52-05:00
 translationKey: my-experience-with-blogs

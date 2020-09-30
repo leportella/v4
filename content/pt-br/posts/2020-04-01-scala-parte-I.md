@@ -11,7 +11,6 @@ tags:
 featured-img: scala
 slug: scala-I
 aliases: 
-  - scala-parte-I.html
   - /pt-br/2020/04/01/scala-parte-I.html
 date: 2020-04-01T18:25:52-05:00
 translationKey: scala-I

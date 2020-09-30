@@ -11,7 +11,6 @@ tags:
 featured-img: type-machine
 slug: processos-em-paralelo-python
 aliases: 
-  - /processos-em-paralelo-python.html
   - /pt-br/2017/10/27/processos-paralelos.html
 date: 2017-10-27T13:25:52-05:00
 last_mod: 2018-08-01T13:25:52-05:00

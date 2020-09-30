@@ -14,7 +14,6 @@ tags:
 featured-img: woman-tech
 slug: mulheres-ambiciosas
 aliases: 
-  - /mulheres-ambiciosas.html
   - /pt-br/2017/04/08/mulheres-ambiciosas.html
 date: 2017-04-08T14:25:52-05:00
 translationKey: ambicious-women

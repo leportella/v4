@@ -13,7 +13,6 @@ tags:
 featured-img: room 
 slug: comunidades-tecnologia
 aliases: 
-  - /comunidades-tecnologia.html
   - /pt-br/2018/10/08/porque-participar-de-comunidades.html
 translationKey: why-you-should-be-in-communities
 date: 2018-10-08T18:25:52-05:00

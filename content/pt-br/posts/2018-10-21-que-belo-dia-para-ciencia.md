@@ -13,7 +13,6 @@ featured-img: sky
 slug: palestra-que-belo-dia
 remove-inside-img: true
 aliases: 
-  - /palestra-que-belo-dia.html
   - /pt-br/talks/2019/10/21/que-belo-dia-para-ciencia.html
 date: 2018-10-21T18:25:52-05:00
 last_mod: 2020-02-14T18:25:52-05:00

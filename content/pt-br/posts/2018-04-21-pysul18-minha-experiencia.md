@@ -16,7 +16,6 @@ tags:
 featured-img: pysul
 slug: experiencia-pysul2018
 aliases: 
-  - /experiencia-pysul2018.html
   - /pt-br/2018/04/21/pysul18-minha-experiencia.html
 date: 2017-03-09T14:25:52-05:00
 ---

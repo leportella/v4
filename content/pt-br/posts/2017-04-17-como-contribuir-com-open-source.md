@@ -10,7 +10,6 @@ tags:
 featured-img: open
 slug: open-source-sem-codigo
 aliases: 
-  - /open-source-sem-codigo.html
   - /pt-br/2017/04/17/como-contribuir-com-open-source.html
 translationKey: open-source-without-code
 date: 2017-04-17T14:25:52-05:00

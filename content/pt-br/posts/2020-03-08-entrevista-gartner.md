@@ -12,7 +12,6 @@ tags:
 featured-img: microphone
 slug: entrevista-capterra
 aliases: 
-  - /entrevista-capterra.html
   - /pt-br/2020/03/08/entrevista-gartner.html
 date: 2020-03-08T18:25:52-05:00
 ---

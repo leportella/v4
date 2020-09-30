@@ -14,7 +14,6 @@ featured-img: pybr14
 slug: keynote-painel-dados
 remove-inside-img: true
 aliases: 
-  - /keynote-painel-dados.html
   - /pt-br/talks/2019/10/15/painel-dados-abertos.html
 date: 2018-10-15T18:25:52-05:00
 last_mod: 2020-02-17T18:25:52-05:00

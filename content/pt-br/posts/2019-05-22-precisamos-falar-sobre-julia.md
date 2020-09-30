@@ -8,8 +8,6 @@ tags:
   - ciência de dados
 featured-img: julia
 slug: julia
-aliases: 
-  - julia.html
 date: 2019-05-22T18:25:52-05:00
 last_mod: 2020-06-24T18:25:52-05:00
 ---

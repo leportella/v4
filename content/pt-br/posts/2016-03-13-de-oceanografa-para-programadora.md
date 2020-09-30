@@ -11,7 +11,6 @@ tags:
 featured-img: oceanographer
 slug: de-oceanografa-para-programadora
 aliases: 
-  - /de-oceanografa-para-programadora.html
   - /pt-br/2016/03/13/de-oceanografa-para-programadora.html
 date: 2016-03-13T14:25:52-05:00
 translationKey: from-oceanographer-to-programmer

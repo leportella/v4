@@ -12,7 +12,6 @@ tags:
 featured-img: bookcase 
 slug: tutorial-sqlalchemy
 aliases: 
-  - tutorial-basico-sqlalchemy.html
   - /pt-br/2020/03/13/sqlalchemy-basico-tutorial.html
 date: 2020-03-13T21:55:52-05:00
 translationKey: sqlalchemy-tutorial

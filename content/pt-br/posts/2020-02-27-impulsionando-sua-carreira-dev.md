@@ -10,7 +10,6 @@ tags:
 featured-img: fast
 slug: impulsionando-sua-carreira
 aliases: 
-  - /impulsionando-sua-carreira.html
   - /pt-br/2020/02/27/impulsionando-sua-carreira-dev.html
 date: 2020-02-27T18:25:52-05:00
 translationKey: boosting-your-career

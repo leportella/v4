@@ -11,7 +11,6 @@ tags:
 featured-img: free
 slug: agradecimento
 aliases: 
-  - /agradecimento.html
   - /pt-br/2017/01/10/um-agradecimento.html
 date: 2017-01-10T14:25:52-05:00
 ---

@@ -9,9 +9,7 @@ date: 2018-01-08T13:25:52-05:00
 featured-img: outlier
 slug: outliers-II
 aliases: 
-  - /outliers-II.html
   - /pt-br/2018/01/08/um-breve-estudo-sobre-outliers-2.html
-
 ---
 
 Continuação [deste post](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers.html)
