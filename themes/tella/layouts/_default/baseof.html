@@ -2,9 +2,9 @@
 <html lang="en">
 {{- partial "head.html" . -}}
 
-<body>
+<body class="d-flex flex-column">
   {{- block "header" . }}{{- end }}
-  <main class="main pt-4">
+  <main class="main pt-4 flex-grow-1">
     <div class="container">
       {{- block "main" . }}{{- end }}
     </div>

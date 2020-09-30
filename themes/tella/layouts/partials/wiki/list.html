@@ -1,0 +1,26 @@
+<h1>{{ .Page.Title }}</h1>
+<ul class="wiki-categories">
+  {{ range .Sections }}
+  <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+  {{ end }}
+</ul>
+<ul class="wiki-pages">
+
+{{ if eq (.Site.GetPage .Section) .CurrentSection }}
+  {{range (.Paginate ( where .Site.Pages "Section" .Section)  9).Pages}}
+  {{ if .IsPage }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></li>
+  </li>
+  {{ end }}
+  {{ end }}
+{{ else }}
+  {{range .Pages}}
+  {{ if .IsPage }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></li>
+  </li>
+  {{ end }}
+  {{ end }}
+{{ end }}
+</ul>

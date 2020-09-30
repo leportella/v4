@@ -1,6 +1,10 @@
 @import "app";
 @import "variables";
 
+body {
+    height: 100vh;
+}
+
 .container h1 {
     margin-bottom: 1.5em;
 }
