@@ -18,6 +18,7 @@ tags:
 featured-img: engrenagem
 slug: minted-vscode
 aliases: minted-vscode.html
+translationKey: minted
 last_mod: 2020-09-15T18:25:52-05:00
 date: 2020-09-15T18:25:52-05:00
 ---

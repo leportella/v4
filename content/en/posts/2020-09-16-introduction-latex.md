@@ -3,6 +3,7 @@ layout: post
 title: "Introduction to LaTeX"
 categories:
   - latex
+  - tutorial
 tags:
   - blog
   - blogging
@@ -24,7 +25,7 @@ date: 2020-09-15T18:25:52-05:00
 
 [LaTeX](https://www.latex-project.org/) (yes, written exactly like this) is a system that allows you to write documents without worrying about the style of the presentation. <!--more--> You can say that it is like you are coding a text instead of using Microsoft Word or Google Drive. 
 
-Because all the formatting definitions are defined in a single place (the main document), you just need write plain text and LaTeX will worry on how to render it the correct way. This is highly used by scientific magazines, universities thesis. book publishers and many more people.  For instance, universities and scientific journals usually have a template that you can download and the document will be immediately in the formatting it should be. This also includes formatting of bibliography that can be quite painful (trust me). 
+Because all the formatting definitions are defined in a single place (the main document), you just need to write plain text and LaTeX will worry about how to render it the correct way. This is highly used by scientific magazines, universities' thesis. book publishers and many more people.  For instance, universities and scientific journals usually have a template that you can download and the document will be immediately in the formatting it should be. This also includes the formatting of bibliography that can be quite painful (trust me). 
 
 Also, LaTeX has this coding-like style that allows you to use git for document versioning which makes your life so much easier. And I swear it makes your documents look so much prettier than with any other tool. 
 

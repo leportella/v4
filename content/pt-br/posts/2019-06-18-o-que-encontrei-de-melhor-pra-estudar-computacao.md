@@ -13,6 +13,7 @@ slug: material-computacao
 aliases: 
   - /material-computacao.html
   - /pt-br/2019/06/18/o-que-encontrei-de-melhor-pra-estudar-computacao.html
+translationKey: material-ciencia-computacao
 date: 2019-06-18T18:25:52-05:00
 ---
 
