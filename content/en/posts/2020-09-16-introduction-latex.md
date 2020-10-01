@@ -126,12 +126,12 @@ This is my basic `.gitignore` for avoiding commiting auxiliary files (and the pd
 
 ## Organizing the document
 
-It is usually very bad to throw everything in a single document, so I usually I make one .tex the default base document while creating other .tex files for the text itself.
+It is usually very bad to throw everything in a single document, so I usually I make one `.tex` the default base document while creating other `.tex` files for the text itself.
 
 For instance, we can create a new `chapter1.tex` that has only some text:
 
 ```scala
-% chapter1.text
+% chapter1.tex
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 ```
 
@@ -211,7 +211,7 @@ The `\label` command can be used by any division and will be later used for tabl
 
 ## Using packages
 
-Another brilliant thing about LaTeX is that you can add packages to help you deal with your document. For instance, if you want images on your document, you just need to add the package for graphics:
+Another brilliant thing about LaTeX is that you can add packages to help you deal with your document. For instance, if you want images on your document, you just need to add the package for graphics called `graphicx`:
 
 ```latex
 % add to CONFIGURATION section of mydoc.tex
@@ -230,7 +230,7 @@ And then you can use images on your documents:
 \end{figure}
 ```
 
-Oh... but graphics adds the images where it thinks is the best place! So we can add a package that forces the image to be exactly where we wanted it to be on the text:
+Oh... but `graphicx` adds the images where it thinks is the best place! So we can add a package that forces the image to be exactly where we wanted it to be on the text:
 
 ```latex
 % add to CONFIGURATION section of mydoc.tex
@@ -249,7 +249,7 @@ and then use it like this:
 \end{figure}
 ```
 
-Another cool package that I like is hyperref. It makes the table of contents, images and chapters references, bibliography, etc, to hyperlinks! This way you can move through the document in an easy way. 
+Another cool package that I like is `hyperref`. It makes the table of contents, images and chapters references, bibliography, etc, to hyperlinks! This way you can move through the document in an easy way. 
 
 ```latex
 % add to CONFIGURATION section of mydoc.tex
@@ -266,7 +266,7 @@ If you need to display code within your document, check [the very brief post I m
 
 This is, by far, my favorite tool in LaTeX. Because bibliography can be super annoying (especially in academia).
 
-To add bilbiography to a LaTeX document we will create a file called `mydoc.bib`. We can add a book reference to it:
+To add bibliography to a LaTeX document we will create a file called `mydoc.bib`. We can add a book reference to it:
 
 ```latex
 % mydoc.bib
