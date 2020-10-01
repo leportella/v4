@@ -24,7 +24,6 @@ tags:
 featured-img: interp
 slug: missing-data
 aliases: 
-  - /missing-data.html
   - /english/2019/01/14/interpolation.html
 date: 2019-01-14T11:48:52-05:00
 translationKey: missing-data

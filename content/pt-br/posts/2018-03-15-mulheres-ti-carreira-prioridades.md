@@ -18,7 +18,6 @@ tags:
 featured-img: women-tech
 slug: generos-e-prioridades
 aliases: 
-  - /generos-e-prioridades.html
   - /pt-br/2018/03/15/mulheres-ti-carreira-prioridades.html
 date: 2018-03-15T14:25:52-05:00
 ---

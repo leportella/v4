@@ -14,7 +14,6 @@ tags:
 featured-img: accidents
 slug: predicting-victims-national-roads-II
 aliases: 
-  - /predicting-victims-national-roads-II.html
   - /english/2019/01/02/federal-road-accidents-II.html
 date: 2019-01-02T21:55:52-05:00
 ---
