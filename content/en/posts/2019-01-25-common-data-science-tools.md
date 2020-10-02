@@ -44,20 +44,19 @@ Everybody ready?
 
 Imagine that your computer (and operational system) is a huge box that has a lot of packages:
 
-{{<figure src="https://i.imgur.com/UP5sRIO.jpg#center">}}
+{{<figure src="/assets/img/posts/venv2.png#center" width="400px">}}
 
 *Your operational system is like a box, with a specific version of Python and the Python libraries it needs, which specific versions it needs.*
 
 
 Creating a virtualenv is like you created a "little box", and inside it you can install whatever you eant: any version of Python and any version of the libraries you need. Since you created a "little box", what's in it is completely isolated from your general environment, and it can be easily deleted if you stop working on that project.
 
-{{<figure src="https://i.imgur.com/LECu4e9.jpg#center">}}
-
+{{<figure src="/assets/img/posts/venv1.png#center" width="400px">}}
 *Example on how a virtualenv is a "little box" inside the "big box" that is your operational system*
 
 Since you can create multiple virtualenvs, each project can (and normally should) have its own "box", making easier to manage packages and libraries for each project, always keeping your operational system intact.
 
-{{<figure src="https://i.imgur.com/UcKkwuD.jpg#center">}}
+{{<figure src="/assets/img/posts/venv3.png#center" width="400px">}}
 *You can have as many virtualenv as you like inside your operational system.*
 
 

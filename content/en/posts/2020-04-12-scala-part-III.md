@@ -115,7 +115,6 @@ println(point.x) // 2
 So… you have:
 
 {{< table >}}
-
 | **Attribute definition** | **Assessor? (Point.x)** | **Mutator? (Point.x = 4)** | **Can override?** |
 | ------------------------ | ----------------------- | -------------------------- | ----------------- |
 | `val`                    | yes                     | no                         | yes               |
@@ -127,27 +126,27 @@ So… you have:
 
 When defining a class, you actually can use other extra keywords to define how you will like your class to behavior. So far I learned 3 major keyword:
 
-
+{{< table >}}
 | **Keywords**         | **Allowed usage**                                    |
 | -------------------- | ---------------------------------------------------- |
 | `class Point`        | Normal class that allows creating multiple instances |
 | `final class Point`  | Doesn't allow class to be extended                   |
 | `sealed class Point` | Allow class to be extended but only in the same file |
-
+{{< /table >}}
 
 
 ## Class methods and overrides
 
 Since classes have keywords that allows us to change the way they are used, it is reasonable to suppose that they also have keyword that can change their behavior. I created a small table with the properties of each one and examples to help us understand what changes exactly.
 
-
+{{< table >}}
 |   |                                  | Extended class can use? | Extended class can overwritte? | Instances of extended class can use the method? |
 | - | -------------------------------- | ----------------------- | ------------------------------ | ----------------------------------------------- |
 | 1 | `def` / `val`                    | Yes                     | Yes                            | Yes                                             |
 | 2 | `private def` / `private val`    | No                      | Don't need to                  | No                                              |
 | 3 | `protected def`/ `protected val` | Yes                     | Yes                            | No                                              |
 | 4 | `final def` / `final val`        | Yes                     | No                             | Yes                                             |
-
+{{< /table >}}
 
 
 ## Case 1: `def` and `val`
