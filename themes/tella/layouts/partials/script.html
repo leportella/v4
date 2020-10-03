@@ -1,12 +1,19 @@
 {{ $js := resources.Get "js/app.js" | js.Build "main.js" | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}"></script>
 
-<!--analytics-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106178084-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106178084-1');
+</script>
+
 
 <!--ad sense-->
 <script data-ad-client="ca-pub-8434843879837451" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!--Goat counter-->
-<script data-goatcounter="https://stats.leportella.com/count"
-        async src="//stats.leportella.com/count.js"></script>
+<script data-goatcounter="https://stats.leportella.com/count" async src="//stats.leportella.com/count.js"></script>
