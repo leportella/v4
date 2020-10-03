@@ -35,4 +35,3 @@
 
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link href="{{ $style.RelPermalink }}" rel="stylesheet">
-<script data-ad-client="ca-pub-8434843879837451" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
