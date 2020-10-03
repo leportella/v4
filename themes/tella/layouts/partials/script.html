@@ -1,2 +1,8 @@
 {{ $js := resources.Get "js/app.js" | js.Build "main.js" | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}"></script>
+
+<!--analytics-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106178084-1"></script>
+
+<!--ad sense-->
+<script data-ad-client="ca-pub-8434843879837451" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
