@@ -28,9 +28,9 @@
   {{else}}
     <center>
     {{ if .Param "inside-img" }}
-      <img class="card-img" src="/assets/img/posts/{{ .Param "inside-img" }}_thumb@2x.jpg" alt="" style="max-width: 500px;"/>
+      <img class="card-img" src="/assets/img/posts/{{ .Param "inside-img" }}_thumb@2x.jpg" alt="" style="max-height: 800px; width:auto;"/>
     {{else}}
-      <img class="card-img" src="/assets/img/posts/{{ .Param "featured-img" }}_thumb@2x.jpg" alt="" style="max-width: 500px;"/>
+      <img class="card-img" src="/assets/img/posts/{{ .Param "featured-img" }}_thumb@2x.jpg" alt="" style="max-height: 800px; width:auto;"/>
     {{end}}
     </center>
   {{end}}
