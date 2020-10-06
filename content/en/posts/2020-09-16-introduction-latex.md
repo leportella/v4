@@ -19,6 +19,7 @@ tags:
 featured-img: book
 inside-img: engrenagem
 slug: latex
+translationKey: Latex
 last_mod: 2020-09-15T18:25:52-05:00
 date: 2020-09-15T18:25:52-05:00
 ---
@@ -324,43 +325,4 @@ I am not a super fan of very big IDEs... but omg this made my life 1000 times ea
 
 ## Minimum working example
 
-This last section is here just for you to have a minimum working example 😎
-
-```latex
-% mydoc.tex
-\documentclass[12pt,openany]{memoir}
-\usepackage{graphicx}                      % allow images
-\usepackage{float}                         % image location ([H])
-
-\title{My LaTeX book}
-\author{Leticia Portella}
-
-% ============= DOCUMENT =================
-\begin{document}
-\maketitle
-
-\include{chapter1}
-
-\bibliography{mydoc}                       % bib file 
-\bibliographystyle{plain} 
-
-\end{document}
-```
-
-```latex
-% mydoc.bib
-
-@book{Armour,                                         % Armour will be the id 
-  author    = "P. G. Armour",
-  title     = "The Laws of Software Process",
-  publisher = "Auerbach",
-  year      = "2003",
-}
-```
-
-```latex
-% chapter1.tex
-\chapter{My first chapter}
-
-As written by \cite{Armour}...
-```
+[Check my wiki if you want a minimum working example](https://leportella.com/wiki/latex/) 🤩
