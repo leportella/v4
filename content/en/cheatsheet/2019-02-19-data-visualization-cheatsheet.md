@@ -54,12 +54,8 @@ date: 2019-02-19T14:25:52-05:00
 ---
 
 
-# Summary
 
-* [Seaborn Heatmap](#seaborn-heatmap)
-
-
-<h2 id='seaborn-heatmap'>Seaborn Heatmap</h2>
+## Seaborn Heatmap
 
 Simple example with a colormap with light colors on small values and black colors on high values:
 

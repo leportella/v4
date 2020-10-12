@@ -46,19 +46,7 @@ date: 2018-01-05T14:25:52-05:00
 ---
 
 
-# Summary
-
-* [Undo commits](#undo-commits)
-* [How to rebase a forked repository](#rebase-fork)
-* [How to add a default editor to git](#default-editor)
-* [Delete changes on conflict while rebasing](#conflict)
-* [How to amend to some old commit?](#amend-old-commit) 
-* [How to amend delete merged branches?](#delete-merged-branches) 
-
-# My Git Cheat List
-
-
-<h2 id='undo-commits'>Undo commits</h2>
+## Undo commits
 
 1 commit: 
 
@@ -72,8 +60,7 @@ $ git reset HEAD~
 $ git reset HEAD~~ 
 ```
 
-
-<h2 id='rebase-fork'>How to rebase a forked repository</h2>
+## How to rebase a forked repository
 
 On the cloned repository
 
@@ -86,13 +73,13 @@ $ git checkout my-branch
 $ git rebase master
 ```
 
-<h2 id='default-editor'>How to add a default editor to git</h2>
+## How to add a default editor to git
 
 ```
 $ git config --global core.editor vim
 ```
 
-<h2 id='conflict'>Delete changes on conflict while rebasing</h2>
+## Delete changes on conflict while rebasing
 
 If you generated an automatic file, pushed it but then there was a conflict because the file was updated by someone else, sometimes the easiest thing is to just throw away your changes and run the script again. To do that while you are rebasing you just
 
@@ -108,7 +95,7 @@ $ run_automatic_script
 ```
 
 
-<h2 id='amend-old-commit'>How to amend to some old commit?</h2>
+## How to amend to some old commit?
 
 ```
 $ git log
@@ -149,7 +136,7 @@ $ git push -f
 
 
 
-<h2 id='delete-merged-branches'>How to amend delete merged branches?</h2>
+## How to amend delete merged branches?
 
 This delete all merged branch. Do NOT use `-D`.
 

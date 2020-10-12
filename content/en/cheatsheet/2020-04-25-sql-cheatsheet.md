@@ -47,16 +47,7 @@ aliases:
 date: 2020-04-25T14:25:52-05:00
 ---
 
-# Summary
-
-* [Query if a string is in a list](#query-list)
-* [Query within a timestamp](#timestamp)
-* [Creating temporary table](#temp-table)
-* [String comparison](#string-comparison)
-* [Search for empty or null strings](#empty-string)
-
-
-<h2 id='query-list'>Query if a string is in a list</h2>
+## Query if a string is in a list
 
 ```sql
 select name, 
@@ -64,8 +55,7 @@ select name,
 where name IN ('jon', 'mary')
 ```
 
-
-<h2 id='timestamp'>Query within a timestamp</h2>
+## Query within a timestamp
 
 ```sql
 select record
@@ -75,7 +65,7 @@ where
     created < timestamp '2019-10-01 23:59'
 ```
 
-<h2 id='temp-table'>Creating temporary table</h2>
+## Creating temporary table
 
 ```sql 
 with my_new_table as (
@@ -88,7 +78,7 @@ select *
 from my_new_table
 ```
 
-<h2 id='string-comparison'>String comparison</h2>
+## String comparison
 
 ```sql
 select
@@ -98,7 +88,7 @@ where my_table.items LIKE '%something%'
 limit 10
 ```
 
-<h2 id='empty-string'>Search for empty or null strings</h2>
+## Search for empty or null strings
 
 ```sql
 where (surname is null or surname = '')

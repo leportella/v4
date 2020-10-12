@@ -54,54 +54,30 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 
 {{<figure src="https://media.giphy.com/media/EwO9pwLnPlttu/giphy.gif#center">}}
 
-# Summary
-
-## General helps
-* [How to make multiple filters](#multiple-filters)
-* [read_csv errors of encoding](#encoding)
-
-## Dataframe functions
-
-* [How to list available columns on a DataFrame](#column-names)
-* [How to iterate over a DataFrame](#iterate)
-* [How to save a DataFrame by chunks](#save-by-chunks)
-* [A groupby example](#group-by-example)
-* [How to prepare my DataFrame to apply get_dummies?](#apply-get-dummies)
-* [Sum values of all columns](#sum-values)
-* [Use apply for multiple columns](#apply-multiple-columns)
-
-## Series functions
-* [How to count the ocurrences of each unique values on a Series](#unique-ocurrences)
-* [How to fill values on missing months](#missing-months)
-* [How to filter column elements by multiple elements contained on a list](#filter-elements-by-list)
-* [How to change a Series type?](#change-series-type)
-* [How to apply a function to every item of my Serie?](#apply-function)
-
-
 
 # My Pandas Cheatsheet
 
 
-<h2 id='column-names'>How to list available columns on a DataFrame</h2>
+## How to list available columns on a DataFrame
 
 ```python
 df.columns.values
 ```
 
-<h2 id='multiple-filters'>How to make multiple filters</h2>
+## How to make multiple filters
 
 ```python
 df[(df.column > value1) & (df.column < value2)]
 ```
 
-<h2 id='iterate'>How to iterate over a Dataframe</h2>
+## How to iterate over a Dataframe
 
 ```python
 for item, row in df.iterrows():
   print row()
 ```
 
-<h2 id='unique-ocurrences'>How to count the ocurrences of each unique values on a Series</h2>
+## How to count the ocurrences of each unique values on a Series
 
 ```python
 df[column].value_counts()
@@ -113,7 +89,7 @@ df[column].value_counts().index.tolist()
 df[column].value_counts().values.tolist()
 ```
 
-<h2 id='save-by-chunks'>How to save a DataFrame by chunks</h2>
+## How to save a DataFrame by chunks
 
 ```python
 df = pd.DataFrame([[0, 1, 2], [3, 4, 5], [6, 7, 8], [9, 10, 11]])
@@ -128,7 +104,7 @@ df_final = pd.read_csv('./teste1.csv')
 df_final.head()
 ```
 
-<h2 id='group-by-example'>A groupby example</h2>
+## A groupby example
 
 ```python
 df_grouped = df.groupby(
@@ -136,7 +112,7 @@ df_grouped = df.groupby(
     )['third_column'].mean().reset_index(name='mean_values_grouped')
 ```
 
-<h2 id='missing-months'>How to fill values on missing months</h2>
+## How to fill values on missing months
 
 If you have a dataframe with 2 columns: year and month. But data is not available for all months, so you need to enter missing months on 
 your dataframe with empty values on them.
@@ -171,13 +147,13 @@ Now we can just merge both dataframes with an outer join:
 pd.merge(years_months, df1, how='outer')
 ```
 
-<h2 id='filter-elements-by-list'>How to filter column elements by multiple elements contained on a list</h2>
+## How to filter column elements by multiple elements contained on a list
 
 ```python
 df[df['A'].isin([3, 6])]
 ```
 
-<h2 id='change-series-type'>How to change a Series type?</h2>
+## How to change a Series type?
 
 ```python
 import pandas as pd
@@ -186,7 +162,7 @@ serie = pd.Series([1, 2, 3, 4])
 series.astype(float)
 ```
 
-<h2 id='apply-function'>How to apply a function to every item of my Serie?</h2>
+## How to apply a function to every item of my Serie?
 
 ```python
 import pandas as pd
@@ -195,7 +171,7 @@ serie = pd.Series(['a', 'b', 'b', 'a'])
 series.apply(lambda x: 0 if x=='a' else 1)
 ```
 
-<h2 id='aplly-get-dummies'>How to prepare my DataFrame to apply get_dummies?</h2>
+## How to prepare my DataFrame to apply get_dummies?
 
 ```python
 import pandas as pd
@@ -209,7 +185,7 @@ for cat in categorical:
 X_dummy = pd.get_dummies(X)
 ```
 
-<h2 id='encoding'>read_csv errors of encoding</h2>
+## read_csv errors of encoding
 
 Usually you can read a csv just by doing something like:
 
@@ -235,14 +211,13 @@ pd.read_csv('file.csv', encoding='latin-1')
 ```
 
 
-<h2 id='sum-values'>Sum values of all columns</h2>
+## Sum values of all columns
 
 ```python
 df.sum(axis=1)
 ```
 
-
-<h2 id='apply-multiple-columns'>Use apply for multiple columns</h2>
+## Use apply for multiple columns
 
 ```python
 def my_function(a, b):

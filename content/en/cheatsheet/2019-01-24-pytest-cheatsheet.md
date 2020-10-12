@@ -45,16 +45,7 @@ aliases:
   - /cheatsheet-pytest.html
 date: 2019-01-24T14:25:52-05:00
 ---
-
-# Summary
-
-* [Pytest minimum example](#pytest-basics)
-* [Parametrize example](#parametrize)
-* [Assert raises an error](#assert-raises)
-* [Basic example of fixtures](#fixtures)
-
-
-<h2 id='pytest-basics'>Pytest minimum example</h2>
+## Pytest minimum example
 
 ```python
 # test_basic.py
@@ -63,7 +54,7 @@ def test_something():
     assert True
 ```
 
-<h2 id='parametrize'>Parametrize example</h2>
+## Parametrize example
 
 Creating multiple tests with a single function
 
@@ -84,7 +75,7 @@ def test_is_even(input, expected):
     assert is_even(input) == expected
 ```
 
-<h2 id='assert-raises'>Assert raises an error</h2>
+## Assert raises an error
 
 ```python
 import pytest
@@ -99,7 +90,7 @@ def test_do_something():
         do_something(0)
 ```
 
-<h2 id='fixtures'>Basic example of fixtures</h2>
+## Basic example of fixtures
 
 ```python
 import pytest

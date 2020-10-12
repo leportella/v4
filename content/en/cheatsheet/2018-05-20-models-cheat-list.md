@@ -51,29 +51,14 @@ date: 2018-05-20T14:25:52-05:00
 ---
 
 
-# Summary
 
-* [Supervised Models](#supervised)
-    - [Logistic Regression](#logistic-regression)
-    - [Decision Tree](#decision-tree)
-    - [Ensemble Methods](#ensemble-methods)
-    - [K-nearest Neighbors](#knearesneighbors)
-    - [Gaussin Naive Bayes](#gaussiannb)
-    - [SVM](#svm)
-    - [Stocastic Gradient Descent](#stochastic-gradient-descente)
-* [Unupervised Models](#unsupervised)
-    - [Kmean](#kmeans)
-    - [Hierarchical Clustering](#hierarchical)
-    - [DBSCAN](#dbscan)
 
-# Machine Learning Models Cheat Sheet
-
-<h2 id='supervised'>Supervised Models</h2>
+## Supervised Models
 
 This is a small revision on advantages and disadvantages of each model, based on 
 suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 
-<h3 id='logistic-regression'>Logistic Regression</h3>
+### Logistic Regression
 
 #### Advantages
 
@@ -86,7 +71,7 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Must have lots of incomes for each class
 * Presence of multicollinearity
 
-<h3 id='decision-tree'>Decision Tree</h3>
+### Decision Tree
 
 #### Advantages
 
@@ -104,7 +89,7 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Don't support online learning --> you should rebuilt the tree when new data comes
 
 
-<h3 id='ensemble-methods'>Ensemble Methods</h3>
+### Ensemble Methods
 
 #### Advantages
 
@@ -118,7 +103,7 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Complexity increases
 * Boosting delivers poor probability estimates (https://arxiv.org/ftp/arxiv/papers/1207/1207.1403.pdf)
 
-<h3 id='knearesneighbors'>K-nearest Neighbors</h3>
+### K-nearest Neighbors
 
 #### Advantages
 
@@ -132,7 +117,7 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Neighbors-based methods are known as non-generalizing machine learning methods, since they simply “remember” all of its training data
 * The accuracy of KNN can be severely degraded with high-dimension data because there is little difference between the nearest and farthest neighbor.
 
-<h3 id='gaussiannb'>Gaussian Naive Bayes</h3>
+### Gaussian Naive Bayes
 
 #### Advantages
 
@@ -146,7 +131,7 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 
 * Can't learn interactions between features e.g., it can’t learn that although you love movies with Brad Pitt and Tom Cruise, you hate movies where they’re together).
 
-<h3 id='svm'>SVM</h3>
+### SVM
 
 #### Advantages
 
@@ -160,7 +145,7 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Hard to interpret
 * Complicated to run and tune
 
-<h3 id='stochastic-gradient-descente'>Stochastic Gradient Descent</h3>
+### Stochastic Gradient Descent
 
 #### Advantages
 
@@ -173,9 +158,9 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Sensitive to feature scaling
 
 
-<h2 id='unsupervised'>Unupervised Models</h2>
+## Unupervised Models
 
-<h3 id='kmeans'>KMeans</h3>
+### KMeans
 
 #### Advantages
 
@@ -210,7 +195,7 @@ for k in possible_k_values:
 Then find the best numbers of clusters by choosing a k that has a lower 
 score of errors but can still be good enough for your problem.
 
-<h3 id='hierarchical-clustering'>Hierarchical Clustering</h3>
+### Hierarchical Clustering
 
 #### Advantages
 
@@ -248,7 +233,7 @@ plt.show()
 
 ```
 
-<h3 id='dbscan'>DBSCAN</h3>
+### DBSCAN
 
 #### Advantages:
 
@@ -268,7 +253,7 @@ plt.show()
 * Large min samples results in most of points being classified as noise, except on desen regions when episilon is high
 * Do not use silhouetter coefficient to test this model! [Recomendado](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=83C3BD5E078B1444CB26E243975507E1?doi=10.1.1.707.9034&rep=rep1&type=pdf)
 
-<h3 id='gmm'>Gaussian Mixture Model</h3>
+### Gaussian Mixture Model
 
 #### Advantages
 
