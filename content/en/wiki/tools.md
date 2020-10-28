@@ -2,7 +2,7 @@
 layout: post
 title: "Favorite Tools"
 slug: tools
-date: 2020-10-28T14:25:52-05:00
+date: 2020-10-28T17:40:52+00:00
 ---
 
   
