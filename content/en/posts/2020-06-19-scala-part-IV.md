@@ -12,16 +12,16 @@ tags:
   - java virtual machine
   - spar
 featured-img: scala
-slug: scala-IV.html
+slug: scala-IV
 date: 2020-06-19T23:25:52-05:00
 ---
 
 *This post is also known as “My saga learning Scala - Part 4“*
 <!--more-->
 
-- [Part 1 - Why am I learning Scala and resources](https://leportella.com/english/2020/03/08/scala-part-I.html)
-- [Part 2 - Functions and Strings](https://leportella.com/english/2020/04/01/scala-part-II.html)
-- [Part 3 - Classes in Scala: method and attribute definition](https://leportella.com/scala-III.html)
+- [Part 1 - Why am I learning Scala and resources](https://leportella.com/scala-i/)
+- [Part 2 - Functions and Strings](https://leportella.com/scala-ii/)
+- [Part 3 - Classes in Scala: method and attribute definition](https://leportella.com/scala-iii/)
 
 
 **New suggestions!**
