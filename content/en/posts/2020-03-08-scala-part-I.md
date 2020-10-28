@@ -147,4 +147,4 @@ a.+(b)
 
 ----------
 
-This is it for now 🙂 See you in [Part 2]({{base}}/scala-II.html)!
+This is it for now 🙂 See you in [Part 2](https://leportella.com/scala-ii/)!
