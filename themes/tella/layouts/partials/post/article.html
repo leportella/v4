@@ -12,9 +12,10 @@
             {{ dateFormat "02 January 2006" .Date }}
           </time>
         {{ end }}
+
         {{ if .Translations }}
-          <span class="language-separator">●</span>
-          {{ range first 1 .Translations }}
+          {{ range  .Translations }}
+            <span class="language-separator">●</span>
             <a hreflang="{{ .Language.Lang }}" href="{{ .RelPermalink }}" class="translations">{{ .Param "flag" }} {{ .Param "readin" }} {{ .Language.LanguageName }}</a>
           {{ end }}
         {{ end }}

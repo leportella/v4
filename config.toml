@@ -38,9 +38,17 @@ startLevel = 2
         url = "/wiki"
         weight = 1
     [[languages.en.menu.left]]
-        name = "🇧🇷 Em Português"
+        name = "🇮🇪 En"
+        url = "/"
+        weight = 1
+    [[languages.en.menu.left]]
+        name = "🇧🇷 Pt"
         url = "/pt-br"
         weight = 2
+    [[languages.en.menu.left]]
+        name = "🇪🇸 Es"
+        url = "/es"
+        weight = 3
     [[languages.en.menu.right]]
         name = "About"
         url = "/about"
@@ -74,9 +82,17 @@ startLevel = 2
         url = "/wiki"
         weight = 1
     [[languages.pt-br.menu.left]]
-        name = "🇮🇪 In English"
+        name = "🇮🇪 En"
         url = "/"
+        weight = 1
+    [[languages.pt-br.menu.left]]
+        name = "🇧🇷 Pt"
+        url = "/pt-br"
         weight = 2
+    [[languages.pt-br.menu.left]]
+        name = "🇪🇸 Es"
+        url = "/es"
+        weight = 3
     [[languages.pt-br.menu.right]]
         name = "Sobre"
         url = "/pt-br/about"
@@ -93,5 +109,47 @@ startLevel = 2
     weight = 3
     contentDir = "content/es"
     languageName = "Español"
+    [languages.es.params]
+        about = "Sobre mi"
+        about_text = "Una desarrolladora feliz y apasionada de la ciencia de datos. Escribo sobre tecnología, carrera y vida."
+        table_of_contents = "Temas"
+        readin = "Leer en"
+        flag = "🇪🇸"
+        similar_posts = "Textos en categorías similares"
+        cheers = "Abrazo!"
+    [[languages.es.menu.left]]
+        name = "Home"
+        url = "/es"
+        weight = 1
+    [[languages.es.menu.left]]
+        name = "Wiki"
+        url = "/wiki"
+        weight = 1
+    [[languages.es.menu.left]]
+        name = "🇮🇪 En"
+        url = "/"
+        weight = 1
+    [[languages.es.menu.left]]
+        name = "🇧🇷 Pt"
+        url = "/pt-br"
+        weight = 2
+    [[languages.es.menu.left]]
+        name = "🇪🇸 Es"
+        url = "/es"
+        weight = 3
+    [[languages.es.menu.right]]
+        name = "About"
+        url = "/about"
+        weight = 2
+    [[languages.es.menu.right]]
+        name = "Categories"
+        url = "/categories"
+        weight = 3
+    [[languages.es.menu.right]]
+        name = "Contact"
+        url = "/contact"
+        weight = 4
+
+
 
 
