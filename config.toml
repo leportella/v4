@@ -89,5 +89,9 @@ startLevel = 2
         name = "Contato"
         url = "/pt-br/contact"
         weight = 4
+  [languages.es]
+    weight = 3
+    contentDir = "content/es"
+    languageName = "Español"
 
 
