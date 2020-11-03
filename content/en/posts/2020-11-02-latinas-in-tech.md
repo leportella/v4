@@ -8,7 +8,7 @@ tags:
   - python
   - community 
   - oceanograpger
-featured-img: 
+featured-img: panel
 slug: latinas-in-tech
 remove-inside-img: true
 date: 2020-11-02T18:25:52-05:00
