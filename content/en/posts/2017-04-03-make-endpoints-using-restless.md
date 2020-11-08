@@ -13,6 +13,7 @@ tags:
   - code
 featured-img: rest
 slug: restless
+translationKey: restless
 aliases:
   - /english/2017/04/03/make-endpoints-using-restless.html
 date: 2017-04-03T14:25:52-05:00
