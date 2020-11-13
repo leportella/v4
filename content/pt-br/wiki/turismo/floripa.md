@@ -59,6 +59,12 @@ Rua Des. Pedro Silva, 2360 (Coqueiros)
 Ambientado em um casarão dos anos 1940 de frente para o mar, o bar tem proposta de valorizar a cultura local, seja nos artistas escolhidos para o décor, seja no cardápio, inspirado nos clássicos manés – estão lá a Laranjinha Água da Serra, o Guaraná Pureza e as almôndegas, petiscos dos mais tradicionais por aqui. 
 
  R. Des. Pedro Silva, 2406 (Coqueiros)
+ 
+ ## Bar do Tonho
+ 
+ Cerveja artesanal deliciosa - minha preferida é a de trigo com limão. Coxinhas e feijoada de comer de joelho! Mas liga pra reservar a feijoada que ela acaba!
+ 
+ (Santo Antônio de Lisboa)
 
 ## Pontos Turísticos - Região Central
 
