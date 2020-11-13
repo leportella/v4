@@ -60,11 +60,15 @@ Ambientado em um casarão dos anos 1940 de frente para o mar, o bar tem proposta
 
  R. Des. Pedro Silva, 2406 (Coqueiros)
  
- ## Bar do Tonho
+ ### Bar do Tonho
  
  Cerveja artesanal deliciosa - minha preferida é a de trigo com limão. Coxinhas e feijoada de comer de joelho! Mas liga pra reservar a feijoada que ela acaba!
  
  (Santo Antônio de Lisboa)
+ 
+ ### Fairyland Cupcakes
+ 
+ As melhores coxinhas do mundo e os cupcakes mais delicados. Reserve uma mesa pra ver o magnífico pôr do sol de Santo Antônio de Lisboa
 
 ## Pontos Turísticos - Região Central
 
@@ -110,7 +114,9 @@ O Morro da Cruz é um dos melhores pontos para se contemplar uma vista panorâmi
 
 ### Principais Praias
 
-Jurerê Internacional, Jurerê Tradicional, Praia do Forte, Praia da Daniela, Lagoinha do Norte, Ponta das Canas, Ingleses, Costão do Santinho, Praia Brava
+Jurerê Internacional, Jurerê Tradicional, Praia do Forte, Praia da Daniela, Lagoinha do Norte, Ponta das Canas, Ingleses, Costão do Santinho, Praia Brava. 
+
+Praia da Daniela é minha preferida, calma e isolada mas a praia de jurerê é a mais famosa!
 
 ### Como chegar de ônibus?
 
