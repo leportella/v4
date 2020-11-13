@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Dicas pra Turistar em Florianópolis (última atualiza
-cão 2016)"
+title: "Dicas pra Turistar em Florianópolis"
 slug: floripa
 date: 2020-11-12T14:25:52+00:00
 ---
