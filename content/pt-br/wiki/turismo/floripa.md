@@ -32,43 +32,51 @@ Tua lagoa formosa ternura de rosa poema ao luar, cristal onde a lua vaidosa sest
 
 ## Para comer e beber (bem!)
 
-### Bar do Boni
+### Bar do Boni - Lagoa da Conceição
 
 Bar do Boni é uma atração típica! Localizado no fim da Avenida da Rendeiras, na Lagoa da Conceição, o bar conta com uma vista de tirar o fôlego, cerveja gelada e música boa. O pasterlzinho de camarão e berbigão também são boas pedidas.
 
 Av. Prefeito Acácio Garibaldi São Tiago, 67 (Lagoa da Conceição)
 
-### Hambúrguer Soul Gourmet (Hambúrguer do Posto)
+### Hambúrguer Soul Gourmet (Hambúrguer do Posto) ($$) - Santa Mônica
 
 Sim, é uma hamburgueria num posto de gasolina. Mas é considerado por muitos o melhor hambúrguer da cidade, com carne de verdade e hambpurguer feito na grelha, o lugar também conta com opção vegetariana para os adeptos de plantão. O preço também é atraente com o hambúrguer simples custando na faixa de 17 reais e o duplo por 23. É bem simples, mas vale a pena conhecer!
 
-### Books and beers
+### Books and beers ($$$) - Lagia da Conceição
 
 Para aqueles que gostam de boas cervejas, boa comida e boa vista. Bar temático para os amantes da leitura e da boa bebida, fica ás margens da lagoa da conceição, de frente para uma marina. Com certeza, imperdível.
 
 R. Sen. Ivo D Aquino, 103 (Lagoa da Conceição)
 
-### Zé Mané
+### Zé Mané - Coqueiros
 
 Localizado na Orla Gastronômica de Coqueiros, o bar tem ambiente agradável e vista bonita. A capirinha de limão siciliano deve ser conferida! Outras capirinhas diferentes agregam ao cardápio.
 
 Rua Des. Pedro Silva, 2360 (Coqueiros)
 
-### Coza Linda
+### Coza Linda - Coqueiros
 
 Ambientado em um casarão dos anos 1940 de frente para o mar, o bar tem proposta de valorizar a cultura local, seja nos artistas escolhidos para o décor, seja no cardápio, inspirado nos clássicos manés – estão lá a Laranjinha Água da Serra, o Guaraná Pureza e as almôndegas, petiscos dos mais tradicionais por aqui. 
 
  R. Des. Pedro Silva, 2406 (Coqueiros)
  
- ### Bar do Tonho
+ ### Bar do Tonho ($$) - Santo Antônio de Lisboa
  
  Cerveja artesanal deliciosa - minha preferida é a de trigo com limão. Coxinhas e feijoada de comer de joelho! Mas liga pra reservar a feijoada que ela acaba!
  
  (Santo Antônio de Lisboa)
  
- ### Fairyland Cupcakes
+ ### Fairyland Cupcakes ($$$) - Santo Antônio de Lisboa
  
  As melhores coxinhas do mundo e os cupcakes mais delicados. Reserve uma mesa pra ver o magnífico pôr do sol de Santo Antônio de Lisboa
+ 
+ ### François café ($$$) - Santo Antônio de Lisboa
+ 
+ Uma boulagerie françesa maravilhosa. O croque madame é excelente e eu recomendo fortemente você experimentar os patês (especialmente de alho). Se for no inverno, a sopa é pedida certa!
+ 
+ ### Pastelaria Ilha formosa ($) - Lagoa
+ 
+ Os pastéis mais recheados de camarão que você vai comer!
 
 ## Pontos Turísticos - Região Central
 
