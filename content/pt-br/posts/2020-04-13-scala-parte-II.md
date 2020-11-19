@@ -31,7 +31,7 @@ Todas as aulas começam com a criação dee um objeto e escrevemos coisas dentro
 object MeuObjeto extends App {
   // faça coisas...
 }
-``
+```
 
 O curso que estou fazendo não foi claro (até agora) por que deveríamos fazer coisas dentro desse objeto ou por que usar um objeto em vez de uma classe. [O tutorial oficial de Scala diz o seguinte](https://www.scala-lang.org/documentation/your-first-lines-of-scala.html):
 
