@@ -25,8 +25,7 @@ Outra coisa é que a maioria das comparações e coisas que acho interessantes s
 
 ## Criando um objeto em Scala
 
-Todas as aulas começam com a criação dee um objeto e escrevemos coisas dentro dele. Esse objeto sempre estende uma classe chamada `App`:
-
+Todas as aulas começam com a criação dee um objeto e escrevemos coisas dentro dele. Esse objeto sempre estende uma classe chamada `App`
 
 ```scala
 object MeuObjeto extends App {
@@ -121,7 +120,7 @@ Depois você tem `f` interpoladores para lidar com casas decimais em números:
 val altura = 1.7f // isso é um float
 println(f"Eu tenho $altura%.2f m de altura")
 // Eu tenho 1.70 m de altura
-``
+```
 
 Finalmente, você tem os interpoladores do tipo `raw` (brutos), em que caracteres especiais, como o `\n` que indica uma nova linha, não serão interpretados, mas sim interpretados como os caracteres normais `\` e `n` em sequência:
 
