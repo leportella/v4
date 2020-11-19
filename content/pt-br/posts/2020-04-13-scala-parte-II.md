@@ -46,7 +46,7 @@ object MeuObjeto {
     // faça coisas
   }
 }
-``
+```
 
 Mas, aparentemente, [também existem algumas vantagens](https://stackoverflow.com/a/11667791/3538098) de usar o `extends App` em vez do método `main`.
 
