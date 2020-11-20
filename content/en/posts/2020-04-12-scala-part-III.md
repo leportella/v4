@@ -13,6 +13,7 @@ tags:
   - spark
 featured-img: scala
 slug: scala-III
+translationKey: scala-III
 aliases: 
   - /english/2020/04/12/scala-part-III.html
 date: 2020-04-01T18:25:52-05:00
@@ -115,7 +116,7 @@ println(point.x) // 2
 So… you have:
 
 {{< table >}}
-| **Attribute definition** | **Assessor? (Point.x)** | **Mutator? (Point.x = 4)** | **Can override?** |
+| **Attribute definition** | **Assessor? (`point.x`)** | **Mutator? (`point.x = 4`)** | **Can override?** |
 | ------------------------ | ----------------------- | -------------------------- | ----------------- |
 | `val`                    | yes                     | no                         | yes               |
 | `var`                    | yes                     | yes                        | no                |
@@ -154,15 +155,15 @@ Since classes have keywords that allows us to change the way they are used, it i
 
 ```scala
 class Person {
-  val normalVal = 1
-  def normalMethod = s"case $normalVal"
+  val normalAttribute = 1
+  def normalMethod = s"case $normalAttribute"
 }
 
 class Leticia extends Person
 
 val leticia = new Leticia
-println(leticia.normalVal) // 1
-println(leticia.normalMethod) // case 1
+println(leticia.normalAttribute)    // 1
+println(leticia.normalMethod)       // case 1
 ```
 
 Case 2: `private def` and `private val`
@@ -170,8 +171,8 @@ Case 2: `private def` and `private val`
 
 ```scala
 class Person {
-  private val privateVal = 2
-  private def privateMethod = s"case $privateVal"
+  private val privateAttribute = 2
+  private def privateMethod = s"case $privateAttribute"
 }
 
 class Leticia extends Person
@@ -188,16 +189,16 @@ println(leticia.privateMethod) // error
 
 ```scala
  class Person {
-     protected val protectedVal = 3
-     protected def protectedMethod = s"case $privateVal"
+     protected val protectedAttribute = 3
+     protected def protectedMethod = s"case $protectedAttribute"
  }
  
  class Gabi extends Person
  val gabi = new Gabi
- println(gabi.protectedMethod) //error
+ println(gabi.protectedMethod) // error
  
  class Leticia extends Person {
-    override val protectedVal = super.protectedVal
+    override val protectedAttribute = super.protectedAttribute
     override def protectedMethod = super.protectedMethod
  }
  val leticia = new Leticia
@@ -210,17 +211,17 @@ println(leticia.privateMethod) // error
 
 ```scala
 class Person {
-  final val finalVal = 4
-  final def finalMethod = s"case $finalVal"
+  final val finalAttribute = 4
+  final def finalMethod = s"case $finalAttribute"
 }
 
 class Leticia extends Person {
-  override val finalVal = super.finalVal // error
+  override val finalVal = super.finalAttribute // error
 }
 
 class Marco extends Person
 val marco = new Marco
-println(marco.finalVal) //case 4
+println(marco.finalAttribute)                  //case 4
 ```
 
 
