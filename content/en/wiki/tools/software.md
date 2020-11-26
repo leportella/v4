@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Favorite Tools"
-slug: tools
+slug: software
 date: 2020-10-28T17:40:52+00:00
 ---
 
