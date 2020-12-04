@@ -22,6 +22,7 @@ slug: ternary-operators
 date: 2020-12-04T08:28:52-03:00
 ---
 
+One thing that I always say that is hard from learning computer science by yourself, is not knowing what you don't know. I learned the name of a couple of concepts that I am going to share, so people know they exist 😊
 
 When I started studying Python, if a new variable depended on another variable, I would write something like this:
 
