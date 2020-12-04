@@ -64,5 +64,7 @@ new_variable = 1 if a_boolean_variable else 2
 Hope you learned something new today!
 
 ---
+
 *Photo by Brett Jordan from Pexels*
+
 ---
