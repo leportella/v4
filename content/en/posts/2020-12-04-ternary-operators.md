@@ -22,7 +22,10 @@ slug: ternary-operators
 date: 2020-12-04T08:28:52-03:00
 ---
 
+
 When I started studying Python, if a new variable depended on another variable, I would write something like this:
+
+<!--more-->
 
 ```python
 a_boolean_variable = True
@@ -59,3 +62,7 @@ new_variable = 1 if a_boolean_variable else 2
 ```
 
 Hope you learned something new today!
+
+---
+*Photo by Brett Jordan from Pexels*
+---
