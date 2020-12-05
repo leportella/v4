@@ -24,6 +24,8 @@ date: 2020-12-05T08:28:52-03:00
 
 Uma coisa que eu sempre digo que é difícil ao aprender ciência da computação sozinha, é não saber o que você não sabe. Hoje eu aprendi o nome de alguns conceitos que vou compartilhar, para que as pessoas saibam que elas existem 😊
 
+<!--more-->
+
 Quando comecei a estudar Python, se uma nova variável dependesse de outra variável booleana, eu escreveria algo assim:
 
 ```python
