@@ -9,6 +9,7 @@ tags:
   - mulheres na tecnologia
 featured-img: mountain
 slug: conto-da-montanha
+translationKey: mountain
 aliases: 
   - /pt-br/2017/10/28/um-conto-da-montanha.html
 date: 2017-10-28T14:25:52-05:00
