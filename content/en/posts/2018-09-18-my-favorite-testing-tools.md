@@ -16,6 +16,7 @@ tags:
   - factory-boy
 featured-img: board-chalk-chalkboard-459793
 slug: testing-tools-django
+translationKey: testing-tools-django
 aliases: 
   - /english/2018/09/18/my-favorite-testing-tools.html
 date: 2018-09-18T12:28:52-05:00
