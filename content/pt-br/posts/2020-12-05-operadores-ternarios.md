@@ -19,6 +19,7 @@ tags:
   - nomeando coisas
 featured-img: tag
 slug: ternary-operators
+translationKey: ternary-operators
 date: 2020-12-05T08:28:52-03:00
 ---
 
