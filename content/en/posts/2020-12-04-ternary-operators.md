@@ -67,6 +67,6 @@ Hope you learned something new today!
 
 ---
 
-*Photo by Brett Jordan from Pexels*
+*Foto por Brett Jordan baixada do Pexels*
 
 ---
