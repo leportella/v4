@@ -19,6 +19,7 @@ tags:
   - naming things
 featured-img: tag
 slug: ternary-operators
+translationKey: ternary-operators
 date: 2020-12-04T08:28:52-03:00
 ---
 
