@@ -69,6 +69,6 @@ Espero que tenha aprendido algo novo hoje!
 
 ---
 
-Photo by Brett Jordan from Pexels
+*Foto por Brett Jordan obtida no Pexels*
 
 ---
