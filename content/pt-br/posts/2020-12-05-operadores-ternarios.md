@@ -18,7 +18,9 @@ tags:
   - operadores ternários
   - nomeando coisas
 featured-img: tag
-slug: ternary-operators
+slug: operadores-ternarios
+aliases: 
+  - ternary-operators
 translationKey: ternary-operators
 date: 2020-12-05T08:28:52-03:00
 ---
