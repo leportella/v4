@@ -67,7 +67,7 @@ Depois disso, o *prompt* do *shell* está disponível para nós. Podemos importa
 
 Agora imagine que você está trabalhando com um grande projeto com muitas classes de modelo para importar. Importar cada classe de modelo torna-se uma tarefa entediante e demorada. Vamos fazer isso de maneira mais inteligente!
 
-{{<figure src="[https://i.imgur.com/OygSiVi.png#center](https://i.imgur.com/OygSiVi.png#center)">}}
+{{<figure src="https://i.imgur.com/OygSiVi.png#center">}}
 
 Eu uso o `django_extensions` para me ajudar a lidar com isso. Quando você usa ele, todas as classes de modelo são importadas por padrão assim que o *shell* é iniciado. Tem muitas coisas legais também, mas, para mim, apenas as importações são suficientes para tornar crucial o uso dele no desenvolvimento do dia-a-dia.
 
@@ -93,7 +93,7 @@ pipenv run school/manage.py shell_plus
 
 Prontinho! Com uma linha apenas você consegue ver quantas instâncias você tem!
 
-{{<figure src="[https://i.imgur.com/uZ4lsSj.png#center](https://i.imgur.com/uZ4lsSj.png#center)">}}
+{{<figure src="https://i.imgur.com/uZ4lsSj.png#center">}}
 
 ## Configurando o Pytest
 
@@ -122,7 +122,7 @@ Vamos testar?
 
 O resultado é bem legal mas nenhum teste foi encontrado...
 
-{{<figure src="[https://i.imgur.com/uVwLcSG.png#center](https://i.imgur.com/uVwLcSG.png#center)">}}
+{{<figure src="https://i.imgur.com/uVwLcSG.png#center">}}
 
 Vamos verificar se está funcionando ... crie uma pasta `tests` no nosso app `student` e adicione um arquivo `tests.py`. Não se esqueça de adicionar um arquivo vazio `init.py` na mesma pasta, para que o Pytest seja capaz de encontrar a pasta. No arquivo `tests.py` criamos um teste simples que irá falhar com certeza, apenas para fazer as coisas andarem ...
 
@@ -135,11 +135,11 @@ def test_something():
 
 Rode de novo e.... voilá! Ele encontrou o teste e o alerta aparece na tela em vermelho.
 
-{{<figure src="[https://i.imgur.com/bQVyEFA.png#center](https://i.imgur.com/bQVyEFA.png#center)">}}
+{{<figure src="https://i.imgur.com/bQVyEFA.png#center">}}
 
 Se consertarmos o teste, tudo fica verdinho:
 
-{{<figure src="[https://i.imgur.com/ltr7cL1.png#center](https://i.imgur.com/ltr7cL1.png#center)">}}
+{{<figure src="https://i.imgur.com/ltr7cL1.png#center">}}
 
 ## Lazy records
 
@@ -165,15 +165,15 @@ class StudentResource(DjangoResource):
 
 Vamos testar nosso novo endpoint ... e temos um problema: não há nada em nosso banco de dados para testar a resposta:
 
-{{<figure src="[https://i.imgur.com/d6LEYcq.png#center](https://i.imgur.com/d6LEYcq.png#center)">}}
+{{<figure src="https://i.imgur.com/d6LEYcq.png#center">}}
 
 Podemos abrir nosso novo `shell_plus` e começar a adicionar coisas. Bem, `Student` depende de uma instância `Parent`, então primeiro adicionamos um novo `Parent`. Não podemos esquecer de salvá-lo, caso contrário não funcionará (acredite, eu fiz isso enquanto escrevia isso). Agora temos uma tonelada de informações que precisamos encontrar para criar um novo registro de banco de dados. E novamente ... não se esqueça de salvá-lo.
 
-{{<figure src="[https://i.imgur.com/d6LEYcq.png#center](https://i.imgur.com/d6LEYcq.png#center)">}}
+{{<figure src="https://i.imgur.com/d6LEYcq.png#center">}}
 
 Agora podemos manualmente testar nossa API:
 
-{{<figure src="[https://i.imgur.com/ODgKrIF.png#center](https://i.imgur.com/ODgKrIF.png#center)">}}
+{{<figure src="https://i.imgur.com/ODgKrIF.png#center">}}
 
 Tudo funciona mas o processo é bem manual.
 
@@ -199,7 +199,7 @@ class ParentFactory(factory.DjangoModelFactory):
 
 Agora vamos ver ... começamos sem nenhum registro de `Parent` em nosso banco de dados. Depois de instanciar nossa `ParentFactory`, temos um novo registro salvo em nosso banco de dados. Maravilha! E você pode ver agora que este novo `Parent` é chamado de `Karen Palmer`, ou seja, nossa fábrica criou uma nova instância no banco de dados com um nome normal (não apenas um monte de letras embaralhadas).
 
-{{<figure src="[https://i.imgur.com/OJdQkyh.png#center](https://i.imgur.com/OJdQkyh.png#center)">}}
+{{<figure src="https://i.imgur.com/OJdQkyh.png#center">}}
 
 Agora podemos fazer o mesmo com a classe `Student`. `Factory boy` tem muitas ferramentas que podem ajudá-lo nessa tarefa:
 `Fakers` para nome, sobrenome, endereço e texto, número inteiro, criam e-mails com base no nome e sobrenome da instância, e escolha aleatória para o gênero.
@@ -227,21 +227,21 @@ class StudentFactory(factory.DjangoModelFactory):
 
 Agora vamos testar essa configuração. Podemos criar uma nova instância de `Student` e, mesmo já tendo uma instância de `Parent` no banco de dados, o `Factory` cria uma nova instância de `Parent` para adicionar à nova instância de `Student` sendo criada. 
 
-{{<figure src="[https://i.imgur.com/kiMtm4t.png#center](https://i.imgur.com/kiMtm4t.png#center)">}}
+{{<figure src="https://i.imgur.com/kiMtm4t.png#center">}}
 
 Agora, se quisermos criar um outro `Student` que tem o mesmo `Parent` que este aluno anterior, só precisamos passar para a nova `StudentFactory` uma instância já criada
 de `Parent`. Dessa forma, ele não criará uma nova instância, mas adicionará a instância que você acabou de passar para ele.
 Agora mantivemos o mesmo número de `Parent`s que já tínhamos em nosso banco de dados, mas agora temos dois `Student`s com o mesmo `Parent`:
 
-{{<figure src="[https://i.imgur.com/VhvUavi.png#center](https://i.imgur.com/VhvUavi.png#center)">}}
+{{<figure src="https://i.imgur.com/VhvUavi.png#center">}}
 
 Isso, por si só, já faz a nossa vida ser muito mais fácil... mas tem mais! Você também pode criar múltiplas instâncias de uma vez só. Então você consegue encher o banco de dados com apenas uma linha!
 
-{{<figure src="[https://i.imgur.com/ky1zjCC.png#center](https://i.imgur.com/ky1zjCC.png#center)">}}
+{{<figure src="https://i.imgur.com/ky1zjCC.png#center">}}
 
 Mais simples, impossível!
 
-{{<figure src="[https://media.giphy.com/media/l0MYtTptyL8h88UHm/giphy.gif#center](https://media.giphy.com/media/l0MYtTptyL8h88UHm/giphy.gif#center)">}}
+{{<figure src="https://media.giphy.com/media/l0MYtTptyL8h88UHm/giphy.gif#center">}}
 
 ## Testes automatizados de API
 
@@ -249,7 +249,7 @@ Anteriormente, nós testamos nosso `endpoint` manualmente, mas essa não é a me
 ele está funcionando agora e estará no futuro, quando adicionarmos mais coisas ao nosso projeto. Para testar o endpoint, precisaremos
 usar um cliente do Django (ou algo semelhante) pra conseguir chamar o `endpoint` de dentro do ambiente de tests. Usar um cliente com `pytest` é suuuper difícil. Brincadeira 😅 Na verdade, só precisamos instalar o `pytest_django` e pronto.
 
-{{<figure src="[https://media.giphy.com/media/l0K4jrpWppNAAzucU/giphy.gif#center](https://media.giphy.com/media/l0K4jrpWppNAAzucU/giphy.gif#center)">}}
+{{<figure src="https://media.giphy.com/media/l0K4jrpWppNAAzucU/giphy.gif#center">}}
 
 Agora, apenas criamos um teste e passamos, magicamente,  um parâmetro `client` para a função. Pronto! Só isso! Pytest fará sua mágica e tudo funciona.
 Agora temos nosso cliente instalado e pronto para testes. Neste teste, criamos uma nova instância de `Student`, e depois usamos o método`client.get` para acessar o `endpoint`. O url
