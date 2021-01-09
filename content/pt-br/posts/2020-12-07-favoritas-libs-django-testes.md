@@ -169,8 +169,6 @@ Vamos testar nosso novo endpoint ... e temos um problema: não há nada em nosso
 
 Podemos abrir nosso novo `shell_plus` e começar a adicionar coisas. Bem, `Student` depende de uma instância `Parent`, então primeiro adicionamos um novo `Parent`. Não podemos esquecer de salvá-lo, caso contrário não funcionará (acredite, eu fiz isso enquanto escrevia isso). Agora temos uma tonelada de informações que precisamos encontrar para criar um novo registro de banco de dados. E novamente ... não se esqueça de salvá-lo.
 
-{{<figure src="https://i.imgur.com/d6LEYcq.png#center">}}
-
 Agora podemos manualmente testar nossa API:
 
 {{<figure src="https://i.imgur.com/ODgKrIF.png#center">}}
