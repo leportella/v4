@@ -6,8 +6,15 @@ draft: false
 ---
 
 {{< raw >}}
-<article class="card card-outline mb-4">
-  <div class="card-body">
+  <h3>Want to meet?</h3>
+
+  <p>You can schedule some time to talk to me in person</p>
+
+  <a href="https://booktime.xyz/profile/leticia-portella"><button type="submit" class="btn btn-dark">Book</button></a>
+
+  <h3>Write me!</h3>
+  
+  <header>
     <header>
       <h4 class="card-title">Send me a message!</h4>
       <p>I always like to receive messages, so feel free to write me!</p>
@@ -31,6 +38,5 @@ draft: false
       </div>
       <button type="submit" class="btn btn-dark">Send</button>
     </form>
-  </div>
-</article>
+
 {{< /raw >}}
