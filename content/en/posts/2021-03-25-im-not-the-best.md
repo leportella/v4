@@ -29,3 +29,9 @@ It was only after I revisited this talk (in my head) and this saying that I was 
 So when a friend asked me, when we were working together: "You were so competitive. How can you live surrounded by this people that are all better than us?", my answer was: "I am not the best. I just know where I am unique".
 
 It is not always that I come back to this phrase, but when I do, it make me happier with myself and less prone to think I am a fraud.
+
+--
+
+
+*Photo from Vlada Karpovich by Pexels*
+
