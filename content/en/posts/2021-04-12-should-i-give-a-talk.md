@@ -9,10 +9,13 @@ tags:
 featured-img: talk_conference
 translationKey: should-i-speak
 slug: should-i-speak
+remove-inside-img: true
 date: 2021-04-12T17:14:52-03:00
 ---
 
 A friend of mine told me this week that she was invited to give a talk at a conference, and asked me what I thought about it. I told her all the things I consider when giving a talk and I discovered I consider a lot of things! 
+
+<!--more-->
 
 Since [I usually write about things that take me more than 5 minutes to answer](https://leportella.com/why-have-a-blog.html/#what-to-writeh2)... here is a new blog post!
 
