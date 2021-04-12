@@ -59,7 +59,7 @@ By being a woman, I usually have the feeling that I will be the trophy-speakers.
 
 ## Do they have a code of conduct?
 
-As important as having diverse speakers, conferences should have diverse attendees. Those that have a code of conduct usually make me feel like I actually worry about diversity and that I will be in a safe space. 
+As important as having diverse speakers, conferences should have diverse attendees. Conferences that have a code of conduct usually make me feel like they actually worry about diversity and that I will be in a safe space. 
 
 ## Finally
 
