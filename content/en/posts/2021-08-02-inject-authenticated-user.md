@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Injecting authenticated user when creating a model with CreateView"
+title: "Injecting the authenticated user when creating a model with CreateView"
 categories:
   - Class Based Views
   - Django
