@@ -11,11 +11,11 @@ slug: nao-sou-a-melhor
 date: 2021-08-03T11:00:52-03:00
 ---
 
-Durante toda a minha carreira trabalhei em lugares onde as pessoas eram melhores do que eu. Tipo ... muito melhor, em uma coisa ou outra. Eles eram pessoas verdadeiramente excepcionais.
+Durante toda a minha carreira trabalhei em lugares onde eu estava cercada de pessoas melhores do que eu. Tipo ... muito melhores, em uma coisa ou outra. Eram pessoas verdadeiramente excepcionais.
 
 Sempre me achei boa o suficiente na maioria das coisas, mas não muito boa em nada em particular.
 
-Quando comecei a trabalhar, eu era uma pessoa muito competitiva. Para alguém tão competitiva como eu, estar cercada por ótimas pessoas era uma grande dificuldade. É incrível estar em uma posição em que você pode aprender com as melhores, mas é preciso aprender a lidar com isso. É preciso muita força interior para ver isso como uma oportunidade, em vez de apenas se sentir uma fraude.
+Quando comecei a trabalhar, eu era uma pessoa muito competitiva. Para alguém tão competitiva como eu, estar cercada por pessoas excepcionais era uma grande dificuldade. É incrível estar em uma posição em que você pode aprender com as melhores, mas é preciso aprender a lidar com isso. É preciso muita força interior para ver isso como uma oportunidade, em vez de apenas se sentir uma fraude.
 
 Um dia recebi uma ajuda para conseguir lidar com isso e ela veio de um lugar inesperado.
 
