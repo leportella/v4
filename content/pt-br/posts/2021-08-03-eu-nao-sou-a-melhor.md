@@ -8,7 +8,7 @@ tags:
 featured-img: chess
 translationKey: not-the-best
 slug: nao-sou-a-melhor
-date: 2021-08-03T15:14:52-03:00
+date: 2021-08-03T11:00:52-03:00
 ---
 
 Durante toda a minha carreira trabalhei em lugares onde as pessoas eram melhores do que eu. Tipo ... muito melhor, em uma coisa ou outra. Eles eram pessoas verdadeiramente excepcionais.
