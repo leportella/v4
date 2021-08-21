@@ -12,7 +12,7 @@ tags:
 featured-img: staircase
 translationKey: blog-step-by-step-I
 slug: blog-step-by-step-I
-date: 2021-08-20T17:25:52+01:00
+date: 2021-08-210T17:25:52+01:00
 ---
 
 
@@ -33,8 +33,8 @@ Here are some of the things that we are going to work on :
 
 The tutorial is going to be divided into a couple of parts:
 
-- **Part 1** - Minimum working example
-- **Part 2** - Adding a blog and deploy it!
+- **Part 1 - Minimum working example**
+- **Part 2** - Adding a blog section and deploy it!
 - **Part 3** - Adding comments 
 - **Part 3** - Multi-language support
 - **Part 4** - Adding a personalized domain 
@@ -53,7 +53,7 @@ This is part 1 and here's what you will need before starting:
 
 For this tutorial I will use [Hugo](https://gohugo.io/), an open-source static site generators written in Go. I used other static site generators before but Hugo is so easy to use and fast that it soon became one of my favorite tools!
 
-First I installed Hugo on my computer using brew:
+I installed Hugo on my computer using brew:
 
 ```bash
 brew install hugo
@@ -72,14 +72,14 @@ hugo new site my-blog
 This will create a new folder called `my-blog`, that contains all the basic infrastructure for your website. We will basically use 3 things here:
 
 - **content/** : this is the folder where the content of our website, like pages and blogposts, will live
-- **config.yml**: the configuration file of our project
+- **config.toml**: the configuration file of our project
 - **themes/** : the folder where we will add themes that will apply to our project
 
 ## Installing a new theme
 
 Our project is created but if we try to run it, it will just be an empty page. We need a style to make it fully functional. 
 
-You could create one from scratch but Hugo has a bunch of themes already prepared and ready to use! You can go to [https://themes.gohugo.io/](https://themes.gohugo.io/) and choose a theme you link. In this tutorial we will use the [minimalist blog template](https://themes.gohugo.io/themes/hugo-theme-codex/), that is cute and really easy to use 😉
+You could create one from scratch but Hugo has a bunch of themes already prepared and ready to use! You can go to [https://themes.gohugo.io/](https://themes.gohugo.io/) and choose a theme you link. In this tutorial we will use the [minimalist blog template](https://themes.gohugo.io/themes/hugo-theme-codex/) that is cute and really easy to use 😉
 
 First we need to make the current project a git environment:
 
@@ -95,11 +95,11 @@ git submodule add https://github.com/jakewies/hugo-theme-codex.git themes/hugo-t
 
 Submodules are and awesome Git feature. They allow you to keep a Git repository as a subdirectory of another Git repository. This means that this folder will be linked with the original repository and you can tale advantage of all updates of the theme you chose!
 
-After running this command you will notice that there is a folder called PaperMod that contains everything we need for our website.
+After running this command you will notice that there is a folder called PaperMod that contains everything we need.
 
 ## Using a new theme
 
-What we need to do now is tell Hugo that this is the theme that we will use. In the `config.tmolyml` already have a couple of attributes, so can theme there. Feel free to change the title if you'll like :) 
+What we need to do now is tell Hugo that this is the theme that we will use. In the `config.toml` already have a couple of attributes, so can theme there:
 
 ```bash
 baseURL = "http://example.org/"
@@ -129,15 +129,15 @@ We can start the server by running:
 hugo server -D
 ```
 
-You will see that it returns some message:
+You will see that it that the output has a lot of things but one of it is the address in which the website is running on:
 
 ```bash
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 ```
 
-So let's try to open the http://[localhost](http://localhost):1313:
+So let's open the [http://localhost:1313](http://localhost:1313) and try it out:
 
-{{<figure src="/assets/img/posts/step-by-step/01-01.jpg#center">}}
+{{<figure src="/assets/img/posts/step-by-step/01-01.png#center">}}
 
 
 One of the things that really impressed me is how fast Hugo can build up. Couple of seconds and you are ready to go. Before using Hugo, I was using Jekyll and the build of my +100 posts was taking minutes to buld everytime I saved a file! Once I switched to Hugo, I get the same build in a couple of seconds!
@@ -203,7 +203,7 @@ iconOrder = [
 
 Once your save this new config you will see that the website is now updated with the icon links:
 
-{{<figure src="/assets/img/posts/step-by-step/01-02.jpg#center">}}
+{{<figure src="/assets/img/posts/step-by-step/01-02.png#center">}}
 
 Yay! Congratulations! Now you have a basic landing-page website!
 
