@@ -33,19 +33,15 @@ Here are some of the things that we are going to work on :
 
 The tutorial is going to be divided into a couple of parts:
 
-**Part 1** - Minimum working example
+- **Part 1** - Minimum working example
+- **Part 2** - Adding a blog and deploy it!
+- **Part 3** - Adding comments 
+- **Part 3** - Multi-language support
+- **Part 4** - Adding a personalized domain 
+- **Part 5** - Adding stastics
+- **Part 6** - Adding a email inbound section
 
-**Part 2** - Adding a blog and deploy it!
-
-**Part 3** - Adding comments
-
-**Part 3** - Multi-language support
-
-**Part 4** - Adding a personalized domain 
-
-**Part 5** - Adding stastics
-
-**Part 6** - Adding a email inbound section
+For a full-working website, you'll only need part 1 and 2. All other are additional things that you can add or skip as you'll like. 
 
 This is part 1 and here's what you will need before starting:
 
@@ -54,6 +50,8 @@ This is part 1 and here's what you will need before starting:
 - A Github account
 
 ## Installing Hugo
+
+For this tutorial I will use [Hugo](https://gohugo.io/), an open-source static site generators written in Go. I used other static site generators before but Hugo is so easy to use and fast that it soon became one of my favorite tools!
 
 First I installed Hugo on my computer using brew:
 
@@ -142,7 +140,9 @@ So let's try to open the http://[localhost](http://localhost):1313:
 {{<figure src="/assets/img/posts/step-by-step/01-01.jpg#center">}}
 
 
-One of the things that really impressed me is how fast Hugo can build up. Couple of seconds and you are ready to go.  You can leave the server running in one window and then change the files in the other and it will automatically recompile to the latest version.  
+One of the things that really impressed me is how fast Hugo can build up. Couple of seconds and you are ready to go. Before using Hugo, I was using Jekyll and the build of my +100 posts was taking minutes to buld everytime I saved a file! Once I switched to Hugo, I get the same build in a couple of seconds!
+
+With Hugo, you can leave the server running in one window and then change the files in the other and it will automatically recompile to the latest version.  
 
 You can also see a number of stats that Hugo is considering while compiling:
 
