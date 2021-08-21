@@ -6,12 +6,6 @@ draft: false
 ---
 
 {{< raw >}}
-  <h3>Want to meet?</h3>
-
-  <p>You can schedule some time to talk to me in person</p>
-
-  <a href="https://booktime.xyz/profile/leticia-portella"><button type="submit" class="btn btn-dark">Book</button></a>
-
   <h3>Write me!</h3>
   
   <header>
