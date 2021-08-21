@@ -12,7 +12,7 @@ tags:
 featured-img: staircase
 translationKey: blog-step-by-step-I
 slug: blog-step-by-step-I
-date: 2021-08-210T17:25:52+01:00
+date: 2021-08-21T00:25:52+01:00
 ---
 
 
