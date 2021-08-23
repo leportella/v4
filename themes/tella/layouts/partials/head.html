@@ -3,6 +3,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Leticia Portella">
 
+<meta property="og:title" content="
+{{ if .IsHome }}
+    {{ default .Site.Title }}
+{{ else }}
+    {{ .Title }}
+{{ end }}
+">
+<meta property="og:image" content="
+{{ if .IsHome }}
+    {{ .Site.Params.baseURL }}/assets/img/posts/{{ .Param "inside-img" }}_thumb@2x.jpg
+{{ else }}
+    {{ .Site.Params.baseURL }}/assets/img/lights.jpg
+{{ end }}
+">
+<meta property="og:description" content="
+{{ if .IsHome }}
+    {{ default .Site.Params.description }}
+{{ else }}
+    {{ .Summary }}
+{{ end }}
+" />
+
 
 <!--SEO optimization-->
 <meta name="description" content="{{ with .Description }}
