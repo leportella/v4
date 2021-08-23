@@ -14,7 +14,7 @@
 {{ if .IsHome }}
     {{ .Site.BaseURL }}/assets/img/lights.jpg
 {{ else }}
-    {{ .Site.BaseURL }}/assets/img/posts/{{ Param "featured-img" }}_thumb.jpg
+    {{ .Site.BaseURL }}/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg
 {{ end }}
 ">
 <meta property="og:description" content="
