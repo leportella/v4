@@ -1,0 +1,135 @@
+---
+layout: post
+title: "The complete step-by-step guide to create and deploy your multi-language website - Part 2"
+categories:
+  - open-source
+  - blog
+  - tutorial
+tags:
+  - open-source
+  - blog
+  - tutorial
+featured-img: staircase
+translationKey: blog-step-by-step-II
+slug: blog-step-by-step-II
+date: 2021-08-28T00:25:52+01:00
+---
+
+This is the second post on how to create your website step by step! 
+
+<!-- more -->
+
+### **Table of content for the whole tutorial**
+
+- **Part 1** - [Minimum working example](https://leportella.com/blog-step-by-step-i/)
+- **Part 2 - Adding a blog section and deploy it!**
+- **Part 3** - Adding comments
+- **Part 3** - Multi-language support
+- **Part 4** - Adding a personalized domain
+- **Part 5** - Adding stastics
+- **Part 6** - Adding a email inbound section
+
+In this part, you will need:
+
+- An account on [Netlify](https://www.netlify.com/)
+
+## First blog post
+
+On the last post we created a single landing page but what about we add a blog section?
+
+We can create a `blog/` folder and a new blog post by using the following command:
+
+```bash
+hugo new blog/my-first-post.md
+```
+
+If you open this new file, you will see that there is some basic information:
+
+```bash
+---
+title: "My First Post"
+date: 2021-08-14T14:59:13+01:00
+draft: true
+---
+
+This is my first blog post!
+```
+
+This is the metadata of the blog post. Anything you add between both `---` will not be rendered. The blog post itself should live right after it.
+
+If we go back to the website, there is no way of finding this blog post! We still don't have a menu to access this, but if we go to `/blog` we can see that our brand new blog post is there!
+
+{{<figure src="/assets/img/posts/step-by-step/02-01.png#center">}}
+
+## Let's add a menu!
+
+We need to have a way to access the list of blog posts. We can do that by adding a menu area in the `config.toml` file, like the following: 
+
+```bash
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+```
+
+Now if we check our website, you can see that a menu appeared on the left site, with the name "blog" in it:
+
+{{<figure src="/assets/img/posts/step-by-step/02-02.png#center">}}
+
+
+## Understanding content/  structure
+
+Right now, we have 2 things in the the content folder: a file, `_index.md`, and a folder called `blog/`. Regardless of where it is, each file will represent one page of the website. In this case, this theme uses the `_index.md` as base for the main page, but we can create a new file for an About page, for instance, like this:
+
+```bash
+hugo new about.md
+```
+
+You can access this page on `/about`.
+
+However, let's say that instead of a single file you create a new folder called `portifolio`, and add a new project on it:
+
+```bash
+hugo new portifolio/my-first-project.md
+```
+
+If you then access the `/portifolio` endpoint, you will notice that this will list this new page, just as we had on the `/blog`. 
+
+So in Hugo, every directory will lead to an endpoint for *listing* files while each file is a webpage! Now that you know that and how to add pages on the menu, you can create the website you want!
+
+Commit you changes and make sure that they are on the Github remote repository!
+
+## Let's deploy it!
+
+Now you need to get to [your Netlify account](https://www.netlify.com/). Once you have it all configured go to *Sites* and then *New site from Git.*
+
+{{<figure src="/assets/img/posts/step-by-step/02-03.png#center">}}
+
+Select Github (if you are using it) and then select the repository you have your website code
+
+{{<figure src="/assets/img/posts/step-by-step/02-04.png#center">}}
+
+🚨*Attention: if you don't see your repository here, you might not have it authorized. Make sure you go [to this link](https://github.com/apps/netlify/installations/new) and configure Netlify to see the chosen repository.*
+
+On the last step you can leave all the configurations as the default values. Click *Deploy site* to finalize it. 
+
+## Giving it a proper name
+
+You can see that your website is now deployed with a random name and hash. You can use this link to access it!
+
+{{<figure src="/assets/img/posts/step-by-step/02-05.png#center">}}
+
+This is nice but not quite an ideal name, right? You can click on *Site Settings* then *Change site name* and finally add the name you would like. Your final website link will be this name `.netlify.app` . If you want, you can check out mine: [leportella-hugo-tutorial.netlify.app](http://leportella-hugo-tutorial.netlify.app) 🤩
+
+## Checking your deploys
+
+On Netlify's menu, you can click on the tab *Deploys*. You can see the list of past deploys and the status of them. Everytime you push a commit to the repository, it will appear here and trigger a deploy. You can also trigger a deploy manually if you wish to do so :) 
+
+{{<figure src="/assets/img/posts/step-by-step/02-06.png#center">}}
+
+## Next steps
+
+As you can see, it's quite easy to bring your website up and running. However, there is still a lot to be done to personalize it! All the following tutorial steps are optional and you can choose to do the ones you feel like it! 
+
+As usual, you can also see all the code (and check it commit by commit) [on my example repository](https://github.com/leportella/hugo-blog-example).
