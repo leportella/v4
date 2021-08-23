@@ -12,9 +12,9 @@
 ">
 <meta property="og:image" content="
 {{ if .IsHome }}
-    {{ .BaseURL }}/assets/img/posts/{{ .Param "inside-img" }}_thumb@2x.jpg
+    {{ .Site.BaseURL }}/assets/img/posts/{{ .Param "inside-img" }}_thumb@2x.jpg
 {{ else }}
-    {{ .Site.Params.baseURL }}/assets/img/lights.jpg
+    {{ .Site.BaseURL }}/assets/img/lights.jpg
 {{ end }}
 ">
 <meta property="og:description" content="
