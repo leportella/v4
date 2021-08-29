@@ -18,34 +18,34 @@
   {{ end }}
   </ul>
   {{ end }}
-  
+
   {{ if .RegularPages }}
   <div class="row">
-  
+
       {{ $n := 3 }}
       {{ $.Scratch.Set "i" -3 }}
       <div class="col-md-4">
-        {{ range $index, $page := (where .RegularPages "Type" "in" "posts") }}
+        {{ range $index, $page := (where .RegularPages "Type" "in" (slice "posts" "travel")) }}
         {{ if eq $index (add $n ($.Scratch.Get "i")) }}
         {{ $.Scratch.Add "i" $n }}
         {{ partial "list-article.html" . }}
         {{ end }}
         {{ end }}
       </div>
-    
+
       {{ $.Scratch.Set "i" -2 }}
       <div class="col-md-4">
-        {{ range $index, $page := (where .RegularPages "Type" "in" "posts") }}
+        {{ range $index, $page := (where .RegularPages "Type" "in" (slice "posts" "travel")) }}
         {{ if eq $index (add $n ($.Scratch.Get "i")) }}
         {{ $.Scratch.Add "i" $n }}
         {{ partial "list-article.html" . }}
         {{ end }}
         {{ end }}
       </div>
-    
+
       {{ $.Scratch.Set "i" -1 }}
       <div class="col-md-4">
-        {{ range $index, $page := (where .RegularPages "Type" "in" "posts") }}
+        {{ range $index, $page := (where .RegularPages "Type" "in" (slice "posts" "travel")) }}
         {{ if eq $index (add $n ($.Scratch.Get "i")) }}
         {{ $.Scratch.Add "i" $n }}
         {{ partial "list-article.html" . }}
