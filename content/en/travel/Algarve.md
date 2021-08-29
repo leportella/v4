@@ -84,7 +84,7 @@ Finally we arrived again in the Mesquita beach we were the day before. This time
 
 The total route was about 1.5 Km long. The problem was that when we realized the time we were very far away and had only 40 min to come back to the beach and take the kayak up the hill! So we had to sprint our way back. By then the sea was very agitated and because there were no rest we were absolutely exhausted!
 
-{{<figure src="/assets/img/posts/travel/Algarve15.jpg#center">}}
+{{<figure src="/assets/img/posts/travel/Algarve15.png#center">}}
 
 After this lovely (and tiring) trip, we went back to our hotel for a shower and some rest. Later on we drove to the city of Albufeira for dinner. We had dinner in a charming little place called Bistro, where I ate an entrance of melon with ham, a main course of fish with banana and drank sangria. Divine!
 
