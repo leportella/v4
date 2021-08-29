@@ -38,6 +38,10 @@ startLevel = 2
         url = "/wiki"
         weight = 1
     [[languages.en.menu.left]]
+        name = "Travel"
+        url = "/travel"
+        weight = 1
+    [[languages.en.menu.left]]
         name = "🇮🇪 En"
         url = "/"
         weight = 1
