@@ -13,7 +13,7 @@ We left Dublin early morning and headed to Northern Ireland. There is no border 
 
 We headed directly to [Castle Rock and CastleRock Beach](https://goo.gl/maps/Q7LQbGF8znG5nrgTA).
 
-The scenery through Northern Ireland until then was lovely, and we enjoyed all the tiny towns with the UK flag ð¬ð§ flying around everywhere. The beach is quite nice and the weather was great. However, Castle Rock was close for a wedding, so we couldn't visit the building.
+The scenery through Northern Ireland until then was lovely, and we enjoyed all the tiny towns with the UK flag 🇬🇧 flying around everywhere. The beach is quite nice and the weather was great. However, Castle Rock was close for a wedding, so we couldn't visit the building.
 
 We spent just a few minutes in the beach and headed to the [Dunluce Castle](https://goo.gl/maps/8prDfSciELTZfN1XA). At this point, the day was absolutely gorgeous and the ruins of that castle on the top of the cliffs became even more beautiful. 
 
