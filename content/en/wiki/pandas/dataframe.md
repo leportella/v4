@@ -2,6 +2,7 @@
 layout: post
 title: "Dataframes"
 slug: dataframes
+page-description: A cheatsheet of useful Pandas dataframe commands
 date: 2017-12-31T19:55:58+01:00
 last_mod: 2018-05-01T14:25:52-05:00
 ---

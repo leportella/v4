@@ -1,6 +1,7 @@
 ---
 title: "Series"
 slug: series
+page-description: A cheatsheet of useful Pandas Series commands
 date: 2017-11-30T19:55:58+01:00
 last_mod: 2020-09-30T19:55:58+01:00
 original: 2017-11-22T14:25:52-05:00

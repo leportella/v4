@@ -19,14 +19,14 @@ Although we think of a software as being this one massive thing that does a lot 
 
 ---
 
-{{<figure src="/assets/img/posts/tests1.jpg#center">}}
+{{<figure src="/assets/img/posts/tests1.jpg#center" alt="A diagram showing a rectangle with the name inputs an arrow to a next rectangle named function and an arrow to the last rectangle named output">}}
 
 *A function is something that receives inputs, work with them and returns an output*
 
 For example, when you type your username and password to try to login to a system, there a bunch of things that can happen but on the bottom of it all there is a function that receives the username and password and returns an answer: is this user logged in? The answer will be what we call a [Boolean value](https://en.wikipedia.org/wiki/Boolean_data_type): it will either return True or False.
 
 
-{{<figure src="/assets/img/posts/tests2.jpg#center">}}
+{{<figure src="/assets/img/posts/tests2.jpg#center"  alt="A diagram showing a rectangle with the name username and passowrd with an arrow to the next rectangle called login_user that can go to two directions: a rectangle saying Logged in! or a rectangle saying not authorized">}}
 
 *The function is presented as a cloud and boxes indicate inputs and possible outputs*
 
@@ -83,7 +83,7 @@ This may seem pretty simple to some of you at this point. Like, why test somethi
 
 As time goes by, the software we build doesn't look like the nice diagram above, but it probably look something like this:
 
-{{<figure src="https://1.bp.blogspot.com/-YKE0brIdI9I/U_5O-dpS5kI/AAAAAAAABAc/sfAPiS5jA1I/s1600/gato-energia.jpg#center">}}
+{{<figure src="https://1.bp.blogspot.com/-YKE0brIdI9I/U_5O-dpS5kI/AAAAAAAABAc/sfAPiS5jA1I/s1600/gato-energia.jpg#center" alt="A photo showing a telephone post with a lot of wired tangled together in a messy way">}}
 
 How can you guarantee that if you change one part, the others won't start failing? If the functions are tested well enough, making changes in the system is easier, because you can identify things that were broke before the changes ever get to the final customer.
 
@@ -146,7 +146,7 @@ sms = MyPartner.sms(phone="123456", message="Hello, user!")
 # sms will be either "sent" or "failed"
 ```
 
-{{<figure src="/assets/img/posts/tests4.jpg#center">}}
+{{<figure src="/assets/img/posts/tests4.jpg#center" alt="A diagram showing a sequence of events: access home page, then types credential, then system tries to log user in, then user is logged in, then finally user is redirected to internal system">}}
 
 *The system will send an sms, if it fails, it will send an email*
 
@@ -175,7 +175,7 @@ Can you see the possibilities? Now that you understand how mocking your system w
 Hope you enjoyed this post technical but not full of code 🙂. This is the first from what I am hoping to be a series of them. Hope you have enjoyed, please leave your feedback and suggestions for new topics.
 
 
-{{<figure src="https://media.giphy.com/media/YmyKXz0VZ9dugA1X7b/giphy.gif#center">}}
+{{<figure src="https://media.giphy.com/media/YmyKXz0VZ9dugA1X7b/giphy.gif#center" alt="A diagram that has a series of steps, the first is a phone number message, then it calls a function called send_sms that has two options: the first is to send the sms and the scond is that the sms failed and this triggers a last step which is sending an email">}}
 
 **References**
 

@@ -16,6 +16,7 @@ tags:
   - career
   - tech career
 featured-img: fast
+img-description: A photo of lights as if you were in a high speed tunnel
 slug: boosting-your-career
 aliases: 
   - /english/2020/02/26/boosting-your-career.html
@@ -28,7 +29,7 @@ This month is my [4 year anniversary of my first job as a developer]({{base}}/fr
 
 Some of these can be quite obvious to some people, but time and time again I talk to people and find some usage for some of the most "obvious” tips. It is also missing a lot of stuff. It was already too long as it, but I wanted to share it anyway! So here is my celebration post to my 4st anniversary as a software developer! 🙂 
 
-{{<figure src="https://media.giphy.com/media/cRH5deQTgTMR2/giphy.gif#center">}}
+{{<figure src="https://media.giphy.com/media/cRH5deQTgTMR2/giphy.gif#center" alt="A gif of a thumb pressing a turbo button">}}
 
 ## Learn at least one technology deep enough
 
@@ -83,7 +84,7 @@ The four situations are:
 
 Think about them. 
 
-{{<figure src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif#center">}}
+{{<figure src="https://media.giphy.com/media/8acGIeFnqLA7S/giphy.gif#center" alt="A gif of a muppet with the hand on the chin thinking">}}
 
 .
 
@@ -136,7 +137,7 @@ The true reality of life is that *nobody actually knows what their doing.* The t
 
 So don't wait to know everything to go after the job you want. If you know everything for the job you want, you probably are too good for it.
 
-{{<figure src="https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif#center">}}
+{{<figure src="https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif#center" alt="A gif of a person dressed as a sharking waving its arms with the title I have no idea what I'm doing">}}
 
 *This is me in most of the things I'm doing*
 

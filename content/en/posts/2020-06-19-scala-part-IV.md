@@ -14,7 +14,7 @@ tags:
 featured-img: scala
 slug: scala-IV
 translationKey: scala-IV
-img-description: A black and white image of a laptop and a notebook faded and on the middle of the image there is the Scala logo in red.
+img-description: A black and white image of a laptop and a notebook faded and on the middle of the image there is the Scala logo in red for the post 4
 date: 2020-06-19T23:25:52-05:00
 ---
 

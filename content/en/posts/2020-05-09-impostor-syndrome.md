@@ -9,6 +9,7 @@ tags:
 featured-img: alone
 has_tweet: true
 slug: impostor-syndrome.html
+img-description: a person sitting with their head down on a black background
 translationKey: impostor-syndrome
 date: 2020-05-09T18:25:52-05:00
 ---
@@ -26,15 +27,15 @@ It is pretty common at the end the week to stop and think: “what did I even do
 
 Basically I create a new document every week with the year and week number as identifiers. I use my google calendar configuration to show me the week I am currently in.
 
-{{<figure src="/assets/img/posts/calendar.jpg#center">}}
+{{<figure src="/assets/img/posts/calendar.jpg#center" alt="A composition of two screenshots. The upper is a screenshot of the options from Google calendar to show the week numbers and below a screenshot on how a week number is displayed on the calendar">}}
 
 I use the [Bear.app](https://bear.app/) application (available only for MacOs and iOS) that let me organize my documents using hashtags. So my the initial template of a week is like this:
 
-{{<figure src="/assets/img/posts/weekly1.png#center">}}
+{{<figure src="/assets/img/posts/weekly1.png#center" alt="A screenshot of a title called 2020 week 19 and below two hashtags one called personal/weeks and the second week/2020/week/19">}}
 
 Because the way I organize the weekly hashtag, Bear let me easily search for the notes of past weeks. Even though it is not super intuitive (which week was that again?), it is much better than the other ways I tried before.
 
-{{<figure src="/assets/img/posts/weekly2.png#center">}}
+{{<figure src="/assets/img/posts/weekly2.png#center" alt="A screenshot of how the app Bear displays hashtags as a logic tree using the backslashes to separate parents and children.">}}
 
 Then on each document I create a subsection for each specific day. The day section always have a todo list on the top. Usually, when I start my day each morning I remove the to-do tasks I didn't do the day before and add them to today's topic. As things that I need to do appear, I keep adding them always in the current day section. 
 
@@ -50,13 +51,13 @@ Then I also write about the things I've done in my day. These are the things I u
 
 So each day looks something like this:
 
-{{<figure src="/assets/img/posts/weekly3.png#center">}}
+{{<figure src="/assets/img/posts/weekly3.png#center" alt="An example on how notes are displayed on the Bear interface, with TODOs, items and links">}}
 
 When the week ends, I usually write an _Overall_ section before the daily sections. This is where I can add the summary of the week. This way I have a quick way of understanding the work I did  without going on the detailed, day-by-day description of it. This is useful when going back and trying to find in which week something happened or how you felt.
 
 This is a (real) example of one of my weeks:
 
-{{<figure src="/assets/img/posts/weekly4.png#center">}}
+{{<figure src="/assets/img/posts/weekly4.png#center" alt="A screenshot with a section named Overall where it is written: it was a hardf week. My build wouldn't pass, worked late and most things didn't work. So there is almost nothing describing this week here">}}
 
 As you can see from the example above, not all weeks are detailed and full of descriptions. Some weeks are just hard and frustrating. But that's ok! Having it written down what happened makes me feel a bit better. 
 
