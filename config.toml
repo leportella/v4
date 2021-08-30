@@ -4,11 +4,11 @@ defaultContentLanguage = "en"
 copyright = "Everything is mine"
 googleAnalytics = "UA-106178084-1"
 disqusShoortname = "leportella-com"
-title = "Leticia Portella"
+title = "Leticia Portella's thoughts and learnings"
 description = "I'm a happy dev, in love with data science that loves to write technical posts about what tech, career and life"
 
 [params]
-metaDescription = "My name is Leticia Porttela. I'm a happy dev, in love with data science that loves to write technical posts about what tech, career and life. Sometimes I also write about my travels and random thoughts."
+metaDescription = "I'm a happy dev, in love with data science that loves to write technical posts about what tech, career and life."
 
 
 [permalinks]
