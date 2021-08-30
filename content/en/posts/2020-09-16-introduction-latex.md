@@ -34,7 +34,7 @@ I have used LaTeX before (waaaaaaaaaaaay back) and it was painful. At the time t
 
 Since I started playing with it again these days I decided to create this introduction to LaTeX 🤓
 
-{{< figure src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif#center" width="250px">}}
+{{<figure src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif#center" width="250px" alt="A gif with Elmo the frog muppet typing on a typewriter">}}
 
 
 ## Installation
@@ -107,7 +107,7 @@ pdflatex mydox.tex
 
 And you already have something that looks so pretty...
 
-{{< figure src="/assets/img/posts/latex1.png#center" width="250px">}}
+{{<figure src="/assets/img/posts/latex1.png#center" width="250px" alt="A screenshot of a text being rendered by latex with the title My Latex Book, the author name, Leticia Portella and the date September 16, 2020">}}
 
 
 You will see that along with the PDF file, LaTeX created two additional files `*.aux` and `*.log`. These are auxiliary files and they can be deleted afterwards with no problem. 
@@ -206,7 +206,7 @@ Now I can go to another chapter and reference this chapter:
 As we will see in chapter \ref{chap:my-first-chapter}, ...
 ```
 
-{{< figure src="/assets/img/posts/latex2.png#center">}}
+{{<figure src="/assets/img/posts/latex2.png#center" alt="A latex rendered text where you can read As seen on chapter 1">}}
 
 The `\label` command can be used by any division and will be later used for tables and images as well!
 
@@ -259,7 +259,7 @@ Another cool package that I like is `hyperref`. It makes the table of contents, 
 
 Now any reference will be displayed as this:
 
-{{< figure src="/assets/img/posts/latex3.png#center">}}
+{{<figure src="/assets/img/posts/latex3.png#center" alt="A latex rendered text where you can read As seen on chapter 1 but the number 1 is a hyperlink to that chapter">}}
 
 If you need to display code within your document, check [the very brief post I made about minted](https://leportella.com/minted-vscode.html). 
 
@@ -314,12 +314,12 @@ It became kind of annoying to write the document in one place, run the commands 
 
 VSCode solved all my problems! You can see in the figure below that on the left side, I have a LaTeX extensions that has a quick-link to any division and label I add to the document. I can divide the main section between the tex files and the pdf . The cool thing is that VSCode already regenerates everything once you save a `*.tex` file but you still have the option to run the command on the bottom terminal:
 
-{{< figure src="/assets/img/posts/latex4.png#center" width="700px">}}
+{{<figure src="/assets/img/posts/latex4.png#center" width="700px" alt="A screenshot of the VSCode interface. The screen is divided in 4 parts: on the left there is a list of files, in the middle the latex code, on the right the rendered pdf and on the bottom a terminal.">}}
 
 
 And by adding the LaTeX extension, you can also have access to some pretty useful commands, like and automatic command for deleting auxiliary files:
 
-{{< figure src="/assets/img/posts/latex5.png#center">}}
+{{<figure src="/assets/img/posts/latex5.png#center" alt="A screenshot of the VSCode command options where you can see the option to delete auxiliary files">}}
 
 I am not a super fan of very big IDEs... but omg this made my life 1000 times easier!
 

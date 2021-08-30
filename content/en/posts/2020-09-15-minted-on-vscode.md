@@ -16,6 +16,7 @@ tags:
   - minted
   - vscode
 featured-img: engrenagem
+img-descritiong: A photo with lots of golden engine pieces
 slug: minted-vscode
 translationKey: minted
 last_mod: 2020-09-15T18:25:52-05:00
@@ -44,11 +45,11 @@ pip install Pygments
 
 The problem is that this broke my VSCode setup, because `minted` required me to add `--shell-escape` to the pdflatex, and the default way of running LaTeX of VSCode didn't include that. Because of that, my document that was all nice and compiling when I ran on the terminal, was resulting in this:
 
-{{<figure src="/assets/img/posts/minted2.png#center">}}
+{{<figure src="/assets/img/posts/minted2.png#center" alt="A screenshot of the VSCode interface showing several problems listed where the first is: Package minted you must invoke Latex with the shell-escape flag">}}
 
 And VSCode went crazy and showed a lot of errors when automatically compiling:
 
-{{<figure src="/assets/img/posts/minted1.png#center">}}
+{{<figure src="/assets/img/posts/minted1.png#center" alt="A screenshot of the VSCode interface showing an error with the message Package minted you must have pygmentize installed to use this package">}}
 
 ## Let's fix VSCode
 
@@ -92,15 +93,15 @@ So I went to `Code > Preferences > Settings > Extensions` and rolled until the e
 
 Also wanted VSCode to run within my virtualenv, so on extensions, I added the Python extension. 
 
-{{<figure src="/assets/img/posts/minted3.png#center">}}
+{{<figure src="/assets/img/posts/minted3.png#center" alt="A screenshot showing VSCode extension marketplace with a filter for Python extensions.">}}
 
 Once installed I used `Cmd+Shift+P` and  used `Select Interpreter` to select my current virtualenv.
 
-{{<figure src="/assets/img/posts/minted4.png#center">}}
+{{<figure src="/assets/img/posts/minted4.png#center" alt="A screenshot showing how to select the Python Interpreter in the VSCode interface">}}
 
 Now I got no errors and the VSCode is happy again:
 
-{{<figure src="/assets/img/posts/minted5.png#center">}}
+{{<figure src="/assets/img/posts/minted5.png#center" alt="A screenshot showing how VSCode displays the selected Python interpreter on the lower area of its interface">}}
 
 ## Using it!
 

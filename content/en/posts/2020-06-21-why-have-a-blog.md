@@ -16,6 +16,7 @@ tags:
 featured-img: paper
 translationKey: why-have-a-blog
 slug: why-have-a-blog.html
+img-description: A photo of a hand-written piece of paper
 date: 2020-06-21T18:25:52-05:00
 ---
 
@@ -23,7 +24,7 @@ If you ever told me you are learning to code (or anything, really), chances are 
 - [Philosophical reasons to have a blog](#philosophical-reasons)
 - [Selfish reasons to have a blog](#selfish-reasons)
 
-{{< figure src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="250px">}}
+{{<figure src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif#center" width="250px" alt="A gif with a drawing of a set of hands typing in a typewriter">}}
 
 I also wrote a section on [common excuses](#excuses) that people give me to not write a blog post and my answers to them!
 

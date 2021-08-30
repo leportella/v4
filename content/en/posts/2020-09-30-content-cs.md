@@ -10,11 +10,12 @@ tags:
   - studies
 featured-img: keyboard
 slug: cs-materials
+img-description: A keyboard picture slightly faded
 translationKey: material-ciencia-computacao
 date: 2020-09-30T11:15:52+01:00
 ---
 
-[I didn't study computer science](https://leportella.com/from-oceanographer-to-programmer.html) in college and I never took a "formal" programming course. Without going into too much detail, I want to reaffirm that, looking at the past, I by no means believe that having gone to another college (different from the profession I have today) was a waste of time. <! - more -> A university teaches many things that you cannot learn by yourself, behind a computer, sinking in a sea of content. However, when deciding to change areas you have to swim hard to overcome the holes that the lack of a theoretical computer science course can give you. Over time I have been collecting courses and texts that have helped me and still help me fill in the gaps. Today I will share what I found best in terms of courses and texts to learn what I consider to be the knowledge base in the technology area, without worrying about programming languages.
+[I didn't study computer science](https://leportella.com/from-oceanographer-to-programmer/) in college and I never took a "formal" programming course. Without going into too much detail, I want to reaffirm that, looking at the past, I by no means believe that having gone to another college (different from the profession I have today) was a waste of time. <! - more -> A university teaches many things that you cannot learn by yourself, behind a computer, sinking in a sea of content. However, when deciding to change areas you have to swim hard to overcome the holes that the lack of a theoretical computer science course can give you. Over time I have been collecting courses and texts that have helped me and still help me fill in the gaps. Today I will share what I found best in terms of courses and texts to learn what I consider to be the knowledge base in the technology area, without worrying about programming languages.
 
 I want to make it clear that I am not going to include courses on learning platforms (like Udemy and Coursera) or anything that gets paid. I'm also not going to focus on tutorials that teach about specific programming languages. I wanted to focus only on content that explains theoretical or more in-depth concepts and filled part of my gaps quickly, efficiently and free of charge 🙃.
 
