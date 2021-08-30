@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sklearn"
+page-description: A cheatsheet of useful sklearn commands
 slug: sklearn
 aliases: 
   - /cheatsheet-sklearn.html

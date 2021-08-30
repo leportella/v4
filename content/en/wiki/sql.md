@@ -2,6 +2,7 @@
 layout: post
 title: "SQL"
 slug: sql
+page-description: A cheatsheet of useful SQL commands
 aliases:
   - /cheatsheet-sql.html
 date: 2020-04-25T14:25:52-05:00

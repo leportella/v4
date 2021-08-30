@@ -2,6 +2,7 @@
 layout: post
 title: "Pytest"
 slug: pytest
+page-description: A cheatsheet of useful pytest commands
 aliases: 
   - /cheatlist/2019/01/24/pytest-cheatsheet.html
   - /cheatsheet-pytest.html

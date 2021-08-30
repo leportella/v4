@@ -2,6 +2,7 @@
 layout: post
 title: "Data Visualization"
 slug: data-visualization
+page-description: How to create plots based on your pandas dataframe
 date: 2019-02-19T14:25:52-05:00
 ---
 

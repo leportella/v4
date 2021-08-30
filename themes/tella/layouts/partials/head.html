@@ -26,9 +26,13 @@
 ">
 <meta property="og:description" content="
 {{ if .IsHome }}
-    {{ .Site.Params.Description }}
+    {{.Site.Params.Description}}
+{{ else if .Param "page-description" }}
+    {{ .Param "page-description" }}
+{{ else if .Summary }}
+    {{.Summary}}
 {{ else }}
-    {{ .Summary }}
+    {{.Title}}
 {{ end }}
 " />
 <meta property="og:url" content="{{ .Permalink }}" />

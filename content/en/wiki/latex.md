@@ -1,6 +1,7 @@
 ---
 title: "Latex"
 date: 2020-10-01T16:59:37+01:00
+page-description: A basic template for a latex file
 last_mod: 2020-10-01T16:59:37+01:00
 draft: false
 ---

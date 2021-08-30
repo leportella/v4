@@ -2,6 +2,7 @@
 layout: post
 title: "Git"
 slug: git
+page-description: A cheatsheet of useful git commands
 aliases: 
   - /cheatsheet-git.html
   - /cheatlist/2018/01/05/git-cheat-list.html
