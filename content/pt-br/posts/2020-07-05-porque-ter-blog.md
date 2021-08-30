@@ -26,7 +26,7 @@ date: 2020-07-05T18:25:52-05:00
 
 
 
-Se você me disse que está aprendendo a programar (ou qualquer coisa, na verdade), é provável que eu tenha lhe aconselhado a ter seu blog e escrever nele. <!--more--> Embora eu tenha discutido esse assunto pessoalmente com muitas pessoas, há apenas pequenos textos sobre ele em posts que escrevi sobre outros assuntos diversos ([[1]](https://leportella.com/my-experience-with-blogs.html), [[2]](https://leportella.com/boosting-your-career.html)). A postagem de hoje é dedicada aos motivos pelos quais *você deveria ter seu próprio blog (independente)*. Como as pessoas têm maneiras diferentes de ver o mundo, eu dividi as razões em duas seções:
+Se você me disse que está aprendendo a programar (ou qualquer coisa, na verdade), é provável que eu tenha lhe aconselhado a ter seu blog e escrever nele. <!--more--> Embora eu tenha discutido esse assunto pessoalmente com muitas pessoas, há apenas pequenos textos sobre ele em posts que escrevi sobre outros assuntos diversos ([[1]](https://leportella.com/pt-br/minha-experiencia-com-blogs/), [[2]](https://leportella.com/pt-br/impulsionando-sua-carreira/)). A postagem de hoje é dedicada aos motivos pelos quais *você deveria ter seu próprio blog (independente)*. Como as pessoas têm maneiras diferentes de ver o mundo, eu dividi as razões em duas seções:
 
 
 - Razões filosóficas para se ter um blog
@@ -101,17 +101,17 @@ Se você chegou até aqui, suponho que fui capaz de convencê-la a começar a es
 
 
 - **Você pode compartilhar uma parte de sua vida que foi importante para você e que pode ser usada como inspiração por outras pessoas!**
-    - Exemplo: [escrevi sobre como mudei de carreira de oceanógrafa para desenvolvedora](https://leportella.com/de-oceanografa-para-programadora.html) e quão difícil foi essa decisão.
+    - Exemplo: [escrevi sobre como mudei de carreira de oceanógrafa para desenvolvedora](https://leportella.com/pt-br/de-oceanografa-para-programadora/) e quão difícil foi essa decisão.
 - **Quando você vê algo online (como um tópico do Twitter) que fala sobre algo que merece ser mais do que um tópico transitório na linha do tempo de alguém**
-    - Exemplo: um cara pediu no Twitter argumentos que ele poderia usar para convencer sua empresa a se envolver em uma comunidade de tecnologia. [As respostas foram tão incríveis que eu pensei que daria uma excelente postagem no blog](https://leportella.com/comunidades-tecnologia.html)!
+    - Exemplo: um cara pediu no Twitter argumentos que ele poderia usar para convencer sua empresa a se envolver em uma comunidade de tecnologia. [As respostas foram tão incríveis que eu pensei que daria uma excelente postagem no blog](https://leportella.com/pt-br/comunidades-tecnologia/)!
 - **Quando você quer estudar algo e quer estruturar seus pensamentos**
-    - Exemplo: [escrevi um post sobre a linguagem de programação Julia para saber o mínimo](https://leportella.com/julia.html) da linguagem para entrevistar dois convidados [do meu podcast](https://pizzadedados.com/). Sem a postagem do blog, teria concluído meus estudos após apenas algumas linhas de código, mas quando decidi escrever sobre, percebi o quanto estava perdendo e comecei tudo de novo!
+    - Exemplo: [escrevi um post sobre a linguagem de programação Julia para saber o mínimo](https://leportella.com/pt-br/julia/) da linguagem para entrevistar dois convidados [do meu podcast](https://pizzadedados.com/). Sem a postagem do blog, teria concluído meus estudos após apenas algumas linhas de código, mas quando decidi escrever sobre, percebi o quanto estava perdendo e comecei tudo de novo!
 - **Quando você teve uma experiência interessante**
-    - Exemplo: [meus primeiros 6 meses na Stripe foram uma experiência surreal que eu amei! Era algo tão diferente do que eu vivi na adaptação à uma nova empresa que achei uma coisa incrível compartilhar com meus amigos](https://leportella.com/nova-eng-stripe.html).
+    - Exemplo: [meus primeiros 6 meses na Stripe foram uma experiência surreal que eu amei! Era algo tão diferente do que eu vivi na adaptação à uma nova empresa que achei uma coisa incrível compartilhar com meus amigos](https://leportella.com/pt-br/nova-eng-stripe/).
 - **Quando você levou mais de uma hora para encontrar uma resposta para um problema**
-    - Exemplo: eu precisava adicionar um modelo de relacionamento em uma tabela que já existia usando o SQLAlchemy. Esse problema levou três dias e pedi ajuda de várias pessoas[. A resposta final foi extremamente simples, mas eu decidi escrever de qualquer maneira](https://leportella.com/relationship-sqlalchemy.html). Há alguns meses, alguém comentou que eu salvei o dia da pessoa por causa da minha postagem no blog e isso fez o meu dia.
+    - Exemplo: eu precisava adicionar um modelo de relacionamento em uma tabela que já existia usando o SQLAlchemy. Esse problema levou três dias e pedi ajuda de várias pessoas[. A resposta final foi extremamente simples, mas eu decidi escrever de qualquer maneira](https://leportella.com/pt-br/sqlalchemy-relacionamento/). Há alguns meses, alguém comentou que eu salvei o dia da pessoa por causa da minha postagem no blog e isso fez o meu dia.
 - **Quando você levou mais de 5 minutos para responder a uma pergunta que alguém lhe fez**
-    - Exemplo: Uma vez, uma pessoa veio ao meu Telegram e me perguntou: "eu deveria ter meu blog no Medium ou em outro lugar?". [Minha resposta foi longa e detalhada e me levou vários minutos, então decidi escrever sobre isso em um post no blog](https://leportella.com/minha-experiencia-com-blogs.html).
+    - Exemplo: Uma vez, uma pessoa veio ao meu Telegram e me perguntou: "eu deveria ter meu blog no Medium ou em outro lugar?". [Minha resposta foi longa e detalhada e me levou vários minutos, então decidi escrever sobre isso em um post no blog](https://leportella.com/pt-br/minha-experiencia-com-blogs/).
 
 
 
