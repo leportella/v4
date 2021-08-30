@@ -17,7 +17,7 @@ aliases:
 date: 2018-03-20T14:25:52-05:00
 ---
 
-Starting to contribute to an open-source project is always recomended to someone who is studing to be a programmer. <!--more-->
+Starting to contribute to an open-source project is always recommended to someone who is studying to be a programmer. <!--more-->
 Many say that it is an excelent way to show your potential as a developer and 
 some companies ask about these contribution as a way of evaluation. 
 Besides that, when you contribute to an open-source, you are helping and adding value a community that is 

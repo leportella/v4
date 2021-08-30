@@ -12,6 +12,7 @@ tags:
   - Class Based Views
   - CBV
 featured-img: pencils
+img-description: A set of painting brushes 
 translationKey: inject-auth-user-cbv
 slug: inject-auth-user-cbv
 date: 2021-08-02T14:25:52+01:00

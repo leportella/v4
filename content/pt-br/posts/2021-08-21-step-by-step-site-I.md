@@ -10,6 +10,7 @@ tags:
   - blog
   - tutorial
 featured-img: staircase
+img-description: Uma imagem preto e branco de uma escada sob um fundo branco
 translationKey: blog-step-by-step-I
 slug: blog-passo-a-passo-I
 date: 2021-08-21T00:25:52+01:00

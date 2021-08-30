@@ -10,6 +10,7 @@ tags:
   - blog
   - tutorial
 featured-img: staircase
+img-description: Uma imagem preto e branco de uma escada sob um fundo branco
 translationKey: blog-step-by-step-II
 slug: blog-passo-a-passo-II
 date: 2021-08-28T00:25:52+01:00
@@ -60,7 +61,7 @@ Estas informações são metadados do texto. Qualquer coisa adicionada entre os 
 
 Se salvarmos esse arquivo, não conseguimos ver nada de diferente! Como fazer? Ainda não temos um menu, mas se acessarmos `/blog` nós podemos ver uma listagem e esse nosso texto já está disponível lá!
 
-{{<figure src="/assets/img/posts/step-by-step/02-01.png#center">}}
+{{<figure src="/assets/img/posts/step-by-step/02-01.png#center" alt="Uma captura de tela de uma tela em branco com a data, Agosto 14 2021 e um grande titulo escrito My First Post">}}
 
 ## Vamos adicionar um menu!
 
@@ -76,7 +77,7 @@ Agora que sabemos qual o link pros nossos textos, precisamos criar um menu para 
 
 Agora se nós checarmos o nosso site de novo, podemos ver que apareceu um menu na parte esquerda do site:
 
-{{<figure src="/assets/img/posts/step-by-step/02-02.png#center">}}
+{{<figure src="/assets/img/posts/step-by-step/02-02.png#center" alt="Uma captura de tela de uma tela em branco om a data, Agosto 14 2021 e um grande titulo escrito My First Post. Na lateral esquerda tem a palavra blog que é um link de menu que redireciona para a listagem de textos.">}}
 
 
 ## Entendendo como a pasta content/ funciona
@@ -105,11 +106,11 @@ Adicione as mudanças num commit e garanta que elas vão para o repositório rem
 
 É hora de acessar sua conta do [Netlify](https://www.netlify.com/) . Uma vez que você tenha ela configurada, você pode ir em  *Sites* e daí clicar em *New site from Git.*
 
-{{<figure src="/assets/img/posts/step-by-step/02-03.png#center">}}
+{{<figure src="/assets/img/posts/step-by-step/02-03.png#center" alt="Uma captura de tela do sistema da Netlify. Tem várias abas na parte superior e no canto direito um botão verde escrito New site from Git">}}
 
 Selecione Github (se você estiver usando) e selecione o repositório que contém o código do seu site. 
 
-{{<figure src="/assets/img/posts/step-by-step/02-04.png#center">}}
+{{<figure src="/assets/img/posts/step-by-step/02-04.png#center" alt="Uma captura de tela do sistem da Netlify one você pode associar um repositório do Git com esse sistema.">}}
 
 🚨*Atenção: se você não vê o repositório que deseja aqui, pode ser que você não tenha autorizado o Netlify a acessar ele. [Vá neste link](https://github.com/apps/netlify/installations/new) e configure corretamente.* 
 
@@ -119,7 +120,7 @@ Na última etapa podemos deixar todas as configurações com os valores originai
 
 Como você pode ver, o seu site foi publicado mas com um nome aleatório. Você pode acessá-lo agora para verificar se deu tudo certo!
 
-{{<figure src="/assets/img/posts/step-by-step/02-05.png#center">}}
+{{<figure src="/assets/img/posts/step-by-step/02-05.png#center" alt="Uma captura de tela do sistema da Netlify mostrando um nome aleatório que foi dado para o seu site assim que ele foi publicado. Na parte inferior é possível ver dois botões: Site settings e Domain settings">}}
 
 Legal, não? Mas esse nome não é muito bonito. Você pode clicar em *Site Settings* e depois *Change site name* e finalmente escolher um nome mais apropriado. O nome que você escolher vai ter o domínio  `.netlify.app` junto. Se você quiser, pode checar o meu: [leportella-hugo-tutorial.netlify.app](http://leportella-hugo-tutorial.netlify.app) 🤩
 
@@ -127,7 +128,7 @@ Legal, não? Mas esse nome não é muito bonito. Você pode clicar em *Site Sett
 
 No menu superior, você pode clicar na aba *Deploys*. Nessa seção você pode ver a listagem de publicações e o status delas. Toda vez que você mandar um commit pro repositório remoto, ele vai aparecer aqui e gerar um deploy novo. Você também pode iniciar uma publicação manualmente se você quiser!
 
-{{<figure src="/assets/img/posts/step-by-step/02-06.png#center">}}
+{{<figure src="/assets/img/posts/step-by-step/02-06.png#center" alt="Uma captura de tela do sistema da Netlify mostrando o status dos últimos deploys onde tem apenas um deploy. Nele tem um cartão verde mostrando que o site foi publicado com sucesso e ao lado direito a data da publicação. ">}}
 
 ## Próximos passos
 

@@ -8,6 +8,7 @@ tags:
   - philosophy
 featured-img: chess
 translationKey: not-the-best
+img-description: A chess board with the white pieces close and faded and the black pieces in focus.
 slug: not-the-best
 date: 2021-03-25T17:14:52-03:00
 ---

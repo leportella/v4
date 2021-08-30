@@ -13,6 +13,7 @@ tags:
   - spark
 featured-img: scala
 slug: scala-II
+img-description: A black and white image of a laptop and a notebook faded and on the middle of the image there is the Scala logo in red.
 aliases: 
   - /english/2020/04/01/scala-part-II.html
 date: 2020-04-01T18:25:52-05:00

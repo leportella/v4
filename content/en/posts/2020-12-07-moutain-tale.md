@@ -9,6 +9,7 @@ tags:
 featured-img: mountain
 translationKey: mountain
 slug: mountain-tale
+img-description: A guy is setting on the top of a mountain and watching a beautiful sunset. The light is so bright you almost can't see the landscape.
 date: 2020-12-07T09:25:52-03:00
 ---
 

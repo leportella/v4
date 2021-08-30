@@ -8,11 +8,12 @@ tags:
   - career
 featured-img: devjourney
 translationKey: devjourney
+img-description: On the left side there is a boat drawing in shades of blue and the sky background is filled with whites zeros and ones. On the right side there is the name of the podcast called Dev Journey
 slug: devjourney
 date: 2021-06-07T15:25:52+01:00
 ---
 
-I talked to Tim Bourguignon at the Dev Journey podcast about carreer life and mentoring.
+I talked to Tim Bourguignon at the Dev Journey podcast about career life and mentoring.
 
 <!--more-->
 

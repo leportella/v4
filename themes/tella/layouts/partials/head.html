@@ -1,14 +1,18 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Leticia Portella">
 
+<!-- Twitter -->
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@leleportella" />
 <meta name="twitter:creator" content="@leleportella" />
+
+<!-- OG -->
 <meta property="og:title" content="
 {{ if .IsHome }}
-    {{ default .Site.Title }}
+    {{ default .Site.Title }} - {{ .Site.Params.Description }}
 {{ else }}
     {{ .Title }}
 {{ end }}
@@ -22,21 +26,30 @@
 ">
 <meta property="og:description" content="
 {{ if .IsHome }}
-    {{ default .Site.Params.description }}
+    {{ .Site.Params.Description }}
 {{ else }}
     {{ .Summary }}
 {{ end }}
 " />
+<meta property="og:url" content="{{ .Permalink }}" />
 
 
 <!--SEO optimization-->
-<meta name="description" content="{{ with .Description }}
-  {{ . }}
-  {{ else }}
-  {{if .IsPage}}{{ .Summary }}
-  {{ else }}{{ with .Site.Params.description }}
-  {{ . }}
-  {{ end }}{{ end }}{{ end }}">
+
+<link rel="apple-touch-icon" href="/assets/favico/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/assets/favico/android-chrome-512x512.png" sizes="512x512">
+<link rel="icon" type="image/png" href="/assets/favico/android-chrome-192x5192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/favico/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="/assets/favico/favicon-16x16.png" sizes="16x16"/>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<meta name="description" content="
+{{ if .IsHome }}
+    {{ .Site.Params.Description }}
+{{ else }}
+    {{ .Summary }}
+{{ end }}
+">
 
 {{ if and (eq .Kind "taxonomy") (eq .Type "categories")}}
 <meta name="robots" content="noindex, follow"/>
@@ -44,8 +57,12 @@
 <meta name="robots" content="index, follow"/>
 {{ end }}
 
-<title>{{ default .Site.Title }}
-{{ if not .IsHome }} - {{ .Title }}{{ end }}
+<title>
+{{ if .IsHome }}
+    {{ .Site.Title }}
+{{ else }}
+    {{ .Title }}
+{{ end }}
 </title>
 
 {{ if or (eq .Kind "home") (eq .Kind "page")}}

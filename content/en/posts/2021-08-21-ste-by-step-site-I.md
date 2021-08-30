@@ -10,6 +10,7 @@ tags:
   - blog
   - tutorial
 featured-img: staircase
+img-description: A black and white picture of a staircase over a white wall
 translationKey: blog-step-by-step-I
 slug: blog-step-by-step-I
 date: 2021-08-21T00:25:52+01:00
