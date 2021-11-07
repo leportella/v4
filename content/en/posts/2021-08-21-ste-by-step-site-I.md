@@ -37,10 +37,10 @@ The tutorial is going to be divided into a couple of parts:
 - **Part 1 - Minimum working example**
 - **Part 2** - [Adding a blog section and deploy it!](https://leportella.com/pt-br/blog-passo-a-passo-ii/)
 - **Part 3** - Adding comments 
-- **Part 3** - Multi-language support
-- **Part 4** - Adding a personalized domain 
-- **Part 5** - Adding stastics
-- **Part 6** - Adding a email inbound section
+- **Part 4** - Multi-language support
+- **Part 5** - Adding a personalized domain 
+- **Part 6** - Adding stastics
+- **Part 7** - Adding a email inbound section
 
 For a full-working website, you'll only need part 1 and 2. All other are additional things that you can add or skip as you'll like. 
 

@@ -24,11 +24,11 @@ This is the second post on how to create your website step by step!
 
 - **Part 1** - [Minimum working example](https://leportella.com/blog-step-by-step-i/)
 - **Part 2 - Adding a blog section and deploy it!**
-- **Part 3** - Adding comments
-- **Part 3** - Multi-language support
-- **Part 4** - Adding a personalized domain
-- **Part 5** - Adding stastics
-- **Part 6** - Adding a email inbound section
+- **Part 3** - Adding comments 
+- **Part 4** - Multi-language support
+- **Part 5** - Adding a personalized domain 
+- **Part 6** - Adding stastics
+- **Part 7** - Adding a email inbound section
 
 In this part, you will need:
 
