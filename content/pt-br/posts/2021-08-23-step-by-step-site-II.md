@@ -79,6 +79,9 @@ Agora se nós checarmos o nosso site de novo, podemos ver que apareceu um menu n
 
 {{<figure src="/assets/img/posts/step-by-step/02-02.png#center" alt="Uma captura de tela de uma tela em branco om a data, Agosto 14 2021 e um grande titulo escrito My First Post. Na lateral esquerda tem a palavra blog que é um link de menu que redireciona para a listagem de textos.">}}
 
+*🚨 Atenção: Você precisa muder de `draft: true` para `draft: false` ou a listagem não vai funcionar porque o sistema não vai ter nenhum artigo publicado (que não seja rascunho).* 
+
+
 
 ## Entendendo como a pasta content/ funciona
 
@@ -129,6 +132,22 @@ Legal, não? Mas esse nome não é muito bonito. Você pode clicar em *Site Sett
 No menu superior, você pode clicar na aba *Deploys*. Nessa seção você pode ver a listagem de publicações e o status delas. Toda vez que você mandar um commit pro repositório remoto, ele vai aparecer aqui e gerar um deploy novo. Você também pode iniciar uma publicação manualmente se você quiser!
 
 {{<figure src="/assets/img/posts/step-by-step/02-06.png#center" alt="Uma captura de tela do sistema da Netlify mostrando o status dos últimos deploys onde tem apenas um deploy. Nele tem um cartão verde mostrando que o site foi publicado com sucesso e ao lado direito a data da publicação. ">}}
+
+
+## Pera... onde estão as imagens?
+
+Se você abrir o seu site você vai ver que o ícone do Twitter não está aparecendo. Se você inspecionar o site você vai ver que o SVG está sendo obtido de `https://example.org/svg/twitter.svg`. Isso não está nada certo!
+
+{{<figure src="/assets/img/posts/step-by-step/02-07.png#center" alt="A screenshot from the website with the inspector open and selecting an empty image with the url https://example.org/svg/twitter.svg">}}
+
+Agora que o seu site já tem uma URL do netlify precisavmos mudar a configuração do baseURL no seu arquivo de configuração config.toml:
+
+```
+baseURL = "https://leportella-hugo-tutorial.netlify.app"
+```
+
+Uma vez que você faça o commit disso, o deploy será acionado e tudo funcionará :)  
+
 
 ## Próximos passos
 

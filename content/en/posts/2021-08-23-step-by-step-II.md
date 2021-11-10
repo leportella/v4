@@ -62,6 +62,9 @@ If we go back to the website, there is no way of finding this blog post! We stil
 
 {{<figure src="/assets/img/posts/step-by-step/02-01.png#center" lt="A screenshot of a blank screen with the date, August 14 2021, and a big title written My First Post">}}
 
+
+*🚨 Attention: You need to change the `draft: true` to `draft: false` or the listing page won't work because there will be no post to be listed.* 
+
 ## Let's add a menu!
 
 We need to have a way to access the list of blog posts. We can do that by adding a menu area in the `config.toml` file, like the following: 
@@ -128,6 +131,22 @@ This is nice but not quite an ideal name, right? You can click on *Site Settings
 On Netlify's menu, you can click on the tab *Deploys*. You can see the list of past deploys and the status of them. Everytime you push a commit to the repository, it will appear here and trigger a deploy. You can also trigger a deploy manually if you wish to do so :) 
 
 {{<figure src="/assets/img/posts/step-by-step/02-06.png#center" alt="A screenshot from the Netlify account showing a list of the latest deploys showing a badge saying that the last deploy was published and on the right side there is the date written Today at 7 23 PM">}}
+
+## Wait... where are the images?
+
+If you open your website now you will see that the Twitter icon you were seeing on the local environment is not working anymore. If you inspect the website, you'll see that the url for the SVG image is actually `https://example.org/svg/twitter.svg`. That doesn't sound right!
+
+{{<figure src="/assets/img/posts/step-by-step/02-07.png#center" alt="A screenshot from the website with the inspector open and selecting an empty image with the url https://example.org/svg/twitter.svg">}}
+
+Now that the website has a url, we need to change the baseUrl configuration on the config.toml file:
+
+
+```
+baseURL = "https://leportella-hugo-tutorial.netlify.app"
+```
+
+Now once you commit this, the deploy will be triggered and it will all work out :) 
+
 
 ## Next steps
 
