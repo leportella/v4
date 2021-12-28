@@ -8,29 +8,7 @@ draft: false
 {{< raw >}}
   <h3>Write me!</h3>
   
-  <header>
-    <header>
-      <h4 class="card-title">Send me a message!</h4>
-      <p>I always like to receive messages, so feel free to write me!</p>
-      <p>For companies that might find this page: this is my personal blog and I don't publish content that was not written by me 🤓</p>
-    </header>
-    <form
-        action="https://formspree.io/mwkwplkv"
-        method="POST"
-    >
-      <div class="form-group">
-          <label>Your Name</label>
-          <input type="text" name="name" id="name" class="form-control" name="_replyto">
-      </div>
-      <div class="form-group">
-          <label>Your email</label>
-          <input type="text" class="form-control" name="_replyto">
-      </div>
-      <div class="form-group">
-          <label>Your message</label>
-          <textarea name="message" class="form-control"></textarea>
-      </div>
-      <button type="submit" class="btn btn-dark">Send</button>
-    </form>
+      <h4 class="card-title">Sorry :(</h4>
+<p>I received too many spams, so I removed the form. See you on social networks :) </p>
 
 {{< /raw >}}
