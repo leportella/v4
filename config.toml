@@ -62,9 +62,13 @@ startLevel = 2
         url = "/about"
         weight = 2
     [[languages.en.menu.right]]
+        name = "Buy me a ☕️"
+        url = "https://www.buymeacoffee.com/leportella"
+        weight = 3
+    [[languages.en.menu.right]]
         name = "Categories"
         url = "/categories"
-        weight = 3
+        weight = 4
   [languages.pt-br]
     weight = 2
     contentDir = "content/pt-br"
@@ -102,9 +106,17 @@ startLevel = 2
         url = "/pt-br/about"
         weight = 2
     [[languages.pt-br.menu.right]]
+        name = "Me pague um ☕️"
+        url = "https://www.buymeacoffee.com/leportella"
+        weight = 3
+    [[languages.pt-br.menu.right]]
         name = "Categorias"
         url = "/pt-br/categories"
-        weight = 3
+        weight = 4
+    [[languages.pt-br.menu.right]]
+        name = "🍕"
+        url = "https://pizzadedados.com/"
+        weight = 5
   [languages.es]
     weight = 3
     contentDir = "content/es"
@@ -140,6 +152,10 @@ startLevel = 2
     [[languages.es.menu.right]]
         name = "About"
         url = "/about"
+        weight = 2
+    [[languages.es.menu.right]]
+        name = "Comprame un ☕️"
+        url = "https://www.buymeacoffee.com/leportella"
         weight = 2
     [[languages.es.menu.right]]
         name = "Categories"
