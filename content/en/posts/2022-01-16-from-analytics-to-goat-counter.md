@@ -17,7 +17,7 @@ featured-img: goatcounter
 img-description: A screenshort from GoatCounter webpage saying Easy web analytics and No tracking of personal data
 translationKey: analytics2goatcounter
 slug: analytics2goatcounter
-date: 2022-01-15T00:25:52+01:00
+date: 2022-01-16T17:24:52+00:00
 ---
 
 Last year (2021) [I decided to add GoatCounter as the analytics tool for my blog](https://rgth.co/blog/replacing-google-analytics-with-goatcounter/). There were a couple of reasons why I did it, but the main one is privacy. I am trying to move a bit away from Google, and I wanted something different. 
