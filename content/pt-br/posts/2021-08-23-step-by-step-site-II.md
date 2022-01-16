@@ -18,7 +18,7 @@ date: 2021-08-28T00:25:52+01:00
 
 Este é o segundo post sobre como criar seu site passo a passo!
 
-<!-- more -->
+<!--more-->
 
 
 ### **Table of content for the whole tutorial**

@@ -17,7 +17,9 @@ slug: obrigada-obrigada-obrigada
 date: 2021-10-18T10:00:52+01:00
 ---
 
-Semana passada aconteceu a 2a edição online da Python Brasil. Um evento inclusivo, com intérprete de libras, ingresso gratuito, código de conduta e muito mais. Ao final do evento é tradição a entrega do prêmio Dornelles Treméa|Jean Ferri. [No site oficial do Python no Brasil existe uma longa explicação sobre o prêmio](https://python.org.br/premio-dorneles-tremea-jean-ferri/), cujo o resumo é:
+Semana passada aconteceu a 2a edição online da Python Brasil. Um evento inclusivo, com intérprete de libras, ingresso gratuito, código de conduta e muito mais.
+<!--more-->
+ Ao final do evento é tradição a entrega do prêmio Dornelles Treméa|Jean Ferri. [No site oficial do Python no Brasil existe uma longa explicação sobre o prêmio](https://python.org.br/premio-dorneles-tremea-jean-ferri/), cujo o resumo é:
 
 - *O Prêmio Dorneles Treméa/Jean Ferri é concedido ao membro, ou membros, da comunidade Python brasileira que mantém vivo o espírito de colaboração, empreendedorismo e entrega à comunidade.*
 

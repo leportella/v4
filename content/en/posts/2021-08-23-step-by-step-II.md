@@ -18,7 +18,7 @@ date: 2021-08-28T00:25:52+01:00
 
 This is the second post on how to create your website step by step! 
 
-<!-- more -->
+<!--more-->
 
 ### **Table of content for the whole tutorial**
 

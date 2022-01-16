@@ -20,7 +20,7 @@ date: 2021-08-21T00:25:52+01:00
 I've written over and over about [why you should have a blog and write on it](https://leportella.com/why-have-a-blog.html/). I made this website using nothing but free tools. The only thing I paid was my domain (leportella.com) and I find this super cool! 🤩
 
 When I created my website I realied on a lot of different tutorials, one for each part of it. Because the process of creating it can be quite tricky, I decided to create a full, step-by-step tutorial. 
-<!-- more -->
+<!--more-->
 
 Here are some of the things that we are going to work on :
 

@@ -20,7 +20,7 @@ Eu escrevi muitos posts falando sobre como eu acredito que [você deveria ter um
 
 Quando eu estava desenvolvendo esse site, eu tive que usar múltiplos tutoriais, um para cada parte. Esse processo pode ser bem complicado, então eu decidi criar esse tutorial, passo-a-passo do começo ao fim!
 
-<!-- more -->
+<!--more-->
 
 Nesse tutorial vamos abordar os seguintes tópicos:
 
