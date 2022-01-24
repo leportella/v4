@@ -27,9 +27,9 @@ A palestra de abertura foi dada por um palestrante motivacional. Foi uma mistura
 
 Só depois de revisitar essa palestra (na minha cabeça) é que pude lidar com o fato de estar cercada de pessoas melhores. Eu olhei dentro de mim e comecei a entender o que era único em mim. Talvez eu não tivesse esse ou aquele conhecimento técnico profundo. Talvez eu não seja a gênia que pode resolver certos tipos de problemas em um piscar de olhos. Mas eu trago algo para a mesa. Algo que ninguém mais traz. Principalmente agora que mudei de carreira e tenho uma maneira diferente de ver o mundo (que tem seus grandes prós), mesmo que na maioria das vezes meus conhecimentos anteriores pareçam inúteis.
 
-Então, quando um amigo me perguntou, quando estávamos trabalhando juntos: “Você era tão competitivo. Como você pode viver cercada por essas pessoas que são tão melhor do que você? ”, Minha resposta foi: “Eu não sou a melhor. Só sei onde sou única”.
+Então, quando um amigo me perguntou, quando estávamos trabalhando juntos: “Você era tão competitiva. Como você pode viver cercada por essas pessoas que são tão melhores que você? ”, Minha resposta foi: “Eu não sou a melhor. Só sei onde sou única”.
 
-Não é sempre que eu penso nesta frase, mas quando o faço, fico mais feliz comigo mesma e menos sujeita a pensar que sou uma fraude.
+Não é sempre que eu penso nesta frase, mas quando eu me lembro dela, fico mais feliz comigo mesma e menos sujeita a pensar que sou uma fraude.
 
 --
 
