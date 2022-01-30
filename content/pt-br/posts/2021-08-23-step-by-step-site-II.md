@@ -21,11 +21,11 @@ Este é o segundo post sobre como criar seu site passo a passo!
 <!--more-->
 
 
-### **Table of content for the whole tutorial**
+### **Tabela de conteúdo**
 
 - **Part 1** - [Mínimo exemplo](https://leportella.com/pt-br/blog-passo-a-passo-i/)
 - **Part 2 - Adicionando uma seção de blog e publicando!**
-- **Part 3** - Adicionando comentários
+- **Part 3** - [Adicionando comentários](https://leportella.com/pt-br/blog-passo-a-passo-iii/)
 - **Part 4** - Suporte à múltiplas línguas
 - **Part 5** - Adicionando um domínio personalizado
 - **Part 6** - Adicionando estatísticas

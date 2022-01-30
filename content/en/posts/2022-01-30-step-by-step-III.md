@@ -68,7 +68,7 @@ Now Disqus will offer you tons of paid features. I selected the Basic one that i
 
 {{<figure src="/assets/img/posts/step-by-step/03-06.png#center" lt="">}}
 
-On the next step, Disqus will ask you which platform you'll use it. Unfortunately, Hugo is not listed as one of the options. It's fine! You can select Jekyll, which is a similar tool. Hugo and Jekyll are fairly similar. You will have a screen on how to install it, but you can click on *Configure* and move on to the next screen.
+On the next step, Disqus will ask you which platform you'll use it. Unfortunately, Hugo is not listed as one of the options. It's fine! You can select Jekyll, which is a similar tool. You will have a screen on how to install it, but you can click on *Configure* and move on to the next screen.
 
 ## Step 3: More configuration
 
@@ -82,7 +82,7 @@ Finally you can decide how strict will the moderation be. You can edit and chang
 
 ## Step 6: Add it to your website
 
-Now we can go back to the `config.toml` file and add the following line:
+Now we can go back to the `config.toml` file and add the following line (using the unique ID you defined in step 1):
 
 ```bash
 disqusShortname = "my-multilanguage-blog"
