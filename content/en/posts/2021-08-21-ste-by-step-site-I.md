@@ -35,8 +35,8 @@ Here are some of the things that we are going to work on :
 The tutorial is going to be divided into a couple of parts:
 
 - **Part 1 - Minimum working example**
-- **Part 2** - [Adding a blog section and deploy it!](https://leportella.com/pt-br/blog-passo-a-passo-ii/)
-- **Part 3** - Adding comments 
+- **Part 2** - [Adding a blog section and deploy it!](https://leportella.com/blog-step-by-step-ii)
+- **Part 3** - [Adding comments](https://leportella.com/blog-step-by-step-iii)
 - **Part 4** - Multi-language support
 - **Part 5** - Adding a personalized domain 
 - **Part 6** - Adding stastics

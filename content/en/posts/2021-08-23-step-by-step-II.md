@@ -20,11 +20,11 @@ This is the second post on how to create your website step by step!
 
 <!--more-->
 
-### **Table of content for the whole tutorial**
+ **Table of content for the whole tutorial**
 
 - **Part 1** - [Minimum working example](https://leportella.com/blog-step-by-step-i/)
 - **Part 2 - Adding a blog section and deploy it!**
-- **Part 3** - Adding comments 
+- **Part 3** - [Adding comments](https://leportella.com/blog-step-by-step-iii)
 - **Part 4** - Multi-language support
 - **Part 5** - Adding a personalized domain 
 - **Part 6** - Adding stastics
