@@ -35,7 +35,7 @@ Nesse tutorial vamos abordar os seguintes tópicos:
 Esse tutorial vai ser dividido em algumas partes:
 
 - **Part 1 - Mínimo exemplo** 
-- **Part 2** - [Adicionando uma seção de blog e publicando!](https://leportella.com/pt-br/blog-passo-a-passo-i/)
+- **Part 2** - [Adicionando uma seção de blog e publicando!](https://leportella.com/pt-br/blog-passo-a-passo-ii/)
 - **Part 3** - Adicionando comentários
 - **Part 4** - Suporte à múltiplas línguas
 - **Part 5** - Adicionando um domínio personalizado
@@ -205,7 +205,7 @@ iconOrder = [
 
 Uma vez que você salvar o arquivo, pode já verificar que o site está mostrando o ícone com o link:
 
-{{<figure src="/assets/img/posts/step-by-step/01-02.jpg#center">}}
+{{<figure src="/assets/img/posts/step-by-step/01-02.png#center">}}
 
 
 Yay! Parabéns! Agora você tem uma landing-page! 
