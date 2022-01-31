@@ -27,7 +27,7 @@ This is the second post on how to create your website step by step!
 - **Part 3** - [Adding comments](https://leportella.com/blog-step-by-step-iii)
 - **Part 4** - Multi-language support
 - **Part 5** - Adding a personalized domain 
-- **Part 6** - Adding stastics
+- **Part 6** - Adding statistics
 - **Part 7** - Adding a email inbound section
 
 In this part, you will need:
