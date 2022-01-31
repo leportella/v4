@@ -39,7 +39,7 @@ The tutorial is going to be divided into a couple of parts:
 - **Part 3** - [Adding comments](https://leportella.com/blog-step-by-step-iii)
 - **Part 4** - Multi-language support
 - **Part 5** - Adding a personalized domain 
-- **Part 6** - Adding stastics
+- **Part 6** - Adding statistics
 - **Part 7** - Adding a email inbound section
 
 For a full-working website, you'll only need part 1 and 2. All other are additional things that you can add or skip as you'll like. 
