@@ -27,10 +27,10 @@ This is the third post on how to create your website step by step! In this post,
 - [Part 1 - Minimum working example](https://leportella.com/blog-step-by-step-i/)
 - [Part 2 - Adding a blog section and deploy it!](https://leportella.com/blog-step-by-step-ii/)
 - **Part 3 - Adding comments**
-- **Part 4** - Multi-language support
-- **Part 5** - Adding a personalized domain
-- **Part 6** - Adding statistics
-- **Part 7** - Adding a email inbound section
+- [Part 4 - Multi-language support](https://leportella.com/blog-step-by-step-iv)
+- Part 5 - Adding a personalized domain
+- Part 6 - Adding stastics
+- Part 7 - Adding a email inbound section
 
 ## Comments by default!
 

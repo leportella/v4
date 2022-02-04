@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tutorial passo a passo para criar e publicar seu blog bilíngue - Parte 2"
+title: "Tutorial passo a passo para criar e publicar seu blog bilíngue - Parte 3"
 categories:
   - open-source
   - blog
@@ -20,15 +20,15 @@ Este é o terceiro texto sobre como criar seu site passo a passo! Neste texto, e
 
 <!--more-->
 
-### **Tabela de conteúdo**
+**Tabela de conteúdo**
 
-- **Part 1** - [Mínimo exemplo](https://leportella.com/pt-br/blog-passo-a-passo-i/)
-- **Part 2** - [Adicionando uma seção de blog e publicando!](https://leportella.com/pt-br/blog-passo-a-passo-ii/)
+- [Part 1 - Mínimo exemplo](https://leportella.com/pt-br/blog-passo-a-passo-i/)
+- [Part 2 - Adicionando uma seção de blog e publicando!](https://leportella.com/pt-br/blog-passo-a-passo-ii/)
 - **Part 3 - Adicionando comentários**
-- **Part 4** - Suporte à múltiplas línguas
-- **Part 5** - Adicionando um domínio personalizado
-- **Part 6** - Adicionando estatísticas
-- **Part 7** - Adicionando um formulário para emails
+- [Part 4 - Suporte à múltiplas línguas](https://leportella.com/pt-br/blog-passo-a-passo-iv/)
+- Part 5 - Adicionando um domínio personalizado
+- Part 6 - Adicionando estatísticas
+- Part 7 - Adicionando um formulário para emails
 
 ## Comentários vindo de fábrica!
 

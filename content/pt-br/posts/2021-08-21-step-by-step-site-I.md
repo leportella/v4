@@ -35,12 +35,12 @@ Nesse tutorial vamos abordar os seguintes tópicos:
 Esse tutorial vai ser dividido em algumas partes:
 
 - **Part 1 - Mínimo exemplo** 
-- **Part 2** - [Adicionando uma seção de blog e publicando!](https://leportella.com/pt-br/blog-passo-a-passo-ii/)
-- **Part 3** - [Adicionando comentários](https://leportella.com/pt-br/blog-passo-a-passo-iii/)
-- **Part 4** - Suporte à múltiplas línguas
-- **Part 5** - Adicionando um domínio personalizado
-- **Part 6** - Adicionando estatísticas
-- **Part 7** - Adicionando um formulário para emails
+- [Part 2 - Adicionando uma seção de blog e publicando!](https://leportella.com/pt-br/blog-passo-a-passo-ii/)
+- [Part 3 - Adicionando comentários](https://leportella.com/pt-br/blog-passo-a-passo-iii/)
+- [Part 4 - Suporte à múltiplas línguas](https://leportella.com/pt-br/blog-passo-a-passo-iv/)
+- Part 5 - Adicionando um domínio personalizado
+- Part 6 - Adicionando estatísticas
+- Part 7 - Adicionando um formulário para emails
 
 Para ter um website publicado, você só vai precisar seguir as partes 1 e 2. Todas as outras partes são opcionais e você pode segui-las ou não conforme preferir.
 

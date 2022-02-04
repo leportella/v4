@@ -21,15 +21,15 @@ Este é o segundo post sobre como criar seu site passo a passo!
 <!--more-->
 
 
-### **Tabela de conteúdo**
+**Tabela de conteúdo**
 
-- **Part 1** - [Mínimo exemplo](https://leportella.com/pt-br/blog-passo-a-passo-i/)
+- [Part 1 - Mínimo exemplo](https://leportella.com/pt-br/blog-passo-a-passo-i/)
 - **Part 2 - Adicionando uma seção de blog e publicando!**
-- **Part 3** - [Adicionando comentários](https://leportella.com/pt-br/blog-passo-a-passo-iii/)
-- **Part 4** - Suporte à múltiplas línguas
-- **Part 5** - Adicionando um domínio personalizado
-- **Part 6** - Adicionando estatísticas
-- **Part 7** - Adicionando um formulário para emails
+- [Part 3 - Adicionando comentários](https://leportella.com/pt-br/blog-passo-a-passo-iii/)
+- [Part 4 - Suporte à múltiplas línguas](https://leportella.com/pt-br/blog-passo-a-passo-iv/)
+- Part 5 - Adicionando um domínio personalizado
+- Part 6 - Adicionando estatísticas
+- Part 7 - Adicionando um formulário para emails
 
 Nesta parte você vai precisar: 
 
