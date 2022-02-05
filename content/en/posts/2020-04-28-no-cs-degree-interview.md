@@ -16,6 +16,7 @@ tags:
   - self-taugh engineer
   - self-learning
 featured-img: microphone
+translationKey: nocsdegree
 img-description: A photo of a microphone with a retro-style and a faded background
 slug: nocsdegree.html
 date: 2020-06-24T18:25:52-05:00
