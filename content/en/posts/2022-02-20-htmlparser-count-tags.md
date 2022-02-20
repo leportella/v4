@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Counting tags with HTMLParser"
+title: "Counting HTML tags with HTMLParser"
 categories:
   - Python
   - tutorial
