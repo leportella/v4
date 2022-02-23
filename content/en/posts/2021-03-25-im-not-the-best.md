@@ -23,7 +23,7 @@ You see, when I was in college, I was part of this organisation called Junior En
 
 The opening keynote was given by a motivational speaker. It was a mix of magic-business-concert talk, so you can imagine how that went 🙄. At the time I didn't pay much attention, specially given the level of the other talks happening throughout the event. However, 10 years later (omg 🤯) that was the talk that stuck with me, because of one simple phrase:
 
-> *Don't try to be the best: there will always be someone better than you. Be unique so you are truly irreplaceable.i*
+> *Don't try to be the best: there will always be someone better than you. Be unique so you are truly irreplaceable.*
 
 It was only after I revisited this talk (in my head) and this saying that I was able to handle being surrounded by better people. I looked inside me and started to understand what was unique in me. Maybe I didn't have this or that deep technical knowledge. Maybe I am not the genius that can fix certain kinds of problem at the blink of an eye. But I **do** bring something to the table. Something that  nobody else will have. Specially now that I moved careers and have a different way of seeing the world, that has its huge pros, even if most of the time my previous knowledge my seems unusable. 
 

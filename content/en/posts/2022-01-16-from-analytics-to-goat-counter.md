@@ -26,7 +26,7 @@ Last year (2021) [I decided to add GoatCounter as the analytics tool for my blog
 
 Since I installed GoatCounter, I haven’t removed the tracker from analytics and now I have enough data (6 months) to analyze the differences between both of them, what to expect moving forward and fully remove the Google Analytics counter from my website. 
 
-I analyzed the period between 13 July 2021 to 13 January 2022. All the results for each section is summarized in the last section, for those who want a quick answer. 
+I analyzed the period between 13 July 2021 to 13 January 2022.
 
 # Where are people coming from?
 
@@ -123,4 +123,4 @@ Overall I think GoatCounter was a good tool, and the most important metrics for 
 
 I think the thing I will miss the most is the charts and dashboards, that make visualization more interesting. I can do them myself. But since GoatCounter is open-source I could just go and implement them myself, which is also cool. 
 
-That's it for today so.... bye Google Analytics 😎
+That's it for today. Now that I know what to expect... bye Google Analytics 😎
