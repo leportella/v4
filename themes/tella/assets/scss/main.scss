@@ -100,3 +100,9 @@ td {
 p {
   font-size: 15px;
 }
+
+blockquote {
+    margin-left: 30px;
+    padding-left: 10px;
+    border-left: medium solid $gray-500;
+}
