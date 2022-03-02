@@ -106,3 +106,8 @@ blockquote {
     padding-left: 10px;
     border-left: medium solid $gray-500;
 }
+
+.feature-image {
+    max-height: 500px;
+    width: auto;
+ }

@@ -17,7 +17,6 @@ tags:
   - minted
   - vscode
 featured-img: book
-inside-img: engrenagem
 slug: latex
 translationKey: Latex
 last_mod: 2020-09-15T18:25:52-05:00

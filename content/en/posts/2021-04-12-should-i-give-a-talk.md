@@ -10,7 +10,6 @@ featured-img: talk_conference
 translationKey: should-i-speak
 slug: should-i-speak
 img-description: A black woman wearing glasses and a blazer is on a whiteboard while a blond woman in sitting looking to the whiteboard with a tablet on her hand
-remove-inside-img: true
 date: 2021-04-12T17:14:52-03:00
 ---
 
