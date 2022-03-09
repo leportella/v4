@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pytest-cov reports 100% coverage on an untested Class Based View!"
+title: "Python Coverage reports 100% coverage on an untested Class Based View!"
 categories:
   - Python
   - class based views
@@ -22,9 +22,9 @@ tags:
   - testing framework
 featured-img: pedestre
 img-description: a blackboard with 3 chalk lines
-translationKey: 
-slug: htmlparser-count-tags
-date: 2022-03-15T00:26:52+01:00
+translationKey: coverage-and-cbvs 
+slug: coverage-and-cbvs 
+date: 2022-03-10T00:26:52+01:00
 ---
 
 While trying to check test coverage for a file that had multiple Class Based Views (CBV) everything was returning as coverage but they weren’t! I couldn’t understand why and it took me days until I get to an answer! So I wrote this post to make it more easily accessible 😊 
