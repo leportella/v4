@@ -100,8 +100,6 @@ This got me by surprise! I only tested 1 of the multiple views I had on the file
 
 I opened the file for the specific view, and it showed me that *all* CBVs were being set as covered with the only exception being the code I had overridden in the get method of the `SignupView`:
 
-![Screenshot 2022-03-01 at 23.26.27.png](Pytest-cov%20180ed/Screenshot_2022-03-01_at_23.26.27.png)
-
 {{<figure src="/assets/img/posts/cbv-coverage/02.png#center" lt="A screenshot of almost all code shown before as covered by tests">}}
 
 This took me by surprise! I only tested `HomeView`, why is `LoginInterfaceView`, `LogoutInterfaceView` and `SignupView` being shown as tested as well!?
