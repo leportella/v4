@@ -33,6 +33,10 @@ startLevel = 2
         flag = "🇮🇪"
         similar_posts = "Check posts in similar categories"
         cheers = "Cheers!"
+        book = "My new book is here!"
+        book_text = "It's a book about software development for people that don’t have a background in computer science but want to know more about this world, even if they don’t want to be developers! Available"
+        book_link="https://fdly.li/buy"
+        book_link_text="for pre-sale here"
     [[languages.en.menu.left]]
         name = "Home"
         url = "/"
@@ -81,6 +85,10 @@ startLevel = 2
         flag = "🇧🇷"
         similar_posts = "Textos em categorias semelhantes"
         cheers = "Abraço!"
+        book = "Meu novo livro chegou!"
+        book_text = "É um livro sobre desenvolvimento de software para quem não é da área e quer saber mais sobre esse mundo, mesmo que ela não queira se tornar uma desenvolvedora! Já está disponível"
+        book_link="https://fdly.li/compre"
+        book_link_text="na pré-venda!"
     [[languages.pt-br.menu.left]]
         name = "Início"
         url = "/pt-br"
@@ -129,6 +137,10 @@ startLevel = 2
         flag = "🇪🇸"
         similar_posts = "Textos en categorías similares"
         cheers = "Abrazo!"
+        book = "My new book is here!"
+        book_text = "It's a book about software development for people that don’t have a background in computer science but want to know more about this world, even if they don’t want to be developers. Available"
+        book_link="https://fdly.li/buy"
+        book_link_text="here"
     [[languages.es.menu.left]]
         name = "Home"
         url = "/es"
@@ -165,7 +177,3 @@ startLevel = 2
         name = "Contact"
         url = "/contact"
         weight = 4
-
-
-
-

@@ -5,6 +5,14 @@
       <p class="card-text">{{ .Language.Params.About_Text }}</p>
     </div>
   </div><!-- /.card -->
+
+  <div class="card mb-4">
+    <div class="card-body">
+      <h4 class="card-title">{{ .Language.Params.Book }}</h4>
+<a class="nav-link" href="{{ .Language.Params.Book_Link }}"><img src="/assets/img/book/cover.png" ></a>
+      <p class="card-text">{{ .Language.Params.Book_Text }} <a href="{{ .Language.Params.Book_Link }}">{{ .Language.Params.Book_Link_Text }} :) </a> </p>
+    </div>
+  </div><!-- /.card -->
 </aside>
 
 <aside class="sidebar sidebar-sticky">
