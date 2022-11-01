@@ -87,7 +87,7 @@ startLevel = 2
         cheers = "Abraço!"
         book = "Meu novo livro chegou!"
         book_text = "É um livro sobre desenvolvimento de software para quem não é da área e quer saber mais sobre esse mundo, mesmo que ela não queira se tornar uma desenvolvedora! Já está disponível"
-        book_link="https://fdly.li/compre"
+        book_link="https://fdly.li/venda"
         book_link_text="na pré-venda!"
     [[languages.pt-br.menu.left]]
         name = "Início"
