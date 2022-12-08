@@ -25,9 +25,9 @@ The opening keynote was given by a motivational speaker. It was a mix of magic-b
 
 > *Don't try to be the best: there will always be someone better than you. Be unique so you are truly irreplaceable.*
 
-It was only after I revisited this talk (in my head) and this saying that I was able to handle being surrounded by better people. I looked inside me and started to understand what was unique in me. Maybe I didn't have this or that deep technical knowledge. Maybe I am not the genius that can fix certain kinds of problem at the blink of an eye. But I **do** bring something to the table. Something that  nobody else will have. Specially now that I moved careers and have a different way of seeing the world, that has its huge pros, even if most of the time my previous knowledge my seems unusable. 
+It was only after I revisited this talk (in my head) and this saying that I was able to handle being surrounded by better people. I looked inside me and started to understand what was unique in me. Maybe I didn't have this or that deep technical knowledge. Maybe I am not the genius that can fix certain kinds of problem at the blink of an eye. But I **do** bring something to the table. Something that  nobody else will have. Specially now that I moved careers and have a different way of seeing the world, that has its huge pros, even if most of the time my previous knowledge might seems unusable. 
 
-So when a friend asked me, when we were working together: "You were so competitive. How can you live surrounded by this people that are all better than us?", my answer was: "I am not the best. I just know where I am unique".
+So when a friend asked me: "You were so competitive. How can you live surrounded by these people that are so much better than us?", my answer was: "I am not the best. I just know where I am unique".
 
 It is not always that I come back to this phrase, but when I do, it make me happier with myself and less prone to think I am a fraud.
 
