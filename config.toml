@@ -66,13 +66,17 @@ startLevel = 2
         url = "/about"
         weight = 2
     [[languages.en.menu.right]]
+        name = "Book"
+        url = "/book"
+        weight = 3
+    [[languages.en.menu.right]]
         name = "Buy me a ☕️"
         url = "https://www.buymeacoffee.com/leportella"
-        weight = 3
+        weight = 4
     [[languages.en.menu.right]]
         name = "Categories"
         url = "/categories"
-        weight = 4
+        weight = 5
   [languages.pt-br]
     weight = 2
     contentDir = "content/pt-br"
