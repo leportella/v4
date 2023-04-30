@@ -80,7 +80,8 @@ pre {
 }
 
 table {
-    width: 100%;
+    table-layout:fixed;
+    width:100%;
     text-align: center;
     margin: 0 2em 2em 0;
 }
@@ -94,7 +95,7 @@ td {
     border: solid 1px $gray-200;
     border-left: 0;
     border-right: 0;
-    white-space: nowrap;
+    word-wrap: break-word;
 }
 
 p {
