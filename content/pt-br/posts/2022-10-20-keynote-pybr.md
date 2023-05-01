@@ -16,6 +16,8 @@ tags:
 featured-img: pybr22
 remove-inside-img: true
 slug: keynote-pybr
+translationKey: pybr2022
+
 last_mod: 2022-10-20T18:25:52-05:00
 date: 2022-10-20T18:25:52-05:00
 ---
