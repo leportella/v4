@@ -53,7 +53,7 @@ Opa! Veio a ideia: isso aí eu posso contribuir!
 
 Os grandes projetos normalmente tem um arquivo para indicar como eles incentivam que as contribuições ocorram. No caso do social-app-django, encontrei o guia de contribuição deles:
 
-{{<figure src="/assets/img/posts/contribute.png#center">}}
+{{<figure src="/assets/img/posts/como_contribuir/contribute.png#center">}}
 
 A partir daí eu soube que o primeiro passo é ter uma conta no GitHub (check!), submeter um **issue** falando sobre o problema em si e, se possível, fazer um **fork** do projeto. Vamos por partes.
 
@@ -68,7 +68,7 @@ Seja educado, prestativo e não se irrite se demorar a receber respostas!
 
 No meu caso, eu expliquei que tive problemas, mostrei aonde consegui ajuda e me coloquei disposta a melhorar a documentação.
 
-{{<figure src="/assets/img/posts/contribute2.png#center">}}
+{{<figure src="/assets/img/posts/como_contribuir/contribute2.png#center">}}
 
 [Minha issue aberta no social-app-django](https://github.com/python-social-auth/social-app-django/issues/44) explica o problema, mostra onde encontrei a solução e me digo disposta a ajudar.
 
@@ -92,7 +92,7 @@ Busquei a documentação, li o código e finalmente, consegui fazer dois **pull 
 
 Estava feita a minha contribuição **open-source**.
 
-{{<figure src="/assets/img/posts/contribute3.png#center">}}
+{{<figure src="/assets/img/posts/como_contribuir/contribute3.png#center">}}
 
 Isso pode até parecer simples para algumas pessoas, mas eu acabei demorando algumas horas de desenvolvimento tentando entender e aplicar a autenticação por GitHub. Com sorte, esta minha pequena contribuição poderá ajudar os próximos desenvolvedores a não demorarem tanto tempo. Então quem sabe você que não tem ideia por onde começar a contribuir comece da mesma forma? Teve uma dificuldade usando uma biblioteca? Porque não ajudar alguém a ter uma documentação melhor?
 
