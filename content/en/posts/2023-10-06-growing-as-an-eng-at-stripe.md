@@ -115,3 +115,10 @@ My experience was so valuable that it helped me get some of the skills I needed 
 
 
 Well, this is a *very* short summary of my now 4,5 years at Stripe. I guess thinking about it I could probably write another book just on the things I experienced here! Just happy to still be here, to still be growing and hopefully it won't take me 4 years to write a follow up one :)
+
+
+---
+
+*Special thanks to Kate Apostolou for making these beautiful slides and Paul Crayston, Steffi Hoydich and David Singleton for helping me write this <3*
+
+---
