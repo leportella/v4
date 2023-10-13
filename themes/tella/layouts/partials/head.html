@@ -8,8 +8,18 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@leleportella" />
 <meta name="twitter:creator" content="@leleportella" />
-<meta name="twitter:image" content="{{ if .IsHome }}{{ .Site.BaseURL }}/assets/img/author/lights.jpg?v1{{ else }}{{ .Site.BaseURL }}/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg?v1{{ end }}" />
-
+<meta name="twitter:image" content="{{ if .IsHome }}{{ .Site.BaseURL }}/assets/img/author/lights.jpg{{ else }}{{ .Site.BaseURL }}/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg{{ end }}" />
+<meta property="twitter:description" content="
+{{ if .IsHome }}
+    {{.Site.Params.Description}}
+{{ else if .Param "page-description" }}
+    {{ .Param "page-description" }}
+{{ else if .Summary }}
+    {{.Summary}}
+{{ else }}
+    {{.Title}}
+{{ end }}
+" />
 
 <!-- OG -->
 <meta property="og:title" content="
@@ -19,13 +29,8 @@
     {{ .Title }}
 {{ end }}
 ">
-<meta property="og:image" content="
-{{ if .IsHome }}
-    {{ .Site.BaseURL }}/assets/img/author/lights.jpg
-{{ else }}
-    {{ .Site.BaseURL }}/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg
-{{ end }}
-">
+<meta name="og:image" content="{{ if .IsHome }}{{ .Site.BaseURL }}/assets/img/author/lights.jpg{{ else }}{{ .Site.BaseURL }}/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg{{ end }}" />
+
 <meta property="og:description" content="
 {{ if .IsHome }}
     {{.Site.Params.Description}}
