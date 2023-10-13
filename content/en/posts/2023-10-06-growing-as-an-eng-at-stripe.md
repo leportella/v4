@@ -15,7 +15,7 @@ tags:
   - python
   - book
   - friendly guide to software development
-featured-img: eng_at_stripe
+featured-img: bucharest
 slug: growing-at-stripe
 date: 2023-10-05T18:25:52-05:00
 translationKey: growing-at-stripe
