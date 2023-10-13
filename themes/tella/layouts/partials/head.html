@@ -8,13 +8,7 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@leleportella" />
 <meta name="twitter:creator" content="@leleportella" />
-<meta name="twitter:image" content="
-{{ if .IsHome }}
-    {{ .Site.BaseURL }}/assets/img/author/lights.jpg?v1
-{{ else }}
-    {{ .Site.BaseURL }}/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg?v1
-{{ end }}
-" />
+<meta name="twitter:image" content="{{ if .IsHome }}{{ .Site.BaseURL }}/assets/img/author/lights.jpg?v1{{ else }}{{ .Site.BaseURL }}/assets/img/posts/{{ .Param "featured-img" }}_thumb.jpg?v1{{ end }}" />
 
 
 <!-- OG -->
