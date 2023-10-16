@@ -82,7 +82,7 @@ What I like about Stripe is that we love documentation – a lot. So you have th
 
 As a nerdy person, one of the things I like the most to keep learning is the education budget we have. In our Stripe Tax team we often shared suggestions of books and we had a document with a very long list of books you should read. I used it to attend some conferences as well but books are my passion :)
 
-{{<figure src="/assets/img/posts/eng_at_stripe/4.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/4.jpg#center" lt="A photo of a whiteboard with a bunch of boxes and arrows connecting each other">}}
 
 
 *Sidenote: I REALLY use this! This is just a subset of the books I got with my budget over the years*. I would highly recommend Tanya Reilly ["The Staff Engineer's Path"](https://amzn.to/3F22Xdh).
@@ -93,7 +93,7 @@ We have a very strong engineering community. We have a bunch of internal courses
 
 Beyond the eng-focused communities, I've also been part of the Unidos community for Hispanic and Latin folks. As a Brazilian immigrant, I had to face a lot of challenges when moving to a new country and working in a language that is not my native one. Even small things that I thought would be *normal* in a work environment were quite different (highly recommend "[The culture map](https://erinmeyer.com/books/the-culture-map/)" if you want to understand it better). Finding a community I could share all this was super valuable. It gave me a feeling of belonging as well as helping me connect with different parts of the company.
 
-{{<figure src="/assets/img/posts/eng_at_stripe/5.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/5.jpg#center" lt="A photo of a pile of books">}}
 
 
 ## Changing roles and spreading knowledge
@@ -106,12 +106,12 @@ I just recently moved to the team that is responsible for the infrastructure of 
 
 Finally I just want to share that we have lots of incredible people all across the board. I've the opportunity to work with many many people from different teams, roles and orgs. I learned a lot from all of them!
 
-{{<figure src="/assets/img/posts/eng_at_stripe/6.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/6.jpg#center" lt="A photo with a bunch of people on a balcony over a sunset">}}
 
 
 My experience was so valuable that it helped me get some of the skills I needed to write a technical book about software development for folks that aren't developers but need to understand how software is made. I just launched it last year, so I am really happy that all my learnings are now helping other people outside the company as well.
 
-{{<figure src="/assets/img/posts/eng_at_stripe/7.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/7.jpg#center" lt="A photo of a woman with brown hair holding a book called A friendly guide to software development">}}
 
 
 Well, this is a *very* short summary of my now 4,5 years at Stripe. I guess thinking about it I could probably write another book just on the things I experienced here! Just happy to still be here, to still be growing and hopefully it won't take me 4 years to write a follow up one :)

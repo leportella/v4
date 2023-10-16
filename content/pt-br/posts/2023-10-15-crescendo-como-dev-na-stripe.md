@@ -51,7 +51,7 @@ A Stripe é uma empresa obcecada pela experiência do usuário, então sabíamos
 
 Parece simples, mas como qualquer desenvolvedor sabe, uma experiência de usuário realmente simples esconde uma enorme quantidade de complexidade no sistema. A quantidade de discussões e iterações que tivemos para garantir que essa fosse a melhor maneira possível (naquele momento) foram empolgantes. A Kelly mencionou no blog que tivemos discussões sobre se algum dia precisaríamos de um parâmetro como `boneco_de_gengibre_esta_usando_calca` na API. Parece uma piada, mas nossas discussões *foram a fundo* e tópicos como esse surgiram muitas vezes!
 
-{{<figure src="/assets/img/posts/eng_at_stripe/2.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/2.jpg#center" lt="Uma foto com uma chamada de API pra Stripe">}}
 
 Trabalhando com impostos, eu me sempre vi mais como uma engenheira de produto, o que significa que meu principal trabalho era resolver os problemas dos nossos clientes. Um bom exemplo é que quando estávamos construindo uma nova API e um dos nossos clientes Beta disseram que um webhook tornaria sua vida melhor. Internamente, discutimos quando e como acionaríamos o webhook e se isso era a coisa certa para todos os clientes que quisessem usar essa API. Perguntas como "poderíamos melhorar a experiência de uma maneira que eles nem precisassem desse webhook?" eram coisas que constantemente nos perguntávamos. Depois de adicionar o webhook, nunca mais precisei me preocupar se o webhook seria entregue, quando ou como. Eu apenas sabia que seria. Meu trabalho era garantir que estávamos ajudando nossos clientes a terem as melhores funcionalidades o mais rápido possível.
 
@@ -65,37 +65,37 @@ Eu liderei a primeira iteração sobre como faríamos o Stripe Tax funcionar com
 
 Eu tive a sorte de trabalhar em um produto incrível. Trabalhei em muitos projetos desafiadores com um grupo de pessoas que admiro profundamente. Mas eu também queria contar para vocês que houve muitas outras maneiras de continuar aprendendo além desses projetos.
 
-### Logs de atrito
+## Logs de atrito
 
 À medida que você adquire conhecimento especializado, é fácil cair na armadilha de construir um produto que não é acessível *a menos que* as pessoas sejam especialistas. Para evitar isso e garantir que o Stripe Tax sempre tivesse a melhor experiência do usuário, pelo menos uma vez por semestre realizamos sessões de *Logs de atrito*, onde todos os membros da equipe, sejam recém-chegados ou não, tentam usar nosso produto do zero, tentando pensar como um cliente pensaria. Fazemos anotações sobre quais partes foram difíceis, quais documentações podem ser aprimoradas e quais partes do sistema não faziam sentido e precisavam ser melhoradas. Além de gerar uma lista de coisas que podemos melhorar, esse exercício também nos ajuda a não criar um produto apenas para nós, que falamos sobre impostos todos os dias. Tem sido uma ótima maneira de desenvolver essa mentalidade de *usuários em primeiro lugar* e nunca perder o foco em quem realmente importa em tudo isso.
 
-### Revisões de API
+## Revisões de API
 
 Temos um processo para projetar novas APIs e adicionar melhorias às APIs existentes. Posso propor um design e iterar com desenvolvedores mais experientes para aprender as melhores práticas de design de API, e temos um grupo que garante que nossas APIs sejam consistentes em todos os aspectos. Isso é especialmente útil, pois, no meu dia a dia, posso não saber sobre uma nova API sendo desenvolvida por uma equipe distante que possui um padrão útil para eu seguir.
 
 Mais recentemente, comecei a estudar e me aprofundar como Avaliadora de API, onde tive a oportunidade de aprender esses designs com mais profundidade e aprender com várias APIs sendo desenvolvidas em toda a Stripe. Fico feliz em compartilhar que acabei de me "formar" como avaliadora e agora faço parte do grupo que está ajudando a Stripe a ter APIs de alta qualidade que todos conhecemos e amamos.
 
-### Aprendendo com outras equipes
+## Aprendendo com outras equipes
 
 O que gosto na Stripe é que amamos documentação - e muito. Portanto, você tem a oportunidade de aprender com outras equipes e projetos que lhe interessam, mesmo que você nunca trabalhe neles. Há muito o que podemos aprender uns com os outros, então gosto de observar a documentação aleatória e aprender com a experiência de outras pessoas.
 
-### Orçamento para educação
+## Orçamento para educação
 
 Como uma pessoa nerd, uma das coisas que mais gosto para continuar aprendendo é o orçamento para educação que temos. Em nossa equipe do Stripe Tax, frequentemente compartilhamos sugestões de livros e tínhamos um documento com uma lista muito longa de livros que você deveria ler.
 
-{{<figure src="/assets/img/posts/eng_at_stripe/4.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/4.jpg#center" lt="Uma foto de um quadro branco cheio de caixas e flechas ligando uma caixa a outra">}}
 
 *Observação: eu REALMENTE uso isso! Esta é apenas uma parte dos livros que adquiri com meu orçamento ao longo dos anos*. Eu recomendaria muito o livro "The Staff Engineer's Path" de Tanya Reilly.
 
-### Comunidades
+## Comunidades
 
 Temos uma comunidade de engenharia muito forte. Temos vários cursos internos, palestras técnicas e apresentações de projetos que você pode acompanhar para aprender com outras equipes e pessoas. Em particular, gosto do trabalho que estamos fazendo em Dublin, para garantir que os engenheiros tenham uma rede de apoio para se apoiar.
 
 Além das comunidades focadas em engenharia, também faço parte da comunidade Unidos para hispânicos e latinos. Como imigrante brasileira, tive que enfrentar muitos desafios ao me mudar para um país novo e trabalhar em um idioma que não é o meu nativo. Até pequenas coisas que eu achava que seriam *normais* em um ambiente de trabalho eram bastante diferentes (recomendo muito "[The culture map](https://erinmeyer.com/books/the-culture-map/)" se você quiser entender melhor). Encontrar uma comunidade com a qual eu pudesse compartilhar tudo isso foi super valioso. Isso me deu uma sensação de pertencimento e também me ajudou a me conectar com diferentes partes da empresa.
 
-{{<figure src="/assets/img/posts/eng_at_stripe/5.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/5.jpg#center" lt="Uma foto de uma pilha de livros">}}
 
-### Mudando de funções e compartilhando conhecimento
+## Mudando de funções e compartilhando conhecimento
 
 A Stripe incentiva os engenheiros a aplicarem o que aprenderam, a desenvolver mais habilidades e a compartilhar conhecimento de forma ampla dentro da empresa. Temos um quadro de empregos interno onde você pode verificar as oportunidades disponíveis em toda a empresa e é incentivado a mudar de função se estiver em seu cargo por mais de um período. Essa é uma das razões pelas quais, após 4 anos trabalhando com o Stripe Tax e uma engenharia mais focada em produtos, decidi me mudar para um desafio diferente.
 
@@ -105,14 +105,13 @@ Recentemente, mudei para a equipe responsável pela infraestrutura de nossas API
 
 Por fim, gostaria de compartilhar que temos muitas pessoas incríveis em toda a empresa. Tive a oportunidade de trabalhar com muitas pessoas de diferentes equipes, funções e organizações. Aprendi muito com todas elas!
 
-{{<figure src="/assets/img/posts/eng_at_stripe/6.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/6.jpg#center" lt="Uma foto de várias pessoas em uma varanda com um pôr do sol no fundo">}}
 
 
 Minha experiência foi tão incrível que me ajudou com muitas das habilidades que eu precisei pra escrever um livro técnico sobre desenvolvimento de software para pessoas que não são desenvolvedores mas que precisam entender como software é feito. Eu lancei ele no ano passado e estou muito feliz que todos os meus aprendizados agora ajudam pessoas em outras empresas também. 
 
-{{<figure src="/assets/img/posts/eng_at_stripe/7.jpg#center" lt="">}}
+{{<figure src="/assets/img/posts/eng_at_stripe/7.jpg#center" lt="Uma foto de uma mulher de cabelos castanho segurando um livro chamado A friendly guide to software development">}}
 
-
-—
+--- 
 
 Enfim, esse foi um resumo *bem resumido* dos meus últimos 4 anos e meio na Stripe. Enquanto penso sobre esse tempo eu percebo que daria um outro livro inteiro com o tanto de coisas que aconteceram! Eu só estou feliz que continuo aqui e crescendo. E espero que não demore 4 anos pra eu escrever um outro post sobre a Stripe!
