@@ -27,5 +27,7 @@ Yeah… this is me! Well, parts of me at least. Hope this answered some of the q
 
 As you've seen, it has been a crazy journey that I never saw coming! But now that's here, I am happy beyond I could ever imagine. 
 
+If you want, contact me at `contact @ leportella . com`
 
-{{< figure src="/assets/img/lights.jpg#center" width="200px">}}
+
+{{< figure src="/assets/img/author/lights.jpg#center" width="200px">}}
