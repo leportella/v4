@@ -2,7 +2,7 @@
 layout: post
 title: "O que ver em Florianópolis"
 slug: floripa
-date: 2023-11-08T14:25:52-05:00
+date: 2023-11-07T14:25:52-05:00
 ---
 
 
