@@ -120,4 +120,3 @@ Think about going to the countryside. There is a ton of beautiful landscapes lik
 - [Grogans](https://goo.gl/maps/49TyayemjL86gBq3A)
 - [Hairy Lemon](https://maps.app.goo.gl/MFUvN5wC6zkyKAF88)
 - [Mulligans](https://maps.app.goo.gl/VNKuUzAEJnrKuRao6)
-- 
