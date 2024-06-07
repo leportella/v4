@@ -2,7 +2,7 @@
 layout: post
 title: "Dublin tourist guide 2024"
 slug: dublin-2022
-date: 2024-06-18T14:25:52-05:00
+date: 2024-06-05T14:25:52-05:00
 ---
 
 ## City Center
