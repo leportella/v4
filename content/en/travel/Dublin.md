@@ -105,7 +105,12 @@ Think about going to the countryside. There is a ton of beautiful landscapes lik
 ## Some tips
 
 - Butler's chocolate is delicious! I particularly like the ones with Gin or Irish cream
-- There isn't Uber, so you can use either Bolt or Free Now apps for taxis
+- Irish people are incredibly friendly and welcoming. Make sure you experience the local culture.
+- Dublin is very walkable. Bring comfy shoes and a rain jacket to make sure you can enjoy most of the city! 
+- There isn't Uber but Uber will work just fine. It will just call you a taxi!
+- I don't ever remember not using credit card/Apple Pay for everything. I don't remember last time I had cash on me!
+- Traffic can get crazy. If you are going to the airport during peak hours, make sure to leave enough time for it
+- You can buy a public transport card for 5 euro. Then you just add money and start using it. You will pay --at most-- 2 euro per 90 min of public transportation. If you used it once, you can use any public transportation (LUAS, Bus, Train) for 90 mins with no extra charge. In LUAS and Train make sureyou tap twice always! 
 - All National Museums are free of charge, so if you like Viking history I recommend going to the [Archaeology](https://goo.gl/maps/e1WK6wKqK8bN84J8A) museum
 
 ## Some Pubs I like
