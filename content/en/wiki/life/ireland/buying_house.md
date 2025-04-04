@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buying a house in Dubling"
+title: "Buying a house in Dublin"
 slug: buying-house-ie
 page-description: Everything I know about buying a house in Dublin
 date: 2025-04-04T14:25:52-05:00
@@ -30,7 +30,7 @@ Last update: Apr 2025
         - In some cases you can get up to 5x. Check with bank/broker to see how could you apply
         - To extend the multiplication factor I believe having a savings account that you consistently add money (and not use it) really helps
     - Lots of people go to a broker. We did everything directly with AIB because it was the cheapest rates. They were *very* annoying (lots of documents) but it worked out for us. If you want simplicity get a broker.
-        - For instance, because we weren't in Ireland for 3 years they demanded a credit check from Brazil. We had to pay Serasa Premium because the free report wasn't enough.
+        - For instance, because we weren't in Ireland for 3 years they demanded a credit check from Brazil. We had to pay Serasa Premium because the free report wasn't enough. Other people said the free report translated by Google Translate worked just fine.
 - House viewing
     - Check below
 - Sale Agreed
@@ -45,7 +45,6 @@ Last update: Apr 2025
     - You don't need to wait sale agreed to start submitting documents to the bank (AIB)
     - When we went sale agreed we already have ~50% of documents accepted
     - If you are under 3y in Ireland AIB asked for proof you don't have debts in other countries
-        - AIB couldn't tell us exactly what we needed for this. We offered a print of Serasa dashboard but they didn’t accept it. They accepted the Serasa Premium Report.
         - Don't forget to cancel the Serasa Premium. You have to do it via email.
 - Final
     - On the final day, you check the property one last time before giving the go-ahead for your solicitor to transfer the money. This is quite nerve wrecking because it is the last time you can back out and only loose the 10k.
