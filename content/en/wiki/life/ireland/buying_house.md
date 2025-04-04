@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Buying a house in Dublin"
-slug: buying-house-ie
-page-description: Everything I know about buying a house in Dublin
+title: "What I know about buying a house in Dublin"
+slug: buying-house
 date: 2025-04-04T14:25:52-05:00
 ---
 
