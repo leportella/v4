@@ -125,4 +125,4 @@ O método `get` que eu substituí não é executado enquanto os testes são exec
 
 Eu continuo adorando as *Class Based Views*, mas você deve ter cuidado ao usar a biblioteca `coverage` para verificar se você as testou o suficiente!
 
-{{<figure src="[https://media3.giphy.com/media/l4FGyRwwFPBFQt4cg/giphy.gif?cid=ecf05e47rg5zmu35kfsimam8i1s98ohoxujshkq2bwq743fy&rid=giphy.gif&ct=g#center](https://media3.giphy.com/media/l4FGyRwwFPBFQt4cg/giphy.gif?cid=ecf05e47rg5zmu35kfsimam8i1s98ohoxujshkq2bwq743fy&rid=giphy.gif&ct=g#center)" lt="Um gif de um touro em desenho animado no meio de um quarto cheio de porcelana e itens delicados">}}
+{{<figure src="https://media3.giphy.com/media/l4FGyRwwFPBFQt4cg/giphy.gif?cid=ecf05e47rg5zmu35kfsimam8i1s98ohoxujshkq2bwq743fy&rid=giphy.gif&ct=g#center" lt="Um gif de um touro em desenho animado no meio de um quarto cheio de porcelana e itens delicados">}}

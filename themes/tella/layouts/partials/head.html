@@ -87,5 +87,5 @@
 
 <!--end-->
 
-{{ $style := resources.Get "scss/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+{{ $style := resources.Get "scss/main.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
 <link href="{{ $style.RelPermalink }}" rel="stylesheet">

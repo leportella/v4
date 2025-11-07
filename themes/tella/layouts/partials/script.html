@@ -2,7 +2,7 @@
 <script src="{{ $js.RelPermalink }}"></script>
 
 
-{{ if eq .Site.IsServer false }}
+{{ if eq hugo.Environment "development" }}
   <!--Goat counter-->
   <script data-goatcounter="https://stats.leportella.com/count" async src="//stats.leportella.com/count.js"></script>
 {{ end }}
