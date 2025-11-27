@@ -5,7 +5,10 @@ slug: cork
 date: 2025-11-27T14:25:52-05:00
 ---
 
-**Caveat**: we did all this in a small break from the lockdown, so we didn't go to closed spaces and a lot of things were still in recovery. Things may differ. We also did everything with public transportation, so we were limited in the options we had for the trip.
+This post has a small caveat... we did all this in a small break from the lockdown, so we didn't go to closed spaces and a lot of things were still in recovery. Things may differ. We also did everything with public transportation, so we were limited in the options we had for the trip. However, this is totally a trip that can be done by public transportation only :) 
+
+<!--more-->
+
 
 ## Day 1 - Dublin to Cork and Cork City
 
