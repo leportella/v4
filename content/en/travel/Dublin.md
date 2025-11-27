@@ -5,6 +5,9 @@ slug: dublin-2022
 date: 2024-06-05T14:25:52-05:00
 ---
 
+Welcome to Dublin :) 
+<!--more-->
+
 ## City Center
 
 - Start on [Trinity University](https://g.page/TheBookofKells?share) and if you have time go in and see the Old Library and Books of Keels
