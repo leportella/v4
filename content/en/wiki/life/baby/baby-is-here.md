@@ -21,7 +21,12 @@ date: 2025-10-07T14:25:52-05:00
 - If something is more urgent, there are children hospitals all around. In the north side I think the closest is [Temple Street](https://www.childrenshealthireland.ie/your-hospital-visit/our-locations/temple/)
 - The book “When your child is sick” is really helpful in knowing when you need to ask for help
 
-## Baby development
+## [Ireland] Baby development classes
 
 - I went to the Baby Sensory classes and they are a must-go. Absolutely amazing, and they are for all ages up to 13 months.
 - I tried swimming by Water Babies and Turtle Tots. I much more preferred the first, very focused in getting the kid secure in the water. The second is not bad, but I thought it was too slow (and the place I went the water was waaaaay too cold)
+
+## Products I liked 
+
+* I got a necklace from necklactic that is a necklace and a baby chewer! Highly recommended
+* [Ireland] For portuguese books, Leiturinha doesn't reach us directly but you can get them via [Kids Bilíngua](https://kidsbilingue.com) and I also recently discovered [Livros For Kids](https://www.instagram.com/livrosforkidsirlanda/) 
